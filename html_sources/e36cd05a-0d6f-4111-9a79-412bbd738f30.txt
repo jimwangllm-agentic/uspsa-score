@@ -1,0 +1,379 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Thunder Tactical Shooters USPSA Match 13DEC2025 USPSA 2025-12-13
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Olayemi Bakare	100.00%	915.6571	102.23	138.92%	Open	A		MAJOR	A105300	155	35	4	1				
+2-Anthony Fong	96.41%	882.8249	99.44	130.58%	Limited Optics	M		MINOR	A142224	163	27	1	4				
+3-Albert Montanez	91.61%	838.8566	109.89	134.93%	PCC	M		MINOR	TY101555	158	36		1		1		
+4-Jacob Tullis	90.30%	826.8179	108.40	122.37%	Limited Optics	M		MINOR	A140523	159	33	1	2				
+5-Travis McKenzie	90.12%	825.2000	107.69	122.30%	Limited Optics	M		MINOR	L6340	156	33	5	1		1		
+6-Hunter Sparkman	90.05%	824.5516	108.11	136.34%	Carry Optics	M	Law Enforcement	MINOR	A165234	158	31	4	2				
+7-Will Goglas 2	89.45%	819.0324	106.22	124.74%	Open	B		MAJOR	A154790	130	58	4	3			1	
+8-Ryan Jaw	88.51%	810.4709	114.78	119.90%	Limited Optics	U		MINOR	TY114290	161	31	2	1				
+9-Heath Helgeson	88.06%	806.3703	111.22	119.18%	Limited Optics	A		MINOR	a149129	157	35	1	2				
+10-Garrett Pressler	86.56%	792.6090	115.36	117.20%	Limited Optics	A	Junior	MINOR	A165603	168	25		2				
+11-Chez Chike-Udenze	86.07%	788.1412	110.86	116.83%	Limited Optics	G		MINOR	A138598	155	35	3	2		1		
+12-Anthony Giuliano	81.61%	747.2227	116.10	123.82%	Carry Optics	M	Law Enforcement	MINOR	A152263	144	42	8	1				
+13-Adriel Taylor	81.53%	746.5061	116.32	110.55%	Limited Optics	C		MINOR	CTC	146	43	4	2				
+14-Wade Pruetz	81.51%	746.3768	124.33	110.55%	Limited Optics	U	Senior	MINOR	TY79055	164	29	1	1				
+15-Alex Goben	80.66%	738.5519	121.77	122.16%	Carry Optics	A		MINOR	L5929	164	28		3				
+16-Shawn Prosen	79.59%	728.8113	120.81	120.65%	Carry Optics	B		MINOR	A165388	159	31	3	2		1		
+17-Ulrick Fong	78.74%	720.9988	115.93	117.92%	PCC	B	Senior	MINOR	A170351	142	46	3	4				
+18-FRANCIS NGUYEN	78.36%	717.4978	112.11	106.58%	Limited Optics	U		MINOR	A169979	139	41	9	6				
+19-Phil Truong	77.81%	712.4736	129.82	108.74%	Open	B		MINOR	FY128600	155	38	2					
+20-Cade Horton	77.71%	711.5389	109.93	105.30%	Limited Optics	U		MINOR	A168751	126	59	6	4		1		
+21-Janice Pacleb	76.13%	697.0510	133.91	106.61%	Open	B	Lady	MAJOR	Ty75597	152	36	3	1				
+22-Ivan Velazquez	74.97%	686.4311	131.95	136.39%	Production	B		MINOR	A108486	153	35	6					
+23-Charles Spears	74.32%	680.4993	134.91	112.40%	Carry Optics	B		MINOR	A164017	155	38	2					
+24-Robert Strong	74.11%	678.5861	138.33	110.33%	PCC	M		MINOR	TY135331	160	29	3	3			1	
+25-Quintin Davis	73.41%	672.1561	129.55	111.30%	Carry Optics	U		MINOR	A171308	149	42	2	2				
+26-Andre Wijaya	72.98%	668.2838	132.60	110.73%	Carry Optics	B		MINOR	A172696	153	39	1	2				
+27-Josh Munoz 2	72.44%	663.2751	107.65	107.94%	Carry Optics	A		MINOR	A163367	143	23	3					
+28-Stephen Perez	67.35%	616.6535	151.42	101.85%	Carry Optics	C	Law Enforcement	MINOR	A148878	164	30		1				
+29-Steven McNamara	67.08%	614.2115	148.47	90.86%	Limited Optics	B	Senior	MINOR	A75212	152	40	3					
+30-Seth Dickens	65.83%	602.7477	113.26	97.56%	Carry Optics	C		MINOR	A165855	129	37	2	1				
+31-Michael “Gumby” McCoy	65.81%	602.6319	141.57	89.45%	Limited Optics	C		MINOR	A100138	147	42	3	3				
+32-Roman Gwiscz	65.58%	600.5259	150.58	89.29%	Limited Optics	B		MINOR	L4670	149	39	5	2				
+33-Travis Edwards 1	65.44%	599.1653	117.87	87.81%	Limited Optics	B		MINOR	A107004	135	34						
+34-Blake Horst	63.99%	585.9420	130.24	88.89%	Open	C	Law Enforcement	MINOR	A111624	127	55	8	5			1	
+35-Ross "Riff Raff" Pimentel	60.13%	550.5527	150.88	81.52%	Limited Optics	C	Senior	MINOR	A157753	136	48	8	3				
+36-Jose Onia	59.91%	548.5275	126.87	107.06%	Production	A	Senior	MINOR	A134359	132	35	2					
+37-Amber Chike-Udenze	59.81%	547.6814	139.58	89.60%	PCC	B	Lady	MINOR	A138974	137	44	6	8			1	
+38-Taylor Latham	59.78%	547.3972	163.34	136.24%	Limited	B	Senior	MINOR	TY39841	155	37	1	2				
+39-Valter Gonzalez	56.95%	521.4400	174.98	86.53%	Carry Optics	U		MINOR	A172969	165	27	1	2			1	
+40-Pocholo Dimayuga	55.27%	506.0470	127.10	98.28%	Production	C		MINOR	A106236	133	31	1	4		1		
+41-Marshall Quigley	55.11%	504.6421	173.34	126.13%	Limited	U		MAJOR	A162329	139	46	7	3		1		
+42-Alexandria Farrar	50.53%	462.6835	154.71	75.63%	Carry Optics	U	Lady, Law Enforcement	MINOR	A165859	134	38	13	10			1	
+43-Yul Kwan	50.52%	462.6095	168.21	70.19%	Open	C	Senior	MAJOR	A156984	118	57	10	10				
+44-James Berry	49.52%	453.4494	187.06	74.93%	Carry Optics	U		MINOR	A174774	155	31	5	4			1	
+45-Todd Liscano	49.00%	448.6475	168.22	74.41%	Carry Optics	U		MINOR	A172140	146	39		10		1		
+46-Grant Tucek	45.96%	420.7912	227.54	69.55%	Carry Optics	U		MINOR	A162865	179	15		1				
+47-Shane Roberts	45.42%	415.8468	188.91	68.52%	Carry Optics	U		MINOR	A175574	165	19	2	9			3	
+48-Edwin Gomez	44.43%	406.7938	230.83	67.12%	Carry Optics	U		MINOR	A175285	161	31	2	1				
+49-Rico Veluz	44.23%	405.0075	181.55	59.68%	Limited Optics	U		MINOR	N/a	145	32	10	8			2	
+50-Gennady Khokhorin 1	42.53%	389.4639	158.44	75.95%	Production	U	Super Senior	MINOR	A123884	134	31	3	1			8	
+51-Carlos Esquivel	41.06%	375.9561	187.56	62.04%	Carry Optics	U	Foreign	MINOR	Guatemala	117	66	3	9			1	
+52-Mohamad Karim Koleilat	39.65%	363.0767	198.28	59.72%	Carry Optics	U		MINOR	A171552	169	14	1	11			5	
+53-Tom Dowdy	35.15%	321.8841	236.50	53.52%	Carry Optics	U	Super Senior	MINOR	A156310	128	49	12	6				
+54-Bob Purcell	34.21%	313.2755	180.71	45.64%	Limited Optics	C	Senior	MINOR	TY111994	125	33	4	7			3	
+55-Yetta Jones	34.03%	311.5645	200.13	45.60%	Limited Optics	U	Lady	MINOR	TY139120	118	45	1	5				
+56-Zachary Deason	33.99%	311.2637	216.38	47.85%	Open	U		MINOR	A172975	137	42	4	12		2	2	
+57-Theo Judice	33.52%	306.9333	266.03	45.34%	Limited Optics	U		MINOR	A174771	149	37	3	6			1	
+58-Byron "BJ" Frank	32.81%	300.3940	190.07	48.91%	Carry Optics	C	Super Senior	MINOR	A139338	122	34	7	6			2	
+59-Owen Robinson	31.45%	287.9453	203.14	42.94%	Limited Optics	U	Senior	MINOR	A172620	127	25	7	4		1		
+60-Charity Taylor	31.20%	285.6638	330.97	43.44%	Open	D	Senior	MAJOR	TY104508	163	27	3	2				
+61-Richard Smith	29.25%	267.8075	206.75	44.52%	Carry Optics	U		MINOR	A175980	119	43	10	23		1	6	
+62-Kevin Perna	28.87%	264.3919	250.59	65.11%	Limited	U		MINOR	A175943	137	27	2	3				
+63-Benjamin Jellicoe	28.83%	264.0188	293.84	64.66%	Limited	U		MINOR	A173644	147	36	4	8			2	
+64-Sonny Somera	25.47%	233.2438	214.55	34.06%	Limited Optics	D		MINOR	A118611	97	50	14	8		1	1	
+65-Vincent Perna	20.11%	184.1685	246.32	27.03%	Limited Optics	D	Senior	MINOR	A165972	109	36	11	13			4	
+66-Justin Marks	19.75%	180.8591	248.39	36.59%	Production	U		MINOR	A176017	98	63	8	26			6	
+67-Charles Morris	6.35%	58.1757	78.87	10.10%	Carry Optics	C	Super Senior	MINOR	A75102	38	11		5			2	
+68-Fares Al-Salim	0.00%	0.0000		0.00%	Limited Optics	C		MINOR	A171235								
+69-Paul Felker	0.00%	0.0000		0.00%	Limited Optics	A		MINOR	TY107123								
+70-Jared Marshall	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	1								
+71-Byron "BigBDaShooter" McGowen	0.00%	0.0000		0.00%	Open	C		MAJOR	A159731								
+72-Joseph Wilkie	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	A166735								
+73-ian loyd	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	A148072								
+74-henry pham	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	A171802								
+DQ-David Rodriguez	0.00%	0.0000		0.00%	Carry Optics	U	Junior	MINOR	A164247								
+Name
+1-Olayemi Bakare
+2-Anthony Fong
+3-Albert Montanez
+4-Jacob Tullis
+5-Travis McKenzie
+6-Hunter Sparkman
+7-Will Goglas 2
+8-Ryan Jaw
+9-Heath Helgeson
+10-Garrett Pressler
+11-Chez Chike-Udenze
+12-Anthony Giuliano
+13-Adriel Taylor
+14-Wade Pruetz
+15-Alex Goben
+16-Shawn Prosen
+17-Ulrick Fong
+18-FRANCIS NGUYEN
+19-Phil Truong
+20-Cade Horton
+21-Janice Pacleb
+22-Ivan Velazquez
+23-Charles Spears
+24-Robert Strong
+25-Quintin Davis
+26-Andre Wijaya
+27-Josh Munoz 2
+28-Stephen Perez
+29-Steven McNamara
+30-Seth Dickens
+31-Michael “Gumby” McCoy
+32-Roman Gwiscz
+33-Travis Edwards 1
+34-Blake Horst
+35-Ross "Riff Raff" Pimentel
+36-Jose Onia
+37-Amber Chike-Udenze
+38-Taylor Latham
+39-Valter Gonzalez
+40-Pocholo Dimayuga
+41-Marshall Quigley
+42-Alexandria Farrar
+43-Yul Kwan
+44-James Berry
+45-Todd Liscano
+46-Grant Tucek
+47-Shane Roberts
+48-Edwin Gomez
+49-Rico Veluz
+50-Gennady Khokhorin 1
+51-Carlos Esquivel
+52-Mohamad Karim Koleilat
+53-Tom Dowdy
+54-Bob Purcell
+55-Yetta Jones
+56-Zachary Deason
+57-Theo Judice
+58-Byron "BJ" Frank
+59-Owen Robinson
+60-Charity Taylor
+61-Richard Smith
+62-Kevin Perna
+63-Benjamin Jellicoe
+64-Sonny Somera
+65-Vincent Perna
+66-Justin Marks
+67-Charles Morris
+68-Fares Al-Salim
+69-Paul Felker
+70-Jared Marshall
+71-Byron "BigBDaShooter" McGowen
+72-Joseph Wilkie
+73-ian loyd
+74-henry pham
+DQ-David Rodriguez
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Bay 2 Around The Corner
+Edwards, Travis (1)
+2025-12-13 15:02:36.753 - 2025-12-13 15:04:12.744Edited 2 minutes after.Edited popm was: 1 now: 0Edited poph was: 1 now: 2Edited rawpts was: 103 now: 108Added details: [object Object]Added numAlphas: 20Added numCharlies: 6Added stringTime: 16.54Edited By Amazon KFRAPWI e4d5ffd8
+Bay 3 Stage Left
+Munoz, Josh (2)
+2025-12-13 15:38:13.107 - 2025-12-13 16:11:08.009Edited 33 minutes after.Edited rawpts was: 10 now: 122Edited str,0 was: 0 now: 15.68
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Dickens, Seth (CO/Min)Added aprv: trueAdded details: [object Object]Added numAlphas: 24Added numCharlies: 4Added stringTime: 15.68Edited By Amazon KFRAPWI e4d5ffd82025-12-13 15:37:23.804 - 2025-12-13 15:38:13.107Edited a minute after.Edited rawpts was: 118 now: 10Edited str,0 was: 21.19 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Dickens, Seth (CO/Min)Edited By Amazon KFRAPWI e4d5ffd8
+Bay 5 Which Way Area 21 - 1
+Khokhorin, Gennady (1)
+2025-12-13 17:21:15.889 - 2025-12-13 17:22:09.398Edited a minute after.Added proc: 8Added details: [object Object]Added numAlphas: 28Added numCharlies: 3Added numDeltas: 1Added numProc: 8Added stringTime: 22.71Edited By Amazon KFRAPWI e4d5ffd8
+Goglas, Will (2)
+2025-12-13 16:19:36.843 - 2025-12-13 16:21:37.822Edited 2 minutes after.Edited str,0 was: 0 now: 13.71
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 2.47,2.65,3.68,3.83,4.09,4.24,4.47,4.61,5.67,5.86,6.24,6.37,6.67,6.84,7.19,7.34,8.25,8.47,8.79,8.94,9.20,9.36,9.63,9.78,11.48,11.63,11.95,12.10,12.39,12.55,13.50,13.71;AMG 0035Edited meta,0,t was: 2025-12-13 16:19:36.843 now: 2025-12-13 16:20:15.846Added rawpts: 151Added aprv: trueAdded details: [object Object]Added numAlphas: 23Added numCharlies: 9Added stringTime: 13.71Edited By Amazon KFRAPWI c637965d2025-12-13 16:14:31.207 - 2025-12-13 16:19:36.843Edited 5 minutes after.Removed rawpts: 150Edited str,0 was: 14.36 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 2.80,2.98,3.94,4.08,4.34,4.47,4.72,4.87,5.82,6.00,6.30,6.44,6.72,6.88,7.16,7.33,8.05,8.23,8.65,8.79,9.04,9.18,9.44,9.60,9.94,10.08,12.11,12.26,12.57,12.72,13.01,13.16,14.16,14.36;AMG 0035 now: ReshootEdited meta,0,t was: 2025-12-13 16:13:45.247 now: 2025-12-13 16:19:36.843Removed aprv: trueEdited By Amazon KFRAPWI c637965d
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

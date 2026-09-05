@@ -1,0 +1,181 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+GPS USPSA FEB 11 2024 USPSA 2024-02-11GADSDEN SHOOTING CENTER
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Nate Schmidt	100.00%	650.3068	101.83	108.38%	Open		Junior	MAJOR	A148822	127	14						
+2-Chris Short	97.03%	630.9841	101.06	105.16%	Open	A		MAJOR	A130070	115	22	4					
+3-Marc “MAD” Casinillo 3	96.01%	624.3334	105.88	104.06%	Open			MAJOR		115	23	3					
+4-BENJAMIN PERKINS	93.76%	609.7207	105.46	101.62%	Open			MAJOR		103	29	9					
+5-Steve Cash	81.40%	529.3499	115.57	117.50%	PCC	A	Senior	MINOR	TY89183	117	22	1	1				
+6-James Choate	78.41%	509.8964	122.08	117.50%	Carry Optics	A	Senior	MINOR	L6228	117	22	2					
+7-Matt Fox	77.68%	505.1677	124.92	84.19%	Open	A		MAJOR	TY87848	106	32	3					
+8-Evan Craig	74.63%	485.3277	118.59	117.50%	Limited	U	Junior	MINOR	A152537	115	22	3	1		3		
+9-Craig Cash 2	64.89%	421.9868	127.78	104.33%	Limited Optics	B		MINOR	A90200	113	20	5	3		3		
+10-Allan Porting	64.13%	417.0508	153.66	69.51%	Open	C	Senior	MINOR	L2745	120	18	3					
+11-Tristan Riggs	63.82%	415.0415	132.90	95.74%	Carry Optics	M		MINOR	A139719	115	18	4	4			1	
+12-Kevin Adair	61.49%	399.8551	141.69	98.91%	Limited Optics	B		MINOR	A149927	115	20	3	3			1	
+13-Eric Tompkins	61.42%	399.4085	162.75	92.16%	Carry Optics	A		MINOR	A148306	132	8		1		1		
+14-Mark Kronk	58.42%	379.9319	145.51	63.32%	Open			MINOR		110	25	2	4				
+15-Kirk broyles 1	58.35%	379.4284	151.46	87.21%	Carry Optics		Military	MINOR		115	24		2		1	1	
+16-Justin Eads	53.23%	346.1759	163.17	77.97%	PCC			MINOR		118	16	1	6		1		
+17-Andres Isidro	52.64%	342.3143	167.97	83.56%	Limited Optics	U		MINOR	A156519	131	4	2	4			3	
+18-Steve Forrest "Fire"	49.07%	319.1127	191.13	78.91%	Limited Optics	U	Military	MINOR		111	28	1	1				
+19-Collin Gasper	46.01%	299.2251	168.21	49.87%	Open	U		MAJOR	PENDING	95	33	7	6		1	1	
+20-Dave Smith	43.36%	281.9529	199.25	61.57%	PCC	C	Super Senior	MINOR	TY76959	119	14	1	7			2	
+21-Joshua Gibson	42.27%	274.8528	214.06	45.81%	Open	U		MINOR	A155776	127	10	1	3		1	1	
+22-John Johnson	40.46%	263.1262	225.71	59.61%	PCC		Military	MINOR	A148198	114	21	1	5				
+23-deril oliver	37.53%	244.0453	229.39	59.45%	Limited Optics	U	Military	MINOR	A143560	115	17	4	5				
+24-Johnathon Balcom	36.72%	238.8111	220.64	57.68%	Limited Optics	U	Military	MINOR	A155853	111	19	2	9				
+25-Avery Brooks	36.14%	235.0417	210.14	53.71%	Carry Optics	U		MINOR	A152212	117	12	2	10				
+26-Joe Bruch	30.62%	199.1429	266.77	106.33%	Production		Super Senior	MINOR		106	25	6	4		1	1	
+27-Kolton Kronk	30.18%	196.2495	291.95	32.71%	Open		Junior	MINOR		108	28	3	2				
+28-Angie Kronk	30.17%	196.2297	328.09	32.70%	Open		Lady	MINOR		121	20						
+29-Christopher Hart	29.16%	189.6030	237.74	105.65%	Production	C		MINOR	A141798	98	26	10	7		2		
+30-Diana Bentele	25.90%	168.4139	238.44	42.68%	Limited	U	Lady	MINOR		92	30	9	10			2	
+31-Michael Krueger	16.73%	108.7797	395.72	18.13%	Open	U	Super Senior	MINOR		103	24	5	9			3	
+Name
+1-Nate Schmidt
+2-Chris Short
+3-Marc “MAD” Casinillo 3
+4-BENJAMIN PERKINS
+5-Steve Cash
+6-James Choate
+7-Matt Fox
+8-Evan Craig
+9-Craig Cash 2
+10-Allan Porting
+11-Tristan Riggs
+12-Kevin Adair
+13-Eric Tompkins
+14-Mark Kronk
+15-Kirk broyles 1
+16-Justin Eads
+17-Andres Isidro
+18-Steve Forrest "Fire"
+19-Collin Gasper
+20-Dave Smith
+21-Joshua Gibson
+22-John Johnson
+23-deril oliver
+24-Johnathon Balcom
+25-Avery Brooks
+26-Joe Bruch
+27-Kolton Kronk
+28-Angie Kronk
+29-Christopher Hart
+30-Diana Bentele
+31-Michael Krueger
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Cash, Craig (2)
+2024-02-11 18:35:21.821 - 2024-02-11 18:37:14.058Edited 2 minutes after.Edited rawpts was: 60 now: 96
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 0 now: 19.19Edited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 3.51,4.27,4.60,4.78,5.38,5.74,6.50,7.04,8.01,8.89,9.28,9.69,10.14,10.58,11.07,11.51,12.35,14.69,14.99,15.27,15.93,16.31,16.97,17.32,18.27,19.19;AMG DE0EEdited meta,0,t was: 2024-02-11 18:35:21.825 now: 2024-02-11 18:36:51.949Added aprv: trueAdded details: [object Object]Added numAlphas: 30Added numCharlies: 2Added stringTime: 19.19Edited By Score Tablet 32024-02-11 18:07:58.976 - 2024-02-11 18:35:21.821Edited 27 minutes after.Edited rawpts was: 88 now: 60Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 21.51 now: 0Added Reason for Edit ReshootEdited By Score Tablet 3
+Stage 5
+broyles, Kirk (1)
+2024-02-11 18:40:58.755 - 2024-02-11 18:46:53.040Edited 6 minutes after.Added proc: 1Added details: [object Object]Added numAlphas: 24Added numCharlies: 6Added numM: 4Added numProc: 1Added stringTime: 32.77Edited By Score Tablet 1
+Casinillo, Marc “MAD” (3)
+2024-02-11 17:02:00.566 - 2024-02-11 17:02:52.167Edited a minute after.Edited rawpts was: 124 now: 123
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 29Added numCharlies: 4Added numDeltas: 1Added stringTime: 26.95Edited By Score Tablet 32024-02-11 16:53:46.815 - 2024-02-11 17:02:00.566Edited 8 minutes after.Edited rawpts was: 40 now: 124
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited str,0 was: 0 now: 26.95Removed Reason for Edit ReshootAdded aprv: trueEdited By Score Tablet 32024-02-11 16:53:46.812 - 2024-02-11 16:53:46.815Edited a few seconds after.Edited rawpts was: 42 now: 40Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit ReshootEdited By Score Tablet 3
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

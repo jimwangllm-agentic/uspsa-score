@@ -1,0 +1,824 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BAPS USPSA February USPSA 2019-02-16
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Wade Pruetz	100.00%	601.1016	80.54	101.39%	PCC	M		MINOR	TY79055	104	21	1					
+2-Derek Rabuck	90.73%	545.3511	80.60	92.11%	PCC	B		MINOR	A91331	93	23	6	2				
+3-Jason Brinkley	84.15%	505.8168	94.19	99.52%	Limited			MAJOR	A61861	92	26	4	3				
+4-Daniel Thompson	80.59%	484.4156	96.47	95.55%	Carry Optics	B		MINOR	TY93931	101	22	1	2		2		
+5-BJ Burton 1	78.14%	469.7112	106.77	88.18%	Open			MAJOR	A86420	103	17	3	3				
+6-Scott Reeh	77.99%	468.8158	99.96	93.30%	Carry Optics			MINOR	A91497	93	29	2	2				
+7-Tony Phan	77.73%	467.2242	105.60	92.55%	Carry Optics	A		MINOR	FY11963	106	18	1	1		1		
+8-Garry Newton	76.60%	460.4439	91.90	77.73%	PCC	B	Super Senior	MINOR	TY79434	96	16	4	4				
+9-Jay Bennett 1	75.92%	456.3789	100.10	77.05%	PCC	A	Senior	MINOR	A77156	98	25	1	2				
+10-Ricky Wiley	75.53%	453.9921	102.15	91.00%	Carry Optics	U		MINOR	A91320	97	25	2	2			1	
+11-Randy Goodney	73.16%	439.7793	99.67	80.16%	Open	A		MAJOR	A94852	89	25	5	6				
+12-Mike Junco	73.14%	439.6594	107.31	97.94%	Production	A		MINOR	FY107182	96	27	3					
+13-Chev Jacot 1	72.51%	435.8572	104.33	73.47%	PCC	B		MINOR	a72378	103	18	1	4				
+14-Steven Mcnamara	70.80%	425.5740	106.30	81.23%	Open	B		MAJOR	A75212	88	31	4	3		1		
+15-Paul Felker 3	70.48%	423.6694	101.72	83.51%	Carry Optics	B		MINOR	TY107123	89	29	3	4				
+16-Mark Perretto	69.80%	419.5413	108.93	93.87%	Production			MINOR		95	25	5	1				
+17-Jing Bedro 5	68.98%	414.6693	95.76	69.85%	PCC	U		MINOR	A98263	90	22	6	6				
+18-Kit Hoog	68.73%	413.1328	102.13	90.84%	Production			MINOR		96	22	1	5				
+19-Dave Campbell	68.55%	412.0466	102.09	79.10%	Open	A	Senior	MAJOR	TY26527	90	22	10	4		1		
+20-Brandon Hill	66.64%	400.5517	110.46	85.70%	Production	M		MINOR	TY80518	104	16	3	3		2		
+21-Corey Slifko	65.78%	395.4105	107.98	76.45%	Limited	A		MAJOR	A82935	88	25	7	6				
+22-Matt Lem	65.17%	391.7376	111.26	86.23%	Production	A		MINOR	TY34763	106	13	2	5				
+23-Glenn Cunningham	64.94%	390.3484	123.35	65.89%	PCC	U		MINOR	A78280	111	14	1				2	
+24-Gary Owens	64.94%	390.3410	118.74	76.42%	Open	C		MAJOR	FY101331	103	15	6	2			1	
+25-Chris Peterson	64.24%	386.1286	117.88	84.53%	Production	none		MINOR		104	18		3		1		
+26-Kyle Post	64.15%	385.6241	107.88	81.57%	Production	A		MINOR	A74846	97	21	2	6		1		
+27-Eddie Jimenea	63.81%	383.5688	90.31	70.22%	Open	M		MAJOR	A14869	88	15	3	2				
+28-Anthony Smallwood 1	63.01%	378.7369	108.60	68.96%	Open	C		MAJOR	A94508	87	25	5	9		3	1	
+29-Tom Donahue	62.69%	376.8570	119.64	63.67%	PCC	B		MINOR	FY69009	91	31	3	1				
+30-JAY-R DELOS-SANTOS	61.68%	370.7362	126.74	76.78%	Carry Optics	C		MINOR	A70297	92	31	3					
+31-August Balagtas	61.33%	368.6313	72.51	66.11%	Open			MAJOR	L3674	67	24	1	7				
+32-Jonathan Warrender	60.93%	366.2768	126.01	100.55%	Single Stack		Military	MAJOR	TY86145	97	21	5	3				
+33-Danny Naramore	60.62%	364.3972	130.59	61.59%	PCC	B		MINOR	TY96553	96	25	2	3				
+34-Raimon Alfonso	60.18%	361.7617	95.34	64.75%	Limited	B		MAJOR	A37103	81	24	1	2				
+35-Jerry McClain	60.10%	361.2365	115.77	67.26%	Limited	B		MAJOR	TY48726	88	24	7	7				
+36-John Nixon	59.51%	357.7439	127.56	71.24%	Open	A		MAJOR	A40007	89	28	6	3			1	
+37-Mike Wilson	58.78%	353.3479	125.50	59.83%	PCC	C	Super Senior	MINOR	TY84396	114	8		4		1	1	
+38-Jon Baguio 3	58.78%	353.3239	117.08	67.52%	Limited	U		MINOR	PENDING	89	28	4	5		1		
+39-Bob Zweck	57.86%	347.7812	116.33	65.28%	Open	B		MAJOR	A94853	90	25	4	7			1	
+40-Michael Pontious	57.29%	344.3601	123.03	62.81%	Open	U		MAJOR	TY94575	79	28	8	6				
+41-Arnold Gee	56.57%	340.0397	129.03	64.47%	Open			MAJOR	A103519	89	29	3	5		1	1	
+42-Dave Eickhoff	55.98%	336.4896	126.95	62.63%	Carry Optics	C		MINOR	TY5063	97	24	3	2			12	
+43-Jen Kroll	55.71%	334.8953	136.70	73.51%	Production	C		MINOR	A93835	93	27	3	3				
+44-Andrew Whitley	54.78%	329.2987	125.94	62.01%	Limited			MINOR	TY106649	92	24	3	6				
+45-Jim Duncan	54.75%	329.1320	147.83	72.48%	Production		Senior	MINOR	TY33325	109	13	2	2				
+46-Covan Master 2	54.40%	326.9793	106.56	55.43%	PCC	U		MINOR	A111536	86	29	4	7		2	1	
+47-Mike Kahl	54.36%	326.7850	134.86	71.92%	Production	B	Super Senior	MINOR	A70984	99	21	2	4				
+48-Tom Neal	53.72%	322.9163	151.29	61.49%	Open			MAJOR	L2362	98	25	2	1			1	
+49-Ashley West-Sullivan	53.60%	322.1652	134.86	70.18%	Production	C	Lady	MINOR	TY92392	93	26	3	4				
+50-Nathan Peterson	53.10%	319.2125	117.28	67.22%	Production	U		MINOR	A111101	84	29	3	7		1	1	
+51-Albert Calderon	52.86%	317.7495	108.65	58.16%	Open	B		MAJOR	A74722	83	18	5	2				
+52-Ryan Alicaya 2	52.74%	316.9982	134.52	59.29%	Carry Optics	U		MINOR		93	15	2	16				
+53-Chris Zak	51.90%	311.9539	122.18	67.34%	Production	U		MINOR	L4616	81	33	7	5		1		
+54-Gary Wu	51.67%	310.5708	123.23	55.29%	Limited	B		MAJOR	L2998	77	30	10	8		1		
+55-Robert Hollier	50.99%	306.4744	149.82	66.85%	Production	U	Senior	MINOR	FY24941	99	19	5	2				
+56-Pat Byrne	50.69%	304.7171	159.48	82.78%	Single Stack			MAJOR	FY93921	104	16	2	4				
+57-Marlon Poralan 1	50.12%	301.2626	125.82	58.37%	Carry Optics	D		MINOR	PEN	90	21	7	8				
+58-Herman Waddy 3	49.18%	295.6027	146.68	63.65%	Production	C		MINOR	A101165	97	21	3	5				
+59-Paul Torre	48.68%	292.6444	130.23	61.86%	Production	U		MINOR	TY88028	87	21	7	11		1		
+60-Duane Mendoza	47.91%	287.9594	126.80	61.17%	Production	U		MINOR	TY98162	79	31	5	9				
+61-Rick Emde	47.36%	284.6948	186.77	53.00%	Open	B		MAJOR	TY69327	100	19	5	2			1	
+62-Angela Rabuck	45.25%	271.9920	135.58	50.15%	Limited	C	Lady	MINOR	A91275	94	15	7	10				
+63-Bill Kinstley	44.55%	267.8093	158.43	47.78%	Limited	C		MAJOR	A104836	87	28	4	7				
+64-Richard Dillow	44.39%	266.8237	188.32	45.00%	PCC	C	Senior	MINOR	FY57446	105	15	2	2				
+65-Mitchell Ivey 1	42.25%	253.9821	184.42	48.29%	Open			MAJOR	A116953	105	12	3	3				
+66-Stefan Liming	42.17%	253.4762	152.71	47.17%	Carry Optics	none		MINOR	A71566	88	23	7	8			1	
+67-Adam Post	42.01%	252.5418	157.11	70.60%	Single Stack	C		MINOR		90	27	4	5		1		
+68-Sid Kulcak 1	41.06%	246.7853	187.15	41.72%	PCC	U		MINOR	A57537	98	26		2		1		
+69-Chris Nagala	40.69%	244.5609	168.47	50.77%	Production	U		MINOR	TY97712	80	31	8	7				
+70-Jerry Dueitt	40.59%	243.9633	166.93	66.73%	Single Stack	D		MINOR		89	23	10	4				
+71-Gary Ashorn 1	40.06%	240.7780	163.56	48.99%	Limited	U	Senior	MINOR	A98048	97	18	2	9				
+72-Emanuel Alcoseba	34.69%	208.5183	139.35	37.18%	Limited	C		MINOR	TY67519	78	22	4	4		1		
+73-Travis Edwards	32.15%	193.2560	166.66	34.37%	Limited	D		MAJOR	A107004	66	32	17	10		6	1	
+74-Albert Molina 1	30.56%	183.7203	220.38	33.51%	Open	U		MAJOR	A107586	84	26	8	7		1		
+75-James Richardson	29.98%	180.1871	210.73	31.68%	Limited	U		MAJOR	A103934	86	24	6	10				
+76-Quang Vu	28.97%	174.1213	151.17	31.53%	Limited			MINOR		73	34	8	11			7	
+77-Ronald Potier	20.32%	122.1350	252.67	21.90%	Carry Optics	U		MINOR	TY113089	61	39	15	11			1	
+78-Jean Richardson	17.78%	106.8796	265.08	21.39%	Limited	U		MINOR	A103935	83	21	8	14		1		
+79-Bill Hunter	17.16%	103.1689	239.73	18.28%	Limited	C	Super Senior	MAJOR	A13721	58	31	13	24			3	
+80-Beth Riedel 1	15.49%	93.0898	363.46	19.30%	Production			MINOR		83	16	14	12				
+81-Robert Acaron	15.21%	91.4150	171.70	16.72%	Limited			MINOR		56	35	14	20			4	
+82-William Clark 1	11.18%	67.1808	208.14	12.29%	Limited			MINOR		66	21	6	32				
+DQ-Tim McGinley	0.00%	0.0000		0.00%	Limited			MINOR									
+DQ-Jay Olmstead	0.00%	0.0000		0.00%	PCC	B	Super Senior	MINOR	L3738								
+Name
+1-Wade Pruetz
+2-Derek Rabuck
+3-Jason Brinkley
+4-Daniel Thompson
+5-BJ Burton 1
+6-Scott Reeh
+7-Tony Phan
+8-Garry Newton
+9-Jay Bennett 1
+10-Ricky Wiley
+11-Randy Goodney
+12-Mike Junco
+13-Chev Jacot 1
+14-Steven Mcnamara
+15-Paul Felker 3
+16-Mark Perretto
+17-Jing Bedro 5
+18-Kit Hoog
+19-Dave Campbell
+20-Brandon Hill
+21-Corey Slifko
+22-Matt Lem
+23-Glenn Cunningham
+24-Gary Owens
+25-Chris Peterson
+26-Kyle Post
+27-Eddie Jimenea
+28-Anthony Smallwood 1
+29-Tom Donahue
+30-JAY-R DELOS-SANTOS
+31-August Balagtas
+32-Jonathan Warrender
+33-Danny Naramore
+34-Raimon Alfonso
+35-Jerry McClain
+36-John Nixon
+37-Mike Wilson
+38-Jon Baguio 3
+39-Bob Zweck
+40-Michael Pontious
+41-Arnold Gee
+42-Dave Eickhoff
+43-Jen Kroll
+44-Andrew Whitley
+45-Jim Duncan
+46-Covan Master 2
+47-Mike Kahl
+48-Tom Neal
+49-Ashley West-Sullivan
+50-Nathan Peterson
+51-Albert Calderon
+52-Ryan Alicaya 2
+53-Chris Zak
+54-Gary Wu
+55-Robert Hollier
+56-Pat Byrne
+57-Marlon Poralan 1
+58-Herman Waddy 3
+59-Paul Torre
+60-Duane Mendoza
+61-Rick Emde
+62-Angela Rabuck
+63-Bill Kinstley
+64-Richard Dillow
+65-Mitchell Ivey 1
+66-Stefan Liming
+67-Adam Post
+68-Sid Kulcak 1
+69-Chris Nagala
+70-Jerry Dueitt
+71-Gary Ashorn 1
+72-Emanuel Alcoseba
+73-Travis Edwards
+74-Albert Molina 1
+75-James Richardson
+76-Quang Vu
+77-Ronald Potier
+78-Jean Richardson
+79-Bill Hunter
+80-Beth Riedel 1
+81-Robert Acaron
+82-William Clark 1
+DQ-Tim McGinley
+DQ-Jay Olmstead
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Red
+Jacot, Chev (1)
+2019-02-16 16:01:45.044 - 2019-02-16 16:03:54.297Edited 2 minutes after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 25.86
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 27Added numCharlies: 3Added stringTime: 25.86Edited By Baps-Squad 6
+Baguio, Jon (2)
+2019-02-16 16:04:41.435 - 2019-02-16 16:05:35.922Edited a minute after.Edited str,0 was: 0 now: 20.2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 23Added numCharlies: 7Added stringTime: 20.2Edited By Baps-Squad 62019-02-16 16:04:04.421 - 2019-02-16 16:04:41.435Edited a few seconds after.Edited By Baps-Squad 6
+Molina, Albert (1)
+2019-02-16 15:44:34.080 - 2019-02-16 15:49:50.515Edited 5 minutes after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 37.95
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+Added details: [object Object]Added numAlphas: 24Added numCharlies: 3Added numDeltas: 3Added stringTime: 37.95Edited By Baps-Squad 6
+Bedro, Jing (1)
+2019-02-16 16:05:46.913 - 2019-02-16 16:07:47.231Edited 2 minutes after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 20.03
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Added details: [object Object]Added numAlphas: 23Added numCharlies: 2Added numDeltas: 3Added numM: 2Added stringTime: 20.03Edited By Baps-Squad 6
+Clark, William (1)
+2019-02-16 15:44:15.841 - 2019-02-16 16:17:32.528Edited 33 minutes after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 35.74
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 19Added numCharlies: 4Added numDeltas: 1Added numM: 6Added stringTime: 35.74Edited By Baps-Squad 6
+Orange
+Master, Covan (2)
+2019-02-16 16:25:21.663 - 2019-02-16 16:25:49.493Edited a few seconds after.Added proc: 1Added details: [object Object]Added numAlphas: 17Added numCharlies: 6Added numDeltas: 3Added numNS: 1Added numM: 2Added numProc: 1Added stringTime: 17.12Edited By Baps-Squad 62019-02-16 16:22:48.396 - 2019-02-16 16:25:21.663Edited 3 minutes after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 17.12
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Edited By Baps-Squad 6
+Poralan, Marlon (1)
+2019-02-16 16:29:49.603 - 2019-02-16 16:31:27.617Edited 2 minutes after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 23.98
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 23Added numCharlies: 3Added numDeltas: 1Added numM: 1Added stringTime: 23.98Edited By Baps-Squad 6
+Yellow
+Ashorn, Gary (1)
+2019-02-16 17:36:22.233 - 2019-02-16 18:05:27.729Edited 29 minutes after.Edited aprv was: false now: trueEdited str,0 was: 28.96 now: 30.38
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 23Added numCharlies: 1Added numM: 2Added stringTime: 30.38Edited By Baps-Squad5
+Smallwood, Anthony (1)
+2019-02-16 18:01:27.782 - 2019-02-16 18:03:00.793Edited 2 minutes after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 17.16
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 20Added numCharlies: 4Added numDeltas: 1Added numM: 1Added stringTime: 17.16Edited By Baps-Squad5
+Felker, Paul (3)
+2019-02-16 17:03:34.956 - 2019-02-16 17:04:14.242Edited a few seconds after.Edited str,0 was: 0 now: 16.3
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 19Added numCharlies: 5Added numDeltas: 2Added stringTime: 16.3Edited By Baps-Squad 62019-02-16 17:03:17.771 - 2019-02-16 17:03:34.956Edited a few seconds after.Edited str,0 was: 16.3 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited aprv was: true now: falseEdited By Baps-Squad 62019-02-16 17:00:30.313 - 2019-02-16 17:03:17.771Edited 3 minutes after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 16.3
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Edited By Baps-Squad 6
+Ivey, Mitchell (1)
+2019-02-16 17:28:06.691 - 2019-02-16 17:42:06.673Edited 14 minutes after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 30.4
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+Added details: [object Object]Added numAlphas: 22Added numCharlies: 2Added numDeltas: 1Added numM: 1Added stringTime: 30.4Edited By Baps-Squad5
+Baguio, Jon (1)
+2019-02-16 17:11:43.859 - 2019-02-16 17:13:16.874Edited 2 minutes after.Edited poph was: 6 now: 5Edited aprv was: false now: trueEdited str,0 was: 0 now: 18.93Edited popm was: 0 now: 1
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 19Added numCharlies: 5Added numM: 2Added stringTime: 18.93Edited By Baps-Squad 6
+Riedel, Beth (1)
+2019-02-16 17:03:20.411 - 2019-02-16 17:06:38.905Edited 3 minutes after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 70.14
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+Added details: [object Object]Added numAlphas: 18Added numDeltas: 6Added numM: 2Added stringTime: 70.14Edited By Baps-Squad 6
+Blue
+Kulcak, Sid (1)
+2019-02-16 15:02:20.904 - 2019-02-16 15:08:08.326Edited 6 minutes after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 42.15
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 30Added numCharlies: 6Added stringTime: 42.15Edited By Baps-Squad 4
+Bedro, Jing (1)
+2019-02-16 17:45:01.131 - 2019-02-16 17:47:06.354Edited 2 minutes after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 16.69
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	2	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 31Added numBravos: 2Added numCharlies: 2Added numM: 1Added stringTime: 16.69Edited By Baps-Squad 6
+Bennett, Jay (1)
+2019-02-16 15:04:14.205 - 2019-02-16 15:05:40.346Edited a minute after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 22.26
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Added details: [object Object]Added numAlphas: 34Added numCharlies: 1Added numM: 1Added stringTime: 22.26Edited By Baps-Squad 4
+Waddy, Herman (1)
+2019-02-16 17:47:10.095 - 2019-02-16 17:49:04.547Edited 2 minutes after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 32.13
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 33Added numCharlies: 1Added numDeltas: 1Added numM: 1Added stringTime: 32.13Edited By Baps-Squad 6
+Green
+Burton, BJ (1)
+2019-02-16 17:03:36.586 - 2019-02-16 17:05:05.264Edited a minute after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 10.97
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 15Added numCharlies: 3Added stringTime: 10.97Edited By Baps-Squad 2
+Alicaya, Ryan (1)
+2019-02-16 18:09:53.387 - 2019-02-16 18:11:12.505Edited a minute after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 10.06
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 14Added numCharlies: 4Added stringTime: 10.06Edited By Baps-Squad 6
+Waddy, Herman (1)
+2019-02-16 18:16:23.891 - 2019-02-16 18:17:50.524Edited a minute after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 18.01
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 16Added numCharlies: 2Added stringTime: 18.01Edited By Baps-Squad 6
+Cm 18-06
+Alicaya, Ryan (1)
+2019-02-16 15:19:20.779 - 2019-02-16 15:21:12.559Edited 2 minutes after.Edited aprv was: false now: trueEdited str,1 was: 0 now: 0.01Edited str,0 was: 0 now: 23.82
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	6	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	6	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	3	0
+Added details: [object Object]Added numAlphas: 3Added numM: 15Added stringTime: 23.830000000000002Edited By Baps-Squad 6
+Bedro, Jing (3)
+2019-02-16 15:29:16.946 - 2019-02-16 15:30:11.883Edited a minute after.Edited str,1 was: 0 now: 9.93Edited str,0 was: 0 now: 7.92
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	5	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	5	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	1	0	0	1	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 10Added numCharlies: 7Added numM: 1Added stringTime: 17.85Edited By Baps-Squad 62019-02-16 15:29:13.645 - 2019-02-16 15:29:16.946Edited a few seconds after.Edited str,1 was: 9.93 now: 0Edited str,0 was: 10.27 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	5	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	5	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	1	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+Edited aprv was: true now: falseEdited By Baps-Squad 62019-02-16 15:26:56.456 - 2019-02-16 15:29:13.645Edited 2 minutes after.Edited aprv was: false now: trueEdited str,1 was: 0 now: 9.93Edited str,0 was: 0 now: 10.27
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	5	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	5	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	1	0	0	0	1	0
+Edited By Baps-Squad 6
+Waddy, Herman (1)
+2019-02-16 15:30:13.322 - 2019-02-16 15:31:57.808Edited 2 minutes after.Edited aprv was: false now: trueEdited str,1 was: 0 now: 11.07Edited str,0 was: 0 now: 15.63
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	2	1	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	3	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	5	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 7Added numCharlies: 6Added numDeltas: 2Added numM: 3Added stringTime: 26.700000000000003Edited By Baps-Squad 6
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

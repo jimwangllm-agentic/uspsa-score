@@ -1,0 +1,403 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+GPS USPSA February 2025 USPSA 2025-02-23
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Bobby Ivester	100.00%	832.7502	107.35	121.69%	Open	M		MAJOR	A101336	140	26	4	1				
+2-Zachary Ralston 2	88.41%	736.2062	112.76	112.46%	Limited Optics	U		MINOR	A123081	131	37	1	2				
+3-Brandon Foss	87.20%	726.1587	119.42	112.14%	Carry Optics	M		MINOR	L5142	145	21	3	2				
+4-Jim Havens	85.45%	711.6039	116.39	108.54%	Limited Optics	M	Senior	MINOR	A114636	146	19	2	4				
+5-Andrew Whitley	81.19%	676.0944	127.71	99.23%	Open	A		MAJOR	TY106649	132	32	3	4			1	
+6-Andrew Yeh	81.09%	675.2385	117.41	103.04%	Limited Optics	B		MINOR	TY128067	123	41	4	3				
+7-Jason Wells	81.01%	674.6425	128.39	122.14%	Limited 10	U		MAJOR	L5218	131	32	6	2				
+8-Berrhett Foss	78.91%	657.0997	140.37	101.92%	Carry Optics	B		MINOR	A143624	153	18						
+9-Heath Helgeson	77.99%	649.4264	126.72	98.66%	Limited Optics	U		MINOR	A149129	141	24		6				
+10-Tony Vale	77.95%	649.0988	112.62	100.22%	Carry Optics	A		MINOR	A153735	119	42	4	6		1		
+11-Christopher Boatcallie	77.33%	643.9284	134.41	120.00%	PCC	A		MINOR	A104118	144	23	3	1				
+12-Henry Wong	76.22%	634.7292	145.81	92.58%	Open	U		MINOR	0	151	18	1	1				
+13-Jerry Bedro	75.87%	631.7920	136.27	91.84%	Open	C		MAJOR	A98263	142	22	3	4			1	
+14-Roger Feng	74.97%	624.3175	126.81	96.63%	Carry Optics	B		MINOR	A157776	129	34	4	4				
+15-Jeremiah Hunt	74.62%	621.4054	135.95	90.42%	Open	U		MAJOR	A148592	118	42	6	5				
+16-Gil Yolo	74.50%	620.3671	116.75	96.15%	Carry Optics	M		MINOR	L5228	126	34	4	7		1	1	
+17-Khoa Nguyen	74.42%	619.6935	133.70	122.01%	Limited	A	Law Enforcement	MAJOR	A117224	113	48	6	4				
+18-David Zhang	74.37%	619.3352	147.87	90.66%	Open	C		MAJOR	FY140383	141	27	3					
+19-Joshua Chew	72.95%	607.4636	139.35	91.82%	Limited Optics	A	Junior	MINOR	TY143381	139	23	3	6		2	1	
+20-Claude Chew	72.30%	602.1005	148.30	93.34%	Carry Optics	A		MINOR	TY143380	150	18	2	1				
+21-Marlon Poralan	70.76%	589.2353	143.45	109.74%	PCC	D	Law Enforcement	MINOR	Ty1234	126	40	5					
+22-Lee Cardwell	70.72%	588.9145	128.18	91.29%	Carry Optics	B		MINOR	A155173	119	42	6	4		1		
+23-Stormtrooper Qian	70.66%	588.4277	149.72	89.95%	Limited Optics	C		MINOR	A150939	148	21	1	1				
+24-Brandon Hunt	69.98%	582.7925	135.10	85.33%	Open	U		MAJOR	FY150701	129	35	1	6			2	
+25-Travis Edwards	69.96%	582.5879	150.84	88.68%	Limited Optics	C		MINOR	A107004	141	29	1					
+26-Robert Strong	69.83%	581.5369	155.29	84.86%	Open	U		MINOR	A135331	146	21	4					
+27-Marco Yue	69.20%	576.2353	137.26	88.14%	Limited Optics	U		MINOR	L5762	135	29	4	3			2	
+28-Arnold Gee 2	69.15%	575.8404	150.36	84.25%	Open	B	Senior	MAJOR	A103519	129	37	2	3				
+29-Steven McNamara	66.93%	557.3768	156.75	82.12%	Open	B	Senior	MAJOR	A75212	137	30	1	3				
+30-Tyler Kenny	66.37%	552.7310	147.65	79.98%	Open	U		MINOR	A148691	145	23	2	1			6	
+31-Steven McKinney	66.04%	549.9744	158.23	85.14%	Carry Optics	C		MINOR	A104027	146	23		2				
+32-Kim Ivester	65.80%	547.9466	157.42	79.86%	Open	B	Lady	MAJOR	L4935	122	43	3	3				
+33-Doug Joder	65.65%	546.7004	149.93	101.48%	PCC	B		MINOR	TY115020	131	34	4	2		1		
+34-Eric Wu	65.14%	542.4470	160.67	82.54%	Limited Optics	B		MINOR	FY104740	139	27	4	1				
+35-John Ren	64.13%	534.0454	149.60	82.67%	Carry Optics	U		MINOR		129	36	4	2		2		
+36-christopher bulkley	63.99%	532.8729	162.24	82.40%	Carry Optics	C		MINOR	A159469	132	39						
+37-Abrahan Figueroa	62.73%	522.3503	161.20	79.67%	Limited Optics	C	Senior	MINOR	TY54053	135	33	1	2				
+38-Cliff Pinsent	61.80%	514.6500	169.54	78.60%	Limited Optics	C	Distinguished Senior	MINOR	FY99321	148	20	3			2		
+39-Jennifer Kleiber-Boatcallie	61.64%	513.3265	174.95	95.57%	PCC	B	Lady	MINOR	A142192	158	10	1	2				
+40-Mike Pontious	60.68%	505.2939	148.84	77.05%	Limited Optics	B	Senior	MINOR	A94575	119	43	4	5			1	
+41-Skywalker Xiang 2	60.43%	503.2159	161.48	76.98%	Limited Optics	U		MINOR	A164967	118	46	6	1				
+42-hayden boatcallie	59.86%	498.4546	163.38	93.20%	PCC	C		MINOR	A143344	134	34	1	2			2	
+43-Gary Wu	59.00%	491.2837	145.06	105.00%	Production	B	Senior	MINOR	L2998	130	27	5	9		1		
+44-Virak Meas	54.99%	457.9377	157.32	69.57%	Limited Optics	U	Senior	MINOR	Oo	127	31	4	9		1		
+45-Carlos Escandon	54.38%	452.8345	196.44	122.14%	Single Stack	A	Super Senior	MAJOR	L2590	116	45	7	3		2	1	
+46-Gabriel Nguyen	51.49%	428.7843	147.95	64.70%	Limited Optics	U		MINOR	A163845	116	36	9	10		1	1	
+47-Ben Castagno 3	51.04%	425.0365	201.69	65.68%	Carry Optics			MINOR		135	33	3			1		
+48-Pete Tsekouras	47.56%	396.0264	201.11	80.88%	Limited	U		MINOR	A147367	129	35	4	3			1	
+49-Dan Schreiber	46.17%	384.4803	228.14	59.39%	Carry Optics	C	Super Senior	MINOR	A147899	155	12	2	2				
+50-Jeremiah Chew	44.19%	368.0284	229.57	56.97%	Carry Optics	U	Junior	MINOR	A157095	157	7	3	4		3	1	
+51-Raul Lorenzana	39.33%	327.5267	191.86	50.40%	Carry Optics	U		MINOR	A161461	129	19	1	22		3	6	
+52-Yihao Zuo	36.92%	307.4445	230.75	46.51%	Limited Optics	U		MINOR	A165414	136	24	1	10		1	2	
+53-Mark Guzman	36.62%	304.9371	250.41	46.94%	Carry Optics	D	Senior	MINOR	A158822	140	23	2	6		1	1	
+54-Kolton Cox	35.68%	297.1426	69.31	45.53%	Limited Optics	A		MINOR	A155275	63	23	3	9		1	1	
+55-JR Roberts	35.59%	296.3344	251.66	58.53%	Limited	C		MAJOR	TY102739	123	30	6	12		3		
+56-Kevin Baker 1	30.60%	254.8324	106.04	38.42%	Limited Optics	C	Senior	MINOR	A95439	64	26	4					
+57-Anthonie Perla	28.82%	239.9904	267.68	122.14%	Revolver	U		MINOR	A165552	113	37	11	10			2	
+Name
+1-Bobby Ivester
+2-Zachary Ralston 2
+3-Brandon Foss
+4-Jim Havens
+5-Andrew Whitley
+6-Andrew Yeh
+7-Jason Wells
+8-Berrhett Foss
+9-Heath Helgeson
+10-Tony Vale
+11-Christopher Boatcallie
+12-Henry Wong
+13-Jerry Bedro
+14-Roger Feng
+15-Jeremiah Hunt
+16-Gil Yolo
+17-Khoa Nguyen
+18-David Zhang
+19-Joshua Chew
+20-Claude Chew
+21-Marlon Poralan
+22-Lee Cardwell
+23-Stormtrooper Qian
+24-Brandon Hunt
+25-Travis Edwards
+26-Robert Strong
+27-Marco Yue
+28-Arnold Gee 2
+29-Steven McNamara
+30-Tyler Kenny
+31-Steven McKinney
+32-Kim Ivester
+33-Doug Joder
+34-Eric Wu
+35-John Ren
+36-christopher bulkley
+37-Abrahan Figueroa
+38-Cliff Pinsent
+39-Jennifer Kleiber-Boatcallie
+40-Mike Pontious
+41-Skywalker Xiang 2
+42-hayden boatcallie
+43-Gary Wu
+44-Virak Meas
+45-Carlos Escandon
+46-Gabriel Nguyen
+47-Ben Castagno 3
+48-Pete Tsekouras
+49-Dan Schreiber
+50-Jeremiah Chew
+51-Raul Lorenzana
+52-Yihao Zuo
+53-Mark Guzman
+54-Kolton Cox
+55-JR Roberts
+56-Kevin Baker 1
+57-Anthonie Perla
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Bay 6
+Xiang, Skywalker (2)
+2025-02-23 15:38:45.047 - 2025-02-23 15:59:18.261Edited 21 minutes after.Edited rawpts was: 10 now: 94Edited str,0 was: 0 now: 23.62
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Lorenzana, Raul (CO/Min)Added aprv: trueAdded details: [object Object]Added numAlphas: 16Added numCharlies: 8Added stringTime: 23.62Edited By Bay 32025-02-23 15:38:03.574 - 2025-02-23 15:38:45.047Edited a few seconds after.Edited rawpts was: 93 now: 10Edited str,0 was: 30.67 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Lorenzana, Raul (CO/Min)Edited By Bay 3
+Bay 7
+Ralston, Zachary (2)
+2025-02-23 18:12:15.843 - 2025-02-23 19:41:04.756Edited an hour after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	1	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	1	0	0
+Current	1	0	1	0	0	0	0
+Edited udid was: 6c414884-4135-42ed-872a-bf71c0bba320 now: e390b6bb-635d-4958-b177-a6a077121297Edited dname was: GPS 23 now: Gil's One Plus 8 ProAdded details: [object Object]Added numAlphas: 22Added numCharlies: 6Added stringTime: 15.25Edited By GPS 232025-02-23 17:48:56.722 - 2025-02-23 18:12:15.843Edited 23 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	1	0	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	1	0	1	0	0
+Edited By GPS 23
+Castagno, Ben (3)
+2025-02-23 15:30:25.458 - 2025-02-23 15:53:14.392Edited 23 minutes after.Edited rawpts was: 15 now: 109Edited str,0 was: 0 now: 29.79
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+ARRAYEdited meta,0,k was: from now: start0Edited meta,0,v was: Reshoot now: 2025-02-23 15:52:05.580Edited meta,0,t was: 2025-02-23 15:30:25.460 now: 2025-02-23 15:52:35.368Added aprv: trueAdded details: [object Object]Added numAlphas: 20Added numCharlies: 8Added stringTime: 29.79Edited By Bay 82025-02-23 15:30:25.457 - 2025-02-23 15:30:25.458Edited a few seconds after.Edited meta,0,k was: start0 now: fromEdited meta,0,v was: 2025-02-23 15:28:53.510 now: ReshootEdited meta,0,t was: 2025-02-23 15:29:09.367 now: 2025-02-23 15:30:25.460Edited By Bay 82025-02-23 15:30:06.374 - 2025-02-23 15:30:25.457Edited a few seconds after.Edited str,0 was: 15.81 now: 0ARRAYEdited By Bay 8
+Bay 8
+Gee, Arnold (2)
+2025-02-23 17:54:15.369 - 2025-02-23 17:55:01.134Edited a minute after.Edited str,0 was: 0 now: 19.6
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Shooter Pontious, Mike (LO/Min/S) now: 2.90,3.17,4.08,4.60,5.49,5.85,6.96,7.21,7.80,7.98,8.64,9.13,11.96,12.23,12.59,12.81,13.40,13.62,15.07,15.22,16.67,17.30,17.81,18.16,18.40,19.35,19.60;AMG 510DEdited meta,0,t was: 2025-02-23 17:54:15.369 now: 2025-02-23 17:54:29.837Added rawpts: 125Added aprv: trueAdded details: [object Object]Added numAlphas: 21Added numCharlies: 5Added stringTime: 19.6Edited By Bay 92025-02-23 17:52:33.927 - 2025-02-23 17:54:15.369Edited 2 minutes after.Removed rawpts: 117Edited str,0 was: 17.98 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 3.61,3.92,4.30,4.63,5.07,5.34,6.59,6.77,7.94,8.17,8.44,8.67,9.01,9.34,11.41,11.68,11.90,12.39,12.62,13.14,13.47,14.85,15.41,16.14,16.68,17.52,17.98;AMG 510D now: Moved to Shooter Pontious, Mike (LO/Min/S)Edited meta,0,t was: 2025-02-23 17:51:52.553 now: 2025-02-23 17:54:15.369Removed aprv: trueEdited By Bay 9
+Baker, Kevin (1)
+2025-02-23 17:42:55.074 - 2025-02-23 17:43:18.554Edited a few seconds after.Removed rawpts: 120Edited str,0 was: 18.32 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 2.19,2.44,3.64,4.12,4.88,5.26,5.96,6.16,6.65,6.87,7.86,8.25,11.94,12.16,12.57,12.80,13.13,13.35,14.31,14.51,16.17,16.73,17.23,17.47,18.11,18.32;AMG 510D now: Moved to Shooter Wu, Eric (LO/Min)Edited meta,0,t was: 2025-02-23 17:42:23.272 now: 2025-02-23 17:43:18.554Removed aprv: trueAdded details: [object Object]Edited By Bay 9
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

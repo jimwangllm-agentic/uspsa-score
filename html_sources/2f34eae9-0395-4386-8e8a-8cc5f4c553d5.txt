@@ -1,0 +1,352 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+TSV Conroe USPSA 07-25-26 USPSA 2026-07-25TSV Conroe - Texas Shooting Venue
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Michael Hanover 1	100.00%	600.4585	94.03	100.73%	Open	G		MAJOR	TY146302	96	24	3	2				
+2-Ryan Jaw	96.64%	580.2892	98.12	97.36%	Open	U		MAJOR		98	20	6	1				
+3-Will Berry	96.61%	580.0945	98.16	99.63%	Carry Optics	M	Law	MINOR	TY157815	104	20		1				
+4-Travis McKenzie	95.89%	575.7611	103.28	96.52%	Open	M		MAJOR	L6340	99	23	3			1		
+5-Vinh Lam	95.39%	572.8019	93.97	98.69%	Limited Optics	G		MINOR	Ty101025	97	23	3	2				
+6-Phyl Santos	92.48%	555.3259	95.61	95.28%	PCC	X		MINOR		91	27	5	2				
+7-Hunter Sparkman	91.24%	547.8751	107.92	91.91%	Open	U	Law	MINOR	A165234	108	16	1					
+8-Garrett Pressler	91.03%	546.6179	101.77	91.68%	Open	U		MINOR	A165603	110	11	2	2			1	
+9-Will Goglas	90.63%	544.2007	99.94	91.21%	Open	A		MAJOR	A154790	91	26	5	3				
+10-Phillip Nguyen	90.51%	543.4511	100.31	93.63%	Limited Optics	M		MINOR	TY152423	100	21	3	1		1		
+11-Glen Kruger	90.42%	542.9227	108.52	93.18%	PCC	B	Senior	MINOR	A171162	106	19						
+12-Kyle Post 2	84.77%	508.9905	109.95	87.72%	Limited Optics	U	Law	MINOR	A74846	95	24	6					
+13-Anthony Fong	84.61%	508.0187	113.41	87.27%	PCC	M		MINOR	A142224	102	19	3	1		1		
+14-Anthony Giuliano	84.44%	507.0469	108.94	87.40%	Carry Optics	M	Law	MINOR	A152263	102	18	3	2				
+15-Colin Kerrigan	84.10%	504.9629	105.19	87.06%	Limited Optics	U		MINOR	A142731	95	24	5	1		2		
+16-Jacob Tullis	83.88%	503.6510	105.12	86.72%	Limited Optics	M		MINOR	a140523	102	19	1	3			1	
+17-Dan Ausmus	81.56%	489.7582	111.44	84.41%	Carry Optics	U		MINOR	L6447	105	15	1	4			1	
+18-Joseph White	81.17%	487.4174	120.04	84.04%	Limited Optics	U	Law	MINOR	A135489	101	23		1				
+19-Dale Fike	79.91%	479.8005	120.52	82.60%	PCC		Senior, Super Senior	MINOR	A113427	110	12	2	1				
+20-Grady Mulkerin	79.90%	479.7428	108.79	82.57%	Limited Optics	A	Military	MINOR	A159000	95	22	5	3			1	
+21-Roger Feng	75.49%	453.3099	110.44	78.03%	Carry Optics	M		MINOR	A157776	94	23	3	4				
+22-Andre Wijaya	74.94%	449.9596	128.64	77.47%	Carry Optics	U		MINOR		99	23	3			1		
+23-John Ren	74.17%	445.3680	110.71	76.43%	Carry Optics	A		MINOR	A168570	93	21	6	4				
+24-Charles Spears	72.20%	433.5247	125.86	74.69%	Carry Optics	B		MINOR	A164017	99	18	5	3				
+25-FRANCIS NGUYEN	72.18%	433.4151	129.00	74.63%	Limited Optics	A		MINOR	A169979	98	23	3	1				
+26-Ulrick Fong	71.52%	429.4748	129.27	73.99%	PCC	A	Senior	MINOR	A170351	91	24	8	2				
+27-Heath Helgeson	71.31%	428.2064	112.36	73.19%	Limited Optics	A		MINOR	A149129	95	24		6			2	
+28-Adriel Taylor	70.67%	424.3479	119.07	72.90%	Limited Optics	U		MINOR	X	96	19	5	5				
+29-Colton Watson	68.29%	410.0334	127.44	70.92%	Limited Optics	B		MINOR	A184581	104	15	2	4		1	1	
+30-Albert Legislador 1	67.80%	407.1236	124.94	70.27%	PCC	B	Senior	MINOR	Ty91787	109	10	4	2			24	
+31-Blake Horst 1	67.04%	402.5739	136.47	67.55%	Open	U	Law	MINOR	A111624	94	26	4	1				
+32-Jerry Bedro	67.01%	402.3664	127.51	69.53%	Limited Optics	B		MINOR	A98263	99	16	7	3		1		
+33-James “JimO” O'Flaherty 1	66.83%	401.3041	140.07	69.10%	Limited Optics	B	Senior, Law	MINOR	FY100318	100	19	5	1				
+34-Gennady Khokhorin	66.40%	398.7264	143.45	68.79%	Limited Optics	U	Distinguished Senior	MINOR	A123884	99	23	3					
+35-Daniell Gianelloni	65.21%	391.5530	135.26	67.32%	Carry Optics	M	Law	MINOR	FY134287	103	18	2	2		3		
+36-james rogers	64.42%	386.8356	136.10	66.45%	Carry Optics	A		MINOR	A101402	96	24	3	2			1	
+37-Phil Truong	63.79%	383.0493	120.03	64.37%	Open	X		MINOR	X	95	22	2	5		2	1	
+38-Edwin Buchwalter	63.30%	380.0812	149.90	63.69%	Open	B		MINOR	TY102903	98	26		1				
+39-Michael Kiesewetter 1	62.98%	378.1728	133.87	104.17%	Limited 10	U		MINOR	A118153	96	24	2	3		2		
+40-Kevin Horn	60.21%	361.5165	115.59	62.45%	Limited Optics	B		MINOR	A159452	83	21	1	20		2		
+41-Taylor Snodgrass	58.96%	354.0213	128.95	104.17%	Single Stack	G		MINOR	A159149	87	27	4	7		1	1	
+42-Samuel Maness	58.59%	351.7940	142.32	60.29%	Limited Optics	U		MINOR	A182556	98	20	4	3		2	1	
+43-Travis Isley	57.78%	346.9380	146.52	59.75%	Carry Optics	U		MINOR	A181067	103	17		5		1	1	
+44-chris bulkley	57.57%	345.7072	161.98	59.57%	Carry Optics	B		MINOR	A159469	100	22		3				
+45-Hayden Frasier	54.45%	326.9745	167.47	56.26%	Carry Optics	U		MINOR	N/A	97	21	6	1		1		
+46-Marlon PorS	54.08%	324.7442	161.83	55.84%	Limited Optics	C	Law	MINOR	1234	89	30	4	2		1		
+47-Don Sanders	53.69%	322.4096	149.71	54.15%	Open	B	Senior	MAJOR	FY46389	91	28	5	1			32	
+48-Justin Wright	53.25%	319.7229	166.20	55.13%	Limited Optics	C	Senior	MINOR	A178724	97	24	1	3				
+49-Chris Ballard	53.15%	319.1216	167.19	55.10%	Limited Optics	C		MINOR	A178189	93	29	2	1		1		
+50-Bobby Lyday	51.95%	311.9640	189.88	52.27%	Open	C	Super Senior	MINOR	A160925	108	14	2	1				
+51-Hieu Le	51.89%	311.5774	165.09	53.71%	Carry Optics	U	Law	MINOR		90	28	4	3			1	
+52-Lee Smithheart	51.56%	309.5675	193.93	51.88%	Open	C	Senior	MINOR	TY111315	110	13	1	1				
+53-James Berry	50.59%	303.7476	174.60	52.19%	Carry Optics	U		MINOR	A174774	100	20	3	2		1		
+54-Raul Rios	43.04%	258.4302	154.08	44.42%	Carry Optics			MINOR	A171634	87	26	3	9			2	
+55-Colby Johnson 2	39.96%	239.9511	231.19	40.26%	Open	U	Military	MINOR	A176151	101	20	1	3				
+56-Blaken Daville	38.98%	234.0717	183.23	40.45%	Limited Optics	U		MINOR	A184948	82	28	9	6		1	1	
+57-Joseph Wilkie	37.89%	227.4840	157.80	38.95%	Carry Optics	B		MINOR	A166735	84	21	8	12			3	
+58-Adam Bandiera	24.34%	146.1668	38.30	24.59%	Open	A		MAJOR	TY148375	30	8	2	2				
+59-Zachary Deason	21.77%	130.7354	198.61	22.00%	Open	U		MINOR	A172975	69	31	11	14		4	2	
+60-Jose Gonzalez	20.46%	122.8522	239.95	20.90%	Carry Optics	U	Law	MINOR		77	22	11	15		3	2	
+61-Andi Emmons	4.73%	28.4172	248.13	4.96%	Carry Optics	U	Lady	MINOR		47	16	5	14		2	3	
+62-Sam Schiffer 1	0.00%	0.0000		0.00%	Carry Optics	U		MINOR		13							
+63-Chris Trevino	0.00%	0.0000		0.00%	Limited Optics	C		MINOR	A15915								
+64-Nathan Tribes	0.00%	0.0000		0.00%	Carry Optics	B		MINOR	A177203								
+DQ-Olayemi Bakare	0.00%	0.0000		0.00%	Open	A		MAJOR	A105300								
+Name
+1-Michael Hanover 1
+2-Ryan Jaw
+3-Will Berry
+4-Travis McKenzie
+5-Vinh Lam
+6-Phyl Santos
+7-Hunter Sparkman
+8-Garrett Pressler
+9-Will Goglas
+10-Phillip Nguyen
+11-Glen Kruger
+12-Kyle Post 2
+13-Anthony Fong
+14-Anthony Giuliano
+15-Colin Kerrigan
+16-Jacob Tullis
+17-Dan Ausmus
+18-Joseph White
+19-Dale Fike
+20-Grady Mulkerin
+21-Roger Feng
+22-Andre Wijaya
+23-John Ren
+24-Charles Spears
+25-FRANCIS NGUYEN
+26-Ulrick Fong
+27-Heath Helgeson
+28-Adriel Taylor
+29-Colton Watson
+30-Albert Legislador 1
+31-Blake Horst 1
+32-Jerry Bedro
+33-James “JimO” O'Flaherty 1
+34-Gennady Khokhorin
+35-Daniell Gianelloni
+36-james rogers
+37-Phil Truong
+38-Edwin Buchwalter
+39-Michael Kiesewetter 1
+40-Kevin Horn
+41-Taylor Snodgrass
+42-Samuel Maness
+43-Travis Isley
+44-chris bulkley
+45-Hayden Frasier
+46-Marlon PorS
+47-Don Sanders
+48-Justin Wright
+49-Chris Ballard
+50-Bobby Lyday
+51-Hieu Le
+52-Lee Smithheart
+53-James Berry
+54-Raul Rios
+55-Colby Johnson 2
+56-Blaken Daville
+57-Joseph Wilkie
+58-Adam Bandiera
+59-Zachary Deason
+60-Jose Gonzalez
+61-Andi Emmons
+62-Sam Schiffer 1
+63-Chris Trevino
+64-Nathan Tribes
+DQ-Olayemi Bakare
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2B
+Hanover, Michael (1)
+2026-07-25 13:50:31.776 - 2026-07-25 13:52:10.074Edited 2 minutes after.Edited rawpts was: 48 now: 47Edited str,0 was: 13.88 now: 4.13
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 7Added numCharlies: 3Added stringTime: 4.13Edited By Amazon KFQUWI 113d4c95
+Johnson, Colby (2)
+2026-07-25 14:39:29.949 - 2026-07-25 14:40:29.745Edited a minute after.Edited rawpts was: 3 now: 44Edited str,0 was: 32.24 now: 8.23
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added aprv: trueAdded details: [object Object]Added numAlphas: 8Added numCharlies: 1Added numDeltas: 1Added stringTime: 8.23Edited By Amazon KFQUWI 02cd33bb2026-07-25 14:37:57.255 - 2026-07-25 14:39:29.949Edited 2 minutes after.Edited rawpts was: 48 now: 3
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueEdited By Amazon KFQUWI 02cd33bb
+Kiesewetter, Michael (1)
+2026-07-25 15:49:49.780 - 2026-07-25 15:50:16.932Edited a few seconds after.Removed proc: 1Edited proc_cnts,0,Bbu6AL was: 1 now: 0Added details: [object Object]Added numAlphas: 3Added numCharlies: 6Added numM: 1Added stringTime: 4.22Edited By Amazon KFQUWI 10244a15
+Stage 4
+Horst, Blake (1)
+2026-07-25 14:05:42.189 - 2026-07-25 16:52:23.127Edited 3 hours after.Removed proc: 1Edited rawpts was: 78 now: 98Edited str,0 was: 68.24 now: 26.36
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	1	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	1	0	1	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited udid was: 618903b1-5dc2-4a08-9168-ab507cccebb2 now: 4ec42c93-6733-46d7-80fd-e15d10244a15Edited dname was: Amazon KFQUWI 7cccebb2 now: Amazon KFQUWI 10244a15Added details: [object Object]Added numAlphas: 18Added numCharlies: 9Added numDeltas: 1Added stringTime: 26.36Edited By Amazon KFQUWI 7cccebb2
+Post, Kyle (2)
+2026-07-25 14:48:57.238 - 2026-07-25 14:51:06.661Edited 2 minutes after.Edited rawpts was: 20 now: 94Edited str,0 was: 0 now: 23.17
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 1.33,1.52,3.39,3.56,4.53,4.69,6.53,6.84,7.50,8.36,8.85,10.28,10.86,11.47,12.46,14.85,15.35,17.55,17.89,18.39,19.94,20.34,20.55,21.65,21.89,22.63,22.89,23.17;AMG 07DDEdited meta,0,t was: 2026-07-25 14:48:57.237 now: 2026-07-25 14:50:12.851Added aprv: trueAdded details: [object Object]Added numAlphas: 17Added numCharlies: 9Added numDeltas: 2Added stringTime: 23.17Edited By Amazon KFQUWI 876f0d6b2026-07-25 14:27:36.240 - 2026-07-25 14:48:57.238Edited 21 minutes after.Edited rawpts was: 98 now: 20Edited str,0 was: 23.06 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Amazon KFQUWI 876f0d6b
+Legislador, Albert (1)
+2026-07-25 14:07:57.839 - 2026-07-25 14:11:36.738Edited 4 minutes after.Edited proc was: 1 now: 24Edited proc_cnts,0,tvEWrC was: 1 now: 24Added details: [object Object]Added numAlphas: 22Added numCharlies: 4Added numDeltas: 1Added numM: 1Added numProc: 24Added stringTime: 31.3Edited By Amazon KFQUWI 7cccebb2
+Stage 5
+Schiffer, Sam (1)
+2026-07-25 16:53:36.789 - 2026-07-25 17:13:50.046Edited 20 minutes after.Edited popm was: 1 now: 0Edited poph was: 12 now: 13Removed proc: 1Edited rawpts was: 125 now: 65Edited str,0 was: 40.95 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Rios, Raul (CO/Min)Added details: [object Object]Added numAlphas: 13Edited By Amazon KFQUWI 02cd33bb
+O'Flaherty, James “JimO” (1)
+2026-07-25 15:14:45.814 - 2026-07-25 15:43:35.184Edited 29 minutes after.Edited str,0 was: 35.78 now: 33.78Added details: [object Object]Added numAlphas: 38Added numCharlies: 1Added numDeltas: 1Added numM: 2Added stringTime: 33.78Edited By Amazon KFQUWI 876f0d6b
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

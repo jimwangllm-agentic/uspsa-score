@@ -1,0 +1,108 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BAS USPSA Mar 17, 2019 USPSA 2019-03-17
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Matt Jackson 4	100.00%	56.6839	7.74	30.00%	Production	U		MINOR	A100514	10							
+2-Spencer Boyd 5	93.11%	52.7812	7.75	30.00%	Limited	U		MINOR	A116676	8							
+3-Jerami Atwater 5	85.90%	48.6915	9.18	25.61%	Production	B		MINOR	A102565	10							
+Name
+1-Matt Jackson 4
+2-Spencer Boyd 5
+3-Jerami Atwater 5
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Steely Speed VII
+Boyd, Spencer (3)
+2019-03-17 14:03:39.305 - 2019-03-17 14:59:51.708Edited an hour after.Edited str,0 was: 3.99 now: 3.46Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 12Added stringTime: 3.46Edited By BAS Master2019-03-17 13:51:18.027 - 2019-03-17 14:03:39.305Edited 12 minutes after.Edited str,0 was: 0.02 now: 3.99Edited By BAS Master2019-03-17 13:41:09.546 - 2019-03-17 13:51:18.027Edited 10 minutes after.Edited str,0 was: 4.96 now: 0.02Edited By BAS Master
+Atwater, Jerami (1)
+2019-03-17 13:51:35.298 - 2019-03-17 14:57:14.199Edited an hour after.Edited str,0 was: 5.42 now: 5.11Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 12Added stringTime: 5.11Edited By BAS Master
+Eye Of The Tiger
+Boyd, Spencer (2)
+2019-03-17 14:48:16.359 - 2019-03-17 14:51:34.532Edited 3 minutes after.Edited str,0 was: 4.85 now: 4.29
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	2	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 2Added numBravos: 4Added stringTime: 4.29Edited By BAS Master2019-03-17 14:23:30.951 - 2019-03-17 14:48:16.359Edited 25 minutes after.Edited By BAS Master
+Atwater, Jerami (4)
+2019-03-17 14:50:22.766 - 2019-03-17 14:50:39.767Edited a few seconds after.Edited str,0 was: 3.98 now: 4.07Added details: [object Object]Added numAlphas: 4Added numBravos: 2Added stringTime: 4.07Edited By BAS Master2019-03-17 14:39:38.422 - 2019-03-17 14:50:22.766Edited 11 minutes after.Edited str,0 was: 3.9 now: 3.98
+A	B	C	D	NS	M	NPM
+Previous	0	2	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited By BAS Master2019-03-17 14:38:57.722 - 2019-03-17 14:39:38.422Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	2	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+Edited By BAS Master2019-03-17 14:33:28.268 - 2019-03-17 14:38:57.722Edited 5 minutes after.Edited str,0 was: 3.91 now: 3.9
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	0	2	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	1	1	0	0	0	0
+Current	0	2	0	0	0	0	0
+Edited By BAS Master
+Jackson, Matt (4)
+2019-03-17 14:40:35.543 - 2019-03-17 14:41:09.311Edited a few seconds after.Edited str,0 was: 3.77 now: 3.85
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 4Added numBravos: 2Added stringTime: 3.85Edited By BAS Master2019-03-17 14:35:50.626 - 2019-03-17 14:40:35.543Edited 5 minutes after.Edited str,0 was: 3.85 now: 3.77
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+Edited By BAS Master2019-03-17 14:29:59.224 - 2019-03-17 14:35:50.626Edited 6 minutes after.Edited str,0 was: 4.36 now: 3.85
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	2	0	0	0	0	0
+Edited By BAS Master2019-03-17 14:20:08.123 - 2019-03-17 14:29:59.224Edited 10 minutes after.Edited str,0 was: 3.88 now: 4.36
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	2	0	0	0	0
+Edited By BAS Master
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

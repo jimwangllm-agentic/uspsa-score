@@ -1,0 +1,292 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+GPS USPSA August 2026 USPSA 2026-08-23Generation P C
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Anthony Fong	100.00%	748.6858	81.59	109.85%	Limited Optics	G		MINOR	A142224	130	26	1					
+2-Jacob Tullis	94.44%	707.0759	82.76	103.81%	Limited Optics	M		MINOR	a140523	124	32		1		1		
+3-Lee Cardwell	93.10%	697.0030	84.10	105.29%	PCC	U		MINOR	A155173	118	38		1				
+4-Marco Yue	91.01%	681.3568	82.35	103.13%	PCC	U		MINOR	NA	122	24	8	3				
+5-FRANCIS NGUYEN	90.02%	673.9692	90.84	99.12%	Limited Optics	A		MINOR	A169979	130	24	3					
+6-Tony Vale	88.28%	660.9559	84.30	100.00%	Open	M		MAJOR	A153735	110	32	9	4				
+7-Grady Mulkerin	87.78%	657.2069	93.14	96.63%	Limited Optics	M	Military	MINOR	A159000	129	27	1					
+8-Ross Winningham	87.17%	652.6474	93.68	98.79%	PCC	U		MINOR	A159283	133	22		1				
+9-Colin Kerrigan 2	85.11%	637.2107	89.30	93.16%	Limited Optics	M		MINOR	A142731	130	21	3	3			1	
+10-Claude Chew	84.42%	632.0398	96.40	105.14%	Carry Optics	A		MINOR	TY143380	134	21	1	1				
+11-Jerry Bedro	83.93%	628.3465	95.99	95.11%	PCC	A		MINOR	A98263	123	32	2					
+12-James Wong 1	83.35%	624.0283	95.46	91.21%	Limited Optics	A		MINOR	A162844	130	26		1		1		
+13-Phillip Nguyen	83.32%	623.7867	86.52	91.75%	Limited Optics	M		MINOR	TY152423	114	38	2	3		2		
+14-Brandon Foss	83.14%	622.4236	92.20	91.50%	Limited Optics	U		MINOR	L5142	126	27	1	3				
+15-Jose Onia	82.96%	621.0732	96.09	91.13%	Limited Optics	M	Senior	MINOR	A134359	121	33	3					
+16-Matthew Givens	82.04%	614.1925	96.17	92.87%	PCC	A		MINOR	Ty137686	123	27	4	1				
+17-Drew Yang	81.93%	613.4335	98.12	102.35%	Carry Optics	A		MINOR	FY138478	125	25	5					
+18-Jim Havens	80.76%	604.6091	89.47	91.60%	Open	M	Senior	MAJOR	A114636	122	23	5	6			1	
+19-Antonio Tormis	80.45%	602.2825	100.62	91.89%	Open	B		MAJOR	A124958	114	39	3	1				
+20-Christian Canizales	79.15%	592.6075	98.19	99.13%	Carry Optics	A		MINOR	TY150265	116	37	4			1		
+21-Yanlin Xiang	77.47%	579.9729	99.80	85.34%	Limited Optics	B		MINOR	A164967	130	23	1	3				
+22-Coder W	76.75%	574.5927	101.02	86.95%	PCC	A		MINOR	A178525	118	37	1	1				
+23-Jorge Cahas	75.05%	561.8976	100.59	85.73%	Open		Senior	MAJOR	F-44522	102	44	8	3				
+24-Matthew Gonzalez	74.37%	556.8350	102.36	92.71%	Carry Optics	B		MINOR	A119810	121	32	2	2		1		
+25-Wade Pruetz 1	74.27%	556.0823	95.60	81.96%	Limited Optics	U	Senior	MINOR	A79055	113	35	5	4				
+26-Andre Wijaya	73.64%	551.3294	102.08	84.11%	Open	B		MINOR	A175473	115	37	3	2				
+27-Aj Quintana	72.11%	539.9071	108.01	79.49%	Limited Optics	B		MINOR	A175263	123	31	1	2				
+28-Jon Baguio 1	72.01%	539.1517	107.00	82.18%	Open	C		MAJOR	X	104	44	6	2				
+29-Harlan Chen	71.94%	538.6012	113.18	78.90%	Limited Optics	B		MINOR	A163292	128	27	2					
+30-Garrick Gonzalez	70.35%	526.7125	104.97	77.31%	Limited Optics	B		MINOR	A119804	123	27	4	3		1		
+31-Jack Liu	69.75%	522.2265	107.69	79.05%	PCC	M	Law Enforcement	MINOR	L6156	111	40	2	4		1		
+32-Markho Babasoro	69.72%	522.0069	113.46	76.79%	Limited Optics	B		MINOR	A174757	126	26	3	1				
+33-Roman Gwiscz	68.93%	516.0703	120.01	78.74%	Open	B		MAJOR	L4670	126	26	5			1		
+34-Pocholo Dimayuga	68.53%	513.0644	111.55	85.15%	Carry Optics	B		MINOR	A106236	138	13	2	4			1	
+35-Larry Shaw	67.94%	508.6638	115.76	84.46%	Carry Optics	B		MINOR	A153831	114	41	1	1				
+36-Robert Gomez	67.94%	508.6425	114.41	74.86%	Limited Optics	B		MINOR	TY163660	118	35	3	1				
+37-Gary Wu	67.02%	501.7524	116.52	83.79%	Carry Optics	B	Senior	MINOR	L2998	117	35	4	1				
+38-Gil Yolo	66.49%	497.7731	106.41	112.14%	Single Stack			MINOR	L5228	107	42	4	4				
+39-michael womack	65.99%	494.0392	110.40	75.32%	Open	B		MAJOR	A166212	97	51	5	4			1	
+40-TJ Middleton	65.73%	492.1391	100.13	74.66%	PCC	C		MINOR	TY171913	102	40	9	4		1		
+41-Doug Joder	65.57%	490.9199	120.13	74.46%	PCC	B		MINOR	A115020	122	33	1	1				
+42-Manny Nerona	65.51%	490.4928	125.37	71.90%	Limited Optics	B		MINOR	A69445	135	19	2	1				
+43-Khoa Nguyen	64.55%	483.3139	120.09	112.14%	Production	A	Law Enforcement	MINOR	A117224	134	18	2	3			1	
+44-Jeremiah Chew	63.54%	475.7178	128.11	79.15%	Carry Optics	C	Junior	MINOR	A157095	146	8		1		1	1	
+45-Josh Carter 1	63.44%	474.9826	135.20	69.67%	Limited Optics	U		MINOR	A170412	148	9						
+46-Luke Kwan	62.51%	467.9722	117.81	71.13%	Open	C		MINOR	A152338	111	38	6	2				
+47-Steve Mac	62.46%	467.6253	129.24	71.28%	Open	B	Senior	MINOR	A75212	132	21	3	1				
+48-chris bulkley	61.15%	457.8256	129.49	76.20%	Carry Optics	B		MINOR	A159469	130	22	3	2				
+49-Steven McKinney	60.44%	452.5019	115.37	66.56%	Limited Optics	U		MINOR	A104027	106	41	6	4				
+50-Eric Wu	60.04%	449.4738	127.26	66.16%	Limited Optics	B		MINOR	FY104740	105	47	4	1				
+51-Gennady Khokhorin	59.97%	448.9944	125.20	65.77%	Limited Optics	U	Super Senior	MINOR	A123884	112	38	6	1				
+52-Cliff Pinsent	58.89%	440.9209	135.15	64.65%	Limited Optics	B	Distinguished Senior	MINOR	FY99321	122	33	2					
+53-Yul Kwan	55.87%	418.3253	139.13	63.45%	Open	C	Senior	MAJOR	A156984	111	40	3	3				
+54-Marlon Pors	54.93%	411.2871	127.78	62.65%	Open	C	Law Enforcement	MINOR	Ty1234	102	41	12	2				
+55-Jacob Elliott	54.76%	409.9577	136.24	68.47%	Carry Optics	B	Law Enforcement	MINOR	A146767	138	15		4			2	
+56-Arnold Gee 2	54.60%	408.7795	127.83	60.25%	Limited Optics	C	Senior	MINOR	Ty103519	102	43	9	2		1		
+57-Carlos Escandon	54.48%	407.9023	145.68	112.14%	Limited 10	B	Distinguished Senior	MINOR	L2590	133	20	2	2				
+58-Ryu Yoshida	53.04%	397.0703	118.98	65.89%	Carry Optics	U		MINOR	TY182162	98	39	13	6		1		
+59-Edward Gonzales	52.56%	393.4976	135.62	57.98%	Limited Optics	U		MINOR	A183226	121	27	4	4		2		
+60-John Naumovski	52.06%	389.7704	130.22	65.14%	Carry Optics	C		MINOR	A180645	108	37	4	6			1	
+61-Jhun Caoagas jr	51.99%	389.2573	136.11	57.46%	Limited Optics	C		MINOR	A170038	105	44	3	5				
+62-Rick Russek	51.91%	388.6274	155.36	64.82%	Carry Optics	D	Senior	MINOR	A166874	133	16	6					
+63-Virak Meas	50.15%	375.4602	136.94	56.69%	Open	D	Senior	MINOR	O	100	44	9	3				
+64-Chris Ballard	48.89%	366.0343	155.47	53.73%	Limited Optics	C		MINOR	A178189	124	29	1	3				
+65-Carlos Payan	44.66%	334.3827	136.21	49.42%	Limited Optics	C		MINOR	TY169123	105	38	7	7		1	3	
+66-Jonathan Yanbao Bousquet	43.48%	325.5024	149.80	47.82%	Limited Optics	U		MINOR	A185757	98	46	6	5		1		
+67-Billy Swift	41.30%	309.2192	173.00	45.52%	Limited Optics	U	Senior	MINOR	A47465	132	18	1	5		1	1	
+68-Shane Roberts	39.97%	299.2332	152.10	44.39%	Limited Optics	U		MINOR	A175574	110	36	1	8			3	
+69-Garrett Mueller	38.26%	286.4444	181.17	47.80%	Carry Optics	U		MINOR	A186970	121	23	6	5		1	1	
+70-Kit Bong Morales	38.11%	285.3075	151.45	41.97%	Limited Optics	D	Senior	MINOR	A57907	89	49	11	8			1	
+71-Dan Schreiber	35.87%	268.5605	212.58	61.68%	Single Stack	C	Super Senior	MAJOR	A147899	117	31	5	4				
+72-Sonny Somera	35.56%	266.2439	158.29	44.85%	Carry Optics	C		MINOR	A118611	109	35	4	8		1	4	
+73-Scott Mcneil	34.51%	258.3951	201.90	37.93%	Limited Optics	D	Senior	MINOR	A183113	115	33	5	4		1	1	
+74-SIN JACKSON	31.83%	238.2797	196.11	35.98%	Open	U		MINOR	0	118	25	3	9			2	
+75-Cheryl Wyrick	21.25%	159.0734	261.06	24.17%	Open	U	Lady	MINOR	0	96	39	12	10		2		
+DQ-Shane Buell	0.00%	0.0000		0.00%	Limited Optics	U		MINOR	A186178								
+Name
+1-Anthony Fong
+2-Jacob Tullis
+3-Lee Cardwell
+4-Marco Yue
+5-FRANCIS NGUYEN
+6-Tony Vale
+7-Grady Mulkerin
+8-Ross Winningham
+9-Colin Kerrigan 2
+10-Claude Chew
+11-Jerry Bedro
+12-James Wong 1
+13-Phillip Nguyen
+14-Brandon Foss
+15-Jose Onia
+16-Matthew Givens
+17-Drew Yang
+18-Jim Havens
+19-Antonio Tormis
+20-Christian Canizales
+21-Yanlin Xiang
+22-Coder W
+23-Jorge Cahas
+24-Matthew Gonzalez
+25-Wade Pruetz 1
+26-Andre Wijaya
+27-Aj Quintana
+28-Jon Baguio 1
+29-Harlan Chen
+30-Garrick Gonzalez
+31-Jack Liu
+32-Markho Babasoro
+33-Roman Gwiscz
+34-Pocholo Dimayuga
+35-Larry Shaw
+36-Robert Gomez
+37-Gary Wu
+38-Gil Yolo
+39-michael womack
+40-TJ Middleton
+41-Doug Joder
+42-Manny Nerona
+43-Khoa Nguyen
+44-Jeremiah Chew
+45-Josh Carter 1
+46-Luke Kwan
+47-Steve Mac
+48-chris bulkley
+49-Steven McKinney
+50-Eric Wu
+51-Gennady Khokhorin
+52-Cliff Pinsent
+53-Yul Kwan
+54-Marlon Pors
+55-Jacob Elliott
+56-Arnold Gee 2
+57-Carlos Escandon
+58-Ryu Yoshida
+59-Edward Gonzales
+60-John Naumovski
+61-Jhun Caoagas jr
+62-Rick Russek
+63-Virak Meas
+64-Chris Ballard
+65-Carlos Payan
+66-Jonathan Yanbao Bousquet
+67-Billy Swift
+68-Shane Roberts
+69-Garrett Mueller
+70-Kit Bong Morales
+71-Dan Schreiber
+72-Sonny Somera
+73-Scott Mcneil
+74-SIN JACKSON
+75-Cheryl Wyrick
+DQ-Shane Buell
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Bay 4
+Carter, Josh (1)
+2026-08-23 15:04:24.981 - 2026-08-23 15:04:38.811Edited a few seconds after.Edited rawpts was: 110 now: 108
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 25Added numCharlies: 1Added stringTime: 18.54Edited By STAGE 6
+Kerrigan, Colin (1)
+2026-08-23 14:30:20.893 - 2026-08-23 14:31:34.174Edited a minute after.Added details: [object Object]Added numAlphas: 25Added numM: 1Added stringTime: 14.59Edited By STAGE 4
+Wong, James (1)
+2026-08-23 14:53:14.760 - 2026-08-23 14:53:37.438Edited a few seconds after.Edited rawpts was: 106 now: 108
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 25Added numCharlies: 1Added stringTime: 14.3Edited By STAGE 4
+Bay 5
+Baguio, Jon (1)
+2026-08-23 15:42:53.632 - 2026-08-23 15:46:16.681Edited 3 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	0	0	0	1
+Added details: [object Object]Added numAlphas: 15Added numCharlies: 5Added numDeltas: 1Added numNPM: 1Added stringTime: 15.84Edited By STAGE 6
+Gee, Arnold (2)
+2026-08-23 14:26:21.845 - 2026-08-23 14:28:03.294Edited 2 minutes after.Edited rawpts was: 5 now: 72Edited str,0 was: 0 now: 17.01
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	0	1
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 2.94,3.17,4.73,4.97,5.66,6.11,6.32,7.04,8.89,9.12,9.36,9.97,10.43,10.90,11.77,12.65,13.07,14.24,14.60,15.89,16.22,16.75,17.01;AMG 61D6Edited meta,0,t was: 2026-08-23 14:26:21.844 now: 2026-08-23 14:27:27.335Added aprv: trueAdded details: [object Object]Added numAlphas: 11Added numCharlies: 7Added numDeltas: 1Added numM: 2Added numNPM: 1Added stringTime: 17.01Edited By STAGE 22026-08-23 14:06:20.047 - 2026-08-23 14:26:21.845Edited 20 minutes after.Edited rawpts was: 86 now: 5Edited str,0 was: 11.5 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	0	1
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 2.93,3.15,4.86,5.22,5.45,6.16,7.90,8.18,8.97,9.41,9.95,10.46,11.05,11.50;AMG 61D6 now: ReshootEdited meta,0,t was: 2026-08-23 14:05:32.715 now: 2026-08-23 14:26:21.844Removed aprv: trueEdited By STAGE 2
+Bay 6
+Pruetz, Wade (1)
+2026-08-23 15:22:40.971 - 2026-08-23 15:27:23.856Edited 5 minutes after.Edited str,0 was: 11.9 now: 11.19Added details: [object Object]Added numAlphas: 15Added numCharlies: 7Added numDeltas: 2Added stringTime: 11.19Edited By STAGE 10
+Kerrigan, Colin (1)
+2026-08-23 15:53:40.228 - 2026-08-23 15:57:42.268Edited 4 minutes after.Added proc: 1Added details: [object Object]Added numAlphas: 21Added numCharlies: 1Added numM: 2Added numProc: 1Added stringTime: 12.42Edited By STAGE 4
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

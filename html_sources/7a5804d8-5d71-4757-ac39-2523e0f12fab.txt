@@ -1,0 +1,229 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BAPS USPSA March USPSA 2018-03-17
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Edwin Garcia	100.00%	528.3558	71.12	104.45%	PCC	U		MINOR		104	24	2	1				
+2-August Balagtas	92.91%	490.8946	74.15	104.36%	Open	M		MAJOR	L3674	107	21	1	1		1		
+3-Tony Phan	92.04%	486.2822	75.94	98.23%	PCC	M		MINOR	FY11963	114	16		1			1	
+4-Wade Pruetz	83.27%	439.9371	73.88	93.28%	PCC	A		MINOR	TY79055	98	31	1	1		1		
+5-Roman Gwiscz	78.57%	415.1317	89.92	88.38%	Open	B		MAJOR	A55629	96	30	4	1				
+6-Jason Brinkley	77.16%	407.6620	83.01	102.48%	Limited	M		MAJOR	A61861	95	25	3	4			1	
+7-Brian Whelihan	77.10%	407.3486	95.30	85.28%	Open	A	Senior	MAJOR		99	31	1				1	
+8-Alex Goben	76.50%	404.1671	92.83	88.22%	Carry Optics	B		MINOR	A86498	121	8	2			1		
+9-Henry Moreno	76.00%	401.5420	98.26	78.49%	Open	B		MAJOR	XXXXXX	99	28	1	3				
+10-Kit Hoog	75.99%	401.4843	92.68	83.08%	PCC	U		MINOR		113	18				1		
+11-Jon Baguio	73.48%	388.2103	88.60	77.45%	Carry Optics	D		MINOR	PENDING	90	28	9	3		2	1	
+12-Chris Peterson	72.50%	383.0338	103.65	96.64%	Production			MINOR		116	13	2					
+13-Robert Hollier	72.40%	382.5272	99.38	78.24%	PCC	C	Senior	MINOR	TY24941	118	12	1			1		
+14-Jason Sartor	71.55%	378.0420	100.34	77.92%	PCC	U		MINOR	A78681	118	10	3					
+15-Albert Calderon	71.44%	377.4710	92.79	82.10%	Open	B		MAJOR	000000	90	36	4	1				
+16-Gian Ruta	71.27%	376.5341	102.25	76.29%	Open	U		MAJOR	PENDING	110	17	2	2				
+17-Seth Clagg	70.36%	371.7581	76.52	81.05%	PCC	U		MINOR	A74796	91	23	12	4		2		
+18-Dave Eickhoff 1	69.88%	369.2152	100.77	76.67%	PCC	B	Super Senior	MINOR	TY5063	121	8		2				
+19-Randy Goodney	69.61%	367.7661	95.02	76.46%	Open	A		MAJOR	A94852	89	34	4	4				
+20-Wade Ledbetter	67.23%	355.2219	108.63	91.81%	Production	U		MINOR		121	9		1				
+21-Jason Bright	66.94%	353.7067	103.07	89.94%	Production	U		MINOR	A93447	109	20	1	1		1		
+22-Joe Wilson	66.10%	349.2693	71.03	73.98%	Production	A		MINOR	TY88935	98	6	2	1		1		
+23-Ricky Wiley	65.72%	347.2275	103.05	93.31%	Production	U		MINOR	A91320	109	20	2					
+24-Mike Junco	65.46%	345.8556	102.92	89.39%	Production			MINOR	A107182	100	23	6	2				
+25-Gary Wu	64.31%	339.7752	99.62	90.61%	Production	C		MINOR	L2998	100	24	4	1		1		
+26-Brandon Hill	63.36%	334.7866	66.06	71.13%	Production	M		MINOR	A80518	89	16		2		2		
+27-Dave Campell	62.97%	332.7311	102.15	70.64%	Open	M		MAJOR	TY26527	84	40	5	2		1		
+28-John Gossett	62.70%	331.2758	118.38	66.40%	PCC	U		MINOR		123	7		1				
+29-Doug Dillon	61.79%	326.4827	102.03	82.51%	Limited	B	Law Enforcement	MINOR	A71359	99	28	2	2		2		
+30-Eddie Jimenea	61.66%	325.7855	103.46	70.79%	Open	M		MAJOR	A14869	96	30	1	3				
+31-Deryle Lowery	60.44%	319.3303	115.69	81.50%	Production	B		MINOR	L2881	106	23		1				
+32-James Beshada	60.03%	317.1712	66.74	67.86%	Production	A		MINOR	L4029	75	27		2		1		
+33-Raimon Alfonso	59.86%	316.2778	103.75	83.00%	Limited			MAJOR	PENDING	89	36	5	1			2	
+34-Steven Mcnamara	58.60%	309.6043	102.50	67.59%	Open	B		MAJOR	A75212	82	44	2	3		1		
+35-Matt Lem	58.42%	308.6909	122.69	95.21%	Single Stack	A		MAJOR	TY34763	104	24	2	1				
+36-Mark Porretto	58.13%	307.1460	79.00	64.87%	Production	M		MINOR		94	12		1		2		
+37-JoAnna Wilson	57.87%	305.7411	78.14	64.60%	Production	B	Lady	MINOR	TY88614	83	18	5					
+38-Travis Edwards 1	57.44%	303.4959	132.38	60.51%	Open	D		MAJOR	A107004	95	32	3	1				
+39-Reynaldo Panelo	56.89%	300.5726	110.59	75.48%	Limited			MAJOR	TY26589	92	25	4	6				
+40-Mike Kahl	56.03%	296.0598	122.54	73.38%	Production	B	Senior	MINOR	A70984	107	18	3	3		1		
+41-Michael Pontious	55.99%	295.8470	131.55	71.41%	Limited	C		MAJOR	TY94575	89	27	8	3		1		
+42-Chris Whelihan	55.25%	291.9134	142.50	60.97%	PCC	U	Junior	MINOR		113	15	1	2		2		
+43-Derek Rabuck	55.18%	291.5580	65.14	65.29%	PCC	C		MINOR	A91331	73	28	2			1		
+44-Steve Deardorff	54.55%	288.1974	148.50	78.31%	Single Stack	B		MAJOR	TY16844	98	23	9	1				
+45-Kyle Post	52.46%	277.1551	155.54	57.90%	PCC	M		MINOR	A74846	114	8	1	6			2	
+46-Gerrit Milks	51.54%	272.3278	120.67	56.81%	Open	C		MAJOR	A67608	101	21	3	4		2		
+47-Eman Alcoseba	51.27%	270.8888	122.38	68.45%	Limited	C		MINOR	TY67519	97	26	4	3				
+48-Robert Bui	50.26%	265.5408	121.53	68.93%	Production	C		MINOR	A103016	90	33	4	2			1	
+49-Paul Felker	49.63%	262.2363	112.57	57.08%	Carry Optics	U		MINOR	A107123	85	35	7	4				
+50-Nathan Peterson	47.49%	250.9258	159.42	61.70%	Production		Junior	MINOR		106	19	2	3			1	
+51-JW Aguirre	46.51%	245.7134	96.35	84.17%	Revolver	B		MINOR	A87708	83	20	2	1				
+52-David Chow	46.01%	243.0966	116.79	59.63%	Production	C		MINOR	A100573	83	35	5	8		1		
+53-Marlon Poralan	45.14%	238.5231	141.69	52.16%	Carry Optics	D		MINOR	PEN	99	22	5	4				
+54-Jeff Lamar	44.78%	236.5821	143.29	57.23%	Limited	U		MINOR	PENDING	95	28	4	4				
+55-Richard Dillow	42.82%	226.2233	162.56	56.77%	Production	C	Senior	MINOR	TY57446	94	30	6			2		
+56-Mark Meyers	41.81%	220.9229	117.95	48.18%	Carry Optics	none		MINOR	P	82	33	9	6				
+57-Bill Kinstley	41.48%	219.1869	152.13	47.84%	Limited	U		MAJOR	A104836	94	26	4	7		1		
+58-Christopher Zak	40.85%	215.8252	144.97	54.61%	Production	U		MINOR	PEN	93	25	8	5		1		
+59-Patrick Sartor	40.26%	212.6964	153.86	51.85%	Production	U		MINOR	PEN	86	33	7	4				
+60-Adam Post	39.66%	209.5478	152.97	59.21%	Single Stack	C		MINOR	A83655	85	32	11	3				
+61-Abelardo Nerida	38.25%	202.1067	161.27	49.68%	Limited	U		MAJOR		91	24	4	5		1		
+62-Ralph Burbe	38.16%	201.6464	173.05	44.32%	Carry Optics	U		MINOR	A83904	92	29	8			1		
+63-Arnold Gee	38.05%	201.0194	170.06	43.43%	Open	D		MAJOR	A103519	81	38	11	1				
+64-Robin Woods	37.28%	196.9874	97.68	47.86%	Limited	B		MAJOR	TY51892	69	22	4	5			1	
+65-Pedro Cordova 1	36.31%	191.8721	173.51	38.96%	Limited	U		MINOR	PEN	71	38	11	11		2	2	
+66-Angela Rabuck	34.78%	183.7593	91.76	51.08%	Limited	C	Lady	MINOR	A91275	67	31	1	4				
+67-Daniel Arriega	34.67%	183.1873	169.45	46.36%	Limited	U		MINOR	PENDING	88	31	7	3		2		
+68-Tim Fisher	34.39%	181.7053	202.02	39.95%	Carry Optics	U		MINOR	A54932	106	21	1	3		1		
+69-Terry Price	33.98%	179.5334	187.15	45.39%	Production	U		MINOR	A94118	105	19	3	4		1		
+70-Ryan Alicaya	32.89%	173.7838	153.03	49.75%	Production	C		MINOR	A106355	89	32	5	5		4		
+71-Mark East	31.03%	163.9404	219.34	35.23%	Limited	D		MAJOR	A87920	70	32	14	13		4		
+72-Tom Neal	30.18%	159.4801	175.65	43.19%	Single Stack	C		MAJOR	L2362	81	21	5	5		1		
+73-Mackenzie Dillon	30.01%	158.5520	215.47	40.73%	Production	D	Junior, Lady	MINOR	A88307	103	20	3	3				
+74-Zack Zwicky	29.46%	155.6323	198.75	35.45%	Limited	U		MAJOR		81	25	10	15		2		
+75-James Parker	29.15%	154.0127	242.78	37.15%	Limited	U		MAJOR	PEN	90	29	6	6		4	2	
+76-William Haggerty	28.93%	152.8403	199.19	43.04%	Single Stack			MAJOR		96	20	6	8			1	
+77-Johnnie Priola	28.45%	150.3320	174.75	31.20%	Limited			MAJOR	A109588	80	23	6	18		2		
+78-Larry Janecka	24.91%	131.5937	210.68	30.56%	Limited	U		MAJOR		75	32	10	11		2		
+79-Nathan Sh vetzov	22.64%	119.6016	234.78	28.42%	Production	U		MINOR	PEN	98	17	4	11		3		
+80-Lawney Morales	19.94%	105.3505	184.13	24.78%	Limited	D	Senior	MINOR	TY75143	82	22	12	15		3		
+81-Tom Neal	3.64%	19.2151	16.40	4.88%	Single Stack	C		MAJOR	L2363	4	6	1	1				
+82-Gerrit Milks	0.00%	0.0000		0.00%	PCC	C		MINOR	A67608								
+DQ-Alan Regala	0.00%	0.0000		0.00%	Limited	B		MAJOR	TY97851								
+DQ-Glenn Cunningham	0.00%	0.0000		0.00%	Production	C		MINOR	A78280								
+Name
+1-Edwin Garcia
+2-August Balagtas
+3-Tony Phan
+4-Wade Pruetz
+5-Roman Gwiscz
+6-Jason Brinkley
+7-Brian Whelihan
+8-Alex Goben
+9-Henry Moreno
+10-Kit Hoog
+11-Jon Baguio
+12-Chris Peterson
+13-Robert Hollier
+14-Jason Sartor
+15-Albert Calderon
+16-Gian Ruta
+17-Seth Clagg
+18-Dave Eickhoff 1
+19-Randy Goodney
+20-Wade Ledbetter
+21-Jason Bright
+22-Joe Wilson
+23-Ricky Wiley
+24-Mike Junco
+25-Gary Wu
+26-Brandon Hill
+27-Dave Campell
+28-John Gossett
+29-Doug Dillon
+30-Eddie Jimenea
+31-Deryle Lowery
+32-James Beshada
+33-Raimon Alfonso
+34-Steven Mcnamara
+35-Matt Lem
+36-Mark Porretto
+37-JoAnna Wilson
+38-Travis Edwards 1
+39-Reynaldo Panelo
+40-Mike Kahl
+41-Michael Pontious
+42-Chris Whelihan
+43-Derek Rabuck
+44-Steve Deardorff
+45-Kyle Post
+46-Gerrit Milks
+47-Eman Alcoseba
+48-Robert Bui
+49-Paul Felker
+50-Nathan Peterson
+51-JW Aguirre
+52-David Chow
+53-Marlon Poralan
+54-Jeff Lamar
+55-Richard Dillow
+56-Mark Meyers
+57-Bill Kinstley
+58-Christopher Zak
+59-Patrick Sartor
+60-Adam Post
+61-Abelardo Nerida
+62-Ralph Burbe
+63-Arnold Gee
+64-Robin Woods
+65-Pedro Cordova 1
+66-Angela Rabuck
+67-Daniel Arriega
+68-Tim Fisher
+69-Terry Price
+70-Ryan Alicaya
+71-Mark East
+72-Tom Neal
+73-Mackenzie Dillon
+74-Zack Zwicky
+75-James Parker
+76-William Haggerty
+77-Johnnie Priola
+78-Larry Janecka
+79-Nathan Sh vetzov
+80-Lawney Morales
+81-Tom Neal
+82-Gerrit Milks
+DQ-Alan Regala
+DQ-Glenn Cunningham
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Red
+Cordova, Pedro (1)
+2018-03-17 17:02:50.691 - 2018-03-17 17:05:44.363Edited 3 minutes after.Edited aprv was: false now: trueEdited str,0 was: 29.17 now: 19.01Added details: [object Object]Added numAlphas: 17Added numCharlies: 8Added numDeltas: 3Added stringTime: 19.01Edited By Baps-Squad 2
+Edwards, Travis (1)
+2018-03-17 17:04:49.407 - 2018-03-17 17:05:13.522Edited a few seconds after.Edited str,0 was: 29.01 now: 19.01Added details: [object Object]Added numAlphas: 21Added numCharlies: 7Added stringTime: 19.01Edited By Baps-Squad 2
+Cm 09-02
+Eickhoff, Dave (1)
+2018-03-17 15:56:44.465 - 2018-03-17 16:00:55.858Edited 4 minutes after.Edited str,0 was: 2.75 now: 3.67
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 8Added stringTime: 3.67Edited By Baps-Squad 3
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

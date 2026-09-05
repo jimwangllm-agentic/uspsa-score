@@ -1,0 +1,262 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+GPS February 2021 at Wallis-Orchard Gun Range USPSA 2021-02-28Generation P C
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Gil Yolo	100.00%	696.5023	92.84	99.50%	Open	A		MAJOR	A100714	103	44	4	1		1		
+2-Trevor Cotter	96.82%	674.3462	91.66	96.34%	Open	M		MAJOR	A108348	106	28	15	3				
+3-Kevin Bunurai	95.29%	663.6740	100.11	106.75%	Carry Optics	M		MINOR	TY105111	122	29	1					
+4-Corey Slifko 1	90.41%	629.6800	101.73	89.95%	Open	U		MAJOR	A82935	95	53	2	2				
+5-Jan Pacleb	89.76%	625.2041	95.75	89.31%	Open	A		MAJOR	A79326	108	34	5	5		1		
+6-Michael Whitley	89.44%	622.9233	100.86	88.99%	Open	B		MAJOR		116	28	5	3		1		
+7-Scott Ragsdale	88.38%	615.5341	109.20	104.78%	PCC	A		MINOR	A91297	125	25	2					
+8-Chris Snow	86.33%	601.2921	98.00	85.90%	Open	A		MAJOR		101	38	8	5				
+9-Brandon Foss	86.23%	600.6271	113.28	96.45%	Carry Optics	A		MINOR	FY92765	133	18		1				
+10-Ross Apffel	86.02%	599.1208	106.41	101.83%	Limited	B		MAJOR	L4428	91	52	8	1				
+11-Vinh Lam	85.13%	592.9276	105.73	100.63%	Limited	A		MAJOR	TY101025	90	52	8	2				
+12-Andrew Whitley 2	81.44%	567.2634	116.52	81.04%	Open	B		MAJOR	TY-106649	111	33	8			1		
+13-Jerry Bedro	81.20%	565.5488	104.64	96.09%	PCC	B		MINOR		114	29	5	4				
+14-CHAN WILLIAM	80.23%	558.7954	97.25	90.14%	Carry Optics			MINOR		97	41	9	5				
+15-Paul Felker	79.31%	552.4016	110.91	88.99%	Carry Optics	M		MINOR	TY107123	113	34	4	1		1	1	
+16-Albert Montanez	78.94%	549.7996	96.62	78.54%	Open	M		MAJOR	TY101554	100	35	7	10				
+17-Matt Lem	78.56%	547.1585	111.63	88.34%	Carry Optics	A		MINOR	FY34763	109	37	4	2				
+18-James Beshada	78.13%	544.1454	113.30	87.59%	Carry Optics	U		MINOR	L4029	109	35	7	1				
+19-Zach Harvey	77.76%	541.6261	116.92	92.15%	PCC	M		MINOR	A122646	120	27	3	2		1		
+20-Roman Gwiscz	75.51%	525.9440	126.57	84.71%	Carry Optics	A		MINOR	l4670	124	25	3					
+21-Mike Junco	73.82%	514.1336	116.51	82.93%	Carry Optics	A		MINOR	FY34819	105	39	6	2				
+22-Steven McNamara	73.55%	512.2935	125.60	73.18%	Open	B	Senior	MAJOR	A75212	112	34	4	2		1		
+23-Arnold Gee	73.50%	511.9019	121.69	73.13%	Open	B	Senior	MAJOR	TY103519	118	25	5	4		1		
+24-Andrew Brunkhorst	72.85%	507.4153	129.52	81.67%	Carry Optics	B		MINOR	A128163	118	29	5					
+25-Wade Pruetz	72.71%	506.4585	106.80	72.35%	Open	A		MAJOR	TY79055	98	36	10	8		1		
+26-randy callison	70.94%	494.0958	117.68	84.80%	PCC	A	Senior	MINOR	A14418	95	49	5	3				
+27-Ryan Alicaya	70.83%	493.3155	129.33	84.27%	PCC	D		MINOR		114	32	4	2		1		
+28-Janice Pacleb	70.38%	490.1987	125.84	70.03%	Open	B	Lady	MAJOR	TY75597	92	51	4	5				
+29-Garry Newton	70.05%	487.8779	139.58	83.18%	PCC	M	Super Senior	MINOR	ty79434	127	25						
+30-Jason Bright	69.57%	484.5586	127.44	78.01%	Carry Optics	B		MINOR	A93447	113	32	6	1		1		
+31-John Brunkhorst	69.34%	482.9763	135.91	77.63%	Carry Optics	B		MINOR	A116144	120	28	4					
+32-Don Sanders	68.45%	476.7366	124.18	81.14%	Limited	A	Senior	MAJOR	FY46389	87	51	10	4				
+33-Mengyu Yue	68.10%	474.3456	132.30	80.92%	PCC	B		MINOR		123	24	2	3				
+34-Jeffrey Polk	65.94%	459.3045	128.98	73.94%	Carry Optics	B		MINOR		96	48	8			1		
+35-Abrahan Figueroa	65.92%	459.1074	140.76	65.59%	Open	C	Senior	MAJOR	TY54053	99	46	4	3				
+36-Matthew Gonzalez	63.70%	443.6745	131.44	71.42%	Carry Optics	C		MINOR	A119810	104	39	7	2		2		
+37-James Tonkinson	60.88%	424.0082	124.60	68.49%	Carry Optics	B		MINOR	A123944	102	35	9	6		1		
+38-Carlos Escandon	58.76%	409.2319	159.76	105.92%	Single Stack	B	Senior	MAJOR	L2590	116	31	3	2		1		
+39-Garrick Gonzalez	57.49%	400.4052	131.62	64.74%	Carry Optics	B		MINOR	A119804	92	46	9	5		1		
+40-Waldo Samano	57.19%	398.2993	74.22	63.67%	Carry Optics	M		MINOR	TY87973	87	14	2	3				
+41-CARLOS NIEVES 1	56.78%	395.5073	161.67	67.17%	PCC	C		MINOR	A120418	119	25	3	5			2	
+42-Tom Donahue	54.74%	381.2337	170.99	54.46%	Open	C	Super Senior	MAJOR	TY69009	111	29	11	1		1		
+43-Gary Wu	54.22%	377.6748	164.50	102.47%	Production	B		MINOR	L2998	108	38	4	2				
+44-Robert Bui 1	53.99%	376.0460	155.81	60.30%	Carry Optics	U		MINOR	A103016	108	31	8	5		1		
+45-Jun Wu	53.93%	375.6188	152.60	60.33%	Carry Optics	X		MINOR		124	19	2	7				
+46-John Austria	53.49%	372.5566	147.10	59.73%	Carry Optics	B		MINOR	Fy82746	102	37	7	6			2	
+47-Marchoni Aquino	52.95%	368.7843	177.87	62.80%	PCC	U		MINOR	A124540	114	36	2					
+48-Shannon Counsil	52.29%	364.2210	135.31	61.88%	Limited	C	Senior	MAJOR	TY96175	88	44	12	8		4		
+49-Bill Kinstley	50.88%	354.3549	161.72	60.62%	Limited	B		MAJOR	A104836	97	42	6	7			1	
+50-Eric Wu	48.45%	337.4652	144.17	92.00%	Production	C		MINOR		85	47	13	7				
+51-Bryan Faustino	47.46%	330.5305	132.41	53.03%	Carry Optics	D		MINOR		83	46	13	10			1	
+52-Jonathan Backof	46.58%	324.4471	165.00	84.89%	Single Stack	C		MAJOR	A116878	92	39	14	7		1		
+53-Joseph Reyes	45.64%	317.9141	165.65	54.36%	Limited	C	Super Senior	MINOR		104	29	13	6			1	
+54-Emmanuel Alcoseba	45.27%	315.3078	182.77	53.92%	Limited	C	Senior	MINOR		104	39	5	4				
+55-Doug Joder	43.70%	304.3751	186.84	52.21%	PCC	U		MINOR		104	37	5	6				
+56-Antonio Tormis	42.84%	298.3600	167.66	48.05%	Carry Optics	C		MINOR		91	48	5	8			1	
+57-Page Brunkhorst	41.42%	288.5024	177.75	74.04%	Single Stack	C	Senior	MINOR	L4903	109	29	7	7		2	1	
+58-Kevin Baker	40.84%	284.4687	146.69	75.55%	Production	C		MINOR	A95439	84	44	11	13				
+59-Benjamin Michael 1	40.61%	282.8192	185.68	75.96%	Production	C		MINOR		105	34	5	8		1		
+60-JR Roberts	38.32%	266.8894	211.84	45.49%	Limited	D		MINOR	A102739	104	38	6	4			1	
+61-Danny Garza 1	28.61%	199.2449	138.97	33.84%	Limited	D		MAJOR	TY75480	61	30	10	3				
+62-Joseph Naoum	22.50%	156.7379	217.02	26.86%	Limited	D		MINOR	ty126260	77	41	18	16		1	1	
+DQ-Hopper Po	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	A132909								
+DQ-Neal Nandin	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	FY71894								
+Name
+1-Gil Yolo
+2-Trevor Cotter
+3-Kevin Bunurai
+4-Corey Slifko 1
+5-Jan Pacleb
+6-Michael Whitley
+7-Scott Ragsdale
+8-Chris Snow
+9-Brandon Foss
+10-Ross Apffel
+11-Vinh Lam
+12-Andrew Whitley 2
+13-Jerry Bedro
+14-CHAN WILLIAM
+15-Paul Felker
+16-Albert Montanez
+17-Matt Lem
+18-James Beshada
+19-Zach Harvey
+20-Roman Gwiscz
+21-Mike Junco
+22-Steven McNamara
+23-Arnold Gee
+24-Andrew Brunkhorst
+25-Wade Pruetz
+26-randy callison
+27-Ryan Alicaya
+28-Janice Pacleb
+29-Garry Newton
+30-Jason Bright
+31-John Brunkhorst
+32-Don Sanders
+33-Mengyu Yue
+34-Jeffrey Polk
+35-Abrahan Figueroa
+36-Matthew Gonzalez
+37-James Tonkinson
+38-Carlos Escandon
+39-Garrick Gonzalez
+40-Waldo Samano
+41-CARLOS NIEVES 1
+42-Tom Donahue
+43-Gary Wu
+44-Robert Bui 1
+45-Jun Wu
+46-John Austria
+47-Marchoni Aquino
+48-Shannon Counsil
+49-Bill Kinstley
+50-Eric Wu
+51-Bryan Faustino
+52-Jonathan Backof
+53-Joseph Reyes
+54-Emmanuel Alcoseba
+55-Doug Joder
+56-Antonio Tormis
+57-Page Brunkhorst
+58-Kevin Baker
+59-Benjamin Michael 1
+60-JR Roberts
+61-Danny Garza 1
+62-Joseph Naoum
+DQ-Hopper Po
+DQ-Neal Nandin
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Bay 5
+Slifko, Corey (1)
+2021-02-28 16:44:42.323 - 2021-02-28 16:45:36.374Edited a minute after.Edited rawpts was: 103 now: 104
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 18Added numCharlies: 6Added stringTime: 13.32Edited By Android Device
+Garza, Danny (1)
+2021-02-28 15:23:13.087 - 2021-02-28 15:23:36.741Edited a few seconds after.Edited rawpts was: 93 now: 97
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 13Added numCharlies: 10Added numDeltas: 1Added stringTime: 25.05Edited By Android Device
+Whitley, Andrew (2)
+2021-02-28 15:08:36.158 - 2021-02-28 18:29:01.770Edited 3 hours after.Edited rawpts was: 10 now: 96Edited str,0 was: 0 now: 17.98
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded aprv: trueAdded details: [object Object]Added numAlphas: 16Added numCharlies: 5Added numDeltas: 3Added stringTime: 17.98Edited By Android Device2021-02-28 15:08:36.153 - 2021-02-28 15:08:36.158Edited a few seconds after.Edited rawpts was: 82 now: 10Edited str,0 was: 17.6 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit ReshootEdited By Android Device
+Bay 6
+Bui, Robert (1)
+2021-02-28 15:20:55.306 - 2021-02-28 15:21:24.876Edited a few seconds after.Edited rawpts was: 66 now: 65
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	0	0	0	1	0	1	0
+Added details: [object Object]Added numAlphas: 13Added numCharlies: 4Added numDeltas: 3Added numM: 2Added stringTime: 32.66Edited By Android Device
+Bay 8
+Michael, Benjamin (1)
+2021-02-28 18:33:20.989 - 2021-02-28 18:33:57.045Edited a few seconds after.Edited rawpts was: 83 now: 78
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Added details: [object Object]Added numAlphas: 8Added numCharlies: 12Added numDeltas: 2Added numM: 2Added stringTime: 29.69Edited By Android Device
+Bay 9
+NIEVES, CARLOS (1)
+2021-02-28 15:23:14.435 - 2021-02-28 15:24:02.379Edited a minute after.Edited proc was: 1 now: 2Edited proc_cnts,0,Bbu6AL was: 1 now: 2Added details: [object Object]Added numAlphas: 17Added numCharlies: 2Added numDeltas: 1Added numM: 4Added numProc: 2Added stringTime: 38.74Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

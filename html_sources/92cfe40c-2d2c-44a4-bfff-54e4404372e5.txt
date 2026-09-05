@@ -1,0 +1,105 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BAS USPSA Nov 18, 2018 USPSA 2018-11-18
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-John Zelek	100.00%	496.6146	81.63	103.16%	pcc	A		MINOR	A111538	86	17	1					
+2-jim martino	99.78%	495.5092	85.16	102.81%	pcc	M		MINOR	A19068	96	9						
+3-Sebastian Yordan	89.33%	443.6107	86.58	103.23%	Carry Optics	B		MINOR	A84437	80	22	3			1		
+4-Michael Kane	84.86%	421.4281	99.06	97.86%	Carry Optics	B		MINOR	TY93513	90	14	1					
+5-jon eichten	79.11%	392.8588	89.57	89.55%	Production	A		MINOR	A100775	71	26	4	3		1		
+6-Dan Haywood	75.95%	377.1555	86.78	98.11%	Limited	U		MAJOR	TY80786	61	29	7	5		1		
+7-Erik Klein	72.80%	361.5574	94.50	88.65%	Open	C		MAJOR	A92424	70	27	3	4		3		
+8-Bob Young 2	71.74%	356.2526	108.90	90.59%	Open	C		MAJOR	TY83661	65	29	9			1		
+9-James Boulay	67.63%	335.8697	93.95	76.96%	Production	C		MINOR	A107735	75	19	5	5		1		
+10-Wade Price	65.80%	326.7568	119.78	87.83%	Limited	C		MAJOR	L3330	85	17	1	1		2		
+11-Jerami Atwater	63.60%	315.8265	110.17	71.96%	Production	B		MINOR	A102565	72	28	3	1		2		
+12-Jack Folloni	61.27%	304.2971	76.88	66.66%	Production	M	Senior	MINOR	A80334	67	15	4	17				
+13-John Bannon	56.46%	280.4092	130.79	105.00%	Single Stack	B		MAJOR	TY84968	65	29	4	3				
+14-Jim Wallhagen	54.79%	272.0961	152.44	98.96%	Limited 10	C		MAJOR	TY100479	90	12	2			1		
+15-Mike Heriot	52.98%	263.1003	147.77	95.25%	Limited 10			MAJOR	TY78901	85	17	1	2		1		
+16-Keith Hatfield	49.95%	248.0475	166.13	90.07%	Limited 10	C		MAJOR	A88292	83	15	5	1				
+17-Ryan Knuth	49.59%	246.2899	131.83	88.38%	Limited 10	B		MAJOR		66	27	7	4		1	2	
+18-KENDALL PERKINS	45.16%	224.2914	163.46	60.90%	Limited	U		MINOR	A109109	75	25	3			3		
+19-Bill Stewart	41.70%	207.0978	192.75	48.13%	Production	C		MINOR	TY102711	96	7		2			1	
+20-Franklin Raposa	36.30%	180.2472	208.49	42.21%	Carry Optics	C		MINOR	A111321	87	14		2		1		
+21-Bill Paniccia	34.85%	173.0707	189.28	39.73%	Production	C		MINOR	TY112179	75	18	7	4			1	
+22-Chris Hiltgen	34.72%	172.4240	179.18	39.51%	Production			MINOR	A114178	75	16	6	6		1		
+23-Christopher Howell	20.98%	104.1651	231.33	38.11%	Limited 10	U		MAJOR	A115114	73	13	7	12		1		
+Name
+1-John Zelek
+2-jim martino
+3-Sebastian Yordan
+4-Michael Kane
+5-jon eichten
+6-Dan Haywood
+7-Erik Klein
+8-Bob Young 2
+9-James Boulay
+10-Wade Price
+11-Jerami Atwater
+12-Jack Folloni
+13-John Bannon
+14-Jim Wallhagen
+15-Mike Heriot
+16-Keith Hatfield
+17-Ryan Knuth
+18-KENDALL PERKINS
+19-Bill Stewart
+20-Franklin Raposa
+21-Bill Paniccia
+22-Chris Hiltgen
+23-Christopher Howell
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+P4 S5:matamoras
+Young, Bob (2)
+2018-11-18 16:53:26.926 - 2018-11-18 16:56:12.971Edited 3 minutes after.Removed rngwait: 0Added details: [object Object]Added numAlphas: 17Added numCharlies: 9Added numNS: 1Added stringTime: 25.33Edited By BAS #12018-11-18 16:46:47.825 - 2018-11-18 16:53:26.926Edited 7 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	1	0	0
+Current	2	0	0	0	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited By BAS #1
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

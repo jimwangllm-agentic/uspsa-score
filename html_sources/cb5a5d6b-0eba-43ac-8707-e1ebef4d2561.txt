@@ -1,0 +1,95 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+GPS Wednesday Night USPSA Mini-match 7/21/21 USPSA 2021-07-20
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Patrick Furey	100.00%	176.0682	17.53	88.03%	Production	B		MINOR	TY109180	27	9						
+2-Matt Williams	97.25%	171.2195	17.35	85.61%	Production	B		MINOR	A112998	24	12						
+3-Nick Deal	86.86%	152.9370	18.15	88.36%	PCC	C		MINOR	A133815	29	7					2	
+4-Robert Henneman	83.21%	146.5041	20.02	73.25%	Production	C	Senior	MINOR	TY122352	23	13						
+5-Todd Arnold	79.84%	140.5816	21.71	90.00%	Open	U		MINOR	A122258	27	8	1					
+6-Brad Bends	64.02%	112.7200	18.42	90.00%	Limited 10	U	Super Senior	MINOR	TY69832	16	15	3	2				
+7-Jon Minnihan	58.59%	103.1670	18.51	64.06%	Open	U		MAJOR	TY126628	16	14	6			2	3	
+8-Justin Pritchard	54.21%	95.4534	24.66	47.73%	Production	U		MINOR	FY123958	17	13	5	1				
+9-Matt Williams	49.94%	87.9238	9.05	43.96%	Production	B		MINOR	A112998	16	2						
+10-Nick Deal	48.75%	85.8364	9.27	45.00%	PCC	C		MINOR	A133815	16	2						
+11-Byron Whitney	47.29%	83.2615	8.89	41.63%	Production	B		MINOR	L4702	13	5						
+12-Ian Licence	36.93%	65.0206	17.39	32.51%	Production	B		MINOR	TY107328	14	15	4	3		2	1	
+13-Patrick Furey	33.60%	59.1664	9.07	29.58%	Production	B		MINOR	TY109180	7	6	5					
+14-Dustin DeMars	27.57%	48.5402	16.18	45.00%	Limited	U		MAJOR	A134184	11	8	1	4		1		
+15-Byron Whitney 2	12.23%	21.5303	21.91	10.77%	Production	B		MINOR	L4702	20	8	1	7		2	2	
+16-Ian Licence	11.34%	19.9602	14.37	9.98%	Production	B		MINOR	TY107328	11	5	1	1		2	1	
+17-George DeMars	9.84%	17.3255	71.36	90.00%	Carry Optics	U	Junior	MINOR	A135848	9	13	11	3				
+18-Justin Pritchard	6.80%	11.9717	16.23	5.99%	Production	U		MINOR	FY123958	11	5	1	1		1	3	
+Name
+1-Patrick Furey
+2-Matt Williams
+3-Nick Deal
+4-Robert Henneman
+5-Todd Arnold
+6-Brad Bends
+7-Jon Minnihan
+8-Justin Pritchard
+9-Matt Williams
+10-Nick Deal
+11-Byron Whitney
+12-Ian Licence
+13-Patrick Furey
+14-Dustin DeMars
+15-Byron Whitney 2
+16-Ian Licence
+17-George DeMars
+18-Justin Pritchard
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+The Hustle
+Whitney, Byron (2)
+2021-07-22 00:53:11.055 - 2021-07-22 01:22:09.936Edited 29 minutes after.Edited str,1 was: 0 now: 6.01
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	2	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	6	0
+Added proc: 1Added details: [object Object]Added numAlphas: 7Added numCharlies: 4Added numDeltas: 1Added numM: 6Added numProc: 1Added stringTime: 6.01Edited By Byron's iPad2021-07-22 00:51:49.709 - 2021-07-22 00:53:11.055Edited a minute after.Edited By Byron's iPad
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

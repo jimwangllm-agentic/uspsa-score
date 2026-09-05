@@ -1,0 +1,265 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BIPS USPSA Sep 16, 2018 USPSA/IPSC 2018-09-16
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	P
+1-Rick Troyer 2	100.00%	400.0892	49.13	100.02%	PCC	B		MINOR	FY46305	65	18	3	2			
+2-Will 2 Hopkins	66.58%	266.3633	54.83	66.59%	PCC	U		MINOR	A20052	60	9		16			
+3-Rick Troyer	63.14%	252.5991	78.28	110.00%	Open	B		MAJOR	FY46305	59	21	3	4			
+4-Patrick Fiesta	45.87%	183.5339	136.48	76.91%	Limited 10	U		MAJOR	A96989	60	23	2	1			
+5-Will Hopkins 5	38.69%	154.7892	89.75	55.81%	Limited 10	A		MAJOR	A20052	63	20	4	1			
+6-Richard L Troyer 3 4	33.68%	134.7438	142.74	110.00%	Single Stack	U		MAJOR	TY105977	64	14	6	4			
+7-Robert Stewart 4	30.61%	122.4767	192.72	106.88%	Production	X		MINOR		77	9					
+8-Paul Cabreira	28.00%	112.0374	206.92	96.08%	Production	D		MINOR	A94700	78	6	3	1		1	
+9-Teddy Sadorra 1	21.07%	84.2896	219.58	64.37%	Production	U		MINOR		57	18		9		2	
+Name
+1-Rick Troyer 2
+2-Will 2 Hopkins
+3-Rick Troyer
+4-Patrick Fiesta
+5-Will Hopkins 5
+6-Richard L Troyer 3 4
+7-Robert Stewart 4
+8-Paul Cabreira
+9-Teddy Sadorra 1
+Old style results
+
+Score Edit History
+Stage 2
+Stewart, Robert (4)
+2018-09-16 21:18:31.141 - 2018-09-16 21:30:12.474Edited 12 minutes after.Edited rawpts was: 20 now: 154Edited str,0 was: 0 now: 65.71
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	0	2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 33Added numCharlies: 3Added numNPM: 2Added stringTime: 65.71Edited By Android Device2018-09-16 21:17:05.860 - 2018-09-16 21:18:31.141Edited a minute after.Edited By Android Device2018-09-16 21:13:54.001 - 2018-09-16 21:17:05.860Edited 3 minutes after.Edited By Android Device2018-09-16 20:32:07.521 - 2018-09-16 21:13:54.001Edited 42 minutes after.Edited rawpts was: 139 now: 20Edited str,0 was: 56.12 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	2	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited By Android Device
+Hopkins, Will (5)
+2018-09-16 21:18:31.142 - 2018-09-16 21:45:40.788Edited 27 minutes after.Edited rawpts was: 20 now: 152Edited str,0 was: 0 now: 28.07
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	3	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 20Added numCharlies: 12Added numDeltas: 2Added stringTime: 28.07Edited By Android Device2018-09-16 21:17:05.863 - 2018-09-16 21:18:31.142Edited a minute after.Edited By Android Device2018-09-16 21:15:59.147 - 2018-09-16 21:17:05.863Edited a minute after.Edited By Android Device2018-09-16 20:59:44.944 - 2018-09-16 21:15:59.147Edited 16 minutes after.Edited rawpts was: 134 now: 20Edited str,0 was: 26.58 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	3	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	3	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited By Android Device2018-09-16 20:59:38.941 - 2018-09-16 20:59:44.944Edited a few seconds after.Edited By Android Device
+Troyer 3, Richard L (4)
+2018-09-16 21:18:31.143 - 2018-09-16 21:35:16.747Edited 17 minutes after.Edited rawpts was: 20 now: 153Edited str,0 was: 0 now: 56.66
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 29Added numCharlies: 6Added numDeltas: 2Added numM: 1Added stringTime: 56.66Edited By Android Device2018-09-16 21:17:05.864 - 2018-09-16 21:18:31.143Edited a minute after.Edited By Android Device2018-09-16 21:14:54.073 - 2018-09-16 21:17:05.864Edited 2 minutes after.Edited By Android Device2018-09-16 20:38:52.072 - 2018-09-16 21:14:54.073Edited 36 minutes after.Edited rawpts was: 144 now: 20Edited str,0 was: 91.68 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	3	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited By Android Device
+Stage 3
+Sadorra, Teddy (1)
+2018-09-16 22:40:02.160 - 2018-09-16 22:46:32.044Edited 6 minutes after.Edited rawpts was: 99 now: 84Edited str,0 was: 46.41 now: 44.73
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	1	2	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 22Added numCharlies: 3Added numNS: 1Added numM: 3Added stringTime: 44.73Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

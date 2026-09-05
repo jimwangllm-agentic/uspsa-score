@@ -1,0 +1,222 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BAPS USPSA July USPSA 2021-07-17
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Albert Montanez	100.00%	691.1823	68.11	115.20%	Open			MAJOR	TY101554	100	35	5					
+2-Corey Slifko	95.87%	662.6418	68.78	110.44%	Open	A		MAJOR	TY82935	102	33	4	1		1		
+3-Wade Pruetz	89.53%	618.7982	73.13	103.13%	Open	A		MAJOR		95	40	4	1		1		
+4-Duane Mendoza	89.43%	618.1166	73.99	103.02%	Open	B		MINOR	X	106	28	4					
+5-Derek Rabuck	79.68%	550.7189	79.68	110.82%	PCC	B		MINOR	TY91331	101	34	4	1				
+6-Ryan Alicaya	78.82%	544.7745	81.71	90.80%	Open	D		MAJOR		98	31	9	2				
+7-Brian Whelihan	76.18%	526.5432	93.39	87.76%	Open			MAJOR		120	20						
+8-Juliann Milks	75.42%	521.3182	81.52	105.48%	PCC	B		MINOR		100	32	6	2				
+9-Steven McNamara 1	75.21%	519.8550	89.76	86.64%	Open	B	Senior	MAJOR	A75212	103	33	3	1				
+10-Randy Goodney	74.89%	517.6272	89.21	86.27%	Open	A	Senior	MAJOR	A94852	89	43	8					
+11-Michael Whitley	73.71%	509.4622	91.93	84.91%	Open			MAJOR	A111091	105	28	3	4				
+12-Gerrit Milks	72.16%	498.7561	92.10	101.32%	PCC	A	Super Senior	MINOR	A67608	113	25	1	1				
+13-Mike Junco	71.90%	496.9310	86.60	105.88%	Carry Optics	M	Law Enforcement	MINOR	FY34819	104	32	2	2				
+14-Dave Campbell	69.70%	481.7646	94.68	80.29%	Open	M	Super Senior	MAJOR		102	31	5	2				
+15-Robert Bui	68.71%	474.9250	90.08	101.71%	Carry Optics	C		MINOR	A103016	99	34	6	1				
+16-Chev Jacot	68.09%	470.6420	82.89	101.63%	Carry Optics	B		MINOR	A72378	95	31	7	4				
+17-Roman Gwiscz	66.24%	457.8240	97.62	97.63%	Carry Optics	A		MINOR	L4670	98	39	2	1				
+18-James Tonkinson	66.20%	457.5403	87.06	98.84%	Carry Optics	A		MINOR	A123944	92	39	6	3				
+19-Alex Goben 1	66.18%	457.4431	90.42	98.06%	Carry Optics	A		MINOR	A86498	108	25	3	4				
+20-Q Nguyen	65.46%	452.4673	98.95	75.41%	Open	C		MAJOR	Y99688	92	38	9	1				
+21-Sam Bharksuwan	65.16%	450.3986	96.23	111.23%	Limited	B		MAJOR	B51	92	41	4	3				
+22-Matt Lem	65.05%	449.6469	96.84	96.22%	Carry Optics	A	Law Enforcement	MINOR	FY34763	105	31	2	2		1		
+23-Ashley Sullivan	64.21%	443.7863	104.98	116.67%	Limited 10	C	Lady	MINOR	TY92392	114	25	1					
+24-Craig Bellamy	63.82%	441.0790	109.37	114.66%	Single Stack	A	Law Enforcement	MAJOR	TY54824	107	32	1					
+25-Tom Donahue	62.14%	429.4945	100.54	71.58%	Open	C		MAJOR		98	34	5	2			2	
+26-Norman Oducado	59.93%	414.2465	92.69	102.74%	Limited			MINOR		94	36	5	5				
+27-Jon Baguio	58.27%	402.7633	92.17	86.00%	Carry Optics	X		MINOR		95	35	4	6		1		
+28-Marlon Poralan	58.14%	401.8797	106.06	86.11%	Carry Optics	X		MINOR		97	34	9			1		
+29-Kenedy Nguyen	58.14%	401.8201	110.89	99.28%	Limited	C		MAJOR	A83862	82	46	11	1				
+30-Pat Byrne	58.00%	400.8611	109.69	103.53%	Single Stack	B		MAJOR	FY93921	93	41	3	3				
+31-Michael Pontious	55.13%	381.0617	106.71	63.51%	Open	C	Senior	MAJOR	ty94575	95	31	9	5				
+32-Gary Wu	54.81%	378.8613	112.92	93.90%	Limited	B		MAJOR	L2998	101	32	4	3		2		
+33-Phil Truong	54.71%	378.1237	82.16	63.02%	Open			MAJOR		84	34	10	12		2	1	
+34-Detlef Hohl	54.63%	377.5900	115.00	98.71%	Single Stack	A		MAJOR	L3462	100	33	4	3		1		
+35-Jerry Dueitt 1	53.85%	372.1887	128.00	79.48%	Carry Optics	B		MINOR	ty108354	127	10	1	1		1		
+36-Jim Duncan	51.82%	358.1385	138.31	72.31%	PCC	U	Super Senior	MINOR	TY33325	131	8	1					
+37-Angela Rabuck	50.96%	352.2344	125.19	87.56%	Limited	C	Lady	MINOR	A91275	106	26	7	1				
+38-Danny Naramore	50.30%	347.6801	124.14	57.95%	Open	C	Super Senior	MAJOR	TY96553	85	42	10	3				
+39-Chris Nagala 1	48.04%	332.0716	131.92	72.46%	Carry Optics	B		MINOR	TY97712	121	19					6	
+40-Kristen Day	47.16%	325.9879	119.64	107.36%	Production	C	Lady	MINOR	TY121933	97	33	5	3		1		
+41-Glenn Cunningham	46.15%	318.9873	140.44	68.60%	Carry Optics	U	Super Senior	MINOR	A78280	118	19		3				
+42-Benjamin Michael	45.44%	314.0664	130.89	105.66%	Production	C		MINOR	A115982	102	25	4	3		1		
+43-Andy Orozco	43.73%	302.2657	135.55	50.38%	Open			MINOR	A135730	122	13		5		3		
+44-Robert Hollier	43.73%	302.2496	139.54	79.46%	Single Stack	C	Senior	MAJOR	FY24941	106	27	3	4		1	1	
+45-Quang Vu	41.92%	289.7689	138.80	96.35%	Production		Law Enforcement	MINOR	A117020	99	32	5	4				
+46-Richard Dillow	40.44%	279.5148	148.99	60.48%	Carry Optics	U	Senior	MINOR	TY57446	111	23	4	2		2		
+47-Mark Hopmann	39.79%	274.9923	152.71	45.83%	Open		Senior	MINOR	TY134553	114	16	5	3		2		
+48-Albert Molina 1	37.54%	259.4789	172.22	43.25%	Open	D		MAJOR	A107586	109	22	2	4		2		
+49-Charity Taylor	36.53%	252.4623	181.48	42.08%	Open			MAJOR	TY104508	110	27	1	2		1		
+50-Angelo Garcia	36.36%	251.2854	141.51	41.88%	Open			MINOR		86	36	12	6		1		
+51-Jason Debord	36.04%	249.1190	153.18	61.89%	Limited	U		MINOR		103	28	1	8			1	
+52-Bob Klee	33.11%	228.8221	182.24	78.02%	Production	U	Senior	MINOR	A135792	110	20	4	3		2		
+53-Armando Clark	31.16%	215.3720	175.80	53.13%	Limited	U		MINOR	A134744	109	20	3	8			1	
+54-Tam Tang	27.49%	189.9992	243.56	31.67%	Open	U		MAJOR		110	26		3				
+55-Lisa Nguyen	9.21%	63.6336	236.19	15.79%	Limited	U	Lady	MINOR		60	32	22	22		1		
+DQ-Brandon Truong	0.00%	0.0000		0.00%	Open			MAJOR									
+DQ-Christian Morales 1	0.00%	0.0000		0.00%	Open			MAJOR	A57907								
+Name
+1-Albert Montanez
+2-Corey Slifko
+3-Wade Pruetz
+4-Duane Mendoza
+5-Derek Rabuck
+6-Ryan Alicaya
+7-Brian Whelihan
+8-Juliann Milks
+9-Steven McNamara 1
+10-Randy Goodney
+11-Michael Whitley
+12-Gerrit Milks
+13-Mike Junco
+14-Dave Campbell
+15-Robert Bui
+16-Chev Jacot
+17-Roman Gwiscz
+18-James Tonkinson
+19-Alex Goben 1
+20-Q Nguyen
+21-Sam Bharksuwan
+22-Matt Lem
+23-Ashley Sullivan
+24-Craig Bellamy
+25-Tom Donahue
+26-Norman Oducado
+27-Jon Baguio
+28-Marlon Poralan
+29-Kenedy Nguyen
+30-Pat Byrne
+31-Michael Pontious
+32-Gary Wu
+33-Phil Truong
+34-Detlef Hohl
+35-Jerry Dueitt 1
+36-Jim Duncan
+37-Angela Rabuck
+38-Danny Naramore
+39-Chris Nagala 1
+40-Kristen Day
+41-Glenn Cunningham
+42-Benjamin Michael
+43-Andy Orozco
+44-Robert Hollier
+45-Quang Vu
+46-Richard Dillow
+47-Mark Hopmann
+48-Albert Molina 1
+49-Charity Taylor
+50-Angelo Garcia
+51-Jason Debord
+52-Bob Klee
+53-Armando Clark
+54-Tam Tang
+55-Lisa Nguyen
+DQ-Brandon Truong
+DQ-Christian Morales 1
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Red
+Goben, Alex (1)
+2021-07-17 15:24:33.170 - 2021-07-17 15:25:06.636Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Added details: [object Object]Added numAlphas: 22Added numCharlies: 3Added numM: 1Added stringTime: 16.08Edited By Baps Squad-4
+Orange
+McNamara, Steven (1)
+2021-07-17 15:42:50.259 - 2021-07-17 15:53:22.479Edited 11 minutes after.Edited str,0 was: 16.41 now: 15.51Added details: [object Object]Added numAlphas: 24Added numCharlies: 6Added stringTime: 15.51Edited By Baps Squad-4
+Blue
+Dueitt, Jerry (1)
+2021-07-17 14:03:25.284 - 2021-07-17 14:04:09.239Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	3	0	0	0	1	0	0
+Added details: [object Object]Added numAlphas: 21Added numCharlies: 1Added numNS: 1Added stringTime: 21.97Edited By Android Device
+CM 13-01
+Nagala, Chris (1)
+2021-07-17 14:25:11.912 - 2021-07-17 14:30:11.160Edited 5 minutes after.Edited proc_cnts,0,tvEWrC was: 3 now: 6Edited proc was: 3 now: 6Added details: [object Object]Added numAlphas: 9Added numCharlies: 3Added numProc: 6Added stringTime: 12.02Edited By Android Device
+Molina, Albert (1)
+2021-07-17 15:45:44.146 - 2021-07-17 15:48:27.777Edited 3 minutes after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 11.86
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 4Added numCharlies: 7Added numDeltas: 1Added stringTime: 11.86Edited By Baps-Squad 3
+Morales, Christian -DQ (1)
+2021-07-17 15:42:37.113 - 2021-07-17 15:49:53.878Edited 7 minutes after.Edited str,0 was: 11.86 now: 11.7
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	1	1	0
+Current	2	0	0	0	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	0	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	2	0	0	0	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	0	1	0	0	0
+Added numAlphas: 6Added numCharlies: 2Added numDeltas: 1Added numNS: 3Added numM: 3Added stringTime: 11.7Edited By Baps-Squad 3
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

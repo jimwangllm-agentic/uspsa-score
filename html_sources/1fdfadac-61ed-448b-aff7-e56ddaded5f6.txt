@@ -1,0 +1,260 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BPS USPSA May 5, 2019 USPSA 2019-05-03
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Michal Kadlec 2 2	100.00%	240.0000	34.12	60.00%	Limited	U	Military, Foreign	MINOR		31	15	2					
+2-Todd Mori 3	73.25%	175.8106	34.83	59.96%	Production	A	Military	MINOR	TY112573	36	8	1	3		1		
+3-Madison Henson 1	65.52%	157.2391	40.86	46.95%	Production	U	Military	MINOR	A118218	34	9	2	3				
+4-Scott Medeiros 1	51.73%	124.1622	62.29	31.04%	Limited	U	Military	MINOR	A118225	31	16		1		1		
+5-Jonathan Wood 1	47.51%	114.0321	51.87	28.51%	Limited	D		MINOR	TY116519	29	15	1	3		4	1	
+Name
+1-Michal Kadlec 2 2
+2-Todd Mori 3
+3-Madison Henson 1
+4-Scott Medeiros 1
+5-Jonathan Wood 1
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Disaster Factor
+Palombo, Joseph (1)
+2019-05-05 04:28:52.818 - 2019-05-05 05:39:56.330Edited an hour after.Edited secured was: false now: trueEdited str,0 was: 22.44 now: 18.17
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	1	0	1	0
+Added numCharlies: 6Added numDeltas: 5Added numM: 1Added stringTime: 18.17Edited By iPhone
+Medeiros, Scott (1)
+2019-05-05 04:22:29.659 - 2019-05-05 05:36:13.012Edited an hour after.Edited secured was: false now: trueEdited str,0 was: 24.32 now: 13.96
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 6Added numCharlies: 5Added numNS: 1Added numM: 1Added stringTime: 13.96Edited By iPhone
+Rogers, John (1)
+2019-05-05 04:26:32.069 - 2019-05-05 05:41:28.390Edited an hour after.Edited secured was: false now: trueEdited str,0 was: 15.02 now: 16.33
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added numAlphas: 5Added numCharlies: 5Added numDeltas: 1Added numM: 1Added stringTime: 16.33Edited By iPhone
+Mori, Todd (2)
+2019-05-05 04:13:17.490 - 2019-05-05 05:26:55.795Edited an hour after.Edited secured was: false now: trueEdited str,0 was: 9.16 now: 8.43
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	1	0	1	0
+Current	1	0	1	0	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 10Added numCharlies: 2Added numNS: 1Added stringTime: 8.43Edited By iPhone2019-05-05 04:11:29.888 - 2019-05-05 04:13:17.490Edited 2 minutes after.Edited str,0 was: 10.95 now: 9.16
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+Edited By iPhone
+Ward, Luke (1)
+2019-05-05 04:31:06.151 - 2019-05-05 05:42:49.963Edited an hour after.Edited secured was: false now: trueEdited str,0 was: 27.49 now: 17.83
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	1	0	1	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	0	1	0	0	0
+Added numAlphas: 3Added numCharlies: 7Added numDeltas: 2Added stringTime: 17.83Edited By iPhone
+Henson, Madison (1)
+2019-05-05 04:34:01.955 - 2019-05-05 05:28:35.975Edited an hour after.Edited secured was: false now: trueEdited str,0 was: 11.74 now: 9.83
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	1	0	1	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 6Added numCharlies: 6Added stringTime: 9.83Edited By iPhone
+Wood, Jonathan (1)
+2019-05-05 04:20:20.749 - 2019-05-05 05:33:37.407Edited an hour after.Edited secured was: false now: trueEdited str,0 was: 20.13 now: 10.63
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	0	0	2	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	2	2	0
+Added details: [object Object]Added numAlphas: 3Added numCharlies: 5Added numDeltas: 1Added numNS: 4Added numM: 3Added stringTime: 10.63Edited By iPhone
+Kadlec 2, Michal (2)
+2019-05-05 05:36:45.542 - 2019-05-05 05:37:41.034Edited a minute after.Edited str,0 was: 0 now: 8.12
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+Edited aprv was: false now: trueEdited secured was: false now: trueAdded details: [object Object]Added numAlphas: 6Added numCharlies: 5Added numDeltas: 1Added stringTime: 8.12Edited By iPhone2019-05-05 04:24:08.188 - 2019-05-05 05:36:45.542Edited an hour after.Edited str,0 was: 10.76 now: 0Edited aprv was: true now: false
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited By iPhone
+D'Ippolito, Michael (1)
+2019-05-05 04:18:00.335 - 2019-05-05 05:30:38.516Edited an hour after.Edited secured was: false now: trueEdited str,0 was: 16.08 now: 9.51
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added numAlphas: 3Added numCharlies: 7Added numDeltas: 1Added numM: 1Added stringTime: 9.51Edited By iPhone
+Someone Is Always Willing To Pay
+Mori, Todd (1)
+2019-05-05 04:39:11.888 - 2019-05-05 04:40:46.396Edited 2 minutes after.Edited secured was: false now: trueEdited str,0 was: 8.84 now: 6.21Added details: [object Object]Added numAlphas: 8Added numCharlies: 2Added stringTime: 6.21Edited By iPhone
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

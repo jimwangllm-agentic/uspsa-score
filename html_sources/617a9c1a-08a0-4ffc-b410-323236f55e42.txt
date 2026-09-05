@@ -1,0 +1,625 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Wallis Orchard Practical Shooters MAY 2023 USPSA 2023-05-21Wallis Orchard Practical Shooters
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Wade Pruetz 1	100.00%	801.4476	130.76	118.73%	Open	A	Senior	MAJOR	TY79055	119	44	7	3				
+2-Brandon Foss	97.89%	784.5553	142.08	113.61%	Carry Optics	M		MINOR	L5142	145	26	2					
+3-Matthew Michna 2	97.83%	784.0548	132.36	113.47%	Carry Optics	A		MINOR	A128405	132	35	4	2				
+4-Ralph Migrino	95.46%	765.0842	140.94	110.88%	Carry Optics	A		MINOR	A132627	133	33	7					
+5-Jim Havens	92.79%	743.6236	137.21	107.80%	Carry Optics	G	Senior	MINOR	Ty114636	139	26	5	3				
+6-Chez Chike-Udenze	91.05%	729.7308	135.60	108.03%	Open	A		MAJOR	A138598	121	41	6	5			2	
+7-Khoa Nguyen	89.86%	720.1501	139.26	117.63%	Limited Optics	U	Law Enforcement	MINOR	A117224	114	50	8	1				
+8-Michael Whitley	89.42%	716.6315	143.73	103.84%	Carry Optics	A		MINOR	A111091	135	25	11	2				
+9-Mike Junco 3	88.08%	705.9071	149.64	102.33%	Carry Optics	M	Senior, Law Enforcement	MINOR	TY34819	137	29	6	1				
+10-Andy Chen	86.74%	695.1531	132.78	102.91%	Open	M		MINOR	A86721	112	52	4	5				
+11-Jack Liu	86.65%	694.4495	148.92	123.57%	PCC	B	Law Enforcement	MINOR	T	123	46	3	1				
+12-August Balagtas 1	85.88%	688.2814	146.35	101.91%	Open	M		MAJOR	L3674	98	59	13	3				
+13-Michael Kiesewetter 2	83.05%	665.5889	153.27	117.51%	Production	A		MINOR	ty118153	138	28	3	4				
+14-Pete Kirchner	82.27%	659.3628	154.09	95.47%	Carry Optics	A		MINOR	TY105743	118	50	4	1				
+15-G W 2	81.34%	651.8641	160.11	96.12%	Open	A	Senior	MAJOR	TY103519	123	41	5	4				
+16-Jon Baguio 1	80.77%	647.3396	151.91	95.81%	Open	C		MAJOR	X	119	40	8	6		1		
+17-Matt Lem	80.35%	643.9810	144.35	93.32%	Carry Optics	M	Senior	MINOR	FY34763	124	36	7	6				
+18-Craig Bellamy	79.70%	638.7596	151.84	123.57%	Single Stack	M	Law Enforcement	MAJOR	TY54824	125	38	3	7				
+19-Dale Fike	79.14%	634.3015	163.49	104.20%	Limited Optics	U	Senior	MINOR	TY113427	126	38	9					
+20-Jay-R delos-Santos	78.83%	631.7590	159.06	93.90%	Open	U	Senior	MAJOR	A70297	124	38	7	4		2		
+21-Kyle Post 1	77.94%	624.6740	154.73	111.05%	Production	M	Law Enforcement	MINOR	A74846	133	26	9	5				
+22-Roman Gwiscz 1	77.37%	620.0662	153.53	91.85%	Open	B		MAJOR	L4670	117	42	7	7		1		
+23-Phil Truong	77.17%	618.4407	155.97	101.01%	Limited Optics	U		MINOR	FY128600	125	36	7	5				
+24-Marlonie Pors 1	76.35%	611.8762	177.16	90.63%	Open	C	Law Enforcement	MAJOR	ty1234	121	40	11	1				
+25-Joseph White	75.51%	605.1772	172.63	87.68%	Carry Optics	B	Law Enforcement	MINOR	A135489	138	28	6	1			1	
+26-Howard Payne	75.24%	603.0303	164.86	108.24%	Production	A		MINOR	TY123776	134	31	4	4		1		
+27-Steven McNamara	74.88%	600.0975	178.96	89.03%	Open	B	Senior	MAJOR	A75212	121	47	2	3				
+28-Manny Nerona	74.11%	593.9585	176.85	97.36%	Limited Optics	U		MINOR	A69445	139	25	7	2				
+29-Armando Herrera	73.44%	588.6042	183.56	97.09%	Limited Optics	B	Senior	MAJOR	TY92997	127	39	4	3				
+30-JC Reinel Aguinaldo 1	72.05%	577.4057	165.47	94.86%	Limited Optics	U		MINOR	A147256	130	31	7	5		1		
+31-Gary Wu	71.55%	573.4422	187.68	85.07%	Open	B	Senior	MAJOR	L2998	115	47	7	4				
+32-Abrahan Figueroa	71.38%	572.1114	172.76	84.38%	Open	C	Senior	MAJOR	TY 54053	115	46	5	7				
+33-Vinh Lam	70.24%	562.9721	93.73	92.79%	Limited	M		MAJOR	TY101025	80	36	10	5				
+34-Edwin Buchwalter	70.23%	562.8941	169.59	83.71%	Open	C		MINOR	Ty102903	123	40	6	4			1	
+35-CHAN WILLIAM	69.29%	555.3582	128.16	91.00%	Limited Optics	U		MINOR	TY97870	107	41	11	14		2		
+36-Doug Joder	68.96%	552.6593	184.08	98.46%	PCC	B		MINOR	TY115020	129	39	3	2			1	
+37-Pat Byrne	68.14%	546.1056	189.10	78.85%	Carry Optics	B	Super Senior	MINOR	fy93921	135	32	2	4				
+38-Anthony Fong	67.45%	540.5758	164.18	78.38%	Carry Optics	B		MINOR	A142224	107	54	7	5			1	
+39-Drew Yang	67.41%	540.2509	175.29	94.65%	Production	B		MINOR	FY138478	118	45	5	5				
+40-Brian Kolenda	67.30%	539.3722	181.93	79.99%	Open	C		MINOR	A119637	115	51	5	2				
+41-Robert Bui 1	65.72%	526.7081	168.32	88.95%	Limited	B		MAJOR	A103016	109	41	12	11				
+42-Karys Bellamy	61.78%	495.1201	187.33	71.60%	Carry Optics	C	Lady, Junior	MINOR	Ty130774	119	37	11	6				
+43-Jason Wilson 1	61.68%	494.3272	202.98	84.57%	Limited	U		MINOR	A94696	138	30	1	4		1		
+44-Jun Wu	60.85%	487.6865	189.35	70.64%	Carry Optics	U		MINOR	TY104927	127	36	3	7		1		
+45-Haydn Brown	60.52%	485.0273	195.43	82.71%	Limited	C		MAJOR	A62956	110	50	7	6			1	
+46-Amber Chike-Udenze	60.21%	482.5221	200.15	69.90%	Carry Optics	C	Lady	MINOR	A138974	115	45	11	2				
+47-Jason Knopp	60.14%	482.0157	187.70	69.85%	Carry Optics	U	Law Enforcement	MINOR	A148175	123	36	8	6			1	
+48-Tyler Kenny	59.90%	480.0842	156.16	69.43%	Carry Optics	C		MINOR	A148691	114	43	5	11		2	2	
+49-Carlos Escandon	59.38%	475.8759	196.51	81.42%	Limited	B	Super Senior	MAJOR	L2590	116	42	7	8				
+50-Cristian Garcia	58.67%	470.2085	181.22	77.27%	Limited Optics	U		MINOR	FY145753	122	38	4	9			1	
+51-Don Sanders	58.32%	467.3914	172.07	80.95%	Limited	A	Senior	MAJOR	FY46389	99	53	8	13		2		
+52-Jeff Maxwell, Jr.	57.24%	458.7147	206.69	66.50%	Carry Optics	C	Senior	MINOR	L4489	124	36	8	5				
+53-Edsel Esquivel 1	56.46%	452.4841	180.58	74.29%	Limited Optics	U		MAJOR	A137879	105	41	16	11		3		
+54-Rafael Delfin	56.28%	451.0223	197.93	65.40%	Carry Optics	U		MINOR	122234	122	38	8	5		2	1	
+55-Kristen Day	56.01%	448.8566	187.81	76.74%	Limited	C	Lady	MINOR	TY121933	123	34	6	10		1	1	
+56-George Zhou	55.25%	442.7747	194.72	64.01%	Carry Optics	C	Senior	MINOR	A146179	107	45	15	6				
+57-Stephanie Marie	54.59%	437.5152	204.09	63.38%	Carry Optics	C	Lady	MINOR	A139099	126	35	5	7		1		
+58-Rudy Widiaman	54.04%	433.1190	188.96	70.85%	Limited Optics	U		MINOR		124	34	7	8		3	2	
+59-Jason Essazay	52.92%	424.0874	212.70	61.47%	Carry Optics	U	Military	MINOR	A145552	140	26	1	6		2	4	
+60-Pete Tsekouras	52.56%	421.2646	229.35	61.04%	Carry Optics	U		MINOR	A147367	139	22	6	6				
+61-Ray Pennington	46.50%	372.6949	179.10	54.21%	Carry Optics	B	Senior	MINOR	A107654	97	43	19	14		2		
+62-Matthew Givens	45.71%	366.3050	212.94	60.20%	Limited Optics	U		MINOR	ty137686	111	42	9	11		1	1	
+63-Emman Alcoseba	45.54%	364.9816	233.02	62.05%	Limited	C	Senior	MAJOR	TY67519	114	40	7	12		1		
+64-eric onishi 1	45.27%	362.8195	223.51	52.55%	Carry Optics	C		MINOR	FY109883	115	39	9	10		2		
+65-Kevin Baker 2	42.22%	338.3681	203.50	59.95%	Production	B		MINOR	A95439	98	46	16	13		1		
+66-Marcus Woods	40.38%	323.6343	241.42	46.88%	Carry Optics	C		MINOR	A146650	118	36	8	11		1	2	
+67-Prince Sakyi	34.50%	276.5103	363.97	41.14%	Open			MAJOR		110	52	7	4			1	
+68-Adrian Richter	34.03%	272.7476	217.91	39.47%	Carry Optics	U		MINOR	A127144	75	62	20	16		1		
+69-Virak Meas	32.26%	258.5786	193.90	42.59%	Limited Optics	U		MINOR	O	86	42	20	25		1		
+70-Keith Bowman Jr	30.01%	240.4986	216.33	35.09%	Open	U	NEW SHOOTER	MINOR		85	50	14	24		1		
+71-Toan Tieu	29.31%	234.9418	188.24	34.25%	Carry Optics	U	NEW SHOOTER	MINOR	A140227	90	38	12	33		1	1	
+72-Jake Feemster 2	25.29%	202.7110	261.83	29.86%	Open	U		MINOR		87	45	16	25		4		
+73-michael Chang	25.10%	201.1479	252.34	29.16%	Carry Optics	U	NEW SHOOTER	MINOR		91	45	15	22		2	2	
+74-Dale Hamm	20.75%	166.3010	295.08	28.20%	Limited	C	Senior	MAJOR	TY97196	90	43	14	26		4		
+75-Edward Yu 2	14.74%	118.1230	287.09	20.79%	Production	U	Law Enforcement	MINOR	A148356	80	43	21	29		4		
+76-Ramil Villanueva 4	4.98%	39.8831	27.94	5.70%	Carry Optics	D	Junior	MINOR	A110261	17	5	2	4				
+77-John Hanna	2.71%	21.6806	32.28	3.23%	Production	C	Senior	MINOR	a138989	15	4	1	2		2	1	
+78-LEO BALTAZAR	0.00%	0.0000	311.04	0.00%	Limited	U	Senior	MINOR	A102787	52	41	16	64		5		
+Name
+1-Wade Pruetz 1
+2-Brandon Foss
+3-Matthew Michna 2
+4-Ralph Migrino
+5-Jim Havens
+6-Chez Chike-Udenze
+7-Khoa Nguyen
+8-Michael Whitley
+9-Mike Junco 3
+10-Andy Chen
+11-Jack Liu
+12-August Balagtas 1
+13-Michael Kiesewetter 2
+14-Pete Kirchner
+15-G W 2
+16-Jon Baguio 1
+17-Matt Lem
+18-Craig Bellamy
+19-Dale Fike
+20-Jay-R delos-Santos
+21-Kyle Post 1
+22-Roman Gwiscz 1
+23-Phil Truong
+24-Marlonie Pors 1
+25-Joseph White
+26-Howard Payne
+27-Steven McNamara
+28-Manny Nerona
+29-Armando Herrera
+30-JC Reinel Aguinaldo 1
+31-Gary Wu
+32-Abrahan Figueroa
+33-Vinh Lam
+34-Edwin Buchwalter
+35-CHAN WILLIAM
+36-Doug Joder
+37-Pat Byrne
+38-Anthony Fong
+39-Drew Yang
+40-Brian Kolenda
+41-Robert Bui 1
+42-Karys Bellamy
+43-Jason Wilson 1
+44-Jun Wu
+45-Haydn Brown
+46-Amber Chike-Udenze
+47-Jason Knopp
+48-Tyler Kenny
+49-Carlos Escandon
+50-Cristian Garcia
+51-Don Sanders
+52-Jeff Maxwell, Jr.
+53-Edsel Esquivel 1
+54-Rafael Delfin
+55-Kristen Day
+56-George Zhou
+57-Stephanie Marie
+58-Rudy Widiaman
+59-Jason Essazay
+60-Pete Tsekouras
+61-Ray Pennington
+62-Matthew Givens
+63-Emman Alcoseba
+64-eric onishi 1
+65-Kevin Baker 2
+66-Marcus Woods
+67-Prince Sakyi
+68-Adrian Richter
+69-Virak Meas
+70-Keith Bowman Jr
+71-Toan Tieu
+72-Jake Feemster 2
+73-michael Chang
+74-Dale Hamm
+75-Edward Yu 2
+76-Ramil Villanueva 4
+77-John Hanna
+78-LEO BALTAZAR
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+174
+Villanueva, Ramil (1)
+2023-05-21 16:35:27.781 - 2023-05-21 16:35:52.625Edited a few seconds after.Edited rawpts was: 142 now: 10Edited str,0 was: 33.72 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	1	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Aguinaldo, JC Reinel (LO/Min)Added details: [object Object]Added numAlphas: 2Edited By Tablet 3
+DS Thats IT
+Yu, Edward (2)
+2023-05-21 13:51:53.724 - 2023-05-21 14:16:48.035Edited 25 minutes after.Edited rawpts was: 20 now: 51Edited str,0 was: 0 now: 21.72
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded aprv: trueAdded details: [object Object]Added numAlphas: 12Added numCharlies: 2Added numDeltas: 5Added numM: 1Added stringTime: 21.72Edited By Tablet 22023-05-21 13:51:53.720 - 2023-05-21 13:51:53.724Edited a few seconds after.Edited rawpts was: 54 now: 20
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit ReshootEdited By Tablet 2
+Junco, Mike (1)
+2023-05-21 16:05:05.516 - 2023-05-21 16:05:28.857Edited a few seconds after.Edited rawpts was: 74 now: 76
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 18Added numCharlies: 2Added stringTime: 15.01Edited By Tablet 6
+W, G (2)
+2023-05-21 16:05:38.633 - 2023-05-21 16:07:10.081Edited 2 minutes after.Edited rawpts was: 20 now: 68Edited str,0 was: 0 now: 14.42
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 1.51,1.91,2.42,2.78,3.84,4.21,4.79,5.07,7.34,8.45,9.09,9.73,11.65,12.13,12.31,12.85,13.35,14.42;AMG 0742Edited meta,0,t was: 2023-05-21 16:05:38.636 now: 2023-05-21 16:06:25.092Added aprv: trueAdded details: [object Object]Added numAlphas: 10Added numCharlies: 9Added numDeltas: 1Added stringTime: 14.42Edited By Tablet 62023-05-21 15:51:14.149 - 2023-05-21 16:05:38.633Edited 14 minutes after.Edited rawpts was: 69 now: 20Edited str,0 was: 17.77 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.45,1.83,2.51,2.93,4.41,4.82,5.40,5.68,8.45,9.20,9.54,10.11,10.36,11.86,14.67,15.35,16.21,17.77;AMG 0742 now: ReshootEdited meta,0,t was: 2023-05-21 15:50:41.339 now: 2023-05-21 16:05:38.636Removed aprv: trueEdited By Tablet 6
+Feemster, Jake (1)
+2023-05-21 14:10:29.072 - 2023-05-21 14:10:54.215Edited a few seconds after.Edited rawpts was: 66 now: 64
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	1	1	0	0	0
+Added details: [object Object]Added numAlphas: 15Added numCharlies: 2Added numDeltas: 3Added stringTime: 27.56Edited By Tablet 2
+173
+Pors, Marlonie (1)
+2023-05-21 14:06:38.975 - 2023-05-21 18:24:10.780Edited 4 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 20Added numCharlies: 7Added numDeltas: 1Added stringTime: 31.44Edited By Tablet 3
+Gwiscz, Roman (1)
+2023-05-21 13:46:41.414 - 2023-05-21 18:24:10.779Edited 5 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 22Added numCharlies: 5Added numM: 1Added stringTime: 25.53Edited By Tablet 3
+Balagtas, August (1)
+2023-05-21 14:10:37.065 - 2023-05-21 18:24:10.780Edited 4 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 19Added numCharlies: 8Added numDeltas: 1Added stringTime: 21.73Edited By Tablet 3
+Villanueva, Ramil (3)
+2023-05-21 14:15:16.452 - 2023-05-21 18:24:10.781Edited 4 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 17Added numCharlies: 5Added numDeltas: 2Added numM: 4Added stringTime: 27.94Edited By Tablet 32023-05-21 14:13:41.504 - 2023-05-21 14:15:16.452Edited 2 minutes after.Edited rawpts was: 10 now: 92Edited str,0 was: 0 now: 27.94
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded aprv: trueEdited By Tablet 32023-05-21 13:59:13.291 - 2023-05-21 14:13:41.504Edited 14 minutes after.Edited rawpts was: 26 now: 10Edited str,0 was: 6.58 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Tablet 3
+Bui, Robert (1)
+2023-05-21 14:08:38.897 - 2023-05-21 18:24:10.781Edited 4 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 20Added numCharlies: 7Added numM: 1Added stringTime: 25.1Edited By Tablet 3
+Michna, Matthew (2)
+2023-05-21 15:10:29.335 - 2023-05-21 15:15:15.448Edited 5 minutes after.Edited rawpts was: 10 now: 120Edited str,0 was: 0 now: 23.4
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Kenny, Tyler (CO/Min)Added aprv: trueAdded details: [object Object]Added numAlphas: 24Added numCharlies: 3Added numDeltas: 1Added stringTime: 23.4Edited By Tablet 12023-05-21 15:09:52.780 - 2023-05-21 15:10:29.335Edited a few seconds after.Edited rawpts was: 128 now: 10Edited str,0 was: 23.89 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Kenny, Tyler (CO/Min)Edited By Tablet 1
+Kiesewetter, Michael (1)
+2023-05-21 13:56:58.447 - 2023-05-21 18:24:10.780Edited 4 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 26Added numCharlies: 2Added stringTime: 23.75Edited By Tablet 3
+Baker, Kevin (1)
+2023-05-21 14:13:19.008 - 2023-05-21 18:24:10.780Edited 4 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 13Added numCharlies: 10Added numDeltas: 3Added numM: 2Added stringTime: 28.58Edited By Tablet 3
+Aguinaldo, JC Reinel (1)
+2023-05-21 14:00:45.746 - 2023-05-21 18:24:10.780Edited 4 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 23Added numCharlies: 3Added numDeltas: 1Added numM: 1Added stringTime: 25.16Edited By Tablet 3
+Pruetz, Wade (1)
+2023-05-21 13:51:31.875 - 2023-05-21 18:24:10.780Edited 5 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 19Added numCharlies: 8Added numM: 1Added stringTime: 19.07Edited By Tablet 3
+Baguio, Jon (1)
+2023-05-21 14:04:10.252 - 2023-05-21 18:24:10.779Edited 4 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 23Added numCharlies: 3Added numNS: 1Added numM: 2Added stringTime: 22.52Edited By Tablet 3
+Esquivel, Edsel (1)
+2023-05-21 13:54:26.186 - 2023-05-21 18:24:10.779Edited 4 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 18Added numCharlies: 4Added numDeltas: 3Added numNS: 2Added numM: 3Added stringTime: 25.7Edited By Tablet 3
+Post, Kyle (1)
+2023-05-21 13:48:56.044 - 2023-05-21 18:24:10.781Edited 5 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 26Added numCharlies: 2Added stringTime: 24.64Edited By Tablet 3
+DS Galaga
+Junco, Mike (2)
+2023-05-21 17:11:42.526 - 2023-05-21 17:26:19.605Edited 15 minutes after.Edited rawpts was: 25 now: 141Edited str,0 was: 0 now: 23.14
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Shooter WILLIAM, CHAN (LO/Min) now: 2.01,2.91,3.23,3.87,4.15,4.69,5.05,5.57,5.74,6.88,7.25,7.42,8.70,8.99,12.33,12.72,12.91,13.51,13.68,14.64,15.52,15.82,18.37,18.58,19.44,19.76,20.57,20.96,21.60,22.14,22.65,23.14;AMG 0742Edited meta,0,t was: 2023-05-21 17:11:42.525 now: 2023-05-21 17:25:32.464Added aprv: trueAdded details: [object Object]Added numAlphas: 32Added numCharlies: 2Added stringTime: 23.14Edited By Tablet 62023-05-21 17:11:26.158 - 2023-05-21 17:11:42.526Edited a few seconds after.Edited rawpts was: 128 now: 25Edited str,0 was: 20.4 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 2.40,2.76,3.31,3.65,4.11,4.47,4.86,5.07,6.34,6.56,7.49,7.85,10.11,10.31,10.97,11.30,12.03,12.43,14.73,15.13,15.46,15.97,16.58,17.05,17.68,18.49,18.80,19.39,19.66,20.16,20.40;AMG 0742 now: Moved to Shooter WILLIAM, CHAN (LO/Min)Edited meta,0,t was: 2023-05-21 17:10:30.203 now: 2023-05-21 17:11:42.525Removed aprv: trueEdited By Tablet 6
+Kiesewetter, Michael (1)
+2023-05-21 14:39:51.265 - 2023-05-21 14:40:35.273Edited a few seconds after.Edited rawpts was: 133 now: 135
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 29Added numCharlies: 5Added stringTime: 26.94Edited By Tablet 3
+Baker, Kevin (1)
+2023-05-21 14:53:26.693 - 2023-05-21 14:53:58.493Edited a few seconds after.Edited rawpts was: 99 now: 108
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	1	0	1	0
+Current	0	0	1	1	0	0	0
+Added details: [object Object]Added numAlphas: 21Added numCharlies: 8Added numDeltas: 4Added numM: 1Added stringTime: 30.41Edited By Tablet 3
+Feemster, Jake (1)
+2023-05-21 15:19:02.310 - 2023-05-21 15:19:30.009Edited a few seconds after.Edited rawpts was: 108 now: 110
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 23Added numCharlies: 6Added numDeltas: 2Added numM: 3Added stringTime: 53.73Edited By Tablet 2
+175
+onishi, eric (1)
+2023-05-21 16:04:54.870 - 2023-05-21 16:05:18.101Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+Added details: [object Object]Added numAlphas: 15Added numCharlies: 7Added numDeltas: 1Added numNS: 1Added numM: 1Added stringTime: 27.12Edited By Tablet 2
+Of Course It Did
+Wilson, Jason (1)
+2023-05-21 18:09:35.849 - 2023-05-21 18:10:03.787Edited a few seconds after.Edited rawpts was: 100 now: 104
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	1	0	0	0
+Current	4	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 16Added numCharlies: 8Added stringTime: 29.4Edited By Tablet 7
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

@@ -1,0 +1,563 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Wallis Orchard Practical Shooters Nov Clone HF NOV Sunday Match HF_PCSL 2024-11-17
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	P
+1-Brandon Foss	100.00%	828.3224	133.57	119.56%	Practical Optics (PO)			MINOR		147	28	5			1	
+2-Marco Yue	96.12%	796.1792	136.97	123.22%	PCC			MINOR		143	35	1	1		1	
+3-Jim Havens	94.10%	779.4529	141.62	112.61%	Practical Optics (PO)		Senior	MINOR		146	31	2	1			
+4-Tony Vale 3	90.76%	751.8165	136.10	108.53%	Practical Optics (PO)			MINOR		132	40	5	3		1	
+5-Taylor Snodgrass 2	89.77%	743.5694	135.61	116.14%	PCC			MINOR		115	57	7	1			
+6-Duane Mendoza	87.48%	724.6065	141.73	117.72%	Competition (COMP)			MINOR		132	41	4	3			
+7-Ross Winningham	86.90%	719.7958	151.26	103.96%	Practical Optics (PO)			MINOR		140	35	5			1	
+8-Phillip Nguyen 1	85.71%	709.9332	159.96	102.45%	Practical Optics (PO)			MINOR		141	27	11	1			
+9-Mike Benitez	85.20%	705.7610	136.96	114.57%	Competition (COMP)			MINOR		123	44	9	4			
+10-Michael Kiesewetter	84.81%	702.4961	160.01	101.75%	Practical Optics (PO)			MINOR		141	31	6	2			
+11-Jerry Bedro	84.38%	698.9415	159.74	109.15%	PCC			MINOR		156	20	3	1		1	
+12-Andrew Whitley	83.99%	695.7332	138.92	113.06%	Competition (COMP)			MINOR		114	52	13	1		2	
+13-Eric Huh	83.27%	689.7140	154.59	99.68%	Practical Optics (PO)			MINOR		131	42	7				
+14-Abe Valdez	83.25%	689.6067	153.98	112.00%	Competition (COMP)			MINOR		128	47	5				
+15-Ernst Vogel	81.87%	678.1464	167.03	97.97%	Practical Optics (PO)			MINOR		149	30	1				
+16-Robert Layton	80.62%	667.7823	162.62	96.45%	Practical Optics (PO)		Law Enforcement	MINOR		162	15		3		1	1
+17-Jon Baguio	79.85%	661.4188	156.96	107.60%	Competition (COMP)			MINOR		121	51	8				
+18-Zvi Davidoff	79.21%	656.0877	139.54	106.62%	Competition (COMP)			MINOR		120	49	5	6			1
+19-Brandon Padilla	78.37%	649.1702	154.76	101.13%	PCC			MINOR		123	50	5	2		2	
+20-Lee Cardwell	78.08%	646.7581	154.78	93.41%	Practical Optics (PO)			MINOR		130	40	6	4			1
+21-Nicholas Nazareno	77.88%	645.0897	170.52	93.25%	Practical Optics (PO)			MINOR		137	38	5				
+22-Michael Pontious 1	77.64%	643.0818	158.84	104.44%	Competition (COMP)		Senior	MINOR		136	38	2	4			
+23-Ryan Alicaya	77.28%	640.1612	165.45	92.57%	Practical Optics (PO)			MINOR		136	37	5	2			
+24-Luke Rogers	76.35%	632.4270	171.25	102.96%	Competition (COMP)		Law Enforcement	MINOR		158	19		3			1
+25-Jake Honeycutt	75.67%	626.8109	155.20	90.35%	Practical Optics (PO)			MINOR		138	27	11	4		3	
+26-John Jung	74.81%	619.6288	183.40	89.54%	Practical Optics (PO)			MINOR		135	41	4				
+27-Antonio Tormis	73.87%	611.8616	158.29	99.12%	Competition (COMP)			MINOR		136	33	5	6		1	
+28-Kim Jung Un 1	73.82%	611.4674	177.52	116.88%	Practical Irons (PI)			MINOR		139	36	4	1		1	
+29-James Wong	73.70%	610.4549	170.76	88.07%	Practical Optics (PO)			MINOR		140	29	8	3		1	
+30-Skippy Fullerton	72.91%	603.9708	174.89	87.22%	Practical Optics (PO)			MINOR		154	19	2	5			
+31-Robert Strong	72.64%	601.7250	178.15	97.94%	Competition (COMP)			MINOR		146	27	5	2			1
+32-Brandon Hunt	72.48%	600.3699	180.11	97.55%	Competition (COMP)			MINOR		154	19	2	5			
+33-Lloyd Xmas	72.28%	598.7039	202.45	114.14%	Practical Irons (PI)			MINOR		153	21	3	3			
+34-Pocholo Dimayuga 2	71.57%	592.8493	171.18	85.50%	Practical Optics (PO)			MINOR		131	43	3	3			1
+35-Jun Wu	71.47%	592.0402	170.66	92.33%	PCC			MINOR		130	43	3	4			
+36-James Tonkinson	70.26%	582.0044	179.88	84.05%	Practical Optics (PO)			MINOR		129	38	13				
+37-Matthew Givens	69.88%	578.8009	152.45	91.64%	PCC			MINOR		116	48	10	6			2
+38-Marlon Poralan	69.06%	572.0357	172.24	82.66%	Practical Optics (PO)		Law Enforcement	MINOR		141	28	5	6			
+39-Derik Satsky	69.03%	571.8237	172.97	108.59%	Practical Irons (PI)			MINOR		135	33	5	7			
+40-Sean Frederick	68.87%	570.4882	173.62	82.38%	Practical Optics (PO)			MINOR		123	50	3	4			
+41-David Zhang	68.57%	567.9681	186.09	82.07%	Practical Optics (PO)			MINOR		149	18	10	3			
+42-Stromtrooper Qian	67.80%	561.6244	176.59	81.17%	Practical Optics (PO)			MINOR		138	33	3	6			
+43-Gennady Khokhorin	63.26%	523.9650	207.11	101.40%	Practical Irons (PI)		Senior	MINOR		146	30	2	2			
+44-Kristen Day	62.14%	514.7546	190.92	99.00%	Practical Irons (PI)		Lady	MINOR		128	39	9	4			
+45-Taylor Latham	61.35%	508.2051	225.32	97.59%	Practical Irons (PI)		Senior	MINOR		156	22		2			
+46-Ryan Ngo	60.62%	502.0897	197.73	72.53%	Practical Optics (PO)			MINOR		134	30	12	4			
+47-Phyl Santos	58.24%	482.4337	173.74	69.78%	Practical Optics (PO)			MINOR		115	43	14	8			1
+48-Virak Meas	57.89%	479.4927	169.99	77.71%	Competition (COMP)		Senior	MINOR		118	43	9	10		1	1
+49-George Zhou	57.53%	476.5639	164.42	68.78%	Practical Optics (PO)			MINOR		111	40	19	10			1
+50-Jeannie Marrone	55.56%	460.2352	209.03	74.72%	Competition (COMP)		Lady, Super Senior	MINOR		105	65	10			2	
+51-Sydney Holland	54.99%	455.5074	216.54	74.07%	Competition (COMP)		Lady	MINOR		122	46	9	3		1	
+52-Zach Tamayo	54.50%	451.4248	248.26	73.35%	Competition (COMP)		Law Enforcement	MINOR		159	17	1	3			
+53-Michael Chang	53.17%	440.4050	207.63	63.47%	Practical Optics (PO)			MINOR		134	28	10	8			2
+54-Cole League	47.32%	391.9700	266.91	75.26%	Practical Irons (PI)			MINOR		134	39	5	2		1	1
+55-Johanna Strong	47.11%	390.2144	253.99	61.27%	PCC		Lady	MINOR		134	38	4	4			2
+56-Ben Castagno	44.34%	367.2576	281.78	52.99%	Practical Optics (PO)			MINOR		172	1		7			2
+57-Daniel Rubio 1	38.62%	319.8586	241.50	46.15%	Practical Optics (PO)			MINOR		133	27	6	14			4
+58-Kolby Cluse	36.93%	305.8746	247.34	49.66%	Competition (COMP)		Senior	MINOR		112	41	15	12			2
+59-Yul Kwan	32.70%	270.8826	307.15	52.59%	Practical Irons (PI)		Senior	MINOR		118	44	7	11		1	1
+60-Keith Wygal	30.79%	255.0041	454.29	48.47%	Practical Irons (PI)			MINOR		169	9		2			3
+61-Kelsey Le	30.42%	251.9608	265.28	36.22%	Practical Optics (PO)		Lady	MINOR		93	54	18	15		1	1
+62-Alan Le	29.72%	246.2100	166.00	40.26%	PCC			MINOR		93	50	11	26		3	6
+63-Paul Conover	27.64%	228.9892	258.80	36.86%	PCC		Super Senior	MINOR		123	22	1	10			4
+64-Bronson Mcfall	26.09%	216.1076	246.34	31.13%	Practical Optics (PO)			MINOR		112	37	7	24		1	3
+65-Eduardo Bugarin	24.48%	202.7452	286.19	29.29%	Practical Optics (PO)			MINOR		101	47	15	17		1	4
+66-Jonathan Sevilla	24.28%	201.1528	107.28	28.97%	Practical Optics (PO)			MINOR		66	10	1	3		1	
+67-Jason Bright	6.35%	52.6210	52.89	7.79%	Practical Optics (PO)		Law Enforcement	MINOR		21	3					
+68-Will Allen	0.00%	0.0000		0.00%	Practical Optics (PO)			MINOR								
+69-Marchoni Aquino	0.00%	0.0000		0.00%	Practical Optics (PO)			MINOR								
+70-Keith Bowman Jr	0.00%	0.0000		0.00%	Competition (COMP)			MINOR								
+71-Karen Brusatori	0.00%	0.0000		0.00%	Competition (COMP)		Lady	MINOR								
+72-Loren Brusatori	0.00%	0.0000		0.00%	Competition (COMP)			MINOR								
+73-Ryan Jaw	0.00%	0.0000		0.00%	Competition (COMP)			MINOR								
+74-Mike Kahl	0.00%	0.0000		0.00%	Practical Optics (PO)		Distinguished Senior	MINOR								
+75-Kelly Kennedy	0.00%	0.0000		0.00%	PCC		Senior	MINOR								
+76-Tyler Kenny	0.00%	0.0000		0.00%	PCC			MINOR								
+77-Don Kilgore	0.00%	0.0000		0.00%	Practical Optics (PO)		Senior	MINOR								
+78-Anthony Kurek Jr	0.00%	0.0000		0.00%	PCC			MINOR								
+79-Albert Legislador	0.00%	0.0000		0.00%	Practical Optics (PO)		Senior	MINOR								
+80-Kent Leslie	0.00%	0.0000		0.00%	Practical Irons (PI)		Super Senior	MINOR								
+81-Patrick Mccombs	0.00%	0.0000		0.00%	Competition (COMP)			MINOR								
+82-Joseph Strong	0.00%	0.0000		0.00%	Practical Optics (PO)		Senior	MINOR								
+DQ-Raul Lorenzana	0.00%	0.0000		0.00%	Practical Optics (PO)			MINOR								
+Name
+1-Brandon Foss
+2-Marco Yue
+3-Jim Havens
+4-Tony Vale 3
+5-Taylor Snodgrass 2
+6-Duane Mendoza
+7-Ross Winningham
+8-Phillip Nguyen 1
+9-Mike Benitez
+10-Michael Kiesewetter
+11-Jerry Bedro
+12-Andrew Whitley
+13-Eric Huh
+14-Abe Valdez
+15-Ernst Vogel
+16-Robert Layton
+17-Jon Baguio
+18-Zvi Davidoff
+19-Brandon Padilla
+20-Lee Cardwell
+21-Nicholas Nazareno
+22-Michael Pontious 1
+23-Ryan Alicaya
+24-Luke Rogers
+25-Jake Honeycutt
+26-John Jung
+27-Antonio Tormis
+28-Kim Jung Un 1
+29-James Wong
+30-Skippy Fullerton
+31-Robert Strong
+32-Brandon Hunt
+33-Lloyd Xmas
+34-Pocholo Dimayuga 2
+35-Jun Wu
+36-James Tonkinson
+37-Matthew Givens
+38-Marlon Poralan
+39-Derik Satsky
+40-Sean Frederick
+41-David Zhang
+42-Stromtrooper Qian
+43-Gennady Khokhorin
+44-Kristen Day
+45-Taylor Latham
+46-Ryan Ngo
+47-Phyl Santos
+48-Virak Meas
+49-George Zhou
+50-Jeannie Marrone
+51-Sydney Holland
+52-Zach Tamayo
+53-Michael Chang
+54-Cole League
+55-Johanna Strong
+56-Ben Castagno
+57-Daniel Rubio 1
+58-Kolby Cluse
+59-Yul Kwan
+60-Keith Wygal
+61-Kelsey Le
+62-Alan Le
+63-Paul Conover
+64-Bronson Mcfall
+65-Eduardo Bugarin
+66-Jonathan Sevilla
+67-Jason Bright
+68-Will Allen
+69-Marchoni Aquino
+70-Keith Bowman Jr
+71-Karen Brusatori
+72-Loren Brusatori
+73-Ryan Jaw
+74-Mike Kahl
+75-Kelly Kennedy
+76-Tyler Kenny
+77-Don Kilgore
+78-Anthony Kurek Jr
+79-Albert Legislador
+80-Kent Leslie
+81-Patrick Mccombs
+82-Joseph Strong
+DQ-Raul Lorenzana
+Old style results
+
+Score Edit History
+Tk 5
+Nguyen, Phillip (1)
+2024-11-17 17:45:14.676 - 2024-11-17 17:47:03.066Edited 2 minutes after.Edited rawpts was: 10 now: 108Edited str,0 was: 0 now: 17.89
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 19Added numCharlies: 4Added numDeltas: 1Added stringTime: 17.89Edited By 4
+JC 44
+Pontious, Michael (1)
+2024-11-17 15:08:14.303 - 2024-11-17 15:09:00.123Edited a minute after.Edited rawpts was: 105 now: 106
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	0	1	0	0	0
+Added details: [object Object]Added numAlphas: 18Added numCharlies: 5Added numDeltas: 1Added stringTime: 19.91Edited By iPhone 17.6.1 ac593873
+Dimayuga, Pocholo (2)
+2024-11-17 17:16:29.594 - 2024-11-17 17:18:15.406Edited 2 minutes after.Edited rawpts was: 10 now: 108Edited str,0 was: 0 now: 18.78
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Conover, Paul (PCC/Min/SS)Added details: [object Object]Added numAlphas: 19Added numCharlies: 4Added numDeltas: 1Added stringTime: 18.78Edited By 32024-11-17 17:16:05.188 - 2024-11-17 17:16:29.594Edited a few seconds after.Edited rawpts was: 116 now: 10Edited str,0 was: 39.04 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit Moved to Shooter Conover, Paul (PCC/Min/SS)Edited By 3
+JC 48
+Rubio, Daniel (1)
+2024-11-17 16:31:22.447 - 2024-11-17 16:32:29.178Edited a minute after.Edited rawpts was: 29 now: 94Edited str,0 was: 0 now: 30.39
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added proc: 1Added details: [object Object]Added numAlphas: 16Added numCharlies: 4Added numDeltas: 2Added numM: 3Added numProc: 1Added stringTime: 30.39Edited By 4
+Un, Kim Jung (1)
+2024-11-17 16:40:04.724 - 2024-11-17 16:41:31.108Edited a minute after.Edited rawpts was: 15 now: 107Edited str,0 was: 0 now: 26.83
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 17Added numCharlies: 7Added numDeltas: 1Added stringTime: 26.83Edited By 4
+JC 49
+Vale, Tony (3)
+2024-11-17 18:06:43.082 - 2024-11-17 18:10:24.388Edited 4 minutes after.Edited rawpts was: 5 now: 129Edited str,0 was: 0 now: 17.06
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded details: [object Object]Added numAlphas: 24Added numCharlies: 3Added stringTime: 17.06Edited By iPhone 17.6.1 ac5938732024-11-17 17:41:05.733 - 2024-11-17 18:06:43.082Edited 26 minutes after.Edited rawpts was: 111 now: 5Edited str,0 was: 19.05 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit ReshootEdited By iPhone 17.6.1 ac5938732024-11-17 17:40:45.650 - 2024-11-17 17:41:05.733Edited a few seconds after.Edited rawpts was: 107 now: 111
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	2	0	0	0	0	0	0
+Edited By iPhone 17.6.1 ac593873
+Snodgrass, Taylor (2)
+2024-11-17 16:45:02.358 - 2024-11-17 16:46:23.465Edited a minute after.Edited rawpts was: 5 now: 115Edited str,0 was: 0 now: 18.78
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded details: [object Object]Added numAlphas: 18Added numCharlies: 8Added numDeltas: 1Added stringTime: 18.78Edited By 22024-11-17 16:33:20.441 - 2024-11-17 16:45:02.358Edited 12 minutes after.Edited rawpts was: 117 now: 5Edited str,0 was: 17.91 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit ReshootEdited By 2
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

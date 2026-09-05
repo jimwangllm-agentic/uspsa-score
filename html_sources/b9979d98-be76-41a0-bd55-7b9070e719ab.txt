@@ -1,0 +1,69 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Wallis Orchard Aug 1, 2019 USPSA 2019-08-01
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Jason Brinkley	100.00%	610.0000	94.21	101.67%	Limited			MAJOR		93	26	2	1				
+2-Ryan Alicaya 1	79.93%	487.5460	109.49	98.01%	Carry Optics			MINOR		90	29	1	2				
+3-Marlon Poralan	74.95%	457.2089	119.80	101.67%	PCC			MINOR		94	24	3	1		1		
+4-Mike Mansilla	73.35%	447.4228	107.93	89.18%	Carry Optics			MINOR		76	36	8	2		1		
+5-John Austria	70.55%	430.3283	107.57	71.72%	Limited			MAJOR		70	38	10	4		3		
+6-Jeffrey Polk	60.94%	371.7397	116.07	73.79%	Carry Optics			MINOR		70	40	6	6				
+7-Chuck Hain	47.78%	291.4730	185.89	101.67%	Production			MINOR		93	22	6	1				
+8-Jim Havens	42.10%	256.8247	121.54	51.23%	Carry Optics			MINOR		79	19		24		1		
+Name
+1-Jason Brinkley
+2-Ryan Alicaya 1
+3-Marlon Poralan
+4-Mike Mansilla
+5-John Austria
+6-Jeffrey Polk
+7-Chuck Hain
+8-Jim Havens
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Alicaya, Ryan (1)
+2019-08-01 23:11:46.361 - 2019-08-01 23:12:17.390Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 9Added numCharlies: 1Added stringTime: 11.31Edited By Jason’s iPad
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

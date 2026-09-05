@@ -1,0 +1,583 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Thunder Tactical Shooters USPSA Match 13JUN2026 USPSA 2026-06-13Thunder Tactical Shooters
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Jacob Tullis	100.00%	771.9723	85.18	114.75%	Open	M		MAJOR	a140523	141	25	1	1				
+2-Adam Bandiera	95.38%	736.2854	85.94	109.52%	Open	A		MAJOR	TY148375	128	35	4	1				
+3-Michael Hanover	94.42%	728.9032	85.46	108.73%	Open	G		MAJOR	TY146302	129	34	3	2				
+4-Olayemi Bakare	93.90%	724.9137	91.43	107.43%	Open	A		MAJOR	A105300	137	30	1					
+5-Chez Chike-Udenze	90.90%	701.7491	87.06	104.30%	Open	M		MAJOR	A138598	117	45	4	2				
+6-Travis McKenzie	90.53%	698.8293	86.53	104.34%	Open	M		MAJOR	L6340	116	44	6	2		1		
+7-Anthony Fong	87.13%	672.6472	90.19	112.14%	Limited Optics	G		MINOR	A142224	129	33	5	1				
+8-Ryan Jaw 1	86.05%	664.2894	87.45	99.29%	Open	U		MAJOR	Ty142907	124	36	3	5		1		
+9-Hunter Sparkman	85.45%	659.6870	96.20	110.15%	Limited Optics	A	Law Enforcement	MINOR	A165234	136	30	2					
+10-Dan Ausmus	84.73%	654.0799	84.42	97.92%	Open	U		MINOR	L6447	114	49	2	3			1	
+11-Jim Havens	84.22%	650.1779	91.11	97.25%	Open	U	Senior	MAJOR	a114636	125	37	3	3			2	
+12-Garrett Pressler	83.69%	646.0332	98.65	96.14%	Open	U		MINOR	A165603	147	20	1			1		
+13-Jay-R delos-Santos	83.02%	640.9142	99.86	106.75%	PCC	B	Senior	MINOR	A70297	128	39	1					
+14-Ryan Morgan	82.92%	640.0984	95.80	94.86%	Open	B		MINOR	A147606	125	41	2					
+15-Phillip Nguyen	82.86%	639.6512	97.33	107.24%	Limited Optics	M		MINOR	TY152423	134	32	1	1				
+16-Phyl Santos	82.77%	638.9806	88.10	106.48%	PCC	U		MINOR	a155981	118	42	6	2		2		
+17-Anthony Giuliano	81.67%	630.4667	100.29	112.54%	Carry Optics	M	Law Enforcement	MINOR	A152263	140	27	1					
+18-Ulrick Fong	81.49%	629.0438	93.68	105.77%	PCC	A	Senior	MINOR	A170351	122	37	7	2				
+19-Adriel Taylor	80.68%	622.8026	95.29	104.78%	Limited Optics	C		MINOR	X	128	35	3	2				
+20-Daniell Gianelloni	79.98%	617.4347	103.15	110.27%	Carry Optics	M	Law Enforcement	MINOR	FY134287	143	25				1		
+21-Clinton Shawhan	78.32%	604.6044	104.34	100.97%	Limited Optics	B		MINOR	A106964	138	27	3					
+22-Yanlin Xiang	77.71%	599.9284	98.41	100.95%	Limited Optics	B		MINOR	A164967	132	30	3	3				
+23-Will Berry	77.29%	596.6912	100.67	106.37%	Carry Optics	M	Law Enforcement	MINOR	A157815	131	34	1	2			1	
+24-Will Goglas	77.09%	595.1409	97.50	88.46%	Open	A		MAJOR	A154790	113	46	4	5				
+25-Shaundy Pepito	76.67%	591.9063	106.55	88.44%	Open	X		MAJOR	A135670	136	29	1	2				
+26-james rogers 2	76.65%	591.7299	103.42	105.57%	Carry Optics	A	Law Enforcement	MINOR	A101402	124	43	1					
+27-Joseph White	76.44%	590.0877	101.64	98.88%	Limited Optics	U	Law Enforcement	MINOR	A135489	128	39		1			1	
+28-Albert Legislador	75.73%	584.6173	119.36	97.90%	PCC	B	Senior	MINOR	TY91787	159	8	1					
+29-Derek Lowrance 2	75.40%	582.0533	97.26	97.43%	Limited Optics	B		MINOR	A169029	120	43	4	1			3	
+30-Cade Horton 1	74.19%	572.7540	97.20	95.94%	Limited Optics	U		MINOR	A168751	116	44	6	2		1	1	
+31-Ivan Velazquez	74.16%	572.5076	100.32	102.53%	Carry Optics	A		MINOR	A108486	125	35	5	3		1		
+32-FRANCIS NGUYEN	73.75%	569.3205	91.91	93.33%	Limited Optics	A		MINOR	A169979	108	50	4	6		1		
+33-Phil Truong	73.03%	563.7847	104.24	84.25%	Open	B		MINOR	FY128600	122	42	2	2				
+34-Zachary Snow	71.15%	549.2429	112.69	91.34%	Limited Optics	C		MINOR	A176407	136	28	3	1				
+35-Colin Kerrigan 1	71.08%	548.7136	101.19	91.30%	Limited Optics	U		MINOR	A142731	125	37	3	3		2		
+36-John Ren	71.03%	548.2935	106.14	97.74%	Carry Optics	A		MINOR	A168570	117	46	5			1		
+37-David Zhang	70.00%	540.3744	112.16	90.55%	Limited Optics	A		MINOR	FY140383	127	35	6					
+38-Canyon Krueger 2	69.90%	539.6398	105.03	96.48%	Carry Optics	B	Law Enforcement	MINOR	A164453	122	39	3	4				
+39-Michael McCoy	69.29%	534.8674	118.49	90.57%	PCC	B		MINOR	A100138	134	31	3					
+40-Charles Spears	66.28%	511.6692	111.93	91.64%	Carry Optics	B		MINOR	A164017	128	34	4	2		2		
+41-Andre Wijaya	66.26%	511.4753	111.93	85.54%	Limited Optics	C		MINOR	A175473	117	45	5	1		1		
+42-Harlan Chen	64.82%	500.3657	112.81	84.00%	Limited Optics	B		MINOR	A163292	109	50	8	1				
+43-Glen Kruger	64.72%	499.6252	124.56	89.26%	Carry Optics	U	Senior	MINOR	A171162	136	30	1	1				
+44-Mark (tutt_shoots) Tutt	64.63%	498.9591	101.70	74.41%	Open	U	Military	MINOR	A175310	105	48	10	5		1		
+45-Sean Finnerty	61.97%	478.4179	135.83	80.14%	Limited Optics	C		MINOR	A166724	148	20						
+46-James Berry	61.88%	477.7246	127.25	85.43%	Carry Optics	U		MINOR	a174774	131	33	4			1		
+47-Marco Yue	61.71%	476.3885	102.88	81.96%	PCC	U		MINOR	N/A	102	52	6	8			1	
+48-Trevor “Drayko” Symons	60.98%	470.7695	128.14	79.02%	Limited Optics	C		MINOR	A172350	135	29	2	2				
+49-Aidan Street	60.86%	469.8281	115.52	69.65%	Open	U		MINOR	A135308	116	40	8	4		1		
+50-Cade Blake	60.79%	469.2910	131.99	69.91%	Open			MINOR	A183007	143	23	1	1		1		
+51-Quintin Davis	60.01%	463.2945	109.50	83.68%	Carry Optics	U		MINOR	A171308	112	40	11	5		1	1	
+52-Markho Babasoro	59.97%	462.9363	125.30	77.28%	Limited Optics	U		MINOR	A174757	133	30	2	3		1	1	
+53-Taylor Latham	59.72%	461.0091	131.12	120.00%	Limited	B	Super Senior	MINOR	TY39841	136	27	3	2				
+54-Jake Espinoza	59.33%	458.0129	123.77	81.93%	Carry Optics	C	Law Enforcement	MINOR	A159001	118	37	10	3				
+55-Yihao Zuo	59.29%	457.7096	122.49	67.94%	Open	B		MAJOR	A165414	99	46	19	4				
+56-Travis Swingle	58.25%	449.6970	138.23	79.85%	Carry Optics	C		MINOR	A174147	134	31	2	1				
+57-Raul Rios	58.21%	449.3471	128.94	80.02%	Carry Optics	U		MINOR	A171634	130	30	5	3				
+58-Byron "BigBDaShooter" McGowen	57.19%	441.4816	140.91	78.70%	Carry Optics	C	Military	MINOR	A159731	133	32	3					
+59-Justin Ledet	56.78%	438.3171	135.23	78.53%	Carry Optics	U		MINOR	A166201	129	33	5	1			1	
+60-Gennady Khokhorin	56.41%	435.4310	123.86	72.86%	Limited Optics	U	Super Senior	MINOR	A123884	122	38	3	5			2	
+61-Weston Dial	55.96%	432.0083	150.83	76.84%	Carry Optics	U		MINOR	A176655	154	13		1				
+62-Virak Meas	55.72%	430.1640	119.28	64.08%	Open	C	Senior	MINOR	O	110	45	7	6				
+63-Valter Gonzalez	55.32%	427.0256	121.95	76.10%	Carry Optics	C		MINOR	A172969	123	27	10	8				
+64-Jason Essazay	53.57%	413.5322	150.30	68.90%	Limited Optics	C		MINOR	A145552	135	29	2	2				
+65-Sam Honeycutt	53.30%	411.4377	144.24	73.52%	Carry Optics	B		MINOR	A141838	125	34	8	1				
+66-Yul Kwan	53.22%	410.8134	158.31	60.96%	Open	C	Senior	MAJOR	A156984	121	37	8	2			1	
+67-William Porter	53.19%	410.5795	138.24	68.77%	Limited Optics	U	Junior	MINOR	A183183	113	45	9	1				
+68-Joseph Wilkie	52.08%	402.0411	140.07	71.72%	Carry Optics	B		MINOR	A166735	118	41	6	3				
+69-Chris Ballard	50.70%	391.3722	163.50	65.70%	Limited Optics	C		MINOR	A178189	142	25	1					
+70-Jason Sun	47.90%	369.7726	143.40	66.05%	Carry Optics	U		MINOR	A182524	124	33	6	5		1	1	
+71-kyung-ho yoon	47.22%	364.5639	157.93	60.38%	Limited Optics	U		MINOR	A183186	149	12	2	5			2	
+72-Davis Moore 2	47.15%	363.9541	175.92	65.31%	Carry Optics	U		MINOR	A112940	156	10	1	1		1	1	
+73-Brett Hadley	46.69%	360.4200	119.90	53.00%	Open	U		MINOR	A179130	102	44	9	13				
+74-Dale Hamm	45.76%	353.2724	179.10	91.91%	Limited	C	Super Senior	MAJOR	TY97196	116	45	6	1				
+75-Rico Veluz	45.34%	349.9818	150.08	59.08%	Limited Optics	U		MINOR	N/a	108	45	12	3		1		
+76-Khoa Nguyen 1	44.54%	343.8146	90.74	85.71%	Production	A	Law Enforcement	MINOR	A117224	91	26	3					
+77-Jeff Andrew Mabute-Louie	43.87%	338.6800	190.41	57.83%	PCC	U		MINOR	A170065	136	27	5					
+78-Jimmy Bercian	42.25%	326.1360	181.11	58.26%	Carry Optics	U		MINOR	A178900	141	19	4	4				
+79-Zachary Deason 2	41.66%	321.5869	123.51	52.66%	Limited Optics	U		MINOR	A172975	99	45	10	14				
+80-Hieu Le	40.98%	316.3479	115.15	52.39%	Limited Optics	U	Law Enforcement	MINOR	0	109	26	3	6		1	2	
+81-Mervs Castillon	39.22%	302.7393	162.30	50.13%	Limited Optics	U	Senior	MINOR	A174980	110	40	10	8			1	
+82-Coder W	38.61%	298.0272	155.75	52.32%	PCC	X		MINOR	A178525	87	30	3	48			3	
+83-Merle Aber	37.80%	291.8048	214.11	52.10%	Carry Optics	U		MINOR	A182176	148	14	4	2				
+84-Tony Sullivan	36.66%	282.9810	169.46	47.45%	Limited Optics	U		MINOR	A176593	111	41	10	6			3	
+85-Joe Nguyen	34.97%	269.9927	177.67	45.70%	Limited Optics	U		MINOR	1	108	47	8	5			4	
+86-Bob Purcell	34.35%	265.1446	248.20	44.34%	Limited Optics	D	Super Senior	MINOR	TY111994	148	15	4	1				
+87-Gregory Reeves	33.51%	258.7159	122.03	44.96%	Carry Optics	U		MINOR	A182104	84	39	4	9			2	
+88-Nomar Gutierrez	30.98%	239.1832	141.31	41.59%	Carry Optics	C		MINOR	8328149065	108	28	8	24		1	5	
+89-Bob Best	30.52%	235.5940	214.57	42.06%	Carry Optics	U		MINOR	A170179	147	9	2	10			4	
+90-Jacob Elliott	29.82%	230.2093	73.81	42.34%	Carry Optics	U	Law Enforcement	MINOR	A146767	77	8	2	1				
+91-Kyle Poole 1	26.96%	208.1287	268.82	30.47%	Open	U		MINOR	A182134	112	37	13	6		1		
+92-Greg Martin	15.41%	118.9905	233.70	21.39%	Carry Optics	U		MINOR	X	89	44	6	29		2		
+93-Allison Honeycutt	15.39%	118.7995	332.43	30.21%	Limited	U	Lady	MINOR	A144043	74	68	14	12				
+DQ-Jeno Fredericks	0.00%	0.0000		0.00%	Open	U		MINOR	A177910								
+DQ-Zachary Davis 1	0.00%	0.0000		0.00%	Limited Optics	U	Law Enforcement	MINOR	0								
+DQ-Leo Garra	0.00%	0.0000		0.00%	Open	A		MAJOR	A154189								
+Name
+1-Jacob Tullis
+2-Adam Bandiera
+3-Michael Hanover
+4-Olayemi Bakare
+5-Chez Chike-Udenze
+6-Travis McKenzie
+7-Anthony Fong
+8-Ryan Jaw 1
+9-Hunter Sparkman
+10-Dan Ausmus
+11-Jim Havens
+12-Garrett Pressler
+13-Jay-R delos-Santos
+14-Ryan Morgan
+15-Phillip Nguyen
+16-Phyl Santos
+17-Anthony Giuliano
+18-Ulrick Fong
+19-Adriel Taylor
+20-Daniell Gianelloni
+21-Clinton Shawhan
+22-Yanlin Xiang
+23-Will Berry
+24-Will Goglas
+25-Shaundy Pepito
+26-james rogers 2
+27-Joseph White
+28-Albert Legislador
+29-Derek Lowrance 2
+30-Cade Horton 1
+31-Ivan Velazquez
+32-FRANCIS NGUYEN
+33-Phil Truong
+34-Zachary Snow
+35-Colin Kerrigan 1
+36-John Ren
+37-David Zhang
+38-Canyon Krueger 2
+39-Michael McCoy
+40-Charles Spears
+41-Andre Wijaya
+42-Harlan Chen
+43-Glen Kruger
+44-Mark (tutt_shoots) Tutt
+45-Sean Finnerty
+46-James Berry
+47-Marco Yue
+48-Trevor “Drayko” Symons
+49-Aidan Street
+50-Cade Blake
+51-Quintin Davis
+52-Markho Babasoro
+53-Taylor Latham
+54-Jake Espinoza
+55-Yihao Zuo
+56-Travis Swingle
+57-Raul Rios
+58-Byron "BigBDaShooter" McGowen
+59-Justin Ledet
+60-Gennady Khokhorin
+61-Weston Dial
+62-Virak Meas
+63-Valter Gonzalez
+64-Jason Essazay
+65-Sam Honeycutt
+66-Yul Kwan
+67-William Porter
+68-Joseph Wilkie
+69-Chris Ballard
+70-Jason Sun
+71-kyung-ho yoon
+72-Davis Moore 2
+73-Brett Hadley
+74-Dale Hamm
+75-Rico Veluz
+76-Khoa Nguyen 1
+77-Jeff Andrew Mabute-Louie
+78-Jimmy Bercian
+79-Zachary Deason 2
+80-Hieu Le
+81-Mervs Castillon
+82-Coder W
+83-Merle Aber
+84-Tony Sullivan
+85-Joe Nguyen
+86-Bob Purcell
+87-Gregory Reeves
+88-Nomar Gutierrez
+89-Bob Best
+90-Jacob Elliott
+91-Kyle Poole 1
+92-Greg Martin
+93-Allison Honeycutt
+DQ-Jeno Fredericks
+DQ-Zachary Davis 1
+DQ-Leo Garra
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Jaw, Ryan (1)
+2026-06-13 15:28:04.620 - 2026-06-13 15:34:38.099Edited 7 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	2	0	1	0	0
+Added details: [object Object]Added numAlphas: 25Added numCharlies: 8Added numDeltas: 1Added numNS: 1Added stringTime: 15.97Edited By Amazon KFRAPWI bba22383
+Stage 2
+Deason, Zachary (1)
+2026-06-13 16:50:43.342 - 2026-06-13 16:59:01.887Edited 8 minutes after.Edited rawpts was: 136 now: 140Edited str,0 was: 27.93 now: 25.2
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited udid was: f5cbe9e9-22fe-4a10-b1d2-a5addbb27d24 now: b95c916f-f16c-4e1c-b9db-3e77134a5538Edited dname was: Amazon KFRAPWI dbb27d24 now: Amazon KFRAPWI 134a5538Added details: [object Object]Added numAlphas: 26Added numCharlies: 10Added stringTime: 25.2Edited By Amazon KFRAPWI dbb27d24
+Stage 3
+Nguyen, Khoa (1)
+2026-06-13 15:08:22.171 - 2026-06-13 17:21:30.496Edited 2 hours after.Edited rawpts was: 55 now: 50Edited str,0 was: 11.83 now: 12.26
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	1	0
+Current	0	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	0	1	0	0	0
+Edited udid was: 72d54238-7cc6-4c96-a8be-c5e5cab3de8b now: f5cbe9e9-22fe-4a10-b1d2-a5addbb27d24Edited dname was: Amazon KFRAPWI cab3de8b now: Amazon KFRAPWI dbb27d24Added details: [object Object]Added numAlphas: 8Added numCharlies: 3Added numDeltas: 1Added stringTime: 12.26Edited By Amazon KFRAPWI cab3de8b
+Poole, Kyle (1)
+2026-06-13 17:22:01.658 - 2026-06-13 17:23:24.529Edited a minute after.Edited rawpts was: 54 now: 47Edited str,0 was: 12.26 now: 31.87
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	0	0
+Current	1	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	0	0	0	1	0
+Added details: [object Object]Added numAlphas: 8Added numCharlies: 2Added numDeltas: 1Added numM: 1Added stringTime: 31.87Edited By Amazon KFRAPWI dbb27d24
+Kerrigan, Colin (1)
+2026-06-13 15:52:11.728 - 2026-06-13 15:52:47.432Edited a few seconds after.Edited rawpts was: 58 now: 53
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	0	0	0	1	0
+Added details: [object Object]Added numAlphas: 10Added numCharlies: 1Added numM: 1Added stringTime: 9.31Edited By Amazon KFRAPWI 569e7286
+Krueger, Canyon (2)
+2026-06-13 16:06:42.219 - 2026-06-13 16:07:51.562Edited a minute after.Edited str,0 was: 0 now: 10.75
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 4.02,4.38,5.06,5.56,6.21,6.59,8.18,8.71,9.34,9.88,10.52,10.75;AMG E2D2Edited meta,0,t was: 2026-06-13 16:06:42.218 now: 2026-06-13 16:07:20.401Added rawpts: 60Added aprv: trueAdded details: [object Object]Added numAlphas: 12Added stringTime: 10.75Edited By Amazon KFRAPWI 569e72862026-06-13 15:56:54.252 - 2026-06-13 16:06:42.219Edited 10 minutes after.Removed rawpts: 58Edited str,0 was: 8.24 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 3.75,4.02,4.46,4.78,5.10,5.44,6.45,6.85,7.31,7.65,8.01,8.24;AMG E2D2 now: ReshootEdited meta,0,t was: 2026-06-13 15:56:22.611 now: 2026-06-13 16:06:42.218Removed aprv: trueEdited By Amazon KFRAPWI 569e7286
+Stage 4
+Moore, Davis (2)
+2026-06-13 14:22:09.559 - 2026-06-13 14:25:35.038Edited 3 minutes after.Edited rawpts was: 10 now: 60Edited str,0 was: 0 now: 14.26
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Meas, Virak (O/Min/S)Added aprv: trueAdded details: [object Object]Added numAlphas: 14Added numNS: 1Added stringTime: 14.26Edited By Amazon KFRAPWI c637965d2026-06-13 14:20:50.795 - 2026-06-13 14:22:09.559Edited a minute after.Edited rawpts was: 49 now: 10Edited str,0 was: 10.87 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Meas, Virak (O/Min/S)Edited By Amazon KFRAPWI c637965d
+Lowrance, Derek (2)
+2026-06-13 17:17:24.480 - 2026-06-13 17:18:05.979Edited a few seconds after.Edited rawpts was: 10 now: 54Edited str,0 was: 0 now: 8.46
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 2.07,2.33,2.77,4.31,4.54,5.36,5.76,6.00,7.43,7.65,8.09,8.46;AMG F5F7Edited meta,0,t was: 2026-06-13 17:17:24.480 now: 2026-06-13 17:17:40.026Added aprv: trueAdded details: [object Object]Added numAlphas: 11Added numCharlies: 3Added stringTime: 8.46Edited By Amazon KFRAPWI bba223832026-06-13 16:59:26.606 - 2026-06-13 17:17:24.480Edited 18 minutes after.Edited rawpts was: 50 now: 10Edited str,0 was: 9.72 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.38,1.68,2.14,2.53,2.99,3.27,5.04,5.29,5.79,6.36,9.01,9.22,9.72;AMG F5F7 now: ReshootEdited meta,0,t was: 2026-06-13 16:59:02.985 now: 2026-06-13 17:17:24.480Removed aprv: trueEdited By Amazon KFRAPWI bba22383
+Stage 5
+Davis, Zachary -DQ (1)
+2026-06-13 15:21:18.027 - 2026-06-13 16:41:15.096Edited an hour after.Edited rawpts was: 20 now: 138Edited str,0 was: 0 now: 31.54
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed stagedq_details: Stage 5Edited udid was: b5c901c7-3713-4c40-aa32-236fc637965d now: 72d54238-7cc6-4c96-a8be-c5e5cab3de8bEdited dname was: Amazon KFRAPWI c637965d now: Amazon KFRAPWI cab3de8bAdded aprv: trueAdded numAlphas: 23Added numCharlies: 7Added numDeltas: 2Added stringTime: 31.54Edited By Amazon KFRAPWI c637965d
+Stage 6
+rogers, james (2)
+2026-06-13 17:07:27.360 - 2026-06-13 17:08:54.133Edited a minute after.Edited rawpts was: 115 now: 114
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	2	1	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	2	0
+Current	2	0	0	0	0	0	0
+Added aprv: trueAdded details: [object Object]Added numAlphas: 21Added numCharlies: 3Added stringTime: 13.03Edited By Amazon KFRAPWI cab3de8b2026-06-13 16:59:01.496 - 2026-06-13 17:07:27.360Edited 8 minutes after.Edited rawpts was: 100 now: 115
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	2	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	2	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	1	0	0	2	0
+Removed aprv: trueEdited By Amazon KFRAPWI cab3de8b
+Deason, Zachary (1)
+2026-06-13 14:28:54.314 - 2026-06-13 14:29:44.455Edited a minute after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+Added rawpts: 89Added aprv: trueAdded details: [object Object]Added numAlphas: 13Added numCharlies: 7Added numDeltas: 3Added numM: 1Added stringTime: 18.45Edited By Amazon KFRAPWI dbb27d24
+Horton, Cade (1)
+2026-06-13 15:04:59.703 - 2026-06-13 15:05:23.215Edited a few seconds after.Edited proc was: 2 now: 1Edited proc_cnts,0,NaWQn6 was: 2 now: 1Added details: [object Object]Added numAlphas: 16Added numCharlies: 7Added numDeltas: 1Added numProc: 1Added stringTime: 12.52Edited By Amazon KFRAPWI 134a5538
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

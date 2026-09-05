@@ -1,0 +1,230 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Wallis Orchard 24AUG19 USPSA 2019-08-23
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Jason Brinkley 2	100.00%	480.2804	75.36	103.00%	Limited			MAJOR		71	28	3	1				
+2-Jerry Bedro	98.43%	472.7613	76.46	101.92%	PCC			MINOR		78	22	3					
+3-August Balagtas 2	96.25%	462.2928	82.10	103.00%	Open			MAJOR		75	27	1					
+4-Scott Reeh	89.14%	428.1441	85.87	92.87%	PCC			MINOR		83	19		1				
+5-Garry Newton 2	82.10%	394.3241	85.19	85.28%	PCC			MINOR		77	21	3	2				
+6-joel broughton	73.90%	354.9285	105.94	77.02%	PCC			MINOR		94	9					1	
+7-Alberto Ramirez 2	70.33%	337.7890	115.36	73.00%	Limited			MAJOR		76	25	1	1				
+8-Jon Baguio	63.94%	307.0766	97.12	92.81%	Carry Optics			MINOR		76	20	2	5		1		
+9-Chuck Hain	60.27%	289.4410	113.89	62.93%	PCC			MINOR		85	13	1	4				
+10-Jeffrey Polk	60.01%	288.2274	115.15	87.82%	Carry Optics			MINOR		71	28	2	2		1		
+11-Gary Wu 2	57.88%	278.0078	131.53	92.50%	Production			MINOR		77	20	2	4				
+12-Jim Havens	55.70%	267.4977	115.51	81.37%	Carry Optics			MINOR		81	17		5		1		
+13-David ChowingDown	54.97%	264.0072	106.77	57.54%	Open			MAJOR		62	29	4	8				
+14-Andrew Whitley	53.80%	258.3693	126.55	55.86%	Limited			MAJOR		76	18	4	5				
+15-Herman Waddy	51.17%	245.7401	137.33	84.31%	Production			MINOR		81	18	2	2				
+16-Bill Kinstley	39.69%	190.6325	159.48	41.53%	Limited			MAJOR		75	20	2	6		1		
+17-Dan Brodt 2	39.16%	188.0553	113.24	39.96%	Limited			MINOR		54	31	9	9				
+18-John Turk 2	38.00%	182.5221	157.77	64.46%	Production			MINOR		68	20	9	6				
+19-Lars Nelson 2	36.95%	177.4587	180.94	61.87%	Production			MINOR		85	13		5				
+20-Brady Harnage 2	23.07%	110.7826	167.92	40.71%	Production	U		MINOR		50	33	9	11				
+21-Mark Olson 2	19.56%	93.9562	209.35	32.50%	Production			MINOR		62	25	3	13				
+22-Matthew Santiago 2	13.92%	66.8779	272.86	25.59%	Production			MINOR		49	36	7	11		3		
+23-John Austria 1	0.00%	0.0000		0.00%	Limited			MAJOR									
+24-Mike Benitez	0.00%	0.0000		0.00%	PCC			MINOR									
+25-Brady Harnage	0.00%	0.0000		0.00%	Production	U		MINOR									
+26-Brady Harnage	0.00%	0.0000		0.00%	Production	U		MINOR									
+27-Chev Jacot	0.00%	0.0000		0.00%	PCC			MINOR									
+28-Duane Mendoza	0.00%	0.0000		0.00%	Open			MAJOR									
+29-Gary Owens	0.00%	0.0000		0.00%	Open			MAJOR									
+30-Kim Tran 1	0.00%	0.0000		0.00%	Open			MAJOR									
+DQ-Allan Santiago	0.00%	0.0000		0.00%	PCC			MINOR									
+Name
+1-Jason Brinkley 2
+2-Jerry Bedro
+3-August Balagtas 2
+4-Scott Reeh
+5-Garry Newton 2
+6-joel broughton
+7-Alberto Ramirez 2
+8-Jon Baguio
+9-Chuck Hain
+10-Jeffrey Polk
+11-Gary Wu 2
+12-Jim Havens
+13-David ChowingDown
+14-Andrew Whitley
+15-Herman Waddy
+16-Bill Kinstley
+17-Dan Brodt 2
+18-John Turk 2
+19-Lars Nelson 2
+20-Brady Harnage 2
+21-Mark Olson 2
+22-Matthew Santiago 2
+23-John Austria 1
+24-Mike Benitez
+25-Brady Harnage
+26-Brady Harnage
+27-Chev Jacot
+28-Duane Mendoza
+29-Gary Owens
+30-Kim Tran 1
+DQ-Allan Santiago
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Newton, Garry (2)
+2019-08-24 15:30:10.712 - 2019-08-24 15:47:59.918Edited 18 minutes after.Edited rawpts was: 104 now: 109Edited str,0 was: 23.12 now: 21.12
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 19Added numCharlies: 8Added numM: 1Added stringTime: 21.12Edited By Android Device2019-08-24 15:28:32.331 - 2019-08-24 15:30:10.712Edited 2 minutes after.Added Reason for Edit Stage editedEdited By Android Device
+Brodt, Dan (2)
+2019-08-24 15:22:16.546 - 2019-08-24 15:22:40.179Edited a few seconds after.Edited rawpts was: 57 now: 77
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 12Added numCharlies: 8Added numDeltas: 3Added numM: 5Added stringTime: 26.73Edited By Android Device2019-08-24 15:16:34.896 - 2019-08-24 15:22:16.546Edited 6 minutes after.Added Reason for Edit Stage editedEdited By Android Device
+Olson, Mark (2)
+2019-08-24 15:22:16.546 - 2019-08-24 15:22:52.238Edited a few seconds after.Edited rawpts was: 76 now: 96
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 15Added numCharlies: 10Added numDeltas: 1Added numM: 2Added stringTime: 59.62Edited By Android Device2019-08-24 15:19:00.203 - 2019-08-24 15:22:16.546Edited 3 minutes after.Added Reason for Edit Stage editedEdited By Android Device
+Austria, John (1)
+2019-08-24 15:05:47.887 - 2019-08-24 15:22:16.546Edited 16 minutes after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 2Edited By Android Device
+Turk, John (2)
+2019-08-24 15:22:16.545 - 2019-08-24 15:23:00.277Edited a few seconds after.Edited rawpts was: 86 now: 106
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 21Added numCharlies: 3Added numDeltas: 2Added numM: 2Added stringTime: 29.42Edited By Android Device2019-08-24 14:56:52.086 - 2019-08-24 15:22:16.545Edited 25 minutes after.Added Reason for Edit Stage editedEdited By Android Device
+Brinkley, Jason (2)
+2019-08-24 15:22:16.546 - 2019-08-24 15:22:29.172Edited a few seconds after.Edited rawpts was: 94 now: 114
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 20Added numCharlies: 5Added numDeltas: 2Added numM: 1Added stringTime: 18.78Edited By Android Device2019-08-24 15:13:43.688 - 2019-08-24 15:22:16.546Edited 9 minutes after.Added Reason for Edit Stage editedEdited By Android Device
+Harnage, Brady (2)
+2019-08-24 15:22:16.546 - 2019-08-24 15:23:40.891Edited a minute after.Edited rawpts was: 69 now: 89
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 15Added numCharlies: 7Added numDeltas: 3Added numM: 3Added stringTime: 37.92Edited By Android Device2019-08-24 15:11:02.491 - 2019-08-24 15:22:16.546Edited 11 minutes after.Added Reason for Edit Stage editedEdited By Android Device
+Santiago, Matthew (2)
+2019-08-24 14:24:50.481 - 2019-08-24 14:25:29.748Edited a few seconds after.Edited rawpts was: 73 now: 90Edited str,0 was: 0 now: 72.54
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Stage editedAdded aprv: trueAdded details: [object Object]Added numAlphas: 13Added numCharlies: 11Added numDeltas: 2Added numNS: 1Added numM: 2Added stringTime: 72.54Edited By Android Device2019-08-24 14:24:24.531 - 2019-08-24 14:24:50.481Edited a few seconds after.Added Reason for Edit Stage editedEdited By Android Device
+Ramirez, Alberto (2)
+2019-08-24 15:22:16.546 - 2019-08-24 15:23:05.850Edited a minute after.Edited rawpts was: 94 now: 114
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 18Added numCharlies: 8Added numDeltas: 1Added numM: 1Added stringTime: 26.25Edited By Android Device2019-08-24 14:59:00.159 - 2019-08-24 15:22:16.546Edited 23 minutes after.Added Reason for Edit Stage editedEdited By Android Device
+Tran, Kim (1)
+2019-08-24 14:59:32.439 - 2019-08-24 15:22:16.545Edited 23 minutes after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 2Edited By Android Device
+Wu, Gary (2)
+2019-08-24 15:22:16.545 - 2019-08-24 15:23:35.411Edited a minute after.Edited rawpts was: 82 now: 102
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 17Added numCharlies: 9Added numM: 2Added stringTime: 24.4Edited By Android Device2019-08-24 15:07:27.981 - 2019-08-24 15:22:16.545Edited 15 minutes after.Added Reason for Edit Stage editedEdited By Android Device
+Nelson, Lars (2)
+2019-08-24 15:22:16.545 - 2019-08-24 15:23:12.103Edited a minute after.Edited rawpts was: 99 now: 119
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 24Added numCharlies: 3Added numM: 1Added stringTime: 44.27Edited By Android Device2019-08-24 15:01:50.271 - 2019-08-24 15:22:16.545Edited 20 minutes after.Added Reason for Edit Stage editedEdited By Android Device
+Balagtas, August (2)
+2019-08-24 15:22:16.546 - 2019-08-24 15:23:29.852Edited a minute after.Edited rawpts was: 104 now: 124
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 22Added numCharlies: 6Added stringTime: 19Edited By Android Device2019-08-24 15:04:44.360 - 2019-08-24 15:22:16.546Edited 18 minutes after.Added Reason for Edit Stage editedEdited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

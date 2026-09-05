@@ -1,0 +1,89 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BPS USPSA Apr 21, 2019 USPSA 2019-04-21
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Todd Mori 1	100.00%	110.0000	15.20	55.00%	Production	A	Military	MINOR	TY112573	18	2	2					
+2-Madison Henson	71.63%	78.7926	21.99	55.00%	Limited	D	Military	MINOR	A118218	17	5						
+3-Jonathan Wood 1	41.63%	45.7911	24.55	31.70%	Limited	U		MINOR	TY116519	14	4	2	2				
+4-Madison Henson	38.82%	42.7016	30.39	21.35%	Production	U	Military	MINOR	A118218	15	4		2				
+5-Sean MacKenzie	29.51%	32.4586	26.92	21.97%	Limited	U	Junior	MINOR		14	5	2	1		3		
+6-Scott Medeiros	24.28%	26.7065	48.34	13.35%	Production	U	Military	MINOR	A118225	12	6	3				1	
+Name
+1-Todd Mori 1
+2-Madison Henson
+3-Jonathan Wood 1
+4-Madison Henson
+5-Sean MacKenzie
+6-Scott Medeiros
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Didn't You Send The Mailman
+Mori, Todd (1)
+2019-04-21 04:09:56.964 - 2019-04-21 04:11:42.916Edited 2 minutes after.Edited str,0 was: 6.84 now: 5.2
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 4Added numDeltas: 2Added stringTime: 5.2Edited By iPhone
+No Need To Believe In Either Side
+Giddens, Justin (1)
+2019-04-21 05:15:32.850 - 2019-04-21 05:17:01.978Edited a minute after.Removed proc: 4Added numAlphas: 10Added numCharlies: 3Added numDeltas: 1Added numNS: 1Added numM: 2Added stringTime: 20.38Edited By iPhone
+Wood, Jonathan (1)
+2019-04-21 05:22:01.185 - 2019-04-21 05:26:09.674Edited 4 minutes after.Edited poph was: 3 now: 4Edited str,0 was: 15.76 now: 15.72Edited aprv was: true now: false
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	1	0	0	0	1	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	1	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	0	0	0	1	0
+Edited popm was: 1 now: 0Added details: [object Object]Added numAlphas: 14Added numCharlies: 4Added numM: 2Added stringTime: 15.72Edited By iPhone
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

@@ -1,0 +1,638 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Thunder Tactical Shooters USPSA Match 13SEP2025 USPSA 2025-09-13
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Anthony Fong	100.00%	675.0038	82.58	97.84%	Limited Optics	M		MINOR	A142224	117	25	3	1			2	
+2-Chez Chike-Udenze	99.34%	670.5716	88.97	100.70%	Open	M		MAJOR	A138598	108	32	5	1				
+3-Jacob Tullis 2	93.72%	632.6285	93.22	91.66%	Limited Optics	M		MINOR	A140523	115	29	2					
+4-Jackson Kam	90.94%	613.8744	96.45	92.48%	Open	C		MAJOR	A1017686	111	31	2	2				
+5-Hunter Sparkman	89.04%	601.0452	93.45	99.08%	Carry Optics	A	Law Enforcement	MINOR	A165234	113	26	5	2				
+6-Adriel Taylor	88.85%	599.7118	92.26	90.07%	Open	B		MAJOR	A104333	99	33	11	3				
+7-Olayemi Bakare 2	87.66%	591.6784	93.08	85.51%	Limited Optics	A		MINOR	A105300	104	37	4	1			1	
+8-Tyler Denmon 2	87.47%	590.4246	98.13	85.58%	Limited Optics	A		MINOR	A156054	107	38	1					
+9-Phillip Nguyen 2	85.70%	578.4888	93.72	83.63%	Limited Optics	M		MINOR	TY152423	99	40	7			2		
+10-Adam Bandiera 1	84.43%	569.9155	101.01	82.80%	Limited Optics	A		MINOR	A148375	121	21	2	2			1	
+11-Heath Helgeson	79.26%	535.0382	94.64	77.27%	Limited Optics	A		MINOR	A149129	101	37	4	4		2		
+12-Roger Feng	78.87%	532.4018	99.31	87.76%	Carry Optics	A		MINOR	A157776	107	30	7	2		1		
+13-Amber Chike-Udenze	78.78%	531.7616	103.53	95.58%	PCC	B	Lady	MINOR	A138974	98	42	6					
+14-Cade Horton	77.89%	525.7289	102.12	85.97%	Carry Optics	B		MINOR	A168751	102	38	3	3				
+15-Michael McCoy 2	77.34%	522.0222	105.16	92.99%	PCC	U		MINOR	A100138	109	32	3	2			1	
+16-John Ren	77.14%	520.7153	98.10	85.59%	Carry Optics	B		MINOR	A168570	93	42	9	2		1		
+17-Will Goglas	76.56%	516.8132	93.05	78.40%	Open	B		MAJOR	A154790	91	42	10	3		1	6	
+18-Ivan Velazquez	74.62%	503.6968	105.83	83.15%	Carry Optics	A		MINOR	A108486	103	35	6	2		1		
+19-Gary Wu	74.34%	501.7719	120.94	75.92%	Open	B	Senior	MAJOR	L2998	101	40	5					
+20-Steven McNamara 1	73.56%	496.5406	113.51	72.08%	Limited Optics	B	Senior	MINOR	A75212	117	25	1	3				
+21-Phyl Santos 5	70.03%	472.7071	123.93	68.60%	Limited Optics	B		MINOR	A155981	105	30	9	2				
+22-Sean Frederick	69.84%	471.4269	116.30	77.73%	Carry Optics	B		MINOR	A149482	103	36	6	1				
+23-Jay Bennett	68.78%	464.2731	117.73	76.44%	Carry Optics	A	Super Senior	MINOR	A77156	93	46	7					
+24-Ulrick Fong	68.49%	462.3244	114.26	83.34%	PCC	U	Senior	MINOR	A170351	92	44	8	2				
+25-Cristian Torquemada	67.89%	458.2881	128.32	66.54%	Limited Optics	U		MINOR	A171091	118	25	2	1				
+26-Ryan Jaw	67.80%	457.6495	124.30	66.25%	Limited Optics	B		MINOR	A	106	31	5	4		1	1	
+27-Marco Yue 1	67.50%	455.6459	109.54	66.08%	Limited Optics	A		MINOR	L5762	104	33	4	5			1	
+28-Shaun Ebersole	67.34%	454.5402	113.84	65.92%	Limited Optics	A		MINOR	A160600	93	44	8	1			1	
+29-James “JimO” O'Flaherty 1	65.97%	445.2987	124.31	64.52%	Limited Optics	B	Senior, Law Enforcement	MINOR	FY100318	110	29	6	1			1	
+30-Gregory Kam 1	65.87%	444.5927	114.14	80.55%	PCC	U	Senior	MINOR	A1017579	113	27	5	1		1	6	
+31-Michael Henss	65.35%	441.0884	131.21	63.92%	Limited Optics	C		MINOR	A56644	110	33	3					
+32-David Rodriguez	65.29%	440.7095	116.59	72.28%	Carry Optics	U	Junior	MINOR	A164247	100	37	5	4			1	
+33-chris bulkley	64.85%	437.7614	125.81	72.21%	Carry Optics	B		MINOR	A159469	108	33	3	2				
+34-Dan Ausmus	64.40%	434.6881	109.31	66.25%	Open	U		MINOR	L6447	104	25	9	8				
+35-David Zhang	64.06%	432.3975	135.85	65.39%	Open	C		MINOR	FY140383	102	41	2	1				
+36-Yanlin Xiang	62.68%	423.0982	122.92	61.36%	Limited Optics	B		MINOR	A164967	102	34	6	4				
+37-Coder PCC Wang	61.99%	418.4268	114.06	76.45%	PCC	C		MINOR	A170259	81	56	6	3		1		
+38-Harlan Chen	61.71%	416.5629	125.24	60.51%	Limited Optics	C		MINOR	A163292	105	36	1	4		1		
+39-Eric Wu	60.92%	411.1862	122.54	59.60%	Limited Optics	B		MINOR	FY104740	86	51	7	2				
+40-Yul Kwan	59.18%	399.4750	139.72	59.88%	Open	C	Senior	MAJOR	A156984	103	38	2	3		2		
+41-Stormtrooper Qian	58.77%	396.6987	132.44	56.93%	Limited Optics	B		MINOR	A1509	104	31	5	6				1
+42-John Mabute	58.31%	393.6121	136.73	56.92%	Limited Optics	U		MINOR	A169337	109	29	5	3		1		
+43-Christopher Wilkerson	57.55%	388.4921	115.57	64.41%	Carry Optics	U	Law Enforcement	MINOR	A161474	89	44	7	6		2		
+44-Gennady Khokhorin	56.52%	381.5226	135.86	104.29%	Production	B	Super Senior	MINOR	A123884	101	36	6	3			1	
+45-Jay-R delos-Santos 2	56.19%	379.3138	145.53	68.08%	PCC	B	Senior	MINOR	A70297	102	37	4	3		1		
+46-james wood 1	55.57%	375.1096	159.93	54.37%	Limited Optics	U	Super Senior	MINOR	A162399	121	24	1					
+47-Jerry Bedro	54.00%	364.4833	105.58	54.68%	Open	B		MAJOR	A98263	77	34	11	5				
+48-Coder Limited Wang	52.70%	355.6987	148.77	92.82%	Limited	U		MINOR	A170259	89	43	13	1				
+49-henry pham 5	52.65%	355.3995	136.95	58.55%	Carry Optics	U		MINOR	A171802	106	30	5	5		1	3	
+50-Aaron Lejuhn 1	48.34%	326.3131	135.35	53.87%	Carry Optics	U		MINOR	A172988	94	39	8	5		4	1	
+51-GLENN McKinney	46.73%	315.4288	152.72	82.88%	Limited	C	Super Senior	MAJOR	FY 8311	90	39	9	8		1		
+52-Richard Elms	46.45%	313.5229	176.32	104.29%	Revolver	B	Super Senior	MINOR	A44556	113	26	4	3				
+53-Ross "Riff Raff" Pimentel 3	45.00%	303.7553	124.26	44.03%	Limited Optics	C	Senior	MINOR	A157753	82	46	9	9			1	
+54-Dale Hamm	44.90%	303.0646	173.89	45.65%	Open	D	Super Senior	MAJOR	TY97196	75	54	15	2		1		
+55-Chadrick Smith	44.05%	297.3645	150.13	49.16%	Carry Optics	D		MINOR	A141153	84	48	9	5		2		
+56-Valter Gonzalez	42.43%	286.3941	159.97	47.08%	Carry Optics	U		MINOR	A172969	108	30	2	6		1	4	
+57-Mohamad Karim Koleilat	42.24%	285.0964	209.67	46.97%	Carry Optics	U		MINOR	A171552	117	22	5	2		1		
+58-Rudy Widiaman	41.76%	281.9129	126.17	40.87%	Limited Optics	X		MINOR	X	86	36	14	10		2	3	
+59-Marshall Quigley	38.20%	257.8820	216.38	89.08%	Single Stack	U		MAJOR	A162329	76	47	16	7		1		
+60-Bob Purcell	37.21%	251.1438	193.40	36.26%	Limited Optics	U	Super Senior	MINOR	TY111994	101	32	7	6				
+61-Keishaun Smith	36.68%	247.5662	168.97	66.35%	Limited	U	Junior	MINOR	A153220	87	38	7	14				
+62-Eric Cooper	36.63%	247.2786	188.54	88.61%	Single Stack	C	Super Senior	MINOR	A57512	103	30	6	7		2		
+63-Virak Meas 3	36.43%	245.9326	128.32	36.26%	Open	U	Senior	MINOR	O	79	37	11	19				
+64-Fares Al-Salim	36.32%	245.1335	171.47	35.40%	Limited Optics	C		MINOR	A171235	83	41	13	9				1
+65-Ron Plesko	35.33%	238.4716	217.49	39.40%	Carry Optics	U	Super Senior	MINOR	TY138017	92	47	5	2		1		
+66-Jeff Andrew Mabute-Louie	29.47%	198.8977	291.63	36.32%	PCC	U		MINOR	A170065	122	11		13		1	9	
+67-Michael Hanover	0.00%	0.0000		0.00%	Open	M		MAJOR	A146302								
+68-Todd Liscano	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	A172140								
+69-Josh Munoz	0.00%	0.0000		0.00%	Carry Optics	A		MINOR	A163367								
+70-Zachary Ralston	0.00%	0.0000		0.00%	Carry Optics	M		MINOR	A123081								
+71-Joseph Wilkie	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	A166735								
+72-ian loyd	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	A148072								
+DQ-Andre Wijaya	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	A172696								
+DQ-Sean Finnerty 1	0.00%	0.0000		0.00%	Carry Optics	C		MINOR	A166724								
+Name
+1-Anthony Fong
+2-Chez Chike-Udenze
+3-Jacob Tullis 2
+4-Jackson Kam
+5-Hunter Sparkman
+6-Adriel Taylor
+7-Olayemi Bakare 2
+8-Tyler Denmon 2
+9-Phillip Nguyen 2
+10-Adam Bandiera 1
+11-Heath Helgeson
+12-Roger Feng
+13-Amber Chike-Udenze
+14-Cade Horton
+15-Michael McCoy 2
+16-John Ren
+17-Will Goglas
+18-Ivan Velazquez
+19-Gary Wu
+20-Steven McNamara 1
+21-Phyl Santos 5
+22-Sean Frederick
+23-Jay Bennett
+24-Ulrick Fong
+25-Cristian Torquemada
+26-Ryan Jaw
+27-Marco Yue 1
+28-Shaun Ebersole
+29-James “JimO” O'Flaherty 1
+30-Gregory Kam 1
+31-Michael Henss
+32-David Rodriguez
+33-chris bulkley
+34-Dan Ausmus
+35-David Zhang
+36-Yanlin Xiang
+37-Coder PCC Wang
+38-Harlan Chen
+39-Eric Wu
+40-Yul Kwan
+41-Stormtrooper Qian
+42-John Mabute
+43-Christopher Wilkerson
+44-Gennady Khokhorin
+45-Jay-R delos-Santos 2
+46-james wood 1
+47-Jerry Bedro
+48-Coder Limited Wang
+49-henry pham 5
+50-Aaron Lejuhn 1
+51-GLENN McKinney
+52-Richard Elms
+53-Ross "Riff Raff" Pimentel 3
+54-Dale Hamm
+55-Chadrick Smith
+56-Valter Gonzalez
+57-Mohamad Karim Koleilat
+58-Rudy Widiaman
+59-Marshall Quigley
+60-Bob Purcell
+61-Keishaun Smith
+62-Eric Cooper
+63-Virak Meas 3
+64-Fares Al-Salim
+65-Ron Plesko
+66-Jeff Andrew Mabute-Louie
+67-Michael Hanover
+68-Todd Liscano
+69-Josh Munoz
+70-Zachary Ralston
+71-Joseph Wilkie
+72-ian loyd
+DQ-Andre Wijaya
+DQ-Sean Finnerty 1
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1 Bay 1 Hook
+Santos, Phyl (3)
+2025-09-13 14:11:49.859 - 2025-09-13 17:17:50.935Edited 3 hours after.Removed dnf: trueEdited rawpts was: 5 now: 64Edited str,0 was: 0 now: 12.36
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+Edited udid was: b662acb5-8ad7-4778-b00a-830e47bc6299 now: 6bcbf44c-b6ed-46a3-b7fd-bd956011dbccEdited dname was: Amazon KFFOWI 47bc6299 now: Amazon KFFOWI 6011dbccAdded aprv: trueAdded details: [object Object]Added numAlphas: 12Added numCharlies: 2Added numDeltas: 3Added numM: 1Added stringTime: 12.36Edited By Amazon KFFOWI 47bc62992025-09-13 14:00:51.008 - 2025-09-13 14:11:49.859Edited 11 minutes after.Removed Reason for Edit Moved to Shooter Purcell, Bob (LO/Min/SS)Added dnf: trueAdded dnfs: R4cPM8Edited By Amazon KFFOWI 47bc62992025-09-13 13:58:53.777 - 2025-09-13 14:00:51.008Edited 2 minutes after.Edited rawpts was: 83 now: 5Edited str,0 was: 23.66 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Purcell, Bob (LO/Min/SS)Edited By Amazon KFFOWI 47bc6299
+Meas, Virak (1)
+2025-09-13 14:11:55.578 - 2025-09-13 17:04:14.349Edited 3 hours after.Removed dnf: trueEdited rawpts was: 5 now: 64Edited str,0 was: 0 now: 13.46
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited udid was: b662acb5-8ad7-4778-b00a-830e47bc6299 now: 6bcbf44c-b6ed-46a3-b7fd-bd956011dbccEdited dname was: Amazon KFFOWI 47bc6299 now: Amazon KFFOWI 6011dbccAdded aprv: trueAdded details: [object Object]Added numAlphas: 9Added numCharlies: 8Added numM: 1Added stringTime: 13.46Edited By Amazon KFFOWI 47bc6299
+Stage 2 Bay 2 All L Shaped
+Santos, Phyl (2)
+2025-09-13 14:18:06.440 - 2025-09-14 19:06:38.881Edited a day after.Removed dnf: trueEdited rawpts was: 15 now: 87Edited str,0 was: 0 now: 13.05
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added Reason for Edit Restored from 2025-09-13 09:01Added aprv: trueAdded details: [object Object]Added numAlphas: 18Added numCharlies: 4Added stringTime: 13.05Edited By Amazon KFFOWI 47bc62992025-09-13 14:01:53.197 - 2025-09-13 14:18:06.440Edited 16 minutes after.Edited rawpts was: 87 now: 15Edited str,0 was: 13.05 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueEdited udid was: 6bcbf44c-b6ed-46a3-b7fd-bd956011dbcc now: b662acb5-8ad7-4778-b00a-830e47bc6299Edited dname was: Amazon KFFOWI 6011dbcc now: Amazon KFFOWI 47bc6299Added dnf: trueAdded dnfs: R4cPM8Edited By Amazon KFFOWI 6011dbcc
+Meas, Virak (2)
+2025-09-13 14:18:16.691 - 2025-09-14 19:05:49.254Edited a day after.Removed dnf: trueEdited rawpts was: 15 now: 82Edited str,0 was: 0 now: 26.33
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Added Reason for Edit Restored from 2025-09-13 09:09Added aprv: trueAdded details: [object Object]Added numAlphas: 18Added numCharlies: 2Added numDeltas: 1Added numM: 1Added stringTime: 26.33Edited By Amazon KFFOWI 47bc62992025-09-13 14:09:56.603 - 2025-09-13 14:18:16.691Edited 8 minutes after.Edited rawpts was: 82 now: 15Edited str,0 was: 26.33 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueEdited udid was: 6bcbf44c-b6ed-46a3-b7fd-bd956011dbcc now: b662acb5-8ad7-4778-b00a-830e47bc6299Edited dname was: Amazon KFFOWI 6011dbcc now: Amazon KFFOWI 47bc6299Added dnf: trueAdded dnfs: R4cPM8Edited By Amazon KFFOWI 6011dbcc
+Stage 3 Bay 3 A Little Down And Dirty
+McNamara, Steven (1)
+2025-09-13 16:40:34.488 - 2025-09-13 16:40:54.516Edited a few seconds after.Edited popm was: 0 now: 1Edited poph was: 4 now: 3Edited rawpts was: 95 now: 90Added details: [object Object]Added numAlphas: 19Added numCharlies: 3Added numDeltas: 1Added numM: 3Added stringTime: 14.36Edited By 0A04:Amazon KFFO
+Lejuhn, Aaron (1)
+2025-09-13 13:48:25.227 - 2025-09-13 13:55:43.788Edited 7 minutes after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 22Added numCharlies: 3Added numNS: 1Added numM: 1Added stringTime: 21.04Edited By Amazon KFFOWI 0a3d415c
+delos-Santos, Jay-R (1)
+2025-09-13 13:51:50.972 - 2025-09-13 13:55:43.788Edited 4 minutes after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 19Added numCharlies: 7Added stringTime: 19.26Edited By Amazon KFFOWI 0a3d415c
+Stage 4 Bay 4 Bang-Bang
+wood, james (1)
+2025-09-13 17:01:38.343 - 2025-09-13 17:02:13.668Edited a few seconds after.Edited rawpts was: 96 now: 98
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	1	0	0	1	0	0	0
+Added details: [object Object]Added numAlphas: 14Added numCharlies: 9Added numDeltas: 1Added stringTime: 24.21Edited By 0A04:Amazon KFFO
+delos-Santos, Jay-R (1)
+2025-09-13 14:20:42.566 - 2025-09-13 14:21:03.568Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+Added details: [object Object]Added numAlphas: 16Added numCharlies: 8Added numNS: 1Added stringTime: 15.51Edited By Amazon KFFOWI 0a3d415c
+McCoy, Michael (2)
+2025-09-13 14:30:33.769 - 2025-09-13 14:33:00.086Edited 2 minutes after.Edited str,0 was: 0 now: 13.34
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Tullis, Jacob (LO/Min)Added rawpts: 100Added aprv: trueAdded details: [object Object]Added numAlphas: 15Added numCharlies: 8Added numDeltas: 1Added stringTime: 13.34Edited By Amazon KFFOWI 0a3d415c2025-09-13 14:29:55.185 - 2025-09-13 14:30:33.769Edited a few seconds after.Removed rawpts: 98Edited str,0 was: 12.62 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Tullis, Jacob (LO/Min)Edited By Amazon KFFOWI 0a3d415c
+Stage 5 Bay 5 V
+Finnerty, Sean -DQ (1)
+2025-09-13 15:55:13.939 - 2025-09-13 15:55:33.907Edited a few seconds after.Edited rawpts was: 114 now: 116
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	4	0	0	0	0	0	0
+Added numAlphas: 22Added numCharlies: 2Added stringTime: 24.74Edited By Amazon KFFOWI 47bc6299
+Pimentel, Ross "Riff Raff" (1)
+2025-09-13 15:22:43.413 - 2025-09-13 15:23:35.455Edited a minute after.Added proc: 1Added details: [object Object]Added numAlphas: 10Added numCharlies: 6Added numDeltas: 3Added numM: 5Added numProc: 1Added stringTime: 17.31Edited By Amazon KFFOWI 6011dbcc
+Stage 6 Bay 6 Calm Before Storm
+Pimentel, Ross "Riff Raff" (2)
+2025-09-13 16:07:54.421 - 2025-09-13 16:13:25.044Edited 6 minutes after.Edited str,0 was: 0 now: 10.9
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	2	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	3	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	1	0
+Removed Reason for Edit Moved to Shooter Widiaman, Rudy (LO/Min)Added rawpts: 57Added aprv: trueAdded details: [object Object]Added numAlphas: 7Added numCharlies: 7Added numDeltas: 1Added numM: 1Added stringTime: 10.9Edited By Amazon KFFOWI 6011dbcc2025-09-13 16:06:51.844 - 2025-09-13 16:07:54.421Edited a minute after.Removed rawpts: 63Edited str,0 was: 10.54 now: 0
+A	B	C	D	NS	M	NPM
+Previous	4	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	2	0	1	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Widiaman, Rudy (LO/Min)Edited By Amazon KFFOWI 6011dbcc
+pham, henry (4)
+2025-09-30 20:54:34.379 - 2025-09-30 21:03:26.443Edited 9 minutes after.Edited meta,0,t was: 2025-09-30 20:54:34.379 now: 2025-09-30 21:03:26.443Added details: [object Object]Added numAlphas: 10Added numCharlies: 5Added numM: 1Added numProc: 1Added stringTime: 9.65Edited By Amazon KFFOWI 4fe64e8e2025-09-30 20:48:25.084 - 2025-09-30 20:54:34.379Edited 6 minutes after.Edited meta,0,t was: 2025-09-30 20:48:25.084 now: 2025-09-30 20:54:34.379Edited By Amazon KFFOWI 4fe64e8e2025-09-30 20:47:59.082 - 2025-09-30 20:48:25.084Edited a few seconds after.Edited meta,0,t was: 2025-09-30 20:47:59.082 now: 2025-09-30 20:48:25.084Edited By Amazon KFFOWI 4fe64e8e2025-09-13 13:56:22.695 - 2025-09-30 20:47:59.082Edited 17 days after.Added Reason for Edit Stage editedEdited By Amazon KFFOWI 4fe64e8e
+Bakare, Olayemi (2)
+2025-09-13 14:50:56.304 - 2025-09-13 14:52:40.153Edited 2 minutes after.Edited str,0 was: 0 now: 10.77
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	4	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	2	0	0	0	0
+Removed Reason for Edit Moved to Shooter Sparkman, Hunter (CO/Min/LE)Added rawpts: 68Added aprv: trueAdded details: [object Object]Added numAlphas: 10Added numCharlies: 6Added stringTime: 10.77Edited By Amazon KFFOWI 010a1d842025-09-13 14:50:35.482 - 2025-09-13 14:50:56.304Edited a few seconds after.Removed rawpts: 76Edited str,0 was: 8.64 now: 0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Sparkman, Hunter (CO/Min/LE)Edited By Amazon KFFOWI 010a1d84
+Tullis, Jacob (2)
+2025-09-13 15:40:36.308 - 2025-09-13 15:42:20.122Edited 2 minutes after.Edited str,0 was: 0 now: 8.01
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	3	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 68Added aprv: trueAdded details: [object Object]Added numAlphas: 10Added numCharlies: 6Added stringTime: 8.01Edited By Amazon KFFOWI 0a3d415c2025-09-13 15:22:47.000 - 2025-09-13 15:40:36.308Edited 18 minutes after.Removed rawpts: 67Edited str,0 was: 9.62 now: 0
+A	B	C	D	NS	M	NPM
+Previous	4	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	3	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Amazon KFFOWI 0a3d415c
+Nguyen, Phillip (2)
+2025-09-13 15:38:41.414 - 2025-09-13 15:39:55.306Edited a minute after.Edited str,0 was: 0 now: 10.52
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	4	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 66Added aprv: trueAdded details: [object Object]Added numAlphas: 9Added numCharlies: 7Added stringTime: 10.52Edited By Amazon KFFOWI 0a3d415c2025-09-13 15:26:14.327 - 2025-09-13 15:38:41.414Edited 12 minutes after.Removed rawpts: 69Edited str,0 was: 9.3 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Amazon KFFOWI 0a3d415c
+Denmon, Tyler (2)
+2025-09-13 15:44:31.149 - 2025-09-13 15:45:48.607Edited a minute after.Edited str,0 was: 0 now: 8.05
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	3	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 68Added aprv: trueAdded details: [object Object]Added numAlphas: 10Added numCharlies: 6Added stringTime: 8.05Edited By Amazon KFFOWI 0a3d415c2025-09-13 15:32:26.585 - 2025-09-13 15:44:31.149Edited 12 minutes after.Removed rawpts: 68Edited str,0 was: 9.9 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	3	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Amazon KFFOWI 0a3d415c
+Stage 7 Bay 7 We Play Games
+Yue, Marco (1)
+2025-09-13 13:57:55.758 - 2025-09-30 21:03:42.986Edited 17 days after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 13Added numCharlies: 5Added numDeltas: 2Added numM: 4Added numProc: 1Added stringTime: 20.39Edited By Amazon KFFOWI 1b7b7679
+pham, henry (1)
+2025-09-13 14:28:47.492 - 2025-09-30 21:03:42.986Edited 17 days after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 18Added numCharlies: 4Added numDeltas: 1Added numM: 1Added numProc: 2Added stringTime: 29.86Edited By Amazon KFFOWI 4fe64e8e
+O'Flaherty, James “JimO” (1)
+2025-09-13 15:20:09.739 - 2025-09-30 21:03:42.986Edited 17 days after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 12Added numCharlies: 7Added numDeltas: 4Added numM: 1Added numProc: 1Added stringTime: 20.48Edited By Amazon KFFOWI 010a1d84
+Bandiera, Adam (1)
+2025-09-13 15:31:01.078 - 2025-09-30 21:03:42.987Edited 17 days after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 21Added numCharlies: 3Added numProc: 1Added stringTime: 23.58Edited By Amazon KFFOWI 010a1d84
+Kam, Gregory (1)
+2025-09-13 15:01:12.983 - 2025-09-30 21:03:42.987Edited 17 days after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 15Added numCharlies: 7Added numDeltas: 2Added numProc: 6Added stringTime: 21.270000000000003Edited By 0A04:Amazon KFFO
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

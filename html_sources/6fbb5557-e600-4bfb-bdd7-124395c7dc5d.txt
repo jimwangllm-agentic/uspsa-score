@@ -1,0 +1,274 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Wallis Orchard Jan 2026 PCSL 2 gun match PCSL_HF 2026-01-17Wallis Orchard Practical Shooters
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	Mem #	Class	Cats	Div	KT	A	C	D	M	NS	NPM	P	Time	%	Pts
+1-Jacob Tullis				COMPETITION		145	47	3	1				170.75	100.00	1003.7862
+2-Ryan Morgan				COMPETITION		109	69	8	2	1			155.28	99.17	995.4146
+3-Anthony Fong 1				COMPETITION		160	44	3	7	1		3	156.17	95.07	954.2837
+4-Heath Helgeson				COMPETITION		145	55	2	2				176.84	92.35	926.9795
+5-Brandon Padilla				COMPETITION		144	57	3	2				189.41	85.42	857.4366
+6-Will Goglas				COMPETITION		113	81	5	5			1	175.11	82.11	824.2178
+7-Ryan Jaw 2				COMPETITION		122	81	9	4	2			172.02	82.10	824.1106
+8-Daniel Alexander				COMPETITION		139	71	5	3	1			192.41	79.74	800.4008
+9-James Tonkinson				COMPETITION		142	59	7	2				201.58	79.08	793.8072
+10-Derek Lowrance				COMPETITION		125	72	9	2				195.13	78.71	790.1275
+11-Andrew Whitley	TY106649			COMPETITION		142	65	7	4	1		1	192.07	77.52	778.1219
+12-Jesse Harrington	A153046			COMPETITION		130	65	8	3				206.23	75.77	760.5217
+13-Jim Havens	A114636			COMPETITION		163	48	5	4				210.87	75.72	760.0220
+14-Marco Yue				COMPETITION		118	62	7	9				185.15	75.35	756.3528
+15-james rogers				PRACTICAL		165	49	9	1				221.85	74.59	748.6759
+16-Matthew Givens				COMPETITION		117	84	7	6				192.76	72.80	730.7079
+17-Tyler Denmon 1				COMPETITION		132	57	6	5	1			207.01	72.49	727.6533
+18-Joseph White				PRACTICAL		139	72	5	6	4			193.14	71.81	720.7768
+19-Alex Goben				COMPETITION		154	60	2	4	1			220.49	70.72	709.8360
+20-Drew Yang				PRACTICAL		136	65	8	5	3			212.02	69.78	700.4684
+21-Dale Fike				COMPETITION		144	61	14	3	2			214.69	69.56	698.2689
+22-Claude Chew				COMPETITION		128	67	12	5	1			206.23	68.87	691.2830
+23-Blake Horst				COMPETITION		120	65	9	8	2			207.66	67.64	678.9459
+24-Michael Whitley	A111091			COMPETITION		139	59	8	12	2		2	186.53	67.07	673.2837
+25-Phyl Santos 1				COMPETITION		112	69	21	8	2			192.30	66.67	669.2411
+26-Khoa Nguyen				PRACTICAL		111	50	2	2				137.08	66.16	664.1115
+27-Gary Wu				COMPETITION		140	64	5	7				227.16	65.91	661.5453
+28-Jason Knopp				COMPETITION		143	45	7	13			2	215.44	62.78	630.1724
+29-Paul Beavers				PRACTICAL		133	63	3	9	3		2	220.34	60.50	607.3060
+30-Eric Wu				COMPETITION		127	73	4	8	2			246.79	58.07	582.8634
+31-Harlan Chen				COMPETITION		115	72	8	5	1			260.52	57.13	573.5121
+32-Marshall Ahrens				COMPETITION		108	71	9	14	1			214.33	57.10	573.1612
+33-Tj Middleton				COMPETITION		134	49	5	10			2	244.36	56.98	571.9468
+34-Devin Men				COMPETITION		137	54	8	9	3			244.62	55.97	561.7832
+35-David Bowles				COMPETITION		120	82	7	3	2		1	262.66	55.22	554.3376
+36-Trevor Symons				COMPETITION		121	65	20	10	2			233.18	53.50	537.0719
+37-Alston Vandergrifft				COMPETITION		141	74	6	3	7			264.58	52.51	527.1167
+38-Andrew Quintana				COMPETITION		114	71	12	17	4			203.44	52.41	526.1216
+39-Vladimir Bashkardin				PRACTICAL		186	24	5	5			1	313.39	51.75	519.4835
+40-David Zhang				COMPETITION		115	73	14	12			1	241.51	51.24	514.3678
+41-Austen White				PRACTICAL		143	56	11	14	1		3	235.12	50.00	501.8504
+42-Lucas Blanchard				PRACTICAL		151	58	5	2	2			328.14	48.11	482.8766
+43-Keith Bowman Jr				COMPETITION		131	64	10	13	2			257.19	47.26	474.4274
+44-Zoe Allison				PRACTICAL		158	50	5	5	2			329.22	46.66	468.3518
+45-Rico Veluz				COMPETITION		140	40	6	14	2		5	272.94	46.40	465.7829
+46-Susan "Mimsy" Richie 1				PRACTICAL		113	82	10	7	1			303.37	44.46	446.2436
+47-Jacob Elliott				PRACTICAL		163	51	2	6	1			349.58	43.66	438.2982
+48-Scott “Poppy” Richie				PRACTICAL		105	76	4	11				340.81	39.68	398.2570
+49-Patrick Gilbert				PRACTICAL		118	76	11	17	1		4	273.65	39.20	393.4883
+50-Phocion Park				COMPETITION		136	42	2	12	1		1	359.71	39.12	392.7176
+51-Eric wei				PRACTICAL		106	52	17	11	1			327.58	38.92	390.7211
+52-Michael Rominiyi				COMPETITION		105	28	4	5			1	146.18	37.83	379.7024
+53-Don Kilgore				PRACTICAL		120	73	11	12	1		1	332.43	37.30	374.3876
+54-Mike Benitez				COMPETITION		96	31	6	9			3	132.87	34.59	347.1972
+55-ian loyd				PRACTICAL		117	82	12	13	3		2	343.74	33.31	334.3689
+56-Jeff Andrew Mabute-Louie				PRACTICAL		117	63	15	17	3		2	352.41	30.57	306.8587
+57-Jim Burgess				COMPETITION		117	71	10	20	1		5	321.20	30.09	302.0088
+58-Joe Nguyen				COMPETITION		141	64	4	15	3		3	478.38	25.81	259.1137
+59-Ross "Riff Raff" Pimentel 1				COMPETITION		70	48	7	14	1		4	216.81	15.81	158.7323
+60-Shawn Zhao				COMPETITION		73	67	25	55	7			339.20	9.01	90.4619
+61-Anuj Bhandari				PRACTICAL										0.00	0.0000
+62-Jordan Koehn				PRACTICAL										0.00	0.0000
+Name
+1-Jacob Tullis
+2-Ryan Morgan
+3-Anthony Fong 1
+4-Heath Helgeson
+5-Brandon Padilla
+6-Will Goglas
+7-Ryan Jaw 2
+8-Daniel Alexander
+9-James Tonkinson
+10-Derek Lowrance
+11-Andrew Whitley
+12-Jesse Harrington
+13-Jim Havens
+14-Marco Yue
+15-james rogers
+16-Matthew Givens
+17-Tyler Denmon 1
+18-Joseph White
+19-Alex Goben
+20-Drew Yang
+21-Dale Fike
+22-Claude Chew
+23-Blake Horst
+24-Michael Whitley
+25-Phyl Santos 1
+26-Khoa Nguyen
+27-Gary Wu
+28-Jason Knopp
+29-Paul Beavers
+30-Eric Wu
+31-Harlan Chen
+32-Marshall Ahrens
+33-Tj Middleton
+34-Devin Men
+35-David Bowles
+36-Trevor Symons
+37-Alston Vandergrifft
+38-Andrew Quintana
+39-Vladimir Bashkardin
+40-David Zhang
+41-Austen White
+42-Lucas Blanchard
+43-Keith Bowman Jr
+44-Zoe Allison
+45-Rico Veluz
+46-Susan "Mimsy" Richie 1
+47-Jacob Elliott
+48-Scott “Poppy” Richie
+49-Patrick Gilbert
+50-Phocion Park
+51-Eric wei
+52-Michael Rominiyi
+53-Don Kilgore
+54-Mike Benitez
+55-ian loyd
+56-Jeff Andrew Mabute-Louie
+57-Jim Burgess
+58-Joe Nguyen
+59-Ross "Riff Raff" Pimentel 1
+60-Shawn Zhao
+61-Anuj Bhandari
+62-Jordan Koehn
+Old style results
+
+Score Edit History
+Bay 3
+Pimentel, Ross "Riff Raff" (1)
+2026-01-17 17:49:15.403 - 2026-01-17 17:49:31.394Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	0	1	1	0	0
+Added details: [object Object]Added numAlphas: 25Added numBravos: 1Added numCharlies: 15Added numDeltas: 5Added numNS: 1Added numM: 7Added numProc: 1Added numKT: 1Added stringTime: 74.12Edited By 4
+Bay 4
+Jaw, Ryan (2)
+2026-01-17 14:37:03.640 - 2026-01-17 14:41:44.770Edited 5 minutes after.Edited rawpts was: 20 now: 122Edited str,0 was: 0 now: 23.18
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Shooter Givens, Matthew (COMPETITION) now: 2.02,2.23,4.13,4.35,5.35,5.58,5.74,6.72,7.11,7.32,8.03,8.24,8.93,9.22,12.66,13.07,13.75,14.40,14.75,15.27,15.67,16.44,17.02,17.32,18.37,18.70,19.38,20.15,20.39,22.23,22.52,23.18;AMG 0035Edited meta,0,t was: 2026-01-17 14:37:03.640 now: 2026-01-17 14:41:40.151Added aprv: trueAdded details: [object Object]Added numAlphas: 19Added numCharlies: 9Added numNS: 1Added stringTime: 23.18Edited By 22026-01-17 14:36:50.065 - 2026-01-17 14:37:03.640Edited a few seconds after.Edited rawpts was: 122 now: 20Edited str,0 was: 21.56 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 2.06,2.24,3.27,3.50,4.36,4.54,5.38,5.55,6.24,6.40,7.42,7.56,11.20,11.39,12.22,12.83,13.01,13.74,13.93,14.59,14.87,15.69,15.91,16.54,17.27,17.57,18.45,20.77,21.40,21.56;AMG 0035 now: Moved to Shooter Givens, Matthew (COMPETITION)Edited meta,0,t was: 2026-01-17 14:36:07.550 now: 2026-01-17 14:37:03.640Removed aprv: trueEdited By 2
+Denmon, Tyler (1)
+2026-01-17 15:12:26.480 - 2026-01-17 15:13:07.065Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	1	0	1	0	0
+Added details: [object Object]Added numAlphas: 21Added numBravos: 2Added numCharlies: 3Added numNS: 1Added numKT: 2Added stringTime: 24.13Edited By 2
+Richie, Susan "Mimsy" (1)
+2026-01-17 17:08:10.998 - 2026-01-17 17:08:38.758Edited a few seconds after.Added details: [object Object]Added numAlphas: 17Added numCharlies: 10Added numM: 1Added stringTime: 34.58Edited By 5
+Bay 5
+Fong, Anthony (1)
+2026-01-17 15:44:47.396 - 2026-01-17 15:45:29.870Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	2	0	1	0	0
+Added details: [object Object]Added numAlphas: 39Added numBravos: 1Added numCharlies: 13Added numDeltas: 1Added numNS: 1Added numKT: 1Added stringTime: 39.81Edited By 2
+Bay 6
+Santos, Phyl (1)
+2026-01-17 15:07:04.991 - 2026-01-17 15:11:44.994Edited 5 minutes after.Edited rawpts was: 188 now: 193
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	1	0	0	0	0	1	0
+Added details: [object Object]Added numAlphas: 30Added numCharlies: 13Added numDeltas: 4Added numM: 1Added stringTime: 32.56Edited By 4
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

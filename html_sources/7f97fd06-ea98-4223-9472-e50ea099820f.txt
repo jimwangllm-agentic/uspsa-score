@@ -1,0 +1,251 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BIPS USPSA Jan 20, 2019 USPSA/IPSC 2019-01-20
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	P
+1-Ed Ah Toong	100.00%	405.0000	71.67	101.25%	Open	A		MAJOR	ty18742	55	29	1			1	
+2-Will Hopkins	75.09%	304.1327	73.28	87.06%	Limited 10	A	Senior	MAJOR	A20052	43	25	12	3		1	
+3-Edward Arakaki	70.22%	284.3889	102.67	83.34%	Limited 10	C	Senior	MINOR	TY63691	61	16	4				
+4-Jack Osburn 2	62.95%	254.9519	119.56	100.00%	Limited	B		MAJOR	TY28854	55	25	1	2			
+5-Rick Troyer 2	62.42%	252.8130	105.23	63.20%	Open	B	Super Senior	MAJOR	FY46305	55	20	1	2			1
+6-Tim Elliott	55.83%	226.1153	112.55	89.28%	Single Stack	C		MAJOR	TY80018	57	18	3	3		1	1
+7-Richard L Troyer 3 2	49.50%	200.4750	135.23	83.89%	Single Stack	U		MAJOR	TY105977	60	18	1	1		2	2
+8-Richard Johnson 1	49.46%	200.3066	103.09	56.77%	Limited 10	C		MINOR	TY87566	46	27	3	4		3	2
+9-Lawrence Baptista	39.80%	161.1821	135.94	73.23%	Production	U		MINOR		54	19	2	6		1	1
+10-Robert Stewart	35.49%	143.7480	193.20	76.60%	Production	X	Senior	MINOR		69	9	1	2		1	3
+11-Jason De Ponte 1	33.31%	134.9224	110.20	63.64%	Production	U		MINOR	a116172	49	23	1	10		2	5
+12-Paul Cabreira	24.49%	99.1978	168.99	56.04%	Production	D	Super Senior	MINOR	A94700	57	10	2	6		1	5
+13-Delfin Gapusan 1	23.63%	95.6982	202.81	26.08%	Limited 10	D	Super Senior	MINOR	A92781	46	15	4	11		3	1
+14-Eugene Harrell 2	14.68%	59.4546	276.30	14.86%	Open	U	Senior	MINOR		50	15		7			6
+Name
+1-Ed Ah Toong
+2-Will Hopkins
+3-Edward Arakaki
+4-Jack Osburn 2
+5-Rick Troyer 2
+6-Tim Elliott
+7-Richard L Troyer 3 2
+8-Richard Johnson 1
+9-Lawrence Baptista
+10-Robert Stewart
+11-Jason De Ponte 1
+12-Paul Cabreira
+13-Delfin Gapusan 1
+14-Eugene Harrell 2
+Old style results
+
+Score Edit History
+Stage 2 Ups n Downs
+Troyer 3, Richard L (2)
+2019-01-20 22:23:10.469 - 2019-01-20 22:29:15.969Edited 6 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	1
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	1
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	1	0	2
+Removed Reason for Edit Moved to Shooter Elliott, Tim (SS/Maj)Added proc: 2Added rawpts: 65Added details: [object Object]Added numAlphas: 9Added numCharlies: 5Added numNS: 1Added numProc: 2Added numNPM: 10Edited By Android Device2019-01-20 22:16:49.612 - 2019-01-20 22:23:10.469Edited 6 minutes after.Removed proc: 1Removed rawpts: 63
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	2
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	2
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	1	0	0	1
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	2
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	2
+Current	0	0	0	0	0	0	0
+Added Reason for Edit Moved to Shooter Elliott, Tim (SS/Maj)Edited By Android Device
+Harrell, Eugene (2)
+2019-01-20 21:59:31.501 - 2019-01-20 22:04:36.716Edited 5 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	0	4
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	0	4
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	0	3
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	0	3
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	2
+Removed Reason for Edit Moved to Shooter Baptista, Lawrence (P/Min)Added proc: 1Added rawpts: 24Added details: [object Object]Added numAlphas: 3Added numCharlies: 3Added numProc: 1Added numNPM: 18Edited By Android Device2019-01-20 21:56:24.067 - 2019-01-20 21:59:31.501Edited 3 minutes after.Removed proc: 1Removed rawpts: 57
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	2
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	2
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	2
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	3	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	3
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	4	0	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit Moved to Shooter Baptista, Lawrence (P/Min)Edited By Android Device
+Osburn, Jack (2)
+2019-01-20 21:35:18.971 - 2019-01-20 21:37:33.491Edited 2 minutes after.Edited rawpts was: 60 now: 75
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	2
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	2
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	2	0	0	0	1
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	1	0	0	2
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	3	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 9Added numCharlies: 7Added numDeltas: 1Added numNPM: 7Edited By Android Device2019-01-20 21:33:47.787 - 2019-01-20 21:35:18.971Edited 2 minutes after.Edited By Android Device
+De Ponte, Jason (1)
+2019-01-20 21:47:39.391 - 2019-01-20 21:50:14.991Edited 3 minutes after.Added proc: 4Added details: [object Object]Added numAlphas: 9Added numCharlies: 8Added numNS: 1Added numProc: 4Added numNPM: 7Edited By Android Device
+Johnson, Richard (1)
+2019-01-20 21:41:45.282 - 2019-01-20 21:53:51.742Edited 12 minutes after.Added proc: 2Added details: [object Object]Added numAlphas: 3Added numCharlies: 10Added numDeltas: 1Added numProc: 2Added numNPM: 10Edited By Android Device
+Stage 4 Tops n Bottoms
+Troyer, Rick (2)
+2019-01-21 00:14:31.964 - 2019-01-21 00:16:09.050Edited 2 minutes after.Edited poph was: 11 now: 0Edited rawpts was: 55 now: 101
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 13Added numCharlies: 9Added stringTime: 47.74Edited By Android Device2019-01-21 00:12:00.946 - 2019-01-21 00:14:31.964Edited 3 minutes after.Added ts: 0,0,0,0,0,0,0,0,0,0,0Edited By Android Device
+Gapusan, Delfin (1)
+2019-01-21 00:48:50.344 - 2019-01-21 01:17:10.389Edited 28 minutes after.Edited str,0 was: 700.07 now: 94.26
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added rawpts: 76Added details: [object Object]Added numAlphas: 12Added numCharlies: 5Added numDeltas: 1Added numM: 4Added stringTime: 94.26Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

@@ -1,0 +1,91 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BPS USPSA May 12, 2019 USPSA 2019-05-12
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Jonathan Wood 2	100.00%	175.9286	30.26	87.96%	Limited	D		MINOR	TY116519	26	10						
+2-Madison Henson 1	93.18%	163.9320	32.79	81.97%	Limited	U	Military	MINOR	A118218	31	2	3					
+3-Michael D'Ippolito	81.87%	144.0248	38.19	90.00%	Production	U	Military	MINOR	A118234	30	5	1					
+4-douglas armentrout	78.46%	138.0371	38.68	86.05%	Production	U	Military	MINOR	A117922	30	3	3					
+5-Scott Medeiros 1	64.74%	113.9015	43.89	56.95%	Limited	U	Military	MINOR	A118225	28	7		1				
+Name
+1-Jonathan Wood 2
+2-Madison Henson 1
+3-Michael D'Ippolito
+4-douglas armentrout
+5-Scott Medeiros 1
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Didn't You Send The Mailman
+Wood, Jonathan (2)
+2019-05-12 05:41:48.132 - 2019-05-12 05:48:23.011Edited 7 minutes after.Edited str,0 was: 8.77 now: 7.8
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited aprv was: true now: falseAdded details: [object Object]Added numAlphas: 4Added numCharlies: 2Added stringTime: 7.8Edited By iPhone2019-05-12 05:32:49.336 - 2019-05-12 05:41:48.132Edited 9 minutes after.Edited str,0 was: 8.89 now: 8.77
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	1	0	0
+Current	0	0	2	0	0	0	0
+Edited By iPhone
+Medeiros, Scott (1)
+2019-05-12 05:34:22.475 - 2019-05-12 05:43:35.775Edited 9 minutes after.Edited str,0 was: 11.16 now: 10.97
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 4Added numCharlies: 2Added stringTime: 10.97Edited By iPhone
+Henson, Madison (1)
+2019-05-12 05:27:22.363 - 2019-05-12 05:38:04.375Edited 11 minutes after.Removed proc: 2Edited str,0 was: 8.82 now: 7.26
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 5Added numCharlies: 1Added stringTime: 7.26Edited By iPhone
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

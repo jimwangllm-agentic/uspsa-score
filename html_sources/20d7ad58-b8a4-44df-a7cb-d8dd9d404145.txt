@@ -1,0 +1,151 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+GPS USPSA Extra Saturday Special 2021 USPSA 2021-07-31Generation P C
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Corey Slifko 1	100.00%	789.1000	102.03	114.50%	Open	A		MAJOR	A82935	120	40	5	4				
+2-Gil Yolo	94.87%	748.6328	107.02	108.74%	Open	A		MAJOR	A100714	122	35	8	4				
+3-Wade Pruetz	84.16%	664.0962	120.29	96.18%	Open	A		MAJOR	Ty79055	110	42	12	5				
+4-Mike Whitesides	83.79%	661.1946	119.80	96.20%	Open	A		MINOR	TY81358	119	45	2	3				
+5-Roman Gwiscz	78.92%	622.7955	134.48	111.14%	Carry Optics	A		MINOR	L4670	134	32	3				1	
+6-Jim Havens	76.64%	604.7736	130.85	106.80%	Carry Optics	A		MINOR	A114636	134	26	6	3			1	
+7-Alex Goben	74.06%	584.3815	151.98	103.33%	Carry Optics	A		MINOR	A86498	134	34	1					
+8-John Brunkhorst	73.55%	580.4032	144.95	103.93%	Carry Optics	B		MINOR	A116144	146	18	2	3				
+9-Michael Whitley	72.89%	575.1414	128.15	83.14%	Open	B		MAJOR	A111091	116	39	5	9			1	
+10-Jason Wells 1	68.76%	542.5824	148.03	111.51%	Single Stack	B		MAJOR	TY101006	113	47	5	4		1		
+11-Abrahan Figueroa	67.89%	535.7191	146.97	77.28%	Open	C	Senior	MAJOR	Ty54053	99	53	13	4				
+12-Carlos Escandon	67.63%	533.6574	157.22	111.59%	Single Stack	B	Super Senior	MAJOR	L2590	123	38	6	2				
+13-Mike Kahl	67.32%	531.2493	162.07	93.90%	Carry Optics	B	Super Senior	MINOR	TY70984	147	17	3	2				
+14-Khoa Nguyen	65.57%	517.3874	147.92	92.50%	Carry Optics	B	Law Enforcement	MINOR	A117224	132	28	4	5				
+15-Pat Byrne	64.39%	508.1263	158.06	104.76%	Single Stack	B	Super Senior	MAJOR	FYI 93921	120	39	5	5				
+16-Lan Nguyen	62.95%	496.7097	129.13	120.71%	PCC	A		MINOR	ty81359	99	53	9	8				
+17-Eric Mccampbell	61.85%	488.0940	169.56	120.15%	Limited	B	Senior	MAJOR	A14332	114	45	8	2				
+18-Jun Wu	60.99%	481.2820	159.97	85.32%	Carry Optics	U		MINOR	TY104927	135	25	3	6				
+19-Steven McNamara	60.29%	475.7153	157.98	84.86%	Carry Optics	U	Senior	MINOR	A75212	126	36	3	4			2	
+20-Detlef Hohl	58.49%	461.5609	166.78	95.69%	Single Stack	A	Senior	MAJOR	L3462	107	47	10	5		1		
+21-Tom Donahue	57.31%	452.2040	191.74	65.03%	Open	C	Super Senior	MAJOR	TY69009	124	38	3	4				
+22-Jeffrey Polk	55.59%	438.6310	145.81	79.52%	Carry Optics	B		MINOR	TY104167	109	47	5	8			2	
+23-Taylor Latham	53.52%	422.3576	189.00	87.90%	Single Stack	B	Senior	MAJOR	TY39841	114	42	9	4				
+24-Jonathan Backof 2	48.90%	385.8704	183.34	82.09%	Single Stack	B		MAJOR	A116878	105	48	7	9				
+25-Bill Kinstley	47.36%	373.7381	188.38	92.45%	Limited	B		MAJOR	A104836	114	37	9	9			1	
+26-Dale Hamm	43.98%	347.0445	223.59	85.74%	Limited	C	Senior	MAJOR	TY97196	96	61	8	4				
+27-JR Roberts	43.15%	340.4617	231.97	83.25%	Limited	D		MINOR	TY102739	131	30	3	5				
+28-Richard Dillow	42.95%	338.8879	201.44	85.07%	Limited	C	Super Senior	MAJOR	TY57446	121	30	7	11				
+29-Jeannie Marrone	34.48%	272.1135	229.45	67.91%	Limited	D	Lady, Senior	MINOR	A133357	115	37	5	12				
+30-Armando Clark	32.47%	256.2581	246.36	66.81%	Limited	U		MINOR	A134744	140	14	3	12			2	
+31-Ozge Cumberland	31.88%	251.5941	296.28	44.31%	Carry Optics	U	Lady	MINOR	ty130926	116	42	7	4				
+32-Keith Havran	23.40%	184.6199	210.69	33.54%	Carry Optics	U		MINOR	A135993	97	38	7	27			4	
+33-Vanessa Escobar	11.86%	93.6143	462.78	23.10%	Limited	U	Lady	MINOR	a135994	113	26	6	24			2	
+Name
+1-Corey Slifko 1
+2-Gil Yolo
+3-Wade Pruetz
+4-Mike Whitesides
+5-Roman Gwiscz
+6-Jim Havens
+7-Alex Goben
+8-John Brunkhorst
+9-Michael Whitley
+10-Jason Wells 1
+11-Abrahan Figueroa
+12-Carlos Escandon
+13-Mike Kahl
+14-Khoa Nguyen
+15-Pat Byrne
+16-Lan Nguyen
+17-Eric Mccampbell
+18-Jun Wu
+19-Steven McNamara
+20-Detlef Hohl
+21-Tom Donahue
+22-Jeffrey Polk
+23-Taylor Latham
+24-Jonathan Backof 2
+25-Bill Kinstley
+26-Dale Hamm
+27-JR Roberts
+28-Richard Dillow
+29-Jeannie Marrone
+30-Armando Clark
+31-Ozge Cumberland
+32-Keith Havran
+33-Vanessa Escobar
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Bay 4: Steeler Standards
+Backof, Jonathan (2)
+2021-07-31 15:41:09.846 - 2021-07-31 15:44:27.396Edited 3 minutes after.Edited str,2 was: 0 now: 5.53Edited str,1 was: 0 now: 8.3Edited str,0 was: 0 now: 8.41
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	3	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	2	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	1	0	0	0
+ARRAYARRAYEdited meta,0,k was: from now: string1Edited meta,0,v was: Moved to Shooter Wells, Jason (SS/Maj) now: 1.75,2.22,2.67,3.51,5.99,6.72,7.42,8.30;AMG 0F9BEdited meta,0,t was: 2021-07-31 15:41:09.846 now: 2021-07-31 15:43:22.971Added rawpts: 74Added aprv: trueAdded details: [object Object]Added numAlphas: 8Added numCharlies: 7Added numDeltas: 3Added numM: 2Added stringTime: 22.240000000000002Edited By Android Device2021-07-31 15:40:50.732 - 2021-07-31 15:41:09.846Edited a few seconds after.Removed rawpts: 86Edited str,2 was: 4.56 now: 0Edited str,1 was: 6.47 now: 0Edited str,0 was: 6.7 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	5	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	3	1	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Wells, Jason (SS/Maj)Edited By Android Device
+Bay 8
+Slifko, Corey (1)
+2021-07-31 16:45:31.401 - 2021-07-31 16:45:55.486Edited a few seconds after.Edited rawpts was: 103 now: 104
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 23Added numCharlies: 1Added stringTime: 13.23Edited By Android Device
+Bay 9
+Wells, Jason (1)
+2021-07-31 14:34:59.851 - 2021-07-31 14:35:15.093Edited a few seconds after.Edited popm was: 0 now: 1Edited poph was: 4 now: 3Edited rawpts was: 117 now: 112Added details: [object Object]Added numAlphas: 23Added numCharlies: 3Added numM: 2Added stringTime: 18.6Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

@@ -1,0 +1,267 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Baps October USPSA USPSA/IPSC 2016-10-15
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	P
+1-Robert Powell	100.00%	655.6989	77.70	109.81%	Open	M		MAJOR	A74982	102	33	3	3		1	
+2-Sam Bharksuwan	95.29%	624.8369	84.18	104.75%	Open	B		MAJOR	B51	112	23	3	3			
+3-Joe Lowery	87.49%	573.6767	98.85	96.22%	Open	B		MAJOR	A67874	108	31	1	1			
+4-August Balagtas	87.04%	570.7414	96.09	116.84%	Limited	M		MAJOR	L3674	117	21	1	2			
+5-John Nixon	84.51%	554.1128	97.90	92.75%	Open	A		MAJOR		113	21	5	2			
+6-Dave Campell	81.73%	535.9002	92.91	89.52%	Open	M		MAJOR		112	21	4	4			2
+7-Gerrit Milks 1	78.03%	511.6152	113.53	85.71%	Open	C		MAJOR	A67608	113	26	2				
+8-Eddie Jimenea	77.96%	511.1557	105.66	85.68%	Open	M		MAJOR	A14869	102	35	3	1		1	
+9-Tony Phan 1	77.95%	511.1260	101.61	111.69%	Single Stack	M		MAJOR	FY11963	116	19	1	5			
+10-Alex Goben	77.24%	506.4878	111.37	117.50%	Carry Optics	B		MINOR	A86498	132	6	1	2			
+11-Brian Whelihan	77.20%	506.2198	108.05	84.84%	Open	A		MAJOR		119	20		2		1	
+12-Dave Eickoff	77.19%	506.1260	115.84	117.50%	PCC	U		MINOR		125	15	1				
+13-Jason Bright	75.91%	497.7583	106.15	101.65%	Limited			MINOR	A93447	112	26	1	2			
+14-Roman Gwiscz	75.17%	492.9083	112.99	101.08%	Limited	B		MAJOR	A55629	110	28	2	1			
+15-Shane Simpson	74.92%	491.2217	117.06	100.52%	Limited	B		MAJOR	A93426	113	26	2				
+16-Brandon Hill	73.21%	480.0131	110.41	104.50%	Production	A		MINOR	TY80518	126	10	2	3			
+17-Mark Porretto	72.98%	478.5351	112.83	104.03%	Production	A		MINOR	L3711	114	23	3	1		1	
+18-Neal Nandin	71.55%	469.1677	104.87	78.56%	Open	C		MAJOR	FY71894	98	32	7	4		1	
+19-Randy Goodney	70.83%	464.4419	111.25	77.85%	Open	C		MAJOR	A94852	111	22	3	5			
+20-John Austria	70.57%	462.7383	111.88	77.50%	Open	U		MINOR	TY82746	113	23	3	2		1	
+21-Paul Reeber	66.50%	436.0270	125.12	94.95%	Production	B		MINOR	A81910	120	19		2			
+22-Peter paul Alcazaren	66.15%	433.7394	121.01	72.43%	Open	C		MINOR	Ty69476	106	23	3	2			
+23-Wade Pruetz	66.07%	433.2485	113.69	88.40%	Limited			MAJOR	TY79055	104	24	6	6			
+24-Jay Bennett	65.19%	427.4483	127.60	94.18%	Single Stack	B		MAJOR	A77156	104	33	3	1		1	
+25-Bob Zewick	65.09%	426.8039	117.45	71.55%	Open			MAJOR	A94853	112	22	1	6			1
+26-Rickey Wiley	64.42%	422.3830	122.67	93.44%	Production	U		MINOR	A91320	112	23	4	2			
+27-Jim Duncan	64.17%	420.7309	129.58	91.89%	Production			MINOR	TY33325	118	21	1	1			
+28-Myrna Russian 1	62.77%	411.5613	142.39	68.98%	Open	C		MAJOR	TY70210	127	13	1				
+29-Doug Dillon	62.73%	411.2909	122.33	89.88%	Production	B	Law Enforcement	MINOR	A71359	112	23	2	4			
+30-James Beshada 1	62.43%	409.3247	116.93	88.58%	Production	C		MINOR	L4029	101	33	1	5			
+31-Deryle Lowery	61.80%	405.2022	129.60	87.78%	Production	B		MINOR	L2881	117	22	1	1		3	
+32-Christopher Gaskins	61.79%	405.1404	122.66	88.62%	Production	A		MINOR	TY72932	117	16	3	5		1	
+33-Steve Deardorff	60.21%	394.7803	136.52	87.53%	Single Stack			MAJOR	TY16844	116	18	5	2		1	
+34-Vitan Gotsev	60.05%	393.7210	144.23	85.40%	Production	C		MINOR	A72560	118	19	4				
+35-Joel Cruz	59.58%	390.6515	124.43	65.38%	Open	C		MAJOR		94	37	6	4		1	
+36-Jack Hershberger	59.13%	387.7341	121.57	65.07%	Open	A		MAJOR	A33941	93	31	14	3		4	
+37-Evan Mckenna	59.00%	386.8708	121.73	85.22%	Production	U		MINOR		107	23	6	5		1	
+38-Gary Wu	56.31%	369.2081	131.36	80.74%	Production	C		MINOR	L2998	108	27	3	3		3	
+39-Waldo Samano	56.19%	368.4468	110.18	61.87%	Open			MAJOR		90	35	6	10		1	
+40-Robin Woods	54.92%	360.1373	137.28	80.29%	Single Stack	C		MINOR	TY51892	103	31	5	2		1	
+41-Michael Henss	54.85%	359.6240	134.00	79.19%	Production	B		MINOR	A56644	112	20	3	6		1	
+42-Andrew Tacquard	53.60%	351.4526	162.27	78.05%	Single Stack	B	Military	MAJOR	A82790	126	10	2	3			
+43-Robert Hollier	52.98%	347.3916	154.54	76.45%	Single Stack	C	Senior	MAJOR	TY24941	123	16		2		3	
+44-Jacob Robins	51.20%	335.7366	161.46	71.98%	Production			MINOR		113	24	3	1		1	
+45-David Ray Gilbertson II	50.12%	328.6552	137.62	67.91%	Limited	C		MAJOR	TY75012	96	30	9	6		3	
+46-Danny Naramore	49.80%	326.5362	162.79	54.56%	Open	C		MAJOR	A96553	110	20	9	2			
+47-Carlos Escandon	48.51%	318.0863	177.22	69.66%	Production	U		MINOR	L2590	122	15	4				
+48-Michelle Lonergan	44.79%	293.6579	151.23	65.38%	Production	C		MINOR	TY84120	102	25	7	7			
+49-Kevin Svetlik	43.11%	282.6868	179.13	62.07%	Single Stack			MINOR		111	26	1	3		1	1
+50-Jack Sweet	42.39%	277.9535	180.63	60.81%	Single Stack	C		MINOR	L3297	105	31	2	3		1	
+51-Tom Donahue 1	41.76%	273.8129	199.14	56.14%	Limited	C		MAJOR	TY69009	116	23		2		1	
+52-Vic Robinson	41.20%	270.1262	177.16	56.08%	Limited	U		MINOR	PEN	110	24	2	5		1	
+53-Stefan Liming	40.14%	263.2237	171.13	58.63%	Single Stack	U		MINOR	PEN	112	21	2	6		2	
+54-Chris Nagala	39.96%	262.0226	178.47	57.85%	Production	U		MINOR	TY97712	115	18	3	5		3	
+55-John Miller	39.69%	260.2742	229.07	53.18%	Limited	U		MAJOR	PEN	126	15					
+56-Steve Jack	39.49%	258.9478	133.03	43.57%	Open	M	Super Senior	MAJOR	TY7309	92	24	1			1	
+57-James Parker	39.33%	257.8771	231.20	53.09%	Limited	U		MAJOR	PEN	127	14					
+58-Lawney Morales	38.81%	254.4616	184.33	55.47%	Single Stack	D		MINOR	TY75143	112	21	3	5		2	1
+59-Richard Dillow	37.42%	245.3940	203.43	41.16%	Open	U	Senior	MAJOR	FY57446	117	14	4	6			1
+60-Mackenzie Dillon	35.05%	229.8148	206.38	50.73%	Production	D	Junior, Lady	MINOR	A88307	110	22	2	7			
+61-Jw Aguirre	33.98%	222.7901	192.03	117.50%	Revolver	C		MINOR	A87708	105	18	9	9			
+62-Paul Garner	27.07%	177.5228	188.10	29.85%	Open	U		MAJOR	PEN	112	5					
+63-Ben Cohen	19.55%	128.1607	292.92	28.96%	Production	U		MINOR	PEN	91	38	3	9		4	
+64-Randall Stanford	16.10%	105.5462	49.91	20.90%	Limited			MAJOR		53	14		2			
+65-Chris Zak	7.40%	48.5315	68.42	10.65%	Production	U		MINOR	PEN	36	4	4	25		1	13
+66-David Ray Gilbertson II	0.00%	0.0000		0.00%	Limited	C		MAJOR	TY75012							
+67-John Miller	0.00%	0.0000		0.00%	Limited	U		MAJOR	PEN							
+68-Vic Robinson	0.00%	0.0000		0.00%	Production	U		MINOR	PEN	27						
+DQ-Albert Calderon 1	0.00%	0.0000		0.00%	Open	C		MAJOR	A74722							
+Name
+1-Robert Powell
+2-Sam Bharksuwan
+3-Joe Lowery
+4-August Balagtas
+5-John Nixon
+6-Dave Campell
+7-Gerrit Milks 1
+8-Eddie Jimenea
+9-Tony Phan 1
+10-Alex Goben
+11-Brian Whelihan
+12-Dave Eickoff
+13-Jason Bright
+14-Roman Gwiscz
+15-Shane Simpson
+16-Brandon Hill
+17-Mark Porretto
+18-Neal Nandin
+19-Randy Goodney
+20-John Austria
+21-Paul Reeber
+22-Peter paul Alcazaren
+23-Wade Pruetz
+24-Jay Bennett
+25-Bob Zewick
+26-Rickey Wiley
+27-Jim Duncan
+28-Myrna Russian 1
+29-Doug Dillon
+30-James Beshada 1
+31-Deryle Lowery
+32-Christopher Gaskins
+33-Steve Deardorff
+34-Vitan Gotsev
+35-Joel Cruz
+36-Jack Hershberger
+37-Evan Mckenna
+38-Gary Wu
+39-Waldo Samano
+40-Robin Woods
+41-Michael Henss
+42-Andrew Tacquard
+43-Robert Hollier
+44-Jacob Robins
+45-David Ray Gilbertson II
+46-Danny Naramore
+47-Carlos Escandon
+48-Michelle Lonergan
+49-Kevin Svetlik
+50-Jack Sweet
+51-Tom Donahue 1
+52-Vic Robinson
+53-Stefan Liming
+54-Chris Nagala
+55-John Miller
+56-Steve Jack
+57-James Parker
+58-Lawney Morales
+59-Richard Dillow
+60-Mackenzie Dillon
+61-Jw Aguirre
+62-Paul Garner
+63-Ben Cohen
+64-Randall Stanford
+65-Chris Zak
+66-David Ray Gilbertson II
+67-John Miller
+68-Vic Robinson
+DQ-Albert Calderon 1
+Old style results
+
+Score Edit History
+Red
+Beshada, James (1)
+2016-10-15 14:44:59.045 - 2016-10-15 15:02:03.207Edited 17 minutes after.Removed proc: 1Added details: [object Object]Added numAlphas: 22Added numCharlies: 9Added numM: 1Added stringTime: 23.36Edited By Baps-Squad 6
+Calderon, Albert -DQ (1)
+2016-10-15 14:10:44.020 - 2016-10-15 14:12:28.007Edited 2 minutes after.Edited str,0 was: 0 now: 22.16
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+Added numAlphas: 16Added numCharlies: 9Added numDeltas: 1Added stringTime: 22.16Edited By Baps-Squad 1
+Phan, Tony (1)
+2016-10-15 14:12:28.007 - 2016-10-15 14:15:46.963Edited 3 minutes after.Edited str,0 was: 22.16 now: 20.3
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 26Added numCharlies: 5Added numM: 1Added stringTime: 20.3Edited By Baps-Squad 1
+Russian, Myrna (1)
+2016-10-15 16:18:32.037 - 2016-10-15 16:19:22.817Edited a minute after.Edited str,0 was: 46.04 now: 26.04Added details: [object Object]Added numAlphas: 30Added numCharlies: 2Added stringTime: 26.04Edited By Baps-Squad 3
+Yellow
+Donahue, Tom (1)
+2016-10-15 17:30:28.107 - 2016-10-15 17:33:19.500Edited 3 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Added details: [object Object]Added numAlphas: 30Added numCharlies: 5Added numM: 1Added stringTime: 38.59Edited By Baps-Squad 4
+Blue
+Milks, Gerrit (1)
+2016-10-15 15:26:46.594 - 2016-10-15 15:27:13.770Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 33Added numCharlies: 7Added stringTime: 31.07Edited By Baps-Squad 2
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

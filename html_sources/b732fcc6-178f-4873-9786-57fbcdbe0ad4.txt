@@ -1,0 +1,423 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Wallis Orchard Practical Shooters USPSA March 2020 Club Match USPSA 2020-03-14
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Brandon Foss	100.00%	890.2049	151.41	133.33%	Carry Optics	A		MINOR	FY92765	164	25	1	4				
+2-Wade Pruetz	92.45%	822.9937	153.69	131.95%	Open	A		MAJOR	TY79055	136	49	5	4		2		
+3-Garry Newton	91.14%	811.3168	173.00	128.86%	PCC	A	Super Senior	MINOR	TY79434	164	30						
+4-Vinh Lam	90.36%	804.4154	153.54	134.50%	Limited	A		MAJOR	TY101025	128	52	8	6		1		
+5-Chris Snow	90.08%	801.9378	181.89	128.25%	Open	U		MINOR	TY107262	189	4		1				
+6-Jerry Bedro	89.77%	799.1007	137.59	125.94%	PCC	B		MINOR	A98263	145	35	4	10		1	1	
+7-Steven McNamara 1	86.51%	770.1534	177.15	123.38%	Open	B	Senior	MAJOR		138	49	6	1				
+8-DERIK SATSKY	85.40%	760.2020	161.88	112.28%	Carry Optics	B		MINOR	A119794	154	31	2	7				
+9-Jon Marino	82.44%	733.8794	177.99	117.09%	Open	B		MAJOR	A93310	156	30	3	5				
+10-Arnold Gee	79.25%	705.4815	186.13	114.03%	Open	C	Senior	MAJOR	TY103519	145	40	5	4				
+11-Pete Kirchner	79.18%	704.8207	191.41	108.10%	Carry Optics	A		MINOR	TY105743	160	30	3	1				
+12-Desmond Jackson	77.40%	689.0080	197.46	103.71%	Carry Optics	B		MINOR		164	28		2		1		
+13-Eric Mccampbell 1	75.06%	668.1773	208.54	114.23%	Limited	B	Senior	MAJOR	A14332	157	35	1	1		1		
+14-Jon Baguio	73.19%	651.5064	162.23	98.36%	Carry Optics	D		MINOR	A101177	118	59	9	8		1		
+15-Gary Wu	72.48%	645.1856	209.18	132.90%	Production	B		MINOR	L2998	164	25	3	2				
+16-James havens	71.38%	635.4443	190.02	95.44%	Carry Optics	B		MINOR	A114636	146	36	5	7				
+17-Roman Gwiscz	70.50%	627.5655	180.94	95.76%	Carry Optics	U		MINOR		142	40	4	8		2		
+18-Mike Junco	66.02%	587.7531	206.27	122.21%	Production	A	Law Enforcement/First Responder	MINOR	FY34819	150	36	4	4		3		
+19-Norman Oducado	65.33%	581.6078	177.73	98.34%	Limited	U		MINOR	A103491	135	37	9	13				
+20-Jeffrey Polk 2	64.84%	577.2063	213.07	87.65%	Carry Optics	C		MINOR	TY104167	137	43	10	4				
+21-Marlon Poralan	63.86%	568.5237	194.81	95.75%	Limited	D	Law Enforcement/First Responder	MINOR	TY76330	134	42	10	8		1		
+22-Justin Ortez	63.02%	561.0291	197.78	89.12%	Open	C	Law Enforcement/First Responder, Active Military	MAJOR	A118237	149	29	4	12			7	
+23-Ramil Villanueva	61.62%	548.5656	186.41	83.35%	Carry Optics	D	Junior	MINOR	A110261	121	54	9	10		1		
+24-Rommel Mercado	61.35%	546.1499	267.64	131.54%	Single Stack	U		MAJOR	TY70687	149	36	7	2		1		
+25-Mitch Ivey 2	59.48%	529.5034	235.73	79.47%	Carry Optics	C		MINOR	A116953	159	27	1	7				
+26-John Austria	59.19%	526.9368	212.71	79.14%	Carry Optics	U		MINOR		141	35	7	11			1	
+27-Robert Bui	57.06%	507.9752	218.94	104.11%	Production	B		MINOR	A103016	142	32	11	9		1		
+28-Eric Rodriguez	56.08%	499.1910	231.46	80.15%	Open	U		MINOR	TY123840	152	31	2	9			2	
+29-Jerry Oden	55.29%	492.2143	238.86	78.39%	PCC	U		MINOR	TY80024	126	58	7	3			1	
+30-James Tonkinson	53.45%	475.7831	226.03	81.13%	Limited	U		MINOR	A123944	149	30	3	12		1		
+31-Bill Kinstley	53.06%	472.3227	230.16	77.40%	Limited	C		MAJOR		130	42	8	14				
+32-samuel bharksuwan	45.62%	406.1383	121.21	65.95%	Limited	B		MAJOR	B51	73	40	5	5				
+33-Manuel Guzman	45.44%	404.5367	240.26	68.63%	Limited	U		MAJOR		120	50	6	18		1		
+34-Albert Paras	42.96%	382.4663	264.34	61.89%	Open	U		MINOR		147	29	3	15		3	1	
+35-Keith Wygal	42.84%	381.3906	312.99	79.90%	Production	U		MINOR	A110949	141	44	3	6				
+36-Allan Santiago	41.82%	372.3192	307.03	93.37%	Single Stack	D		MINOR	A109328	129	51	8	6				
+37-Chuck Hain	40.20%	357.8466	287.20	60.75%	Limited	U		MINOR	A126964	148	29	4	13		2	1	
+38-Marchoni Aquino 1	40.19%	357.7995	248.74	53.70%	Carry Optics	D		MINOR	A124540	94	66	23	11				
+39-randy callison	39.55%	352.0889	130.90	58.34%	PCC	B	Senior	MINOR	A14418	90	23	5	3		1		
+40-Kevin Fontenot	37.62%	334.8576	259.73	69.52%	Production	C	Senior	MINOR	TY112054	111	52	15	16				
+41-AJ Jackson 1	34.84%	310.1763	245.09	75.94%	Single Stack	B		MAJOR		103	51	14	26		2	1	
+42-Eric Wu 4	34.42%	306.4105	291.33	46.31%	Carry Optics	C		MAJOR	TY104740	99	63	12	20		1		
+43-Boyd Nabas	34.18%	304.2690	312.14	46.43%	Carry Optics	U	Junior	MINOR		114	62	4	14		1		
+44-Matthew Gonzalez	33.32%	296.6252	302.12	60.63%	Production	U		MINOR	A119810	118	46	17	13		4		
+45-Kevin Baker	31.38%	279.3728	247.06	57.46%	Production	C		MINOR	A95439	102	59	10	23		1	4	
+46-Dale Hamm	28.78%	256.1602	257.50	42.10%	Limited	D	Senior	MAJOR	TY97196	109	32	8	19		2		
+47-Nathaniel Lovan 1	25.05%	222.9670	351.61	36.99%	Limited	D		MINOR	A118114	112	46	16	20		1		
+48-Justin Chang	19.40%	172.6936	298.76	35.51%	Production	U	Active Military	MINOR	A126762	103	39	20	32		3	1	
+49-Wilson Maguigad	13.03%	115.9893	267.72	18.50%	Limited	D	Senior	MINOR		86	46	20	42		4	2	
+50-Rosalyn Polk	11.35%	100.9962	562.03	20.83%	Production	U		MINOR		95	52	15	32		3	1	
+DQ-Zachary Bonin	0.00%	0.0000		0.00%	Open	U		MAJOR	A122440								
+DQ-Pat Byrne	0.00%	0.0000		0.00%	Limited	B	Super Senior	MAJOR									
+DQ-Matt Lem	0.00%	0.0000		0.00%	Production	A	Law Enforcement/First Responder	MINOR	FY34763								
+DQ-Garrick Gonzalez 1	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	A119804								
+Name
+1-Brandon Foss
+2-Wade Pruetz
+3-Garry Newton
+4-Vinh Lam
+5-Chris Snow
+6-Jerry Bedro
+7-Steven McNamara 1
+8-DERIK SATSKY
+9-Jon Marino
+10-Arnold Gee
+11-Pete Kirchner
+12-Desmond Jackson
+13-Eric Mccampbell 1
+14-Jon Baguio
+15-Gary Wu
+16-James havens
+17-Roman Gwiscz
+18-Mike Junco
+19-Norman Oducado
+20-Jeffrey Polk 2
+21-Marlon Poralan
+22-Justin Ortez
+23-Ramil Villanueva
+24-Rommel Mercado
+25-Mitch Ivey 2
+26-John Austria
+27-Robert Bui
+28-Eric Rodriguez
+29-Jerry Oden
+30-James Tonkinson
+31-Bill Kinstley
+32-samuel bharksuwan
+33-Manuel Guzman
+34-Albert Paras
+35-Keith Wygal
+36-Allan Santiago
+37-Chuck Hain
+38-Marchoni Aquino 1
+39-randy callison
+40-Kevin Fontenot
+41-AJ Jackson 1
+42-Eric Wu 4
+43-Boyd Nabas
+44-Matthew Gonzalez
+45-Kevin Baker
+46-Dale Hamm
+47-Nathaniel Lovan 1
+48-Justin Chang
+49-Wilson Maguigad
+50-Rosalyn Polk
+DQ-Zachary Bonin
+DQ-Pat Byrne
+DQ-Matt Lem
+DQ-Garrick Gonzalez 1
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Jackson, AJ (1)
+2020-03-15 17:26:47.101 - 2020-03-15 17:27:33.079Edited a minute after.Added proc: 1Added details: [object Object]Added numAlphas: 23Added numCharlies: 2Added numDeltas: 1Added numM: 4Added numProc: 1Added stringTime: 29.71Edited By Android Device
+Ivey, Mitch (2)
+2020-03-15 15:04:43.613 - 2020-03-15 15:14:27.898Edited 10 minutes after.Edited rawpts was: 20 now: 120
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 0 now: 29.61Removed Reason for Edit ReshootAdded aprv: trueAdded details: [object Object]Added numAlphas: 25Added numCharlies: 5Added stringTime: 29.61Edited By Android Device2020-03-15 15:04:43.612 - 2020-03-15 15:04:43.613Edited a few seconds after.Edited rawpts was: 51 now: 20Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	2	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit ReshootEdited By Android Device
+Stage 2
+Mccampbell, Eric (1)
+2020-03-15 13:57:34.332 - 2020-03-15 13:59:56.567Edited 2 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+Added details: [object Object]Added numAlphas: 29Added numCharlies: 3Added numNS: 1Added stringTime: 32.59Edited By Android Device
+Polk, Jeffrey (2)
+2020-03-15 14:42:02.445 - 2020-03-15 15:11:17.246Edited 29 minutes after.Edited rawpts was: 10 now: 124
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited str,0 was: 0 now: 25.74Added details: [object Object]Added numAlphas: 22Added numCharlies: 7Added numDeltas: 3Added stringTime: 25.74Edited By Android Device2020-03-15 14:39:26.412 - 2020-03-15 14:42:02.445Edited 3 minutes after.Edited rawpts was: 150 now: 10
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 27.25 now: 0Edited By Android Device
+Stage 3
+Lovan, Nathaniel (1)
+2020-03-15 15:26:44.032 - 2020-03-15 15:27:09.370Edited a few seconds after.Edited rawpts was: 114 now: 119
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 21Added numCharlies: 7Added numDeltas: 3Added numM: 1Added stringTime: 65.51Edited By Android Device
+Wu, Eric (2)
+2020-03-15 14:55:25.569 - 2020-03-15 15:03:05.143Edited 8 minutes after.Edited rawpts was: 10 now: 101
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	1	0
+Edited str,0 was: 0 now: 57.16Removed Reason for Edit Moved to Shooter Wu, Gary (P/Min)Added aprv: trueAdded details: [object Object]Added numAlphas: 16Added numCharlies: 10Added numDeltas: 1Added numM: 5Added stringTime: 57.16Edited By Android Device2020-03-15 14:54:47.788 - 2020-03-15 14:55:25.569Edited a few seconds after.Edited rawpts was: 141 now: 10Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 30.02 now: 0Added Reason for Edit Moved to Shooter Wu, Gary (P/Min)Edited By Android Device
+Stage 5
+Gonzalez, Garrick -DQ (1)
+2020-03-15 16:46:05.617 - 2020-03-15 17:00:39.371Edited 15 minutes after.Added stagedq_details: Stage 5Added dqs: 6kQPC1Added numAlphas: 26Added numCharlies: 4Added numDeltas: 1Added numM: 1Added stringTime: 36.09Edited By Android Device
+Aquino, Marchoni (1)
+2020-03-15 14:26:01.786 - 2020-03-15 14:26:37.551Edited a few seconds after.Edited str,0 was: 24.38 now: 34.38Added details: [object Object]Added numAlphas: 22Added numCharlies: 7Added numDeltas: 3Added numM: 2Added stringTime: 34.38Edited By Android Device
+Stage 6
+McNamara, Steven (1)
+2020-03-15 15:19:31.102 - 2020-03-15 15:19:49.801Edited a few seconds after.Edited str,0 was: 39.06 now: 30.6Added details: [object Object]Added numAlphas: 14Added numCharlies: 18Added stringTime: 30.6Edited By Android Device
+Stage 7 Classifer 99-47
+Wu, Eric (2)
+2020-03-15 17:25:58.208 - 2020-03-15 17:32:29.592Edited 7 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	1	0	0	0
+Edited str,2 was: 0 now: 7.8Edited str,1 was: 0 now: 7.5Edited str,0 was: 0 now: 5.52Removed Reason for Edit ReshootAdded rawpts: 45Added aprv: trueAdded details: [object Object]Added numAlphas: 5Added numCharlies: 6Added numDeltas: 2Added numM: 2Added stringTime: 20.82Edited By Android Device2020-03-15 17:25:58.207 - 2020-03-15 17:25:58.208Edited a few seconds after.Removed aprv: trueEdited str,2 was: 6.73 now: 0Edited str,1 was: 6.79 now: 0Edited str,0 was: 5.87 now: 0Added Reason for Edit ReshootEdited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

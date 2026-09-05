@@ -1,0 +1,384 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BAPS USPSA October 2024 USPSA 2024-10-19
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Paul Felker	100.00%	638.0053	83.36	95.19%	Carry Optics	M		MINOR	TY107123	121	13	3	1		1	1	
+2-Jack Liu	94.54%	603.1985	90.82	97.56%	PCC	U	Law	MINOR	L6156	116	20	2					
+3-August Balagtas	89.79%	572.8635	95.94	89.84%	Open	M		MAJOR	L3674	101	35	1	1		1		
+4-Roman Gwisc	85.78%	547.2605	100.79	85.78%	Open	U		MAJOR		110	25	2	1				
+5-Steven McNamara	84.70%	540.3906	99.31	85.08%	Open	B	Senior	MAJOR	A75212	109	28		1		1		
+6-Dwight Trautmann	84.02%	536.0214	94.78	83.53%	Open	U	Senior	MINOR	A147361	116	15	3	4				
+7-Duane Mendoza	81.32%	518.8451	103.78	86.25%	Limited Optics	B		MINOR		108	29	1					
+8-Max Peltier 2	80.88%	516.0233	101.70	76.93%	Carry Optics	U		MINOR	TY123776	124	11	1	2		2		
+9-Mike Junco 2	80.78%	515.3664	87.35	84.11%	Limited Optics	A	Senior, Law	MINOR	TY34819	101	30	2	5		2		
+10-Jon Baguio 2	79.47%	507.0098	105.91	80.20%	Open	C		MAJOR	TY 5467	114	19	4	1		1		
+11-Jonathan Warrender	78.07%	498.0671	108.41	82.66%	Limited Optics	B		MINOR	ty86145	123	13		2				
+12-Ian Doskocil	77.96%	497.4038	113.08	74.83%	Carry Optics	U	Law	MINOR		124	13	1					
+13-Michael Pontious	75.96%	484.6472	98.35	76.95%	Open	U	Senior	MAJOR	FY94575	105	24	2	7				
+14-Alex Goben	75.32%	480.5675	105.98	80.12%	Limited Optics	B		MINOR	L5929	117	18	1	2		2		
+15-Q Nguyen	75.32%	480.5292	106.78	77.59%	PCC	C	Senior	MINOR	TY99688	103	31	3	1				
+16-Mike Kahl	72.79%	464.3898	114.83	70.25%	Carry Optics	A	Super Senior	MINOR	TY70984	120	15	1	2				
+17-Erwin Gonzalez	71.17%	454.0843	119.17	68.28%	Carry Optics	U	Law	MINOR	A93987	124	11		2				
+18-Arnold Gee	70.40%	449.1848	127.12	69.84%	Open	B	Senior	MAJOR	A103519	103	31	2	2				
+19-Paul Piretti	70.16%	447.6186	117.47	70.28%	Open	U		MAJOR	A149477	105	28	2	3				
+20-Art Nelson	69.84%	445.5565	120.49	67.23%	Carry Optics	B		MINOR	TY116323	115	22		1				
+21-Andrew Orozco	69.05%	440.5121	119.43	73.55%	Limited Optics	U	Law	MINOR	A135730	113	21	2	2			1	
+22-Gary Wu	68.92%	439.7038	121.78	98.57%	Production	B	Senior	MINOR	L2998	113	21	4			1		
+23-Phillip Nguyen	68.26%	435.5125	91.54	70.89%	Limited Optics	U		MINOR	TY152423	101	21	8	8		1	2	
+24-David Zhang	68.10%	434.4520	113.43	70.27%	PCC	U		MINOR	FY140383	117	12	5	4		1		
+25-Chang Qian	67.56%	431.0457	118.63	72.25%	Limited Optics	C		MINOR	A190535	109	27	1	1		2		
+26-Ashley Krenek	66.61%	424.9559	118.46	66.81%	Open	U	Lady	MINOR	TY92392	120	15		3		2		
+27-Randy Goodney	65.79%	419.7440	106.91	68.92%	Limited Optics	A	Senior	MINOR	A94852	107	21	4	5		1	2	
+28-Giao Le	65.41%	417.2903	122.93	67.55%	PCC	U		MINOR	TY149123	116	17	3	2		1		
+29-GleNn Cunningham 4	65.35%	416.9424	129.43	67.73%	PCC	C	Super Senior	MINOR	A78280	124	11		3				
+30-Marlon Poralan	65.23%	416.1951	123.99	64.52%	Open	C		MAJOR	TY1234	108	22	5	3		2		
+31-Robert Hollier	64.71%	412.8214	136.38	97.24%	Limited	C	Super Senior	MAJOR	FY24941	119	10	7					
+32-Meas Virak	64.58%	412.0185	111.89	68.52%	Limited Optics	U	Senior	MINOR	O	99	31	4	4		1		
+33-Alex Zamora	63.91%	407.7546	128.76	67.43%	Limited Optics	U		MINOR		118	13	2	2		1		
+34-Christopher Wilkerson	61.94%	395.1850	126.59	60.29%	Carry Optics	U	Law	MINOR	A161474	109	24	1	4		1		
+35-Jim Duncan 2	60.37%	385.1788	145.73	64.17%	Limited Optics	B	Super Senior	MINOR	ty33325	135	2		1		1		
+36-Chris Nagala	59.38%	378.8419	145.91	63.15%	Limited Optics	B		MINOR	TY97712	126	8	3	1		1		
+37-Yuchen Mac	57.50%	366.8764	146.01	55.44%	Carry Optics	U	Law	MINOR		115	19	3	1		1		
+38-Bryan Sanchez	57.46%	366.6284	110.18	55.37%	Carry Optics	U	Law	MINOR		91	32	8	7		1	1	
+39-David Young	56.96%	363.4085	116.46	55.36%	Carry Optics	U		MINOR	A130791	103	21	3	8		1	1	
+40-Victor Chapa	56.67%	361.5387	119.22	56.81%	Open	U		MINOR	A160745	106	13	4	15			1	
+41-Richard Dillow	53.20%	339.4082	165.91	53.27%	Open	D	Super Senior	MAJOR	TY57746	128	8	1	1		1		
+42-Andrew Philip 1	52.85%	337.1853	112.09	57.14%	Limited Optics	C		MINOR	A153653	90	31	8	9			1	
+43-Adam Ubias	52.80%	336.8582	162.66	50.78%	Carry Optics	U	Military	MINOR		119	17	1	1				
+44-Eman Alcoseba	52.62%	335.7502	171.43	78.96%	Limited	U	Senior	MAJOR		115	22	1					
+45-Jason Debord	49.33%	314.7100	149.61	47.24%	Carry Optics	U		MINOR		110	22	2	4		2		
+46-TJ Balingit	48.47%	309.2552	160.91	46.48%	Carry Optics	C		MINOR	A151010	110	17	4	3				
+47-Ralph Burbe	48.20%	307.5126	172.60	46.07%	Carry Optics	U	Senior	MINOR		118	18	1	1		1		
+48-Rene Zalamea	47.42%	302.5423	147.62	45.55%	Carry Optics	C	Senior	MINOR	A66891	100	25	6	7		1		
+49-Frank Byron	44.12%	281.5141	181.76	42.40%	Carry Optics	D	Super Senior, Law, Military	MINOR	A139338	114	19	2	3				
+50-Zack Zwicky	43.36%	276.6667	164.39	65.08%	Limited	U		MINOR		103	20	6	7				
+51-Jeff Maxwell 1	43.00%	274.3472	185.73	89.45%	Single Stack	C	Senior	MAJOR	L4489	104	25	5	4		2		
+52-Kjell Lindgren	42.81%	273.1375	203.61	45.57%	Limited Optics	U		MINOR		127	9	1	1				
+53-Michael Scott	41.74%	266.3038	176.57	40.28%	Carry Optics	U	Law	MINOR	A163094	110	22		6		1		
+54-Lawney Morales	41.12%	262.3561	214.94	39.45%	Carry Optics	U	Super Senior	MINOR		112	20	5	1				
+55-Alex Nguyen	40.94%	261.2256	152.56	76.16%	Single Stack	C		MINOR	A151003	97	25	8	8		3	1	
+56-JJ Rosales	40.85%	260.6301	182.16	43.39%	Limited Optics	U	Law	MINOR	A163263	99	34	3	2			2	
+57-Anthony Kurek Jr	40.56%	258.8062	179.83	38.96%	Carry Optics	U		MINOR	FY154490	99	33	3	3		2		
+58-Rahul Tangri	39.25%	250.4068	188.85	38.33%	Carry Optics	U		MINOR	A160565	122	10		6		1	2	
+59-John Stokes	38.17%	243.5098	237.72	55.17%	Production	U	Super Senior	MINOR		135	3				1		
+60-Anthony Kurek Iii	37.23%	237.5043	173.33	35.71%	Carry Optics	U	Junior	MINOR	FY154754	102	23	1	9		1	1	
+Name
+1-Paul Felker
+2-Jack Liu
+3-August Balagtas
+4-Roman Gwisc
+5-Steven McNamara
+6-Dwight Trautmann
+7-Duane Mendoza
+8-Max Peltier 2
+9-Mike Junco 2
+10-Jon Baguio 2
+11-Jonathan Warrender
+12-Ian Doskocil
+13-Michael Pontious
+14-Alex Goben
+15-Q Nguyen
+16-Mike Kahl
+17-Erwin Gonzalez
+18-Arnold Gee
+19-Paul Piretti
+20-Art Nelson
+21-Andrew Orozco
+22-Gary Wu
+23-Phillip Nguyen
+24-David Zhang
+25-Chang Qian
+26-Ashley Krenek
+27-Randy Goodney
+28-Giao Le
+29-GleNn Cunningham 4
+30-Marlon Poralan
+31-Robert Hollier
+32-Meas Virak
+33-Alex Zamora
+34-Christopher Wilkerson
+35-Jim Duncan 2
+36-Chris Nagala
+37-Yuchen Mac
+38-Bryan Sanchez
+39-David Young
+40-Victor Chapa
+41-Richard Dillow
+42-Andrew Philip 1
+43-Adam Ubias
+44-Eman Alcoseba
+45-Jason Debord
+46-TJ Balingit
+47-Ralph Burbe
+48-Rene Zalamea
+49-Frank Byron
+50-Zack Zwicky
+51-Jeff Maxwell 1
+52-Kjell Lindgren
+53-Michael Scott
+54-Lawney Morales
+55-Alex Nguyen
+56-JJ Rosales
+57-Anthony Kurek Jr
+58-Rahul Tangri
+59-John Stokes
+60-Anthony Kurek Iii
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Red
+Cunningham, GleNn (2)
+2024-10-19 14:38:44.147 - 2024-10-19 14:56:01.576Edited 17 minutes after.Edited rawpts was: 20 now: 122
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 0 now: 29.58Removed Reason for Edit ReshootAdded aprv: trueAdded details: [object Object]Added numAlphas: 26Added numCharlies: 4Added numM: 2Added stringTime: 29.58Edited By Android Device2024-10-19 14:38:44.140 - 2024-10-19 14:38:44.147Edited a few seconds after.Edited rawpts was: 68 now: 20
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit ReshootEdited By Android Device
+Orange
+Philip, Andrew (1)
+2024-10-19 14:31:51.928 - 2024-10-19 14:34:36.462Edited 3 minutes after.Added proc: 1Added details: [object Object]Added numAlphas: 16Added numCharlies: 8Added numDeltas: 5Added numM: 5Added numProc: 1Added stringTime: 19.09Edited By Android Device
+Cunningham, GleNn (2)
+2024-10-19 15:06:27.178 - 2024-10-19 15:26:51.996Edited 20 minutes after.Edited rawpts was: 10 now: 156
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 0 now: 24.53Removed Reason for Edit ReshootAdded aprv: trueAdded details: [object Object]Added numAlphas: 32Added numCharlies: 2Added stringTime: 24.53Edited By Android Device2024-10-19 15:06:27.177 - 2024-10-19 15:06:27.178Edited a few seconds after.Edited rawpts was: 100 now: 10
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit ReshootEdited By Android Device
+Baguio, Jon (1)
+2024-10-19 15:09:19.395 - 2024-10-19 15:09:44.355Edited a few seconds after.Edited rawpts was: 151 now: 148
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	1	1	0	0	0
+Added details: [object Object]Added numAlphas: 26Added numCharlies: 6Added numDeltas: 2Added stringTime: 22.46Edited By Android Device
+Yellow
+Peltier, Max (2)
+2024-10-19 16:43:16.667 - 2024-10-19 16:44:30.111Edited a minute after.Edited rawpts was: 20 now: 80
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 0 now: 11.09Removed Reason for Edit Moved to Shooter Chapa, Victor (O/Min)Added aprv: trueAdded details: [object Object]Added numAlphas: 20Added stringTime: 11.09Edited By Android Device2024-10-19 16:42:31.206 - 2024-10-19 16:43:16.667Edited a minute after.Edited rawpts was: 75 now: 20Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 11.94 now: 0Added Reason for Edit Moved to Shooter Chapa, Victor (O/Min)Edited By Android Device
+Green
+Baguio, Jon (1)
+2024-10-19 16:00:07.980 - 2024-10-19 16:03:35.347Edited 3 minutes after.Edited rawpts was: 124 now: 129Edited poph was: 4 now: 5Edited popm was: 1 now: 0Added details: [object Object]Added numAlphas: 28Added numCharlies: 3Added numDeltas: 1Added stringTime: 20.86Edited By Android Device
+Blue
+Duncan, Jim (2)
+2024-10-19 13:57:31.989 - 2024-10-19 14:05:00.387Edited 7 minutes after.Edited str,0 was: 0 now: 16.02Removed Reason for Edit Moved to Shooter Kahl, Mike (CO/Min/SS)Added aprv: trueAdded details: [object Object]Added numAlphas: 22Added stringTime: 16.02Edited By Android Device2024-10-19 13:57:19.129 - 2024-10-19 13:57:31.989Edited a few seconds after.Removed aprv: trueEdited str,0 was: 11.9 now: 0Added Reason for Edit Moved to Shooter Kahl, Mike (CO/Min/SS)Edited By Android Device
+Cm 99-08
+Maxwell, Jeff (1)
+2024-10-19 15:56:54.518 - 2024-10-19 15:57:28.327Edited a few seconds after.Edited rawpts was: 48 now: 52
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 6Added numCharlies: 5Added numDeltas: 1Added stringTime: 9.09Edited By Android Device
+Cm 09-03
+Junco, Mike (2)
+2024-10-19 16:50:11.663 - 2024-10-19 16:56:06.604Edited 6 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	2	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+Edited str,1 was: 0 now: 3.09Edited str,0 was: 0 now: 3.5ARRAYEdited meta,0,k was: from now: string1Edited meta,0,v was: Moved to Shooter Orozco, Andrew (LO/Min/L) now: 1.40,1.67,2.15,2.41,2.87,3.09;AMG 0742Edited meta,0,t was: 2024-10-19 16:50:11.663 now: 2024-10-19 16:55:23.830Added aprv: trueAdded rawpts: 51Added details: [object Object]Added numAlphas: 9Added numCharlies: 2Added numNS: 2Added numM: 1Added stringTime: 6.59Edited By Android Device2024-10-19 16:49:58.275 - 2024-10-19 16:50:11.663Edited a few seconds after.Removed rawpts: 56Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,1 was: 4.93 now: 0Edited str,0 was: 5.5 now: 0ARRAYEdited meta,0,k was: string1 now: fromEdited meta,0,v was: 1.74,2.29,2.93,3.58,4.34,4.93;AMG 0742 now: Moved to Shooter Orozco, Andrew (LO/Min/L)Edited meta,0,t was: 2024-10-19 16:49:27.871 now: 2024-10-19 16:50:11.663Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

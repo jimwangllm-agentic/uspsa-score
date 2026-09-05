@@ -1,0 +1,270 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+GPS USPSA April 2021 USPSA 2021-04-25Generation P C
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Scott Reeh	100.00%	748.0145	108.54	115.00%	PCC	M		MINOR	A91497	137	22	2					
+2-Albert Montanez	99.63%	745.2826	107.94	106.47%	Open	M		MAJOR	TY101554	125	33	2	1		1		
+3-Gil Yolo	94.29%	705.2875	109.58	100.76%	Open	A		MAJOR	A100714	98	53	8	2		1		
+4-Kevin Bunurai	90.78%	679.0315	112.24	108.87%	Carry Optics	M		MINOR	TY105111	121	34	5	1				
+5-Wade Pruetz	90.06%	673.6656	118.80	96.24%	Open	A		MAJOR	TY79055	124	31	3	3			1	
+6-August Balagtas	86.70%	648.5571	118.70	92.65%	Open	M		MAJOR	L3674	100	52	8	1				
+7-Brandon Foss	85.80%	641.8316	116.61	103.22%	Carry Optics	A		MINOR	FY92765	121	36	2	2				
+8-Waldo Samano	84.96%	635.5154	112.97	102.08%	Carry Optics	M		MINOR	TY87973	122	31	5	3		1		
+9-Paul Felker	84.80%	634.3501	126.98	101.80%	Carry Optics	M		MINOR	TY107123	129	31	1					
+10-Devin Yolo	82.91%	620.1864	118.42	88.60%	Open	U		MAJOR	a112987	104	49	3	5				
+11-Chad Folger	82.23%	615.1287	132.14	107.13%	Limited	M		MAJOR	L3031	124	33	3	1				
+12-James Beshada	82.00%	613.3454	123.70	98.56%	Carry Optics	A		MINOR	L4029	120	37	3	1				
+13-Roman Gwiscz	80.35%	601.0009	125.44	96.49%	Carry Optics	A		MINOR	L4670	128	30	1	2		1		
+14-Jerry Bedro	79.75%	596.5337	122.13	91.63%	PCC	B		MINOR	A98263	124	29	5	3		1		
+15-Ryan Alicaya	79.68%	596.0080	120.16	85.14%	Open	D		MAJOR	A106355	120	30	5	6				
+16-Larry Thomas	79.61%	595.5250	125.54	91.85%	PCC	B		MINOR	A115204	118	40	2	1		1		
+17-John Brunkhorst	77.56%	580.1971	142.90	93.15%	Carry Optics	B		MINOR	A116144	144	16	1					
+18-Mike Kahl	76.78%	574.2998	142.53	92.32%	Carry Optics	B	Super Senior	MINOR	TY70984	144	16		1				
+19-Mengyu Yue	75.94%	568.0051	135.23	87.49%	PCC	B		MINOR	TY109190	117	41	3					
+20-Steven McNamara	74.99%	560.8993	140.93	80.13%	Open	B		MAJOR	A75212	124	30	5	2				
+21-David Duffy	74.61%	558.1094	138.54	112.58%	Production	B		MINOR	A106456	125	32	3	1				
+22-Adriel Taylor	72.27%	540.5895	137.69	77.23%	Open	U		MAJOR	A104321	107	41	9	4		1		
+23-Ralph Migrino	72.14%	539.6408	124.25	83.02%	PCC	U	Military	MINOR		106	40	12	3			2	
+24-CHAN WILLIAM	71.89%	537.7559	111.74	86.44%	Carry Optics	A		MINOR	TY97870	98	42	14	7				
+25-Janice Pacleb	71.54%	535.1193	139.23	76.45%	Open	B	Lady	MAJOR	A75597	120	36	1	4			1	
+26-Jim Havens	71.35%	533.7311	131.09	85.02%	Carry Optics	A		MINOR	A114636	118	35	5	3		2	1	
+27-Carlos Escandon	70.55%	527.6920	150.53	111.78%	Single Stack	B	Senior	MAJOR	L2590	116	35	9	1				
+28-Jason Wells	69.72%	521.5403	127.84	90.95%	Limited	B		MAJOR	TY101006	103	43	6	9				
+29-Charles Davis	69.44%	519.4051	143.00	74.20%	Open	B	Senior	MAJOR	TY73740	110	40	6	5				
+30-Jon Baguio	69.17%	517.3953	130.16	82.87%	Carry Optics	X		MINOR	TY101177	106	42	8	5				
+31-Pat Byrne	68.60%	513.1503	162.80	108.45%	Single Stack	B	Super Senior	MAJOR	Fy93921	134	24	3					
+32-Abrahan Figueroa	67.03%	501.3949	142.85	71.63%	Open	C	Senior	MAJOR	TY54053	112	34	10	5				
+33-Matthew Gonzalez	66.47%	497.1863	129.35	80.34%	Carry Optics	C		MINOR	A119810	106	39	10	6				
+34-Walter Knur	65.47%	489.7425	163.50	99.65%	Production	B		MINOR	FY87421	138	20	2	1				
+35-Bryan Faustino	64.45%	482.1066	144.69	77.65%	Carry Optics	D		MINOR	A115127	116	32	9	4				
+36-Henry Wong 1	64.08%	479.3516	143.93	77.94%	Carry Optics	U		MINOR	A126677	132	19	3	7		1		
+37-Garrick Gonzalez	64.00%	478.7502	137.44	77.01%	Carry Optics	B		MINOR	A119804	108	43	6	4			2	
+38-Tom Donahue	63.42%	474.4277	174.88	67.78%	Open	C	Super Senior	MAJOR	Ty69009	125	31	5					
+39-Andrew McWilliams	63.38%	474.1018	130.64	83.43%	Limited	U		MINOR	A133773	114	34	4	9			1	
+40-Luther Rogers	62.89%	470.4129	160.75	75.55%	Carry Optics	U		MINOR	A133534	140	17		4		1		
+41-Jun Wu	62.83%	469.9726	171.24	75.73%	Carry Optics	X		MINOR	A104927	144	14	1	2				
+42-Doug Joder	62.73%	469.2489	145.83	72.02%	PCC	U		MINOR	A115020	110	38	9	4				
+43-Brett Thompson	60.94%	455.8120	151.41	92.34%	Production	B	Senior	MINOR	TY83644	116	35	5	5				
+44-Marlon Poralan	59.99%	448.7278	176.60	71.79%	Carry Optics	C	Law Enforcement	MINOR	TY76330	132	22	6	1				
+45-Gary Wu	59.85%	447.7238	160.75	91.04%	Production	B		MINOR	L2998	113	41	4	3				
+46-Antonio Tormis	59.44%	444.6348	172.36	71.29%	Carry Optics	C		MINOR	A124958	136	21	1	3				
+47-Norman Oducado	59.07%	441.8410	163.03	70.98%	Carry Optics	U		MINOR	A103491	119	35	5	2		2		
+48-Derek Rabuck	58.43%	437.0900	129.83	70.94%	Carry Optics	C		MINOR	Ty91331	101	43	5	12				
+49-Marchoni Aquino	57.00%	426.3393	180.98	68.62%	Carry Optics	D		MINOR	A124540	119	37	5					
+50-David Suarez	55.08%	412.0189	168.72	58.86%	Open	U		MINOR		107	44	7	3				
+51-Emmanuel Alcoseba	53.79%	402.3614	188.10	70.38%	Limited	C	Senior	MINOR	TY67519	115	40	5	1				
+52-Benjamin Michael	52.74%	394.4671	183.80	80.58%	Production	C		MINOR	A115982	116	36	7	2				
+53-Angela Rabuck	50.83%	380.1798	204.12	61.26%	Carry Optics	X	Lady	MINOR	TY91275	129	28	3	1		1		
+54-Ramil Villanueva	49.98%	373.8380	145.55	59.97%	Carry Optics	D	Junior	MINOR	A110261	89	43	20	9				
+55-Page Brunkhorst	49.37%	369.3181	224.65	77.59%	Single Stack	C	Senior	MAJOR	L4903	120	33	8					
+56-Kevin Baker	46.65%	348.9647	162.50	70.49%	Production	C		MINOR	A95439	99	46	7	9			2	
+57-Brett Dempsey	45.73%	342.0446	223.66	55.02%	Carry Optics	U		MINOR	TY114367	133	22	4	2				
+58-JR Roberts	45.71%	341.8920	222.83	72.12%	Single Stack	D		MINOR	TY102739	121	36	2	2				
+59-Jack Liu	44.84%	335.3762	211.43	53.95%	Carry Optics	U		MINOR	Ty130790	100	53	7	1			2	
+60-Joseph Naoum	42.91%	320.9641	222.83	56.06%	Limited	D		MINOR	TY126260	127	27	3	4			1	
+61-Allan Santiago	41.64%	311.4778	258.17	54.92%	Limited	U		MAJOR	A109328	121	37	1	2				
+62-Audry Folger	41.23%	308.3770	208.19	54.29%	Limited	C	Lady	MAJOR	A125117	104	41	6	10				
+63-Romelio San Jose	41.12%	307.5587	221.80	49.13%	Carry Optics	D		MINOR	A132413	111	33	11	6				
+64-David Brizzi	40.77%	304.9593	211.10	62.82%	Production	U		MINOR	A131226	115	33	4	9				
+65-Parish Saculles	39.70%	296.9342	244.70	52.25%	Limited			MINOR		120	34	3	4		1		
+66-young david	39.37%	294.4584	243.64	47.32%	Carry Optics	U		MINOR	TY130791	120	34	3	4		1		1
+67-Christian Morales	35.57%	266.0998	222.20	38.01%	Open	C		MAJOR	A57907	94	42	15	10		3		
+68-Matthew Santiago	35.02%	261.9266	273.36	41.74%	Carry Optics	U		MINOR		120	35	3	3		2		
+69-Jeannie Marrone	31.49%	235.5769	299.40	41.45%	Limited	U	Lady, Senior	MINOR		123	29	4	5				
+70-Nathaniel Lovan 2	19.69%	147.3055	278.22	23.98%	Carry Optics	D		MINOR	A118114	75	43	28	15				
+DQ-Dale Hamm	0.00%	0.0000		0.00%	Single Stack	C	Senior	MAJOR	TY97196								
+DQ-Garry Newton	0.00%	0.0000		0.00%	PCC	M	Super Senior	MINOR	A79434								
+DQ-Robert Bui	0.00%	0.0000		0.00%	Production	B		MINOR	A103016								
+Name
+1-Scott Reeh
+2-Albert Montanez
+3-Gil Yolo
+4-Kevin Bunurai
+5-Wade Pruetz
+6-August Balagtas
+7-Brandon Foss
+8-Waldo Samano
+9-Paul Felker
+10-Devin Yolo
+11-Chad Folger
+12-James Beshada
+13-Roman Gwiscz
+14-Jerry Bedro
+15-Ryan Alicaya
+16-Larry Thomas
+17-John Brunkhorst
+18-Mike Kahl
+19-Mengyu Yue
+20-Steven McNamara
+21-David Duffy
+22-Adriel Taylor
+23-Ralph Migrino
+24-CHAN WILLIAM
+25-Janice Pacleb
+26-Jim Havens
+27-Carlos Escandon
+28-Jason Wells
+29-Charles Davis
+30-Jon Baguio
+31-Pat Byrne
+32-Abrahan Figueroa
+33-Matthew Gonzalez
+34-Walter Knur
+35-Bryan Faustino
+36-Henry Wong 1
+37-Garrick Gonzalez
+38-Tom Donahue
+39-Andrew McWilliams
+40-Luther Rogers
+41-Jun Wu
+42-Doug Joder
+43-Brett Thompson
+44-Marlon Poralan
+45-Gary Wu
+46-Antonio Tormis
+47-Norman Oducado
+48-Derek Rabuck
+49-Marchoni Aquino
+50-David Suarez
+51-Emmanuel Alcoseba
+52-Benjamin Michael
+53-Angela Rabuck
+54-Ramil Villanueva
+55-Page Brunkhorst
+56-Kevin Baker
+57-Brett Dempsey
+58-JR Roberts
+59-Jack Liu
+60-Joseph Naoum
+61-Allan Santiago
+62-Audry Folger
+63-Romelio San Jose
+64-David Brizzi
+65-Parish Saculles
+66-young david
+67-Christian Morales
+68-Matthew Santiago
+69-Jeannie Marrone
+70-Nathaniel Lovan 2
+DQ-Dale Hamm
+DQ-Garry Newton
+DQ-Robert Bui
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Bay 6
+Wong, Henry (1)
+2021-04-25 16:03:41.908 - 2021-04-25 16:04:24.279Edited a few seconds after.Edited rawpts was: 106 now: 108
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 25Added numCharlies: 1Added stringTime: 18.02Edited By Android Device
+Bay 8
+Lovan, Nathaniel (2)
+2021-04-25 16:04:15.205 - 2021-04-25 16:11:21.650Edited 7 minutes after.Edited rawpts was: 15 now: 77Edited str,0 was: 0 now: 40.29
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+Removed Reason for Edit Moved to Shooter Felker, Paul (CO/Min)Added aprv: trueAdded details: [object Object]Added numAlphas: 14Added numCharlies: 5Added numDeltas: 7Added numM: 2Added stringTime: 40.29Edited By Android Device2021-04-25 16:03:23.753 - 2021-04-25 16:04:15.205Edited a minute after.Edited rawpts was: 115 now: 15Edited str,0 was: 22.63 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Felker, Paul (CO/Min)Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

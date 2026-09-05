@@ -1,5 +1,7 @@
 # cd "C:\Users\pcc20\test\uspsa-score"
-# python parse_practiscore.py html_sources/3fff1f16a854cb9102009f5695d7b4ea2773c0fe51694f41b53397b10d8d5ba1.txt -o parsed/3fff1f16a854cb9102009f5695d7b4ea2773c0fe51694f41b53397b10d8d5ba1.csv
+
+# python parse_practiscore.py "html_sources/361755db-f754-4292-b063-c1b0dd8b1daa.txt" -o "parsed/361755db-f754-4292-b063-c1b0dd8b1daa.csv"
+
 
 from __future__ import annotations
 
@@ -56,21 +58,29 @@ OUTPUT_HEADERS = [
 ]
 
 
-def parse_match_info(lines: list[str]) -> tuple[str, str, str]:
+def parse_match_info(
+    lines: list[str],
+    match_id: str,
+) -> tuple[str, str, str]:
     """
-    Extract match ID, match name, and match date from PractiScore TXT.
+    Extract match name and match date from PractiScore TXT.
 
-    Example source:
+    The match_id comes from the input filename, not from the TXT contents.
 
-        GPS USPSA February Extra Saturday 2026 USPSA 2026-02-28Generation P C
+    Example filename:
+        361755db-f754-4292-b063-c1b0dd8b1daa.txt
 
-    Expected result:
+    Result:
+        match_id = 361755db-f754-4292-b063-c1b0dd8b1daa
 
+    Example source line:
+        GPS USPSA February Extra Saturday 2026 USPSA 2026-02-28 Generation P C
+
+    Expected:
         match_name = GPS USPSA February Extra Saturday 2026
         match_date = 2026-02-28
     """
 
-    match_id = ""
     match_name = ""
     match_date = ""
 
@@ -110,33 +120,13 @@ def parse_match_info(lines: list[str]) -> tuple[str, str, str]:
 
         match_name = before_date
 
-        # Debug output so we can see exactly what was extracted.
+        # Debug output.
         print(f"DEBUG source line: {line!r}")
         print(f"DEBUG before date:  {before_date!r}")
         print(f"DEBUG match name:   {match_name!r}")
         print(f"DEBUG match date:   {match_date!r}")
 
         break
-
-    # Try to find an explicit match ID anywhere in the text.
-    id_patterns = [
-        r"\bmatch[_ ]?id\s*[:#]?\s*([A-Za-z0-9_-]+)",
-        r"\bid\s*[:#]\s*(\d+)",
-        r"\bmatchid\s*[:#]?\s*([A-Za-z0-9_-]+)",
-    ]
-
-    full_text = "\n".join(lines)
-
-    for pattern in id_patterns:
-        match = re.search(
-            pattern,
-            full_text,
-            re.IGNORECASE,
-        )
-
-        if match:
-            match_id = match.group(1)
-            break
 
     return match_id, match_name, match_date
 
@@ -153,7 +143,10 @@ def parse_rank_and_name(value: str) -> tuple[str, str]:
         Name = Gil Yolo
     """
 
-    match = re.match(r"^\s*(\d+)\s*-\s*(.*)$", value)
+    match = re.match(
+        r"^\s*(\d+)\s*-\s*(.*)$",
+        value,
+    )
 
     if match:
         return match.group(1), match.group(2).strip()
@@ -188,10 +181,9 @@ def parse_results(
     # Data starts immediately after the header.
     for line in lines[header_index + 1:]:
 
-        # Stop once we reach the repeated "Name" section,
-        # "Old style results", "Classifier Report", etc.
         stripped = line.strip()
 
+        # Stop/skip non-result sections.
         if stripped in {
             "",
             "Name",
@@ -225,7 +217,7 @@ def parse_results(
         for header, value in zip(HEADERS[1:], parts[1:]):
             row[header] = value.strip()
 
-        # Replace the original "Name" field with the cleaned name.
+        # Replace original Name field with cleaned name.
         row["Name"] = name
 
         rows.append(row)
@@ -244,12 +236,22 @@ def parse_file(input_file: Path, output_file: Path) -> None:
     lines = text.splitlines()
 
     # ---------------------------------------------------------
-    # Match information
+    # Match ID comes from the filename
     # ---------------------------------------------------------
 
-    match_id, match_name, match_date = parse_match_info(lines)
+    match_id = input_file.stem
 
-    print(f"Match ID:   {match_id or '(not found)'}")
+    print(f"Match ID:   {match_id}")
+
+    # ---------------------------------------------------------
+    # Match name/date come from the TXT contents
+    # ---------------------------------------------------------
+
+    match_id, match_name, match_date = parse_match_info(
+        lines,
+        match_id,
+    )
+
     print(f"Match name: {match_name}")
     print(f"Match date: {match_date}")
 
@@ -336,8 +338,8 @@ def main() -> int:
             f"Input file does not exist: {args.input}"
         )
 
-    # If no output filename is supplied, automatically
-    # replace .txt with .csv.
+    # If no output filename is supplied,
+    # automatically replace .txt with .csv.
     output_file = args.output
 
     if output_file is None:

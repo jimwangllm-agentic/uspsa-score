@@ -1,0 +1,1137 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+GPS USPSA May 2026 USPSA 2026-05-24
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Gil Yolo	100.00%	659.0860	73.15	95.59%	Open	M		MAJOR	L5228	111	34	7	1				
+2-Adam Bandiera	97.34%	641.5661	80.54	92.95%	Open	A		MAJOR	TY148375	131	20	2					
+3-Vinh Lam	96.47%	635.8523	76.70	103.21%	Limited Optics	M		MINOR	Ty101025	136	13	2	2				
+4-Chez Chike-Udenze 2	96.21%	634.1324	76.85	92.06%	Open	M		MAJOR	A138598	121	25	4	3				
+5-Travis McKenzie 3	96.11%	633.4578	76.20	91.83%	Open	M		MAJOR	L6340	110	32	9					
+6-Jacob Tullis 2	95.87%	631.8714	73.33	91.57%	Open	A		MAJOR	a140523	113	34	2	4				
+7-Ryan Jaw	95.70%	630.7537	76.87	91.50%	Open	U		MAJOR	Ty142907	115	31	6	1				
+8-Anthony Fong 2	92.91%	612.3248	79.21	99.36%	Limited Optics	G		MINOR	A142224	128	21	3	1				
+9-Albert Montanez	92.64%	610.5552	78.72	104.56%	PCC	M		MINOR	A101554	119	32	2					
+10-Colin Kerrigan 2	92.10%	607.0383	76.97	98.74%	Limited Optics	U		MINOR	A142731	118	30	1	1				
+11-Bobby Ivester	91.75%	604.7282	79.83	103.67%	PCC	A		MINOR	A101336	119	32	2					
+12-Michael Hanover	90.61%	597.2074	69.78	86.34%	Open	G		MAJOR	TY146302	119	24	1	8				
+13-Phillip Nguyen	88.24%	581.6053	84.95	94.24%	Limited Optics	M		MINOR	TY152423	121	30	2					
+14-Roger Feng	86.47%	569.9077	82.91	100.42%	Carry Optics	M		MINOR	A157776	114	36	2	1				
+15-Brandon Foss	83.94%	553.2167	89.63	97.24%	Carry Optics	M		MINOR	L5142	130	22		1				
+16-Zachary Ralston 1	83.53%	550.5169	89.01	97.03%	Carry Optics	M		MINOR	A123081	128	21	2	1				
+17-Jose Onia	83.42%	549.7957	84.68	89.14%	Limited Optics	X	Senior	MINOR	A134359	115	33	4	1				
+18-Heath Helgeson 2	82.43%	543.3160	85.40	88.03%	Limited Optics	A		MINOR	A149129	116	27	6	1				
+19-James Wong 2	81.74%	538.7101	83.62	88.32%	Limited Optics	U		MINOR	A162844	112	32	8	1				
+20-Gabriel Nguyen	80.97%	533.6347	91.98	85.87%	Limited Optics	B		MINOR	A163845	122	26	3	2				
+21-FRANCIS NGUYEN	80.37%	529.7018	88.16	86.43%	Limited Optics	B		MINOR	A169979	120	26	4	2				
+22-Adriel Taylor	80.22%	528.7228	84.03	107.15%	Limited	C		MINOR	A104321	100	47	5	1				
+23-Shaundy Pepito	79.23%	522.1641	88.61	75.74%	Open	B		MAJOR	A127710	121	25	3	4				
+24-Claude Chew 1	79.18%	521.8542	90.82	91.85%	Carry Optics	A		MINOR	TY143380	119	30	3	1				
+25-Yanlin Xiang	77.95%	513.7305	85.06	83.66%	Limited Optics	B		MINOR	A164967	126	20	1	6				
+26-John Ren	77.59%	511.4146	93.92	90.33%	Carry Optics	A		MINOR	A168570	128	21	2	2				
+27-Drew Yang	77.10%	508.1492	89.05	90.45%	Carry Optics	A		MINOR	FY138478	113	37	1	2				
+28-Brandon Hunt 2	75.98%	500.7431	95.51	72.65%	Open	B		MAJOR	FY150701	112	30	10	1				
+29-Jeremiah Hunt 2	74.80%	493.0204	87.44	71.18%	Open	B		MAJOR	A148592	103	38	6	5			1	
+30-David Zhang	72.73%	479.3599	104.23	77.78%	Limited Optics	A		MINOR	FY140383	133	17	3					
+31-Pocholo Dimayuga	71.77%	473.0227	99.06	77.66%	Limited Optics	C		MINOR	A106236	124	27		2				
+32-Andre Wijaya	71.14%	468.8635	100.56	67.87%	Open	B		MINOR	A175473	116	27	9	1				
+33-Antonio Tormis	70.03%	461.5569	102.11	66.95%	Open	B		MAJOR	A124958	113	32	5	3				
+34-Jason Wells 2	69.25%	456.4032	103.57	109.29%	Single Stack	A		MINOR	L5218	121	26	5	1				
+35-chris bulkley	68.60%	452.1631	107.97	80.54%	Carry Optics	B		MINOR	A159469	124	28	1					
+36-Carl Salonga 2	68.38%	450.6748	99.71	79.35%	Carry Optics	B		MINOR	A167534	109	37	3	3				
+37-Steven McKinney	67.67%	445.9951	108.56	72.80%	Limited Optics	U		MINOR	A104027	122	29	2					
+38-Coder Wang	67.32%	443.6805	97.48	76.62%	PCC	B		MINOR	A170259	94	52	7				1	
+39-Stormtrooper Qian	67.07%	442.0428	98.75	72.58%	Limited Optics	B		MINOR	A150939	121	26	2	4			1	
+40-Mason Glidewell	66.18%	436.1662	98.84	76.74%	Carry Optics	B	Law Enforcement	MINOR	A156713	93	50	10				1	
+41-Travis Edwards	65.51%	431.7945	107.61	70.61%	Limited Optics	B		MINOR	A107004	110	39	4					
+42-Jorge Cahas	64.96%	428.1529	107.87	62.13%	Open	B	Senior	MAJOR		115	28	2	6				
+43-Jason Hoang	64.92%	427.9105	93.59	70.31%	Limited Optics	U		MINOR	TY164936	100	34	15	4			1	
+44-Robert Gomez	64.88%	427.6341	98.12	70.37%	Limited Optics	C		MINOR	TY163660	107	35	6	5				
+45-Don Sanders	63.47%	418.2895	98.46	60.69%	Open	B	Senior	MAJOR	FY46389	74	62	12	5				
+46-Gary Wu	62.82%	414.0370	110.04	73.71%	Carry Optics	B	Senior	MINOR	L2998	114	32	4	3				
+47-Raul Lorenzana	61.88%	407.8717	109.98	72.11%	Carry Optics	C		MINOR	A161461	109	34	9	1				
+48-Robby Henson	61.53%	405.5231	117.49	66.61%	Limited Optics	C	Law Enforcement	MINOR	A179169	124	26	3				1	
+49-Harlan Chen	61.26%	403.7725	111.38	72.32%	Carry Optics	C		MINOR	A163292	108	39	3	3				
+50-Andres Lezama	61.10%	402.7023	110.09	83.54%	Limited	U		MINOR	A168072	107	40	4	2				
+51-Larry Shaw	60.75%	400.3796	102.01	71.60%	Carry Optics	B		MINOR	A153831	91	52	6	3				
+52-Stephen Perez	60.32%	397.5402	106.07	69.75%	Carry Optics	B	Law Enforcement	MINOR	FY148878	111	35	2	5			1	
+53-Yulmer Carreno 2	58.73%	387.0730	93.30	65.37%	Limited Optics	B		MINOR	A157204	109	23	5	16			8	
+54-Waltz Noguerra	58.60%	386.2482	116.34	67.53%	Carry Optics	C	Senior	MINOR	A137731	102	45	5	1				
+55-Eli Marine	58.36%	384.6504	132.92	55.80%	Open	U	Junior	MINOR	3467025661	141	10	2					
+56-Cliff Pinsent	57.05%	376.0398	127.62	61.53%	Limited Optics	B	Distinguished Senior	MINOR	FY99321	119	28	6					
+57-Markho Babasoro	56.86%	374.7806	95.39	54.52%	Open	C		MAJOR	A174757	93	34	14	12				
+58-Jim Dunlap	56.42%	371.8809	134.41	63.86%	PCC	B		MINOR	L4377	129	24						
+59-Jerry Bedro	56.16%	370.1642	112.83	60.50%	Limited Optics	B		MINOR	A98263	108	32	8	4				
+60-Carlos Escandon	55.41%	365.1694	128.05	87.58%	Single Stack	A	Super Senior	MAJOR	L2590	104	41	5	3				
+61-Pat Byrne	54.64%	360.1574	135.19	86.16%	Single Stack	B	Distinguished Senior	MAJOR	Ty93921	110	38	4	1				
+62-Albert Legislador	53.92%	355.3644	119.33	58.57%	Limited Optics	C	Senior	MINOR	TY91787	103	38	9	3				
+63-Abrahan Figueroa	51.41%	338.8462	118.20	55.79%	Limited Optics	C	Senior	MINOR	TY54053	99	39	8	4				
+64-Zachary Snow	50.81%	334.8953	82.94	53.73%	Limited Optics	U		MINOR	A176407	87	28	1	3				
+65-Jeff Maxwell, Jr.	50.50%	332.8220	158.05	58.26%	Carry Optics	B	Senior	MINOR	L4489	125	24	2					
+66-Luke Kwan	50.16%	330.6177	138.92	48.00%	Open	C		MINOR	A152338	114	30	5	3			1	
+67-Dan Schreiber	50.07%	330.0100	142.85	53.60%	Limited Optics	C	Super Senior	MINOR	A147899	127	20	4	2				
+68-Rick Russek	49.99%	329.4668	142.38	54.35%	Limited Optics	C	Senior	MINOR	A166874	111	38	4					
+69-Edward Gonzales 2	49.38%	325.4502	149.65	52.99%	Limited Optics	U		MINOR	A183226	133	13	6	1				
+70-Jose Naya	49.21%	324.3540	147.31	57.36%	Carry Optics	U	Junior	MINOR	A180342	114	35	3	1				
+71-Reid Russek	47.88%	315.5618	158.34	51.23%	Limited Optics	U		MINOR	X01	122	29	2					
+72-Chris Ballard	45.75%	301.5338	160.38	49.40%	Limited Optics	D		MINOR	A178189	129	18	5	1				
+73-Doug Joder	43.55%	287.0196	155.28	109.29%	Production	C		MINOR	A115020	98	49	4	2				
+74-Xingzheng Sun	43.48%	286.5670	147.49	50.65%	Carry Optics	U		MINOR	A182524	115	30	2	6				
+75-Jason Essazay	42.83%	282.3094	154.11	49.84%	Carry Optics	U	Military	MINOR	A145552	110	30	9	4			1	
+76-Charity Taylor	40.86%	269.2772	189.98	46.39%	PCC	D	Lady, Senior	MINOR	A104508	139	13	1					
+77-Sonny Somera	38.99%	256.9496	155.25	45.64%	Carry Optics	D		MINOR	A118611	111	27	8	6			1	
+78-Kit Morales	38.80%	255.7250	132.90	51.66%	Limited	U	Senior	MINOR	A57907	79	54	12	8				
+79-Carlos Benavides	34.26%	225.8136	201.93	36.87%	Limited Optics	D	Senior	MINOR	A167785	122	22	6	3				
+80-Matthew Givens	30.55%	201.3601	222.10	109.29%	Limited 10	B		MINOR	Ty137686	116	29	3	5				
+81-John Dunlap	24.54%	161.7480	295.53	27.95%	PCC	U	Junior	MINOR	L6200	138	8	2	5				
+DQ-Mervs Castillon	0.00%	0.0000		0.00%	Limited Optics	U		MINOR	A174980								
+Name
+1-Gil Yolo
+2-Adam Bandiera
+3-Vinh Lam
+4-Chez Chike-Udenze 2
+5-Travis McKenzie 3
+6-Jacob Tullis 2
+7-Ryan Jaw
+8-Anthony Fong 2
+9-Albert Montanez
+10-Colin Kerrigan 2
+11-Bobby Ivester
+12-Michael Hanover
+13-Phillip Nguyen
+14-Roger Feng
+15-Brandon Foss
+16-Zachary Ralston 1
+17-Jose Onia
+18-Heath Helgeson 2
+19-James Wong 2
+20-Gabriel Nguyen
+21-FRANCIS NGUYEN
+22-Adriel Taylor
+23-Shaundy Pepito
+24-Claude Chew 1
+25-Yanlin Xiang
+26-John Ren
+27-Drew Yang
+28-Brandon Hunt 2
+29-Jeremiah Hunt 2
+30-David Zhang
+31-Pocholo Dimayuga
+32-Andre Wijaya
+33-Antonio Tormis
+34-Jason Wells 2
+35-chris bulkley
+36-Carl Salonga 2
+37-Steven McKinney
+38-Coder Wang
+39-Stormtrooper Qian
+40-Mason Glidewell
+41-Travis Edwards
+42-Jorge Cahas
+43-Jason Hoang
+44-Robert Gomez
+45-Don Sanders
+46-Gary Wu
+47-Raul Lorenzana
+48-Robby Henson
+49-Harlan Chen
+50-Andres Lezama
+51-Larry Shaw
+52-Stephen Perez
+53-Yulmer Carreno 2
+54-Waltz Noguerra
+55-Eli Marine
+56-Cliff Pinsent
+57-Markho Babasoro
+58-Jim Dunlap
+59-Jerry Bedro
+60-Carlos Escandon
+61-Pat Byrne
+62-Albert Legislador
+63-Abrahan Figueroa
+64-Zachary Snow
+65-Jeff Maxwell, Jr.
+66-Luke Kwan
+67-Dan Schreiber
+68-Rick Russek
+69-Edward Gonzales 2
+70-Jose Naya
+71-Reid Russek
+72-Chris Ballard
+73-Doug Joder
+74-Xingzheng Sun
+75-Jason Essazay
+76-Charity Taylor
+77-Sonny Somera
+78-Kit Morales
+79-Carlos Benavides
+80-Matthew Givens
+81-John Dunlap
+DQ-Mervs Castillon
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2 - Bay 5
+McKenzie, Travis (1)
+2026-05-24 16:09:42.337 - 2026-05-24 16:27:08.191Edited 17 minutes after.Edited rawpts was: 75 now: 105Edited str,0 was: 13.31 now: 12.33
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,v was: 1.73,1.96,2.24,2.42,2.65,2.83,4.49,4.67,5.44,5.64,6.21,7.07,7.79,7.97,9.22,9.39,10.24,10.82,11.08,11.49,11.77,12.40,12.50,13.07,13.31;AMG 0F9B now: 1.41,1.61,1.83,2.01,2.23,2.39,4.15,4.34,5.06,5.25,5.76,6.45,7.14,7.30,8.61,8.78,9.42,9.97,10.63,10.95,11.67,11.86,12.33;AMG 0F9BEdited meta,0,t was: 2026-05-24 16:08:43.431 now: 2026-05-24 16:26:30.620Added aprv: trueAdded details: [object Object]Added numAlphas: 21Added numCharlies: 5Added stringTime: 12.33Edited By STAGE 6
+Chew, Claude (1)
+2026-05-24 17:18:38.755 - 2026-05-24 17:21:28.052Edited 3 minutes after.Removed proc: 1Edited proc_cnts,0,Bbu6AL was: 1 now: 0Added details: [object Object]Added numAlphas: 17Added numCharlies: 6Added numDeltas: 1Added numM: 2Added stringTime: 16.28Edited By STAGE 10
+Stage 3 - Bay 6
+Ralston, Zachary (1)
+2026-05-24 15:01:36.866 - 2026-05-24 15:09:49.776Edited 8 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	1	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	1	0	1	0	0	0	1
+Added details: [object Object]Added numAlphas: 21Added numCharlies: 3Added numNPM: 1Added stringTime: 11.39Edited By Stage 5
+Carreno, Yulmer (2)
+2026-05-24 15:17:49.090 - 2026-05-24 15:21:05.222Edited 3 minutes after.Edited popm was: 0 now: 1Edited poph was: 2 now: 1Edited rawpts was: 10 now: 41Edited str,0 was: 0 now: 7.98
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	3	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	3	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	3	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	3	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 1.36,2.36,2.91,3.10,3.28,3.95,4.16,4.35,5.22,7.98;AMG 5DC5Edited meta,0,t was: 2026-05-24 15:17:49.090 now: 2026-05-24 15:20:17.876Added proc: 8Added aprv: trueAdded details: [object Object]Added numAlphas: 8Added numCharlies: 2Added numM: 15Added numProc: 8Added stringTime: 7.98Edited By Stage 52026-05-24 15:17:32.831 - 2026-05-24 15:17:49.090Edited a few seconds after.Edited rawpts was: 41 now: 10Edited str,0 was: 6.91 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	3	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	3	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	3	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	3	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	0	2
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.40,2.24,2.41,2.58,3.23,6.50,6.71,6.91;AMG 5DC5 now: ReshootEdited meta,0,t was: 2026-05-24 15:16:04.671 now: 2026-05-24 15:17:49.090Removed aprv: trueEdited By Stage 5
+Stage 6 - Bay 9
+Hunt, Brandon (2)
+2026-05-24 14:15:06.573 - 2026-05-24 14:46:12.815Edited 31 minutes after.Edited rawpts was: 10 now: 111Edited str,0 was: 0 now: 16.52
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Stage 5: Bay 8 now: 1.44,1.62,2.00,2.19,2.71,2.96,3.51,3.88,5.63,6.08,6.70,7.06,7.42,7.62,7.96,8.20,10.07,11.15,11.62,12.15,12.35,13.00,13.51,15.72,16.32,16.52;AMG 0F9BEdited meta,0,t was: 2026-05-24 14:15:06.573 now: 2026-05-24 14:45:43.453Added aprv: trueAdded details: [object Object]Added numAlphas: 19Added numCharlies: 6Added numDeltas: 1Added stringTime: 16.52Edited By STAGE 62026-05-24 13:46:16.315 - 2026-05-24 14:15:06.573Edited 29 minutes after.Edited rawpts was: 108 now: 10Edited str,0 was: 13.69 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 2.59,2.80,3.19,3.41,4.46,4.66,4.95,5.17,5.82,6.01,7.75,8.14,9.00,9.26,10.79,11.00,11.41,11.61,12.17,12.38,13.25,13.69;AMG 0F9B now: Moved to Stage 5: Bay 8Edited meta,0,t was: 2026-05-24 13:45:41.478 now: 2026-05-24 14:15:06.573Removed aprv: trueEdited By STAGE 6
+Chike-Udenze, Chez (2)
+2026-05-24 14:15:34.569 - 2026-05-24 14:22:50.810Edited 7 minutes after.Edited rawpts was: 10 now: 103Edited str,0 was: 0 now: 12.51
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Stage 5: Bay 8 now: 1.38,1.53,1.79,1.99,2.36,2.57,2.96,3.17,4.49,4.68,5.03,5.22,5.39,5.51,5.76,5.95,7.39,7.69,7.86,8.26,8.44,8.93,10.14,10.54,11.43,11.73,12.35,12.51;AMG 0F9BEdited meta,0,t was: 2026-05-24 14:15:34.569 now: 2026-05-24 14:22:09.644Added aprv: trueAdded details: [object Object]Added numAlphas: 19Added numCharlies: 4Added numDeltas: 1Added numM: 2Added stringTime: 12.51Edited By STAGE 62026-05-24 13:48:20.667 - 2026-05-24 14:15:34.569Edited 27 minutes after.Edited rawpts was: 117 now: 10Edited str,0 was: 9.71 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.93,2.18,2.78,2.93,3.43,3.63,4.06,4.25,4.74,4.93,5.50,5.70,6.67,6.84,7.89,8.06,8.23,8.36,9.10,9.28,9.52,9.71;AMG 0F9B now: Moved to Stage 5: Bay 8Edited meta,0,t was: 2026-05-24 13:47:51.523 now: 2026-05-24 14:15:34.569Removed aprv: trueEdited By STAGE 6
+Fong, Anthony (2)
+2026-05-24 14:15:58.604 - 2026-05-24 14:24:41.074Edited 9 minutes after.Edited rawpts was: 10 now: 116Edited str,0 was: 0 now: 11.95
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Stage 5: Bay 8 now: 1.84,2.01,2.23,2.73,3.27,3.45,3.81,4.02,5.56,5.76,6.05,6.25,6.67,6.88,7.21,7.40,9.43,9.72,10.06,10.32,10.78,11.32,11.74,11.95;AMG 0F9BEdited meta,0,t was: 2026-05-24 14:15:58.604 now: 2026-05-24 14:24:12.239Added aprv: trueAdded details: [object Object]Added numAlphas: 24Added numCharlies: 2Added stringTime: 11.95Edited By STAGE 62026-05-24 13:49:57.815 - 2026-05-24 14:15:58.604Edited 26 minutes after.Edited rawpts was: 114 now: 10Edited str,0 was: 12.16 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.77,2.23,2.51,3.11,3.32,3.91,4.15,4.53,4.78,5.17,5.46,5.96,6.24,7.09,7.29,7.88,8.11,8.58,8.79,9.02,9.96,10.98,11.90,12.16;AMG 0F9B now: Moved to Stage 5: Bay 8Edited meta,0,t was: 2026-05-24 13:49:31.423 now: 2026-05-24 14:15:58.604Removed aprv: trueEdited By STAGE 6
+Kerrigan, Colin (2)
+2026-05-24 14:16:28.161 - 2026-05-24 14:26:49.057Edited 10 minutes after.Edited rawpts was: 10 now: 114Edited str,0 was: 0 now: 11.21
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Stage 5: Bay 8 now: 1.56,1.73,2.04,2.21,2.60,2.79,3.18,3.41,4.92,5.13,5.50,5.66,5.92,6.09,6.38,6.54,8.53,8.86,9.27,9.45,10.16,10.54,11.00,11.21;AMG 0F9BEdited meta,0,t was: 2026-05-24 14:16:28.161 now: 2026-05-24 14:26:13.665Added aprv: trueAdded details: [object Object]Added numAlphas: 23Added numCharlies: 3Added stringTime: 11.21Edited By STAGE 62026-05-24 13:52:16.871 - 2026-05-24 14:16:28.161Edited 24 minutes after.Edited rawpts was: 108 now: 10Edited str,0 was: 11.07 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.98,2.31,2.85,3.03,3.50,3.77,4.15,4.41,5.40,5.65,6.23,6.52,7.35,7.55,8.38,8.56,9.14,9.35,9.71,9.91,10.83,11.07;AMG 0F9B now: Moved to Stage 5: Bay 8Edited meta,0,t was: 2026-05-24 13:51:29.624 now: 2026-05-24 14:16:28.161Removed aprv: trueEdited By STAGE 6
+Hunt, Jeremiah (2)
+2026-05-24 14:16:52.908 - 2026-05-24 14:28:28.952Edited 12 minutes after.Edited rawpts was: 10 now: 109Edited str,0 was: 0 now: 12.48
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Stage 5: Bay 8 now: 1.32,1.46,1.76,1.91,2.41,2.65,3.05,3.27,5.38,5.69,6.17,6.40,7.07,7.65,8.18,8.73,8.93,10.26,10.49,11.01,11.22,11.54,11.71,11.97,12.13,12.48;AMG 0F9BEdited meta,0,t was: 2026-05-24 14:16:52.908 now: 2026-05-24 14:27:55.216Added aprv: trueAdded details: [object Object]Added numAlphas: 21Added numCharlies: 3Added numDeltas: 1Added numM: 1Added stringTime: 12.48Edited By STAGE 62026-05-24 13:53:26.299 - 2026-05-24 14:16:52.908Edited 23 minutes after.Edited rawpts was: 111 now: 10Edited str,0 was: 11.62 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 2.47,2.77,3.41,3.64,4.14,4.38,4.82,5.06,5.70,5.91,6.82,7.11,8.12,8.31,9.48,9.68,9.97,10.16,10.91,11.10,11.44,11.62;AMG 0F9B now: Moved to Stage 5: Bay 8Edited meta,0,t was: 2026-05-24 13:52:52.952 now: 2026-05-24 14:16:52.908Removed aprv: trueEdited By STAGE 6
+Helgeson, Heath (2)
+2026-05-24 14:17:33.178 - 2026-05-24 14:30:45.788Edited 13 minutes after.Edited rawpts was: 10 now: 107Edited str,0 was: 0 now: 15.2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Stage 5: Bay 8 now: 1.45,1.62,1.87,1.99,2.44,2.65,3.06,3.36,5.22,5.39,5.73,5.96,6.13,6.46,6.62,7.04,7.42,9.31,10.40,10.70,11.22,11.46,11.99,12.70,13.24,13.71,14.46,14.94,15.20;AMG 0F9BEdited meta,0,t was: 2026-05-24 14:17:33.178 now: 2026-05-24 14:30:32.494Added aprv: trueAdded details: [object Object]Added numAlphas: 22Added numCharlies: 2Added numDeltas: 1Added numM: 1Added stringTime: 15.2Edited By STAGE 62026-05-24 13:55:01.991 - 2026-05-24 14:17:33.178Edited 23 minutes after.Edited rawpts was: 114 now: 10Edited str,0 was: 11.19 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.93,2.19,2.77,2.95,3.58,3.80,4.16,4.48,4.95,5.24,5.79,6.12,6.33,7.34,7.48,8.46,8.76,9.25,9.46,9.76,9.89,10.83,11.03,11.19;AMG 0F9B now: Moved to Stage 5: Bay 8Edited meta,0,t was: 2026-05-24 13:54:30.002 now: 2026-05-24 14:17:33.178Removed aprv: trueEdited By STAGE 6
+Wong, James (2)
+2026-05-24 14:18:13.473 - 2026-05-24 14:32:47.633Edited 15 minutes after.Edited rawpts was: 10 now: 110Edited str,0 was: 0 now: 13.42
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Stage 5: Bay 8 now: 1.88,2.07,2.50,2.78,3.21,3.54,4.04,4.38,5.53,5.83,6.30,6.51,6.86,7.00,7.38,7.63,9.63,10.02,10.47,10.79,11.05,11.62,12.03,12.54,13.16,13.42;AMG 0F9BEdited meta,0,t was: 2026-05-24 14:18:13.472 now: 2026-05-24 14:32:07.444Added aprv: trueAdded details: [object Object]Added numAlphas: 22Added numCharlies: 3Added numDeltas: 1Added stringTime: 13.42Edited By STAGE 62026-05-24 13:56:33.901 - 2026-05-24 14:18:13.473Edited 22 minutes after.Edited rawpts was: 104 now: 10Edited str,0 was: 11.44 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.96,2.40,2.98,3.20,4.17,4.48,4.86,5.14,5.71,6.02,6.71,7.07,7.98,8.18,8.75,9.06,9.55,9.80,10.14,10.31,11.15,11.44;AMG 0F9B now: Moved to Stage 5: Bay 8Edited meta,0,t was: 2026-05-24 13:55:58.427 now: 2026-05-24 14:18:13.472Removed aprv: trueEdited By STAGE 6
+Salonga, Carl (2)
+2026-05-24 14:18:32.710 - 2026-05-24 14:34:25.695Edited 16 minutes after.Edited rawpts was: 10 now: 105Edited str,0 was: 0 now: 20.39
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Stage 5: Bay 8 now: 1.42,1.63,1.94,2.12,2.48,2.69,3.09,3.29,3.45,6.88,7.17,7.38,7.80,8.06,8.33,8.52,8.79,8.96,9.29,11.32,11.87,12.22,12.65,12.88,13.31,13.76,14.26,14.70,15.49,15.82,18.76,19.20,19.96,20.39;AMG 0F9BEdited meta,0,t was: 2026-05-24 14:18:32.710 now: 2026-05-24 14:33:55.520Added aprv: trueAdded details: [object Object]Added numAlphas: 20Added numCharlies: 5Added numM: 1Added stringTime: 20.39Edited By STAGE 62026-05-24 13:58:18.585 - 2026-05-24 14:18:32.710Edited 20 minutes after.Edited rawpts was: 116 now: 10Edited str,0 was: 14.17 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 2.63,2.92,3.16,3.52,3.78,4.59,4.83,5.00,5.23,5.37,6.35,6.53,9.09,9.40,9.98,10.27,11.71,12.08,12.61,12.82,13.27,13.49,13.81,14.00,14.17;AMG 0F9B now: Moved to Stage 5: Bay 8Edited meta,0,t was: 2026-05-24 13:57:48.663 now: 2026-05-24 14:18:32.710Removed aprv: trueEdited By STAGE 6
+Gonzales, Edward (2)
+2026-05-24 14:18:52.267 - 2026-05-24 14:36:56.538Edited 18 minutes after.Edited rawpts was: 10 now: 118Edited str,0 was: 0 now: 21.19
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Stage 5: Bay 8 now: 1.93,2.15,3.14,3.37,4.01,4.20,4.91,5.09,8.55,8.82,9.56,9.77,10.36,10.54,11.21,11.39,14.74,15.77,16.91,17.38,18.49,19.35,20.78,21.19;AMG 0F9BEdited meta,0,t was: 2026-05-24 14:18:52.266 now: 2026-05-24 14:36:32.196Added aprv: trueAdded details: [object Object]Added numAlphas: 25Added numCharlies: 1Added stringTime: 21.19Edited By STAGE 62026-05-24 14:01:22.200 - 2026-05-24 14:18:52.267Edited 18 minutes after.Edited rawpts was: 120 now: 10Edited str,0 was: 25.52 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 3.40,3.77,6.30,6.79,7.72,7.96,9.10,9.41,10.10,10.33,12.14,12.46,14.55,14.80,17.03,17.24,17.92,18.13,20.15,20.37,25.19,25.52;AMG 0F9B now: Moved to Stage 5: Bay 8Edited meta,0,t was: 2026-05-24 14:00:51.982 now: 2026-05-24 14:18:52.266Removed aprv: trueEdited By STAGE 6
+McKenzie, Travis (2)
+2026-05-24 14:19:19.482 - 2026-05-24 14:39:02.838Edited 20 minutes after.Edited rawpts was: 10 now: 107Edited str,0 was: 0 now: 12.23
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Stage 5: Bay 8 now: 1.66,1.83,2.20,2.39,2.80,3.02,3.52,3.79,5.37,5.67,6.14,6.33,6.89,7.18,7.86,8.20,8.59,9.14,9.33,10.40,10.63,11.15,11.36,11.66,11.85,12.07,12.23;AMG 0F9BEdited meta,0,t was: 2026-05-24 14:19:19.482 now: 2026-05-24 14:38:33.247Added aprv: trueAdded details: [object Object]Added numAlphas: 19Added numCharlies: 4Added numDeltas: 3Added stringTime: 12.23Edited By STAGE 62026-05-24 14:03:04.549 - 2026-05-24 14:19:19.482Edited 16 minutes after.Edited rawpts was: 110 now: 10Edited str,0 was: 9.63 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.59,1.77,2.55,2.83,3.53,3.71,4.16,4.36,4.99,5.17,5.52,5.69,6.78,6.94,7.71,7.89,8.14,8.30,9.03,9.19,9.45,9.63;AMG 0F9B now: Moved to Stage 5: Bay 8Edited meta,0,t was: 2026-05-24 14:02:27.682 now: 2026-05-24 14:19:19.482Removed aprv: trueEdited By STAGE 6
+Tullis, Jacob (2)
+2026-05-24 14:19:28.365 - 2026-05-24 14:42:26.088Edited 23 minutes after.Edited rawpts was: 10 now: 112Edited str,0 was: 0 now: 10.96
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Stage 5: Bay 8 now: 1.33,1.51,1.79,1.96,2.33,2.51,2.85,2.99,4.45,4.65,5.01,5.17,5.49,5.66,5.96,6.12,7.26,8.28,8.57,9.00,9.17,9.84,10.11,10.42,10.81,10.96;AMG 0F9BEdited meta,0,t was: 2026-05-24 14:19:28.365 now: 2026-05-24 14:41:06.263Added aprv: trueAdded details: [object Object]Added numAlphas: 22Added numCharlies: 3Added numM: 1Added stringTime: 10.96Edited By STAGE 62026-05-24 14:05:27.371 - 2026-05-24 14:19:28.365Edited 14 minutes after.Edited rawpts was: 108 now: 10Edited str,0 was: 10.16 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.90,2.09,2.58,2.74,3.25,3.43,3.77,3.92,4.40,4.60,5.13,5.32,6.07,6.26,6.98,7.14,7.46,7.65,7.79,8.07,9.09,10.00,10.16;AMG 0F9B now: Moved to Stage 5: Bay 8Edited meta,0,t was: 2026-05-24 14:05:14.782 now: 2026-05-24 14:19:28.365Removed aprv: trueEdited By STAGE 6
+Wells, Jason (2)
+2026-05-24 14:19:41.527 - 2026-05-24 14:44:09.664Edited 24 minutes after.Edited rawpts was: 10 now: 109Edited str,0 was: 0 now: 12.87
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Stage 5: Bay 8 now: 1.36,1.53,1.81,1.97,2.42,2.60,3.05,3.32,5.97,6.22,6.59,6.77,7.06,7.21,7.53,7.75,9.96,10.44,10.85,11.08,11.71,12.19,12.65,12.87;AMG 0F9BEdited meta,0,t was: 2026-05-24 14:19:41.527 now: 2026-05-24 14:43:31.375Added aprv: trueAdded details: [object Object]Added numAlphas: 22Added numCharlies: 3Added numM: 1Added stringTime: 12.87Edited By STAGE 62026-05-24 14:07:02.592 - 2026-05-24 14:19:41.527Edited 13 minutes after.Edited rawpts was: 106 now: 10Edited str,0 was: 13.44 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 2.32,2.70,3.25,3.46,3.92,4.17,4.51,4.68,6.69,6.91,7.67,8.01,8.27,10.09,10.25,11.14,11.32,11.80,11.96,12.21,12.39,13.23,13.44;AMG 0F9B now: Moved to Stage 5: Bay 8Edited meta,0,t was: 2026-05-24 14:06:29.561 now: 2026-05-24 14:19:41.527Removed aprv: trueEdited By STAGE 6
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

@@ -1,6 +1,5 @@
 # cd "C:\Users\pcc20\test\uspsa-score"
-# python download_match_scores.py "https://practiscore.com/results/all/7ab5f726-bc21-4b6d-a802-8e5f6baf7a9f"
-
+# python download_match_scores.py "https://practiscore.com/results/all/65e36cba-4856-4e5b-9e1c-6658aca7b997"
 
 """
 Open a URL in Microsoft Edge and save both:
@@ -10,7 +9,17 @@ Open a URL in Microsoft Edge and save both:
 
 The webpage text is copied FIRST, followed by the HTML source.
 
-Both filenames are based on the SHA-256 hash of the input URL.
+Both filenames are based on the PractiScore match ID extracted from the URL.
+
+For example:
+
+https://practiscore.com/results/all/65e36cba-4856-4e5b-9e1c-6658aca7b997
+
+creates:
+
+html_sources/
+    65e36cba-4856-4e5b-9e1c-6658aca7b997.txt
+    65e36cba-4856-4e5b-9e1c-6658aca7b997.html
 
 At the end, both the source tab and the original webpage tab are closed.
 """
@@ -18,7 +27,6 @@ At the end, both the source tab and the original webpage tab are closed.
 from __future__ import annotations
 
 import argparse
-import hashlib
 import time
 from pathlib import Path
 from urllib.parse import urlparse
@@ -28,17 +36,39 @@ import pyperclip
 
 
 def output_paths(url: str, output_dir: Path) -> tuple[Path, Path]:
-    """Return TXT and HTML filenames based on the URL's SHA-256 hash."""
-    url_hash = hashlib.sha256(url.encode("utf-8")).hexdigest()
+    """
+    Return TXT and HTML filenames based on the PractiScore match ID.
 
-    txt_path = output_dir / f"{url_hash}.txt"
-    html_path = output_dir / f"{url_hash}.html"
+    Example:
+        https://practiscore.com/results/all/65e36cba-4856-4e5b-9e1c-6658aca7b997
+
+    produces:
+        65e36cba-4856-4e5b-9e1c-6658aca7b997.txt
+        65e36cba-4856-4e5b-9e1c-6658aca7b997.html
+    """
+
+    parsed_url = urlparse(url)
+
+    # Remove trailing slash, then get the final part of the URL.
+    #
+    # /results/all/65e36cba-4856-4e5b-9e1c-6658aca7b997
+    #                                           ^^^^^^^^^ match ID
+    match_id = parsed_url.path.rstrip("/").split("/")[-1]
+
+    if not match_id:
+        raise ValueError(
+            "Could not extract match ID from URL."
+        )
+
+    txt_path = output_dir / f"{match_id}.txt"
+    html_path = output_dir / f"{match_id}.html"
 
     return txt_path, html_path
 
 
 def copy_page_text() -> str:
     """Copy the original webpage's rendered text."""
+
     # Make sure the webpage has focus.
     pyautogui.click()
     time.sleep(0.3)
@@ -59,6 +89,7 @@ def copy_page_text() -> str:
 
 def copy_source_code() -> str:
     """Open Edge's View Source tab and copy the HTML source."""
+
     pyautogui.hotkey("ctrl", "u")
     time.sleep(2)
 
@@ -77,7 +108,9 @@ def copy_source_code() -> str:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description=__doc__)
+    parser = argparse.ArgumentParser(
+        description=__doc__
+    )
 
     parser.add_argument(
         "url",
@@ -94,7 +127,8 @@ def main() -> int:
     parser.add_argument(
         "--output-dir",
         type=Path,
-        default=Path("html_sources")
+        default=Path("html_sources"),
+        help="Directory where TXT and HTML files will be saved."
     )
 
     args = parser.parse_args()
@@ -111,7 +145,22 @@ def main() -> int:
         )
 
     if args.wait < 0:
-        parser.error("--wait must be zero or greater")
+        parser.error(
+            "--wait must be zero or greater"
+        )
+
+    # ---------------------------------------------------------
+    # Extract Match ID
+    # ---------------------------------------------------------
+
+    match_id = parsed_url.path.rstrip("/").split("/")[-1]
+
+    if not match_id:
+        parser.error(
+            "Could not extract match ID from URL."
+        )
+
+    print(f"Match ID: {match_id}")
 
     # ---------------------------------------------------------
     # Open Microsoft Edge
@@ -122,9 +171,15 @@ def main() -> int:
     pyautogui.press("win")
     time.sleep(1)
 
-    pyautogui.write("edge", interval=0.05)
+    pyautogui.write(
+        "edge",
+        interval=0.05
+    )
+
+    time.sleep(0.5)
+
     pyautogui.press("enter")
-    time.sleep(3)
+    time.sleep(1)
 
     # ---------------------------------------------------------
     # Enter URL
@@ -133,7 +188,12 @@ def main() -> int:
     print("2. Entering the URL in Edge's address bar")
 
     pyautogui.hotkey("ctrl", "l")
-    pyautogui.write(args.url, interval=0.002)
+
+    pyautogui.write(
+        args.url,
+        interval=0.002
+    )
+
     pyautogui.press("enter")
 
     # ---------------------------------------------------------
@@ -158,11 +218,13 @@ def main() -> int:
 
     if not page_text.strip():
         raise RuntimeError(
-            "Edge copied no webpage text; the TXT file was not created."
+            "Edge copied no webpage text; "
+            "the TXT file was not created."
         )
 
     print(
-        f"   Copied {len(page_text):,} characters of webpage text"
+        f"   Copied {len(page_text):,} characters "
+        "of webpage text"
     )
 
     # ---------------------------------------------------------
@@ -176,15 +238,18 @@ def main() -> int:
     source_code = copy_source_code()
 
     if not source_code.strip():
+
         # Close the source tab before raising the error.
         pyautogui.hotkey("ctrl", "w")
 
         raise RuntimeError(
-            "Edge copied no source code; the HTML file was not created."
+            "Edge copied no source code; "
+            "the HTML file was not created."
         )
 
     print(
-        f"   Copied {len(source_code):,} characters of HTML source"
+        f"   Copied {len(source_code):,} characters "
+        "of HTML source"
     )
 
     # ---------------------------------------------------------
@@ -197,7 +262,7 @@ def main() -> int:
     )
 
     # ---------------------------------------------------------
-    # Generate filenames
+    # Generate filenames using Match ID
     # ---------------------------------------------------------
 
     txt_path, html_path = output_paths(
@@ -214,7 +279,9 @@ def main() -> int:
         encoding="utf-8"
     )
 
-    print(f"6. Saved webpage text to {txt_path}")
+    print(
+        f"6. Saved webpage text to {txt_path}"
+    )
 
     # ---------------------------------------------------------
     # Save HTML source SECOND
@@ -225,13 +292,17 @@ def main() -> int:
         encoding="utf-8"
     )
 
-    print(f"7. Saved HTML source to {html_path}")
+    print(
+        f"7. Saved HTML source to {html_path}"
+    )
 
     # ---------------------------------------------------------
     # Close source tab
     # ---------------------------------------------------------
 
-    print("8. Closing the View Source tab")
+    print(
+        "8. Closing the View Source tab"
+    )
 
     pyautogui.hotkey("ctrl", "w")
     time.sleep(1)
@@ -240,15 +311,283 @@ def main() -> int:
     # Close original webpage
     # ---------------------------------------------------------
 
-    print("9. Closing the original webpage")
+    print(
+        "9. Closing the original webpage"
+    )
 
     pyautogui.hotkey("ctrl", "w")
     time.sleep(1)
 
+    # ---------------------------------------------------------
+    # Finished
+    # ---------------------------------------------------------
+
     print("10. Finished")
+
+    print()
+    print("Output files:")
+    print(f"    {txt_path}")
+    print(f"    {html_path}")
 
     return 0
 
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
+
+# # cd "C:\Users\pcc20\test\uspsa-score"
+# # python download_match_scores.py "https://practiscore.com/results/all/65e36cba-4856-4e5b-9e1c-6658aca7b997"
+
+
+# """
+# Open a URL in Microsoft Edge and save both:
+
+# 1. The original webpage's copied/rendered text to a .txt file.
+# 2. The original HTML source code to a .html file.
+
+# The webpage text is copied FIRST, followed by the HTML source.
+
+# Both filenames are based on the SHA-256 hash of the input URL.
+
+# At the end, both the source tab and the original webpage tab are closed.
+# """
+
+# from __future__ import annotations
+
+# import argparse
+# import hashlib
+# import time
+# from pathlib import Path
+# from urllib.parse import urlparse
+
+# import pyautogui
+# import pyperclip
+
+
+# def output_paths(url: str, output_dir: Path) -> tuple[Path, Path]:
+#     """Return TXT and HTML filenames based on the URL's SHA-256 hash."""
+#     url_hash = hashlib.sha256(url.encode("utf-8")).hexdigest()
+
+#     txt_path = output_dir / f"{url_hash}.txt"
+#     html_path = output_dir / f"{url_hash}.html"
+
+#     return txt_path, html_path
+
+
+# def copy_page_text() -> str:
+#     """Copy the original webpage's rendered text."""
+#     # Make sure the webpage has focus.
+#     pyautogui.click()
+#     time.sleep(0.3)
+
+#     # Clear the clipboard first.
+#     pyperclip.copy("")
+
+#     # Select all webpage text.
+#     pyautogui.hotkey("ctrl", "a")
+#     time.sleep(0.5)
+
+#     # Copy selected text.
+#     pyautogui.hotkey("ctrl", "c")
+#     time.sleep(1)
+
+#     return pyperclip.paste()
+
+
+# def copy_source_code() -> str:
+#     """Open Edge's View Source tab and copy the HTML source."""
+#     pyautogui.hotkey("ctrl", "u")
+#     time.sleep(2)
+
+#     # Clear the clipboard first.
+#     pyperclip.copy("")
+
+#     # Select all source code.
+#     pyautogui.hotkey("ctrl", "a")
+#     time.sleep(0.5)
+
+#     # Copy source code.
+#     pyautogui.hotkey("ctrl", "c")
+#     time.sleep(1)
+
+#     return pyperclip.paste()
+
+
+# def main() -> int:
+#     parser = argparse.ArgumentParser(description=__doc__)
+
+#     parser.add_argument(
+#         "url",
+#         help="The http:// or https:// URL to save."
+#     )
+
+#     parser.add_argument(
+#         "--wait",
+#         type=float,
+#         default=10.0,
+#         help="Page-load wait in seconds."
+#     )
+
+#     parser.add_argument(
+#         "--output-dir",
+#         type=Path,
+#         default=Path("html_sources")
+#     )
+
+#     args = parser.parse_args()
+
+#     # ---------------------------------------------------------
+#     # Validate URL
+#     # ---------------------------------------------------------
+
+#     parsed_url = urlparse(args.url)
+
+#     if parsed_url.scheme not in {"http", "https"} or not parsed_url.netloc:
+#         parser.error(
+#             "url must be a complete http:// or https:// URL"
+#         )
+
+#     if args.wait < 0:
+#         parser.error("--wait must be zero or greater")
+
+#     # ---------------------------------------------------------
+#     # Open Microsoft Edge
+#     # ---------------------------------------------------------
+
+#     print("1. Opening Microsoft Edge")
+
+#     pyautogui.press("win")
+#     time.sleep(1)
+
+#     pyautogui.write("edge", interval=0.05)
+#     time.sleep(0.5)
+#     pyautogui.press("enter")
+#     time.sleep(1)
+
+#     # ---------------------------------------------------------
+#     # Enter URL
+#     # ---------------------------------------------------------
+
+#     print("2. Entering the URL in Edge's address bar")
+
+#     pyautogui.hotkey("ctrl", "l")
+#     pyautogui.write(args.url, interval=0.002)
+#     pyautogui.press("enter")
+
+#     # ---------------------------------------------------------
+#     # Wait for page
+#     # ---------------------------------------------------------
+
+#     print(
+#         f"3. Waiting {args.wait:g} seconds for the page to load"
+#     )
+
+#     time.sleep(args.wait)
+
+#     # ---------------------------------------------------------
+#     # FIRST: Copy original webpage text
+#     # ---------------------------------------------------------
+
+#     print(
+#         "4. Copying the original webpage text"
+#     )
+
+#     page_text = copy_page_text()
+
+#     if not page_text.strip():
+#         raise RuntimeError(
+#             "Edge copied no webpage text; the TXT file was not created."
+#         )
+
+#     print(
+#         f"   Copied {len(page_text):,} characters of webpage text"
+#     )
+
+#     # ---------------------------------------------------------
+#     # SECOND: Open View Source and copy HTML
+#     # ---------------------------------------------------------
+
+#     print(
+#         "5. Opening and copying the original HTML source"
+#     )
+
+#     source_code = copy_source_code()
+
+#     if not source_code.strip():
+#         # Close the source tab before raising the error.
+#         pyautogui.hotkey("ctrl", "w")
+
+#         raise RuntimeError(
+#             "Edge copied no source code; the HTML file was not created."
+#         )
+
+#     print(
+#         f"   Copied {len(source_code):,} characters of HTML source"
+#     )
+
+#     # ---------------------------------------------------------
+#     # Create output directory
+#     # ---------------------------------------------------------
+
+#     args.output_dir.mkdir(
+#         parents=True,
+#         exist_ok=True
+#     )
+
+#     # ---------------------------------------------------------
+#     # Generate filenames
+#     # ---------------------------------------------------------
+
+#     txt_path, html_path = output_paths(
+#         args.url,
+#         args.output_dir
+#     )
+
+#     # ---------------------------------------------------------
+#     # Save webpage text FIRST
+#     # ---------------------------------------------------------
+
+#     txt_path.write_text(
+#         page_text,
+#         encoding="utf-8"
+#     )
+
+#     print(f"6. Saved webpage text to {txt_path}")
+
+#     # ---------------------------------------------------------
+#     # Save HTML source SECOND
+#     # ---------------------------------------------------------
+
+#     html_path.write_text(
+#         source_code,
+#         encoding="utf-8"
+#     )
+
+#     print(f"7. Saved HTML source to {html_path}")
+
+#     # ---------------------------------------------------------
+#     # Close source tab
+#     # ---------------------------------------------------------
+
+#     print("8. Closing the View Source tab")
+
+#     pyautogui.hotkey("ctrl", "w")
+#     time.sleep(1)
+
+#     # ---------------------------------------------------------
+#     # Close original webpage
+#     # ---------------------------------------------------------
+
+#     print("9. Closing the original webpage")
+
+#     pyautogui.hotkey("ctrl", "w")
+#     time.sleep(1)
+
+#     print("10. Finished")
+
+#     return 0
+
+
+# if __name__ == "__main__":
+#     raise SystemExit(main())

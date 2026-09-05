@@ -1,0 +1,83 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Wallis Orhard 27JUN19 USPSA 2019-06-27
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Jason Brinkley	100.00%	629.5326	99.54	105.32%	Limited			MAJOR		82	43	1	2		1		
+2-Ryan Alicaya	65.63%	413.1708	128.11	96.46%	Carry Optics			MINOR		79	43	3	3		5		
+3-Alberto Ramirez 1	55.90%	351.8844	199.15	59.03%	Limited			MINOR		82	43	2	1		1		
+4-Jeffrey Polk	53.67%	337.8762	164.90	85.93%	Carry Optics			MINOR		71	52	3	2		2		
+5-John Austria	53.56%	337.1652	150.66	56.63%	Limited		Foreign	MAJOR		68	43	9	8		2		
+6-Bill Kinstley	43.49%	273.7601	248.19	45.96%	Limited			MAJOR		78	42	4	4		3		
+7-Chuck Hain	43.46%	273.5903	204.66	106.67%	PCC			MINOR		84	41	1	2		3		
+8-Karl Pena	43.05%	271.0421	192.49	45.42%	Limited			MINOR		94	26	2	6		3		
+9-Mike Sakach	32.89%	207.0435	256.90	34.69%	Limited		Senior	MINOR		84	39		5		1		
+10-Lauryn Berger	28.24%	177.7613	251.98	29.83%	Limited		Lady	MAJOR		78	28	11	11		9		
+11-Rosalyn Polk 1	14.02%	88.2806	658.26	106.67%	Production			MINOR		74	42	6	6		2		
+12-William Smith	0.00%	0.0000	402.06	0.00%	Open					61	40	12	15		10		
+Name
+1-Jason Brinkley
+2-Ryan Alicaya
+3-Alberto Ramirez 1
+4-Jeffrey Polk
+5-John Austria
+6-Bill Kinstley
+7-Chuck Hain
+8-Karl Pena
+9-Mike Sakach
+10-Lauryn Berger
+11-Rosalyn Polk 1
+12-William Smith
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1 Repeat
+Polk, Rosalyn (1)
+2019-06-28 00:53:07.952 - 2019-06-28 00:53:38.427Edited a few seconds after.Edited rawpts was: 57 now: 60
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 17Added numCharlies: 4Added numDeltas: 3Added stringTime: 135.86Edited By Android Device
+Ramirez, Alberto (1)
+2019-06-28 01:01:22.063 - 2019-06-28 01:01:52.504Edited a few seconds after.Edited rawpts was: 66 now: 68
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 18Added numCharlies: 6Added stringTime: 65.18Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

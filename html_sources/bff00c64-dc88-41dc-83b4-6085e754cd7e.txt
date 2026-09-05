@@ -1,0 +1,689 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+GPS USPSA Extra Saturday August 2026 USPSA 2026-08-29Generation P C
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Albert Montanez	100.00%	731.9111	86.68	105.55%	PCC	G		MINOR	Ty101554	130	23	4			1		
+2-Lee Cardwell	98.18%	718.5680	87.98	103.62%	PCC	M		MINOR	A155173	126	29	2					
+3-Marlo Ralph Migrino 2	96.67%	707.5600	88.94	108.24%	Carry Optics	M		MINOR	A132627	123	31	3					
+4-Bobby Ivester	94.73%	693.3089	91.39	100.04%	PCC	A		MINOR	A101336	128	28	1					
+5-Jim Havens	94.52%	691.7878	90.33	107.15%	Open	M	Senior	MAJOR	a114636	117	37	1	2				
+6-Gil Yolo	92.72%	678.6476	88.85	104.78%	Open			MAJOR	L5228	118	32	5	2		2		
+7-Roger Feng	89.20%	652.8324	91.29	100.15%	Carry Optics	M		MINOR	A157776	115	36	5	1				
+8-David Warren	87.94%	643.6243	96.45	103.81%	Limited Optics	M	Senior	MINOR	Ty40917	127	28	1	1				
+9-Ulrick Fong 2	86.31%	631.6978	99.99	91.04%	PCC	A	Senior	MINOR	A170351	123	32	2					
+10-Phillip Nguyen	86.06%	629.8800	92.06	101.43%	Limited Optics	M		MINOR	Ty152423	122	28	4	3				
+11-James Wong 2	85.85%	628.3307	97.76	101.23%	Limited Optics	A		MINOR	TY162844	128	24	4	1				
+12-John Jung	84.57%	618.9775	99.58	95.14%	Carry Optics	A		MINOR	A152968	119	34	4					
+13-FRANCIS NGUYEN	84.57%	618.9653	99.36	99.65%	Limited Optics	A		MINOR	A169979	111	41	4	1				
+14-Cholai Sioson 4	83.55%	611.5105	99.85	95.06%	Open	B		MAJOR		118	33	4	2		1		
+15-Ryan Jaw	83.20%	608.9185	91.72	93.85%	Open	B		MINOR	Ty142907	116	32	5	4		1		
+16-Brando Padilla	82.91%	606.8323	109.11	87.52%	PCC	A		MINOR	TY152988	134	21	1	1				
+17-Matthew Givens	82.87%	606.5446	105.64	87.56%	PCC	A		MINOR	Ty137686	136	20		1				
+18-Yanlin Xiang	81.85%	599.0332	105.01	96.58%	Limited Optics	A		MINOR	A164967	139	16	1	1		1		
+19-Jose Onia	80.42%	588.6225	98.00	95.01%	Limited Optics	M	Senior	MINOR	A134359	115	36	3	3				
+20-John Ren	78.84%	577.0116	104.99	88.92%	Carry Optics	A		MINOR	A168570	126	25	4	2				
+21-Jorge Cahas	78.40%	573.8393	107.63	89.65%	Open		Senior	MAJOR	F-44522	96	55	5	1				
+22-Ross Winningham	78.32%	573.1987	97.71	82.67%	PCC	U		MINOR	A159283	110	38	6	3				
+23-Coder W	77.44%	566.7723	106.34	81.75%	PCC	A		MINOR	A178525	119	33	4	1				
+24-Adriel Taylor	76.85%	562.4758	107.99	86.66%	Carry Optics	C		MINOR	A104321	114	36	7					
+25-Leo Garra	76.52%	560.0786	108.01	87.22%	Open	A		MAJOR	A104164	116	35	3	3		1		
+26-Wade Pruetz	75.71%	554.1237	99.22	89.33%	Limited Optics	U	Senior	MINOR	A79055	112	33	9	3		1		
+27-Paul Torre	75.58%	553.2125	97.76	84.77%	Carry Optics	A	Law Enforcement	MINOR	TY88028	116	31	5	5			1	
+28-Alex Goben	75.09%	549.5718	109.25	84.01%	Carry Optics	A		MINOR	L5929	136	18		3		2		
+29-Andre Wijaya	74.93%	548.4342	112.25	85.11%	Open	B		MINOR	A175473	123	31	3			1		
+30-Pocholo Dimayuga	74.25%	543.4500	109.16	83.42%	Carry Optics	B		MINOR	A106236	120	32	3	2				
+31-Jason Hoang	74.01%	541.6774	105.26	87.30%	Limited Optics	C		MINOR	TY164936	106	44	6	1		1		
+32-Jack Liu	72.67%	531.8734	104.72	76.83%	PCC	M	Law Enforcement	MINOR	L6156	113	39		5				
+33-TJ Middleton	72.51%	530.7166	111.36	76.60%	PCC	B		MINOR	TY171913	105	48	4					
+34-Evan Benavides	72.10%	527.6860	116.05	80.77%	Carry Optics	B		MINOR	A185420	125	30	1	1		1		
+35-Doug Joder	71.20%	521.1014	124.17	75.16%	PCC	B		MINOR	A115020	132	25						
+36-Jake Honeycutt	70.64%	517.0055	100.83	79.71%	Carry Optics	B		MINOR		100	47	6	4		1		
+37-Paul Beavers	70.26%	514.2592	115.12	112.14%	Limited	B		MINOR	A123776	115	36	4	2				
+38-Jason Wells	69.50%	508.7049	111.93	106.72%	Single Stack	A		MINOR	L5218	118	30	6	3			1	
+39-Manny Nerona	66.99%	490.3359	119.95	79.32%	Limited Optics	B		MINOR	A69445	128	20	5	4				
+40-Claude Chew	64.61%	472.8811	115.39	101.52%	Single Stack	A		MINOR	TY143380	111	38	3	5				
+41-Luke Kwan 1	64.44%	471.6698	120.94	73.13%	Open	C		MINOR	A152338	111	42	2	2		1		
+42-chris bulkley 2	63.12%	461.9953	132.50	70.94%	Carry Optics	B		MINOR	A159469	125	28	3	1				
+43-Markho Babasoro	62.81%	459.6919	116.15	73.98%	Limited Optics	B		MINOR	A174757	110	35	8	4		1		
+44-Steven McNamara	61.45%	449.7417	137.56	72.63%	Limited Optics	B	Senior	MINOR	A75212	129	25	1	2		1		
+45-Jason Wilson	61.41%	449.4782	118.55	112.14%	Production	M		MINOR	A94696	116	32	2	7				
+46-Josh Carter	60.95%	446.1325	145.59	71.95%	Limited Optics	U		MINOR	A170412	142	14		1		1		
+47-Michael Pontious	60.95%	446.1318	127.14	71.92%	Limited Optics	B	Super Senior	MINOR	A94575	111	38	5	3				
+48-Abrahan Figueroa	60.63%	443.7920	135.23	71.57%	Limited Optics	C	Senior	MINOR	TY54053	130	22	2	3				
+49-Daniel Zengerle	60.17%	440.4244	141.54	71.14%	Limited Optics	C	Distinguished Senior	MINOR	A160569	128	27	1	1				
+50-Robert Gomez	59.54%	435.7848	112.18	70.05%	Limited Optics	B		MINOR	TY163660	124	19	4	10		1		
+51-James Tonkinson	58.43%	427.6598	135.57	69.05%	Limited Optics	X	Super Senior	MINOR	U	121	31	1	4				
+52-Gennady Khokhorin	58.15%	425.6199	143.68	68.73%	Limited Optics	U	Super Senior	MINOR	A123884	127	27	1	2				
+53-Steven McKinney	57.25%	419.0342	123.14	67.53%	Limited Optics	C		MINOR	A104027	112	34	4	7		1	1	
+54-Robert Bui	55.60%	406.9753	128.49	62.65%	Carry Optics	B	Senior	MINOR	A103016	100	42	11	4				
+55-Cliff Pinsent	53.78%	393.6432	147.32	63.32%	Limited Optics	B	Distinguished Senior	MINOR	FY99321	125	25	2	5				
+56-Carol Warren	53.01%	388.0220	160.87	55.97%	PCC	C	Lady, Senior	MINOR	TY40918	135	19	1	2				
+57-Jeremiah Hunt	52.85%	386.8366	101.43	60.54%	Open	B		MAJOR	A148592	74	56	13	14			3	
+58-Taylor Latham	52.41%	383.5737	160.12	84.72%	Limited	B	Senior, Super Senior	MINOR	TY39841	129	24	2	2				
+59-Jeannie Marrone	52.39%	383.4505	168.80	59.80%	Open	C	Lady, Super Senior	MAJOR	A133357	134	20	2	1				
+60-Grant Tucek	51.72%	378.5543	163.29	58.33%	Carry Optics	U		MINOR	A162865	120	36		1				
+61-Carlos Escandon	51.16%	374.4311	164.01	111.80%	Limited 10	B	Distinguished Senior	MAJOR	L2590	111	40	3	3				
+62-Jeremiah Chew	50.98%	373.1434	150.24	57.38%	Carry Optics	C	Junior	MINOR	A157095	129	21		7		2	2	
+63-Chris Ballard	50.96%	372.9820	159.34	60.27%	Limited Optics	C		MINOR	A178189	119	33	4	1		1		
+64-Jeff Maxwell, Jr. 1	50.56%	370.0532	153.65	56.86%	Carry Optics	B	Senior	MINOR	L4489	126	24	3	4			1	
+65-Alex Johnston	50.54%	369.9141	158.00	59.31%	Limited Optics	U	Law Enforcement	MINOR	A165101	141	10	2	4		2	2	
+66-joel broughton	50.05%	366.2989	167.63	59.18%	Limited Optics	C	Super Senior	MINOR	A83418	132	22	2	1		2		
+67-Joseph Reyes	49.80%	364.4707	178.18	58.83%	Limited Optics	C	Distinguished Senior	MINOR	A127665	134	21	2					
+68-Shane Roberts	49.30%	360.8029	149.13	58.20%	Limited Optics	U		MINOR	A175574	127	22	3	5		3	1	
+69-Jonathan Yanbao Bousquet	49.04%	358.9029	157.65	57.94%	Limited Optics	B		MINOR	A185757	127	22	3	5		1	1	
+70-Rick Russek	48.84%	357.4370	164.38	57.75%	Limited Optics	C	Senior	MINOR	A166874	126	26	2	3				
+71-John McAtee	48.47%	354.7276	159.41	54.56%	Carry Optics	U	Law Enforcement	MINOR	A178510	132	19	2	4		1	2	
+72-Ross Pimentel	48.07%	351.8156	128.09	56.60%	Limited Optics	C	Senior	MINOR	A157753	79	55	17	6				
+73-Billy Swift	44.02%	322.1945	193.86	51.97%	Limited Optics	U	Senior	MINOR	a47465	145	7	2	3		1		
+74-Richard Dillow	44.01%	322.1239	196.69	50.27%	Open	C	Distinguished Senior	MAJOR	TY57446	124	27	4	2				
+75-Sonny Somera	43.31%	316.9763	185.01	48.72%	Carry Optics	C		MINOR	A118611	115	33	8	1				
+76-Joseph Giron	40.99%	300.0087	155.97	48.28%	Limited Optics	U	Law Enforcement	MINOR	a83387	98	37	15	7		1	1	
+77-Xinyi Gong	40.56%	296.8928	176.94	45.89%	Carry Optics	U		MINOR	A186276	122	26	3	6		1	1	
+78-Garrett Mueller	40.11%	293.5775	176.45	45.19%	Carry Optics	U		MINOR	A186970	104	40	9	4			1	
+79-Dale Hamm	39.47%	288.8957	200.12	72.93%	Production	D	Super Senior	MINOR	TY97196	114	38	2	3				
+80-Dan Schreiber	39.44%	288.6522	207.04	63.00%	Single Stack	C	Super Senior	MAJOR	A147899	112	35	6	4				
+81-Kit Bong Morales	37.00%	270.7726	167.04	43.82%	Limited Optics	C	Senior	MINOR	A57907	110	32	5	10		3	1	
+82-Jarvis Gibson	35.35%	258.7234	203.86	41.91%	Limited Optics	U	Military	MINOR	A186243	128	23		6		1	2	
+83-George Byrd	34.68%	253.8160	239.05	40.82%	Limited Optics	C	Distinguished Senior	MINOR	A84906	131	20	4	2			1	
+84-Scott McNeil	34.29%	250.9593	238.70	77.64%	Limited 10	D	Senior	MINOR	A183113	129	26		2			1	
+85-Garth Plyler 2	31.73%	232.2562	174.42	58.47%	Production	U		MINOR	a174944	101	35	9	12		1	1	
+Name
+1-Albert Montanez
+2-Lee Cardwell
+3-Marlo Ralph Migrino 2
+4-Bobby Ivester
+5-Jim Havens
+6-Gil Yolo
+7-Roger Feng
+8-David Warren
+9-Ulrick Fong 2
+10-Phillip Nguyen
+11-James Wong 2
+12-John Jung
+13-FRANCIS NGUYEN
+14-Cholai Sioson 4
+15-Ryan Jaw
+16-Brando Padilla
+17-Matthew Givens
+18-Yanlin Xiang
+19-Jose Onia
+20-John Ren
+21-Jorge Cahas
+22-Ross Winningham
+23-Coder W
+24-Adriel Taylor
+25-Leo Garra
+26-Wade Pruetz
+27-Paul Torre
+28-Alex Goben
+29-Andre Wijaya
+30-Pocholo Dimayuga
+31-Jason Hoang
+32-Jack Liu
+33-TJ Middleton
+34-Evan Benavides
+35-Doug Joder
+36-Jake Honeycutt
+37-Paul Beavers
+38-Jason Wells
+39-Manny Nerona
+40-Claude Chew
+41-Luke Kwan 1
+42-chris bulkley 2
+43-Markho Babasoro
+44-Steven McNamara
+45-Jason Wilson
+46-Josh Carter
+47-Michael Pontious
+48-Abrahan Figueroa
+49-Daniel Zengerle
+50-Robert Gomez
+51-James Tonkinson
+52-Gennady Khokhorin
+53-Steven McKinney
+54-Robert Bui
+55-Cliff Pinsent
+56-Carol Warren
+57-Jeremiah Hunt
+58-Taylor Latham
+59-Jeannie Marrone
+60-Grant Tucek
+61-Carlos Escandon
+62-Jeremiah Chew
+63-Chris Ballard
+64-Jeff Maxwell, Jr. 1
+65-Alex Johnston
+66-joel broughton
+67-Joseph Reyes
+68-Shane Roberts
+69-Jonathan Yanbao Bousquet
+70-Rick Russek
+71-John McAtee
+72-Ross Pimentel
+73-Billy Swift
+74-Richard Dillow
+75-Sonny Somera
+76-Joseph Giron
+77-Xinyi Gong
+78-Garrett Mueller
+79-Dale Hamm
+80-Dan Schreiber
+81-Kit Bong Morales
+82-Jarvis Gibson
+83-George Byrd
+84-Scott McNeil
+85-Garth Plyler 2
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Bay 5
+Sioson, Cholai (2)
+2026-08-29 14:46:09.277 - 2026-08-29 14:59:54.227Edited 14 minutes after.Edited rawpts was: 5 now: 101Edited str,0 was: 0 now: 13.76
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Shooter Migrino, Marlo Ralph (CO/Min) now: 2.57,2.75,3.26,3.47,3.94,5.14,5.30,7.44,7.83,8.12,8.59,8.98,9.34,9.54,10.16,10.51,10.67,11.47,11.64,12.71,13.05,13.56,13.76;AMG 61D6Edited meta,0,t was: 2026-08-29 14:46:09.277 now: 2026-08-29 14:59:30.001Added aprv: trueAdded details: [object Object]Added numAlphas: 18Added numCharlies: 4Added stringTime: 13.76Edited By STAGE 62026-08-29 14:44:41.662 - 2026-08-29 14:46:09.277Edited a minute after.Edited rawpts was: 100 now: 5Edited str,0 was: 16.27 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.69,2.14,2.73,3.15,3.49,3.91,4.29,5.71,5.86,6.17,6.35,6.84,7.44,8.63,8.76,10.84,11.04,11.79,12.02,13.91,14.09,16.27;AMG 61D6 now: Moved to Shooter Migrino, Marlo Ralph (CO/Min)Edited meta,0,t was: 2026-08-29 14:44:08.758 now: 2026-08-29 14:46:09.277Removed aprv: trueEdited By STAGE 6
+Plyler, Garth (1)
+2026-08-29 16:01:23.640 - 2026-08-29 16:01:52.101Edited a few seconds after.Edited rawpts was: 83 now: 86
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 14Added numCharlies: 7Added numM: 1Added stringTime: 31.46Edited By STAGE 2
+Bay 7
+Qian, Stormtrooper (1)
+2026-08-29 15:28:02.183 - 2026-08-29 15:29:19.204Edited a minute after.Edited rawpts was: 114 now: 20Edited str,0 was: 23.2 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 6.89,7.10,7.50,7.66,8.51,8.85,9.46,10.17,10.62,12.91,13.12,14.06,14.90,15.44,15.75,16.34,16.50,19.29,19.50,20.02,20.30,22.18,22.75,23.20;AMG 5DC5 now: Moved to Shooter Ren, John (CO/Min)Edited meta,0,t was: 2026-08-29 15:27:19.876 now: 2026-08-29 15:29:19.204Removed aprv: trueAdded numAlphas: 4Edited By Stage 5
+bulkley, chris (2)
+2026-08-29 15:37:19.172 - 2026-08-29 15:41:14.836Edited 4 minutes after.Edited rawpts was: 20 now: 112Edited str,0 was: 0 now: 26.35
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Shooter Ballard, Chris (LO/Min) now: 5.23,5.47,5.94,6.30,7.26,7.92,8.66,9.98,10.47,10.99,13.27,13.50,14.11,14.35,14.58,15.47,15.84,16.62,19.87,20.24,20.93,21.30,23.33,23.82,24.38,25.05,25.71,26.35;AMG 5DC5Edited meta,0,t was: 2026-08-29 15:37:19.172 now: 2026-08-29 15:40:43.835Added aprv: trueAdded details: [object Object]Added numAlphas: 24Added numCharlies: 4Added stringTime: 26.35Edited By Stage 52026-08-29 15:35:42.163 - 2026-08-29 15:37:19.172Edited 2 minutes after.Edited rawpts was: 112 now: 20Edited str,0 was: 31.29 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 5.11,5.45,6.18,6.54,8.40,8.88,9.60,10.67,11.30,12.46,13.00,16.02,16.55,16.91,17.75,18.45,19.18,20.11,20.48,21.55,22.05,25.61,25.95,26.78,27.17,28.05,28.62,29.76,30.81,31.29;AMG 5DC5 now: Moved to Shooter Ballard, Chris (LO/Min)Edited meta,0,t was: 2026-08-29 15:35:00.327 now: 2026-08-29 15:37:19.172Removed aprv: trueEdited By Stage 5
+Plyler, Garth (1)
+2026-08-29 17:03:25.313 - 2026-08-29 17:03:49.327Edited a few seconds after.Edited popm was: 0 now: 1Edited poph was: 4 now: 3Edited rawpts was: 94 now: 89Added details: [object Object]Added numAlphas: 19Added numCharlies: 3Added numM: 6Added numProc: 1Added stringTime: 27.2Edited By STAGE 2
+Kwan, Luke (1)
+2026-08-29 14:45:37.905 - 2026-08-29 14:46:01.461Edited a few seconds after.Edited rawpts was: 103 now: 108
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 22Added numCharlies: 6Added stringTime: 24.75Edited By STAGE 11
+Maxwell, Jr., Jeff (1)
+2026-08-29 14:49:58.552 - 2026-08-29 14:52:24.169Edited 2 minutes after.Added proc: 1Added details: [object Object]Added numAlphas: 24Added numCharlies: 2Added numM: 2Added numProc: 1Added stringTime: 27.34Edited By STAGE 11
+Bay 8
+Migrino, Marlo Ralph (2)
+2026-08-29 16:51:55.708 - 2026-08-29 16:54:01.353Edited 2 minutes after.Edited str,0 was: 0 now: 13.12
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 128Added aprv: trueAdded details: [object Object]Added numAlphas: 20Added numCharlies: 9Added numDeltas: 1Added stringTime: 13.12Edited By STAGE 62026-08-29 16:28:34.750 - 2026-08-29 16:51:55.708Edited 23 minutes after.Removed rawpts: 136Edited str,0 was: 9.04 now: 0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 2.73,4.20,4.35,4.50,4.76,4.91,5.08,6.54,6.77,6.98,7.68,8.01,8.34,8.69,8.88,9.04;AMG 61D6 now: ReshootEdited meta,0,t was: 2026-08-29 16:25:55.067 now: 2026-08-29 16:51:55.708Removed aprv: trueEdited By STAGE 6
+Bay 9
+Sioson, Cholai (2)
+2026-08-29 17:23:10.277 - 2026-08-29 17:26:53.836Edited 4 minutes after.Edited str,0 was: 0 now: 15.46
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Shooter Onia, Jose (LO/Min/S) now: 1.80,2.20,2.83,2.99,3.19,3.39,6.78,7.06,7.39,7.55,9.93,10.24,10.72,10.98,11.32,12.09,12.26,12.68,12.95,13.40,13.62,14.04,14.29,15.04,15.46;AMG 61D6Edited meta,0,t was: 2026-08-29 17:23:10.277 now: 2026-08-29 17:26:19.181Added rawpts: 113Added aprv: trueAdded details: [object Object]Added numAlphas: 19Added numCharlies: 4Added numDeltas: 1Added stringTime: 15.46Edited By STAGE 62026-08-29 17:08:25.185 - 2026-08-29 17:23:10.277Edited 15 minutes after.Removed rawpts: 115Edited str,0 was: 16 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Onia, Jose (LO/Min/S)Edited By STAGE 6
+Wong, James (2)
+2026-08-29 14:04:24.510 - 2026-08-29 14:04:48.165Edited a few seconds after.Edited str,0 was: 0 now: 17.08
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 2.00,2.44,2.94,3.22,3.55,6.35,6.71,7.10,7.26,9.61,9.94,10.48,10.81,11.54,11.96,12.46,12.80,13.23,13.53,13.91,14.16,16.07,16.59,17.08;AMG 84FBEdited meta,0,t was: 2026-08-29 14:04:24.510 now: 2026-08-29 14:04:30.421Added rawpts: 110Added aprv: trueAdded details: [object Object]Added numAlphas: 20Added numCharlies: 3Added numDeltas: 1Added stringTime: 17.08Edited By STAGE 12026-08-29 13:42:25.815 - 2026-08-29 14:04:24.510Edited 22 minutes after.Removed rawpts: 103Edited str,0 was: 16.2 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.72,2.16,2.76,3.04,3.35,6.30,6.67,7.04,7.24,9.34,9.65,10.08,10.38,10.59,11.39,11.80,12.14,12.79,13.08,13.52,13.83,14.20,14.42,15.26,15.74,16.20;AMG 84FB now: ReshootEdited meta,0,t was: 2026-08-29 13:41:47.956 now: 2026-08-29 14:04:24.510Removed aprv: trueEdited By STAGE 1
+Fong, Ulrick (2)
+2026-08-29 14:03:27.388 - 2026-08-29 14:03:50.429Edited a few seconds after.Edited str,0 was: 0 now: 15.85
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 1.30,1.51,3.30,3.54,6.99,7.19,8.89,9.22,10.57,10.77,11.01,12.79,12.97,13.44,13.68,13.85,14.31,14.50,15.28,15.62,15.85;AMG 84FBEdited meta,0,t was: 2026-08-29 14:03:27.388 now: 2026-08-29 14:03:41.499Added rawpts: 108Added aprv: trueAdded details: [object Object]Added numAlphas: 19Added numCharlies: 4Added numDeltas: 1Added stringTime: 15.85Edited By STAGE 12026-08-29 14:03:12.906 - 2026-08-29 14:03:27.388Edited a few seconds after.Removed rawpts: 108Edited str,0 was: 15.85 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.30,1.51,3.30,3.54,6.99,7.19,8.89,9.22,10.57,10.77,11.01,12.79,12.97,13.44,13.68,13.85,14.31,14.50,15.28,15.62,15.85;AMG 84FB now: ReshootEdited meta,0,t was: 2026-08-29 14:02:48.652 now: 2026-08-29 14:03:27.388Removed aprv: trueEdited By STAGE 1
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

@@ -1,0 +1,89 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Wallis Orchard 13JUN19 USPSA/IPSC 2019-06-13
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	P
+1-Jason Brinkley	100.00%	435.0000	71.72	108.75%				MAJOR		62	20	4	1			
+2-Alberto Ramirez	69.84%	303.7926	91.42	75.95%				MINOR		55	25	6	1			
+3-Jim Havens	68.83%	299.4046	108.80	74.85%			Senior	MINOR		71	15	1				
+4-Tony De vega	59.41%	258.4256	86.13	64.61%				MAJOR		52	29	3	3			6
+5-Ryan Alicaya	59.05%	256.8493	106.86	64.21%				MINOR		63	20	1	3		3	
+6-Eman Alcoceba 2	56.63%	246.3250	108.07	61.58%				MAJOR		44	33	6	4			
+7-Jeffrey Polk	43.31%	188.4081	102.39	47.10%				MINOR		46	29	6	6		3	
+8-Bill Kinstley	39.87%	173.4408	123.25	43.36%				MAJOR		45	31	3	8			
+9-Chuck Hain	39.44%	171.5645	141.95	42.89%				MINOR		59	24	1	3		1	1
+10-Lauryn Berger	36.45%	158.5633	125.50	39.64%			Lady	MINOR		40	35	7	5		1	
+11-Herman Waddy	34.52%	150.1539	135.32	37.54%				MINOR		57	21	1	8			
+12-Mike Sakach	32.57%	141.6641	154.77	35.42%			Senior	MINOR		48	31	1	7			
+13-Stanley Mouton	5.15%	22.4173	388.41	5.60%			Senior	MINOR		38	19	9	21			
+14-John Austria	0.00%	0.0000		0.00%				MAJOR		2						
+15-Cliff Mack	0.00%	0.0000		0.00%				MINOR								
+16-Mike Mansilla	0.00%	0.0000		0.00%				MAJOR								
+Name
+1-Jason Brinkley
+2-Alberto Ramirez
+3-Jim Havens
+4-Tony De vega
+5-Ryan Alicaya
+6-Eman Alcoceba 2
+7-Jeffrey Polk
+8-Bill Kinstley
+9-Chuck Hain
+10-Lauryn Berger
+11-Herman Waddy
+12-Mike Sakach
+13-Stanley Mouton
+14-John Austria
+15-Cliff Mack
+16-Mike Mansilla
+Old style results
+
+Score Edit History
+Stage 4
+Alcoceba, Eman (2)
+2019-06-13 23:40:34.871 - 2019-06-13 23:41:50.159Edited a minute after.Edited rawpts was: 55 now: 76
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Removed Reason for Edit Stage editedAdded aprv: trueAdded details: [object Object]Added numAlphas: 8Added numCharlies: 9Added numM: 1Added stringTime: 32.78Edited By Android Device2019-06-13 23:40:11.335 - 2019-06-13 23:40:34.871Edited a few seconds after.ARRAYARRAYARRAYAdded Reason for Edit Stage editedEdited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

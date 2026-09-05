@@ -1,0 +1,207 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BAPS USPSA June USPSA/IPSC 2018-06-16
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Wade Pruetz 1	100.00%	523.0691	70.48	89.33%	PCC	M		MINOR	A79055	88	19	4	2		1		
+2-Garry Newton	87.54%	457.9096	95.79	78.40%	PCC	B		MINOR	A79434	99	13	1					
+3-Matt Lem	76.06%	397.8681	100.34	91.80%	Single Stack	A		MAJOR	TY34763	93	16	1	3		1		
+4-Eric Castillo	74.87%	391.6178	102.74	94.17%	Carry Optics	M		MINOR	A87497	96	14	2	1		1		
+5-Albert Calderon	69.81%	365.1560	96.88	87.55%	Open	B		MAJOR	A74722	75	28	3	5		2		
+6-Mike Junco	69.10%	361.4359	97.27	82.21%	Production	U		MINOR	A107182	86	18	4	4		2		
+7-Cecil Olmstead	64.51%	337.4441	132.37	57.69%	PCC	B	Super Senior	MINOR	L3738	103	10						
+8-Michael Sambasile	63.47%	332.0100	120.56	82.49%	Open	C	Super Senior	MAJOR	TY47665	80	27	2	2				
+9-Tony Phan	62.88%	328.8975	120.00	94.17%	Revolver	A		MINOR	FY11963	93	18		2		2		
+10-Danny Naramore	59.42%	310.8296	130.81	53.17%	PCC	B		MINOR	TY96553	92	6	2	13				
+11-Jim Duncan	59.26%	309.9968	128.24	73.70%	Production	B	Senior	MINOR	TY33325	106	3	1	3				
+12-Deryle Lowery	59.07%	308.9535	112.00	74.08%	Production	B		MINOR	L2881	91	13	4	4		1		
+13-Jacob Robbins	58.52%	306.0786	117.58	70.48%	Production	B		MINOR	TY100679	98	12		3		5		
+14-Jay Bennett 2	58.11%	303.9369	124.78	94.17%	Limited 10	B	Senior	MAJOR	A77156	93	13	6	1		4	2	
+15-Pat Byrne	56.49%	295.4735	129.25	68.69%	Production	U		MINOR	TY93921	102	9		2		3		
+16-Robert Hollier 1	54.54%	285.2716	130.73	69.89%	Single Stack	C	Senior	MINOR	FY24941	98	11	2	2		2		
+17-John Stokes	53.27%	278.6632	151.81	65.51%	Production	U		MINOR		104	6	2	1		1		
+18-Mike Kahl	51.74%	270.6398	127.26	65.02%	Production	B		MINOR	TY70984	95	12	2	4		2		
+19-Terry Price	40.61%	212.4381	178.84	48.28%	Production	D	Super Senior, Military	MINOR	A94118	97	9	2	4		1	1	
+20-Andrew Whitley	39.80%	208.1939	146.41	49.24%	Production	U		MINOR	TY106649	93	10	3	7		5		
+21-Shane Richard 2	37.97%	198.6194	149.51	50.09%	Carry Optics	U		MINOR	P	88	15	3	7		4		
+22-Richard Dillow 1	37.40%	195.6376	144.80	48.51%	Production	C	Senior	MINOR	FY57446	87	16	4	6		2	2	
+23-Adam Post	36.38%	190.2771	151.23	42.64%	Single Stack	C		MINOR	A83655	87	10	8	7		4		
+24-Bill Kinstley	34.73%	181.6701	169.28	71.63%	Limited	C		MAJOR	A104836	84	21	2	6		4	2	
+25-Lawney Morales 1	31.49%	164.7087	174.29	70.98%	Limited	D		MINOR	TY75143	85	20	1	7		3		
+26-James Parker	26.73%	139.7951	323.28	55.18%	Limited	U		MAJOR	PEN	95	12	3	3		4		
+27-Herman Waddy	26.27%	137.4020	148.76	33.13%	Production	C		MINOR	A101165	69	26	8	10		4		
+28-John Nash	2.76%	14.4475	647.64	3.24%	Production	U		MINOR	17	59	22	10	22		5		
+Name
+1-Wade Pruetz 1
+2-Garry Newton
+3-Matt Lem
+4-Eric Castillo
+5-Albert Calderon
+6-Mike Junco
+7-Cecil Olmstead
+8-Michael Sambasile
+9-Tony Phan
+10-Danny Naramore
+11-Jim Duncan
+12-Deryle Lowery
+13-Jacob Robbins
+14-Jay Bennett 2
+15-Pat Byrne
+16-Robert Hollier 1
+17-John Stokes
+18-Mike Kahl
+19-Terry Price
+20-Andrew Whitley
+21-Shane Richard 2
+22-Richard Dillow 1
+23-Adam Post
+24-Bill Kinstley
+25-Lawney Morales 1
+26-James Parker
+27-Herman Waddy
+28-John Nash
+Old style results
+
+Score Edit History
+Red
+Morales, Lawney (1)
+2018-06-16 14:58:46.247 - 2018-06-16 15:09:54.029Edited 11 minutes after.Edited poph was: 5 now: 4Edited aprv was: false now: trueEdited str,0 was: 0 now: 16.89Edited popm was: 0 now: 1
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+Added details: [object Object]Added numAlphas: 12Added numCharlies: 4Added numNS: 1Added numM: 2Added stringTime: 16.89Edited By Baps-Squad5
+Yellow
+Richard, Shane (2)
+2018-06-16 15:27:01.092 - 2018-06-16 15:33:53.710Edited 7 minutes after.Edited str,0 was: 0 now: 37.13
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+Added details: [object Object]Added numAlphas: 18Added numCharlies: 4Added numDeltas: 2Added numM: 2Added stringTime: 37.13Edited By Baps-Squad 62018-06-16 15:21:00.175 - 2018-06-16 15:27:01.092Edited 6 minutes after.Edited aprv was: true now: falseEdited str,0 was: 46.97 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited By Baps-Squad 6
+Blue
+Bennett, Jay (1)
+2018-06-16 14:51:18.909 - 2018-06-16 14:52:34.078Edited a minute after.Edited aprv was: false now: true
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+Added details: [object Object]Added numAlphas: 34Added numCharlies: 6Added numNS: 1Added stringTime: 26.38Edited By Baps-Squad 2
+Green
+Dillow, Richard (1)
+2018-06-16 16:26:52.593 - 2018-06-16 16:42:29.962Edited 16 minutes after.Edited str,0 was: 22.84 now: 18.19
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	2	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	1	1	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	1	0	0	1	0
+Added details: [object Object]Added numAlphas: 21Added numCharlies: 2Added numM: 1Added stringTime: 18.19Edited By Baps-Squad 6
+Bennett, Jay (1)
+2018-06-16 15:09:20.538 - 2018-06-16 15:10:49.137Edited a minute after.Edited proc was: 1 now: 2Added details: [object Object]Added numAlphas: 22Added numCharlies: 2Added numNS: 3Added numProc: 2Added stringTime: 17.5Edited By Baps-Squad 2
+Cm 99-24
+Hollier, Robert (1)
+2018-06-16 15:49:34.308 - 2018-06-16 15:55:28.503Edited 6 minutes after.Edited aprv was: false now: trueEdited str,1 was: 0 now: 4.86Edited str,0 was: 0 now: 5.14
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 8Added numCharlies: 3Added numNS: 1Added numM: 1Added stringTime: 10Edited By Baps-Squad 1
+Pruetz, Wade (1)
+2018-06-16 15:50:35.222 - 2018-06-16 15:57:30.372Edited 7 minutes after.Edited aprv was: false now: trueEdited str,1 was: 0 now: 2.2Edited str,0 was: 0 now: 2.28
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	2	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 6Added numCharlies: 3Added numDeltas: 2Added numNS: 1Added numM: 1Added stringTime: 4.48Edited By Baps-Squad 1
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

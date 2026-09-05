@@ -1,0 +1,482 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BAPS USPSA February 2023 USPSA 2023-02-18
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Chris Snow	100.00%	542.6426	56.80	91.24%	Open	M		MAJOR	TY107262	77	28	6	3				
+2-August Balagtas	94.63%	513.5122	62.80	86.40%	Open	M		MAJOR	L3674	82	26	5	1				
+3-Albert Montanez	94.21%	511.2479	64.18	95.00%	PCC	M		MINOR	TY101554	91	20	3					
+4-Wade Pruetz	93.38%	506.7062	61.94	85.34%	Open	U		MAJOR		68	42	3	1				
+5-Corey Slifko 2	92.40%	501.4087	60.78	84.38%	Open	U		MAJOR		76	30	5	3				
+6-Ralph Migrino	92.13%	499.9492	67.82	88.96%	Carry Optics	U		MINOR		101	13					1	
+7-Paul Felker	92.01%	499.2659	62.61	88.83%	Carry Optics	M		MINOR	TY107123	87	23	3	1				
+8-Travis McKenzie	80.92%	439.0793	67.32	78.38%	Carry Optics	A		MINOR	TY139201	91	19	1	3			1	
+9-Mike Junco 1	80.80%	438.4367	65.16	78.31%	Carry Optics	M	Senior, Law Enforcement	MINOR	TY34819	82	26	3	3			1	
+10-Randy Goodney	79.85%	433.2791	73.28	72.99%	Open	A	Senior	MAJOR	A94852	78	31	3	2				
+11-Chev Jacot	78.95%	428.3936	82.28	72.14%	Open	B		MAJOR	TY72378	94	18	2					
+12-James Havens 1	75.92%	411.9632	60.12	73.64%	Carry Optics	U		MINOR		77	23	8	6				
+13-Jonathan Warrender 1	75.38%	409.0429	82.04	72.59%	Carry Optics	B		MINOR	TY86145	103	10		1				
+14-Chez Chike-Udenze	74.23%	402.7955	71.50	67.65%	Open	A		MAJOR	A138598	82	24	3	5			1	
+15-Mark Hopmann 1	73.98%	401.4584	80.09	75.09%	PCC	B		MINOR	TY134553	96	14	2	2				
+16-Jerry Bedro	73.75%	400.1844	81.94	67.36%	Open	X		MAJOR	A98263	85	23	5	1				
+17-Gerrit Milks	72.84%	395.2478	85.22	73.86%	PCC	A	Super Senior	MINOR	A67608	101	11	1	1				
+18-Steven McNamara	72.73%	394.6487	94.11	66.52%	Open	B	Senior	MAJOR	A75212	100	13	1					
+19-Andrew Whitley	72.51%	393.4513	74.32	66.08%	Open	A		MAJOR	TY106649	83	19	7	5				
+20-Micheal Whitley	71.63%	388.7181	70.34	69.19%	Carry Optics	A		MINOR	A111091	79	26	6	3		2		
+21-Robert Layton	71.35%	387.1573	87.18	68.55%	Carry Optics	B	Law Enforcement	MINOR	TY143915	103	10		1				
+22-Chris Nagala	71.32%	386.9895	86.68	65.14%	Open	B		MAJOR	TY97712	92	18	1	1				
+23-Doug Dillon	71.17%	386.1851	80.41	68.23%	Carry Optics	B	Law Enforcement	MINOR	A71359	92	18	1	2		1		
+24-Tony Phan	71.07%	385.6666	85.44	68.70%	Carry Optics	A	Law Enforcement	MINOR	FY11963	93	19	2					
+25-Alex Goben	71.00%	385.2567	79.29	68.31%	Carry Optics	A		MINOR	A86498	93	17	2	2		1		
+26-Arnold Gee	70.85%	384.4706	79.50	64.61%	Open	B		MAJOR	TY103519	82	26	3	3		1		
+27-Matt Lem 1	70.84%	384.4011	74.35	68.72%	Carry Optics	M		MINOR	FY34763	82	25	3	4				
+28-Dave Campbell	70.72%	383.7699	83.82	64.58%	Open	U		MAJOR	NONE	85	21	7	1				
+29-Brian Whelihan	70.59%	383.0757	87.17	64.58%	Open	A	Senior	MINOR	TY40226	100	13	1			2		
+30-Roman Gwiscz	70.51%	382.6402	74.44	67.85%	Carry Optics	U		MINOR		85	20	5	3			1	
+31-Nick Milks	70.29%	381.3968	79.63	69.35%	PCC	U		MINOR		85	23	4	2			1	
+32-Andrew Orozco 1	68.49%	371.6438	87.75	66.15%	Carry Optics	B		MINOR	A135730	91	19	4					
+33-Gary Wu	64.54%	350.2137	81.88	62.42%	Carry Optics	B		MINOR	L2998	77	32	2	3				
+34-Tom Donahue	64.07%	347.6802	86.78	65.52%	PCC	U		MINOR		85	19	5	2				
+35-James Glennie	63.13%	342.5479	114.43	57.71%	Open	U	Senior	MINOR	TY117513	91	19		4				
+36-Zachary Ralston	62.52%	339.2601	76.22	60.02%	Carry Optics	B		MINOR		83	17	7	7			1	
+37-Bruce Meuth	62.21%	337.5533	96.57	86.50%	Limited	B	Senior	MAJOR	TY87524	83	26	4	1				
+38-Mike Pontious	61.41%	333.2280	87.82	59.26%	Carry Optics	B	Senior	MINOR	FY94575	85	24	2	3		1		
+39-Mike Kahl	60.96%	330.7944	92.17	59.44%	Carry Optics	B	Super Senior	MINOR	A70984	92	15	4	3			1	
+40-Adam Delcampo	60.94%	330.7008	93.33	55.73%	Open	U		MINOR	U	96	14	1	3				
+41-Marlon Poralan 1	60.63%	328.9806	83.27	55.24%	Open	D		MAJOR		79	22	8	5				
+42-Detlef Hohl 1	59.36%	322.1167	93.77	95.00%	Production	A		MINOR	L3462	79	30	4	1				
+43-Glenn Cunningham 2	58.88%	319.4943	95.88	59.45%	PCC	C	Super Senior	MINOR	A78280	99	12		3		1		
+44-Robert Hollier	57.69%	313.0259	100.69	80.54%	Limited	U	Super Senior	MAJOR	FY24941	81	27	2	2				
+45-Vanessa Wiegand 1	55.04%	298.6626	82.51	53.20%	Carry Optics	C		MINOR	A141490	72	34	3	5			1	
+46-Adam Bandiera	54.81%	297.4210	110.38	53.14%	Carry Optics	U		MINOR		100	11	1	2				
+47-Jerry McClain 1	54.03%	293.2076	112.53	73.98%	Limited	B		MAJOR	TY48726	80	26	3	5				
+48-Edsel Esquivel	53.44%	289.9788	91.66	48.76%	Open	U		MINOR		84	16	9	5		1		
+49-Jeff Maxwell	53.19%	288.6314	109.50	51.46%	Carry Optics	C	Senior	MINOR	L4489	91	16	2	1				
+50-Kristen Day	51.76%	280.8740	109.39	72.64%	Limited	C	Lady	MINOR	TY121933	82	26	4	1				
+51-Eric Harriman	51.60%	280.0091	120.16	72.67%	Limited	U		MAJOR		95	15	3	1				
+52-Emmanuel Alcoseba 2	49.57%	268.9876	135.43	95.00%	Single Stack	C	Senior	MINOR	TY67519	94	13	2	1				
+53-Kolton Cox 1	47.65%	258.5456	123.75	43.60%	Open			MINOR		78	32	2	2				
+54-Nick Lewin	47.28%	256.5578	103.97	46.48%	Carry Optics	U	Law Enforcement	MINOR		91	14	1	6			1	
+55-Joe Pinkley	43.88%	238.1376	116.51	42.87%	Carry Optics	U		MINOR		94	12	3	5		1		
+56-David Collicott	36.74%	199.3417	153.34	51.15%	Limited	U		MINOR		86	25	1	2				
+57-Richard Dillow	35.89%	194.7302	144.29	35.16%	Carry Optics	C	Super Senior	MINOR	TY57446	74	32	4	4			1	
+58-John Stokes 2	35.24%	191.2193	174.68	49.22%	Limited		Super Senior	MINOR	1030	102	9		1				
+59-Nick Westphal	24.22%	131.4437	192.45	23.69%	Carry Optics	U		MINOR	A145017	79	25	5	5		2		
+60-Angelo Guadalquiver	23.55%	127.8172	169.54	21.57%	Open	U		MAJOR		60	36	7	11		1	2	
+61-Ralph Burbe	16.25%	88.1582	178.96	27.39%	Production	U	Senior	MINOR	A83904	62	28	5	17				
+Name
+1-Chris Snow
+2-August Balagtas
+3-Albert Montanez
+4-Wade Pruetz
+5-Corey Slifko 2
+6-Ralph Migrino
+7-Paul Felker
+8-Travis McKenzie
+9-Mike Junco 1
+10-Randy Goodney
+11-Chev Jacot
+12-James Havens 1
+13-Jonathan Warrender 1
+14-Chez Chike-Udenze
+15-Mark Hopmann 1
+16-Jerry Bedro
+17-Gerrit Milks
+18-Steven McNamara
+19-Andrew Whitley
+20-Micheal Whitley
+21-Robert Layton
+22-Chris Nagala
+23-Doug Dillon
+24-Tony Phan
+25-Alex Goben
+26-Arnold Gee
+27-Matt Lem 1
+28-Dave Campbell
+29-Brian Whelihan
+30-Roman Gwiscz
+31-Nick Milks
+32-Andrew Orozco 1
+33-Gary Wu
+34-Tom Donahue
+35-James Glennie
+36-Zachary Ralston
+37-Bruce Meuth
+38-Mike Pontious
+39-Mike Kahl
+40-Adam Delcampo
+41-Marlon Poralan 1
+42-Detlef Hohl 1
+43-Glenn Cunningham 2
+44-Robert Hollier
+45-Vanessa Wiegand 1
+46-Adam Bandiera
+47-Jerry McClain 1
+48-Edsel Esquivel
+49-Jeff Maxwell
+50-Kristen Day
+51-Eric Harriman
+52-Emmanuel Alcoseba 2
+53-Kolton Cox 1
+54-Nick Lewin
+55-Joe Pinkley
+56-David Collicott
+57-Richard Dillow
+58-John Stokes 2
+59-Nick Westphal
+60-Angelo Guadalquiver
+61-Ralph Burbe
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Orange
+Cox, Kolton (1)
+2023-02-18 17:24:22.639 - 2023-02-18 17:41:20.828Edited 17 minutes after.Removed watchCode:Edited str,0 was: 0 now: 23.4
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 21Added numCharlies: 8Added numM: 1Added stringTime: 23.4Edited By Baps Squad-4
+Wiegand, Vanessa (1)
+2023-02-18 17:26:53.283 - 2023-02-18 17:29:41.052Edited 3 minutes after.Removed watchCode:Edited str,0 was: 0 now: 21.23
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 21Added numCharlies: 7Added numDeltas: 1Added numM: 1Added stringTime: 21.23Edited By Baps Squad-4
+Hopmann, Mark (1)
+2023-02-18 17:29:55.971 - 2023-02-18 17:31:47.019Edited 2 minutes after.Removed watchCode:Edited str,0 was: 0 now: 23.36
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 25Added numCharlies: 4Added numDeltas: 1Added stringTime: 23.36Edited By Baps Squad-4
+Warrender, Jonathan (1)
+2023-02-18 17:49:29.835 - 2023-02-18 17:50:01.827Edited a few seconds after.Edited rawpts was: 115 now: 117
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 26Added numCharlies: 4Added stringTime: 20.31Edited By Android Device
+Havens, James (1)
+2023-02-18 15:14:54.054 - 2023-02-18 15:15:53.157Edited a minute after.Added details: [object Object]Added numAlphas: 22Added numCharlies: 3Added numDeltas: 2Added numM: 3Added stringTime: 15.55Edited By Android Device
+Yellow
+Junco, Mike (1)
+2023-02-18 16:22:55.687 - 2023-02-18 16:43:49.441Edited 21 minutes after.Removed watchCode:Edited str,0 was: 0 now: 8.18
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 15Added numCharlies: 5Added stringTime: 8.18Edited By Baps-Squad 2
+Orozco, Andrew (1)
+2023-02-18 16:37:59.930 - 2023-02-18 16:39:05.604Edited a minute after.Removed watchCode:Edited str,0 was: 0 now: 11.17
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 14Added numCharlies: 5Added numDeltas: 1Added stringTime: 11.17Edited By Baps-Squad 2
+Green
+Lem, Matt (1)
+2023-02-18 17:01:00.488 - 2023-02-18 17:02:56.320Edited 2 minutes after.Removed watchCode:Edited poph was: 4 now: 3Edited popm was: 0 now: 1Added details: [object Object]Added numAlphas: 24Added numCharlies: 5Added numM: 3Added stringTime: 18.41Edited By Baps-Squad 2
+Stokes, John (1)
+2023-02-18 15:03:25.189 - 2023-02-18 15:21:53.010Edited 18 minutes after.Removed watchCode:Edited str,0 was: 28.21 now: 46.63
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 29Added numCharlies: 3Added stringTime: 46.63Edited By Baps Squad-4
+Cunningham, Glenn (1)
+2023-02-18 15:07:59.739 - 2023-02-18 15:24:02.336Edited 16 minutes after.Removed watchCode:Edited str,0 was: 0 now: 25.21
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 30Added numCharlies: 2Added stringTime: 25.21Edited By Baps Squad-4
+Poralan, Marlon (1)
+2023-02-18 17:42:35.915 - 2023-02-18 17:43:08.500Edited a few seconds after.Edited rawpts was: 129 now: 134
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 26Added numCharlies: 6Added stringTime: 20.88Edited By Android Device
+Blue
+Slifko, Corey (2)
+2023-02-18 16:57:00.032 - 2023-02-18 16:57:18.049Edited a few seconds after.Edited rawpts was: 25 now: 63
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited str,0 was: 0 now: 7.84Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Shooter Pruetz, Wade (O/Maj) now: 1.30,1.72,2.21,2.71,3.20,3.56,5.71,5.89,6.37,6.66,6.98,7.15,7.58,7.84;AMG 1ECBEdited meta,0,t was: 2023-02-18 16:57:00.032 now: 2023-02-18 16:57:05.484Added aprv: trueAdded details: [object Object]Added numAlphas: 16Added numCharlies: 2Added stringTime: 7.84Edited By Android Device2023-02-18 16:54:37.949 - 2023-02-18 16:57:00.032Edited 2 minutes after.Edited rawpts was: 63 now: 25Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 9.23 now: 0Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.27,1.98,2.58,2.79,3.15,3.33,3.89,4.16,6.66,7.01,7.07,7.43,7.91,7.96,8.52,8.57,8.92,9.23;AMG 1ECB now: Moved to Shooter Pruetz, Wade (O/Maj)Edited meta,0,t was: 2023-02-18 16:54:11.270 now: 2023-02-18 16:57:00.032Edited By Android Device
+CM 09-12
+McClain, Jerry (1)
+2023-02-18 18:03:42.757 - 2023-02-18 18:04:52.125Edited a minute after.Removed watchCode:Edited str,0 was: 0 now: 3.9
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 9Added numCharlies: 1Added stringTime: 3.9Edited By Baps-Squad 2
+Stokes, John (1)
+2023-02-18 15:56:19.588 - 2023-02-18 15:57:25.137Edited a minute after.Removed watchCode:Edited str,0 was: 0 now: 6.57
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 10Added stringTime: 6.57Edited By Baps Squad-4
+Alcoseba, Emmanuel (2)
+2023-02-18 15:11:08.167 - 2023-02-18 15:11:45.242Edited a few seconds after.Edited rawpts was: 20 now: 28
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited str,0 was: 0 now: 7.56Removed Reason for Edit ReshootAdded aprv: trueAdded details: [object Object]Added numAlphas: 9Added numCharlies: 1Added stringTime: 7.56Edited By Android Device2023-02-18 15:00:24.159 - 2023-02-18 15:11:08.167Edited 11 minutes after.Edited rawpts was: 30 now: 20Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 6.53 now: 0Added Reason for Edit ReshootEdited By Android Device
+Cunningham, Glenn (1)
+2023-02-18 15:48:40.766 - 2023-02-18 15:50:02.306Edited a minute after.Removed watchCode:Edited str,0 was: 0 now: 3.72
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 10Added stringTime: 3.72Edited By Baps Squad-4
+Hohl, Detlef (1)
+2023-02-18 15:51:18.913 - 2023-02-18 15:52:36.191Edited a minute after.Removed watchCode:Edited str,0 was: 0 now: 3.86
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 9Added numCharlies: 1Added stringTime: 3.86Edited By Baps Squad-4
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

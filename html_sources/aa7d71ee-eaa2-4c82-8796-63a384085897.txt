@@ -1,0 +1,324 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+GPS USPSA Aug 13, 2023 USPSA 2023-08-13
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Terry Lauwers	100.00%	669.4071	93.69	112.93%	PCC	M	Senior	MINOR	TY78481	103	38	1				1	
+2-Justin Eads	89.41%	598.4983	108.08	101.28%	PCC	U		MINOR		120	19	2	1				
+3-James Choate	86.99%	582.2989	115.01	118.33%	Carry Optics	B		MINOR	TY78370	123	19						
+4-Matt Fox	83.19%	556.9055	113.26	114.73%	Open	A		MAJOR	TY87848	115	21	3	3				
+5-Mark Kronk	79.10%	529.4704	123.26	109.49%	Open	U		MAJOR		109	29	3	1				
+6-Mark Kronk	73.80%	494.0555	121.98	83.57%	PCC	U		MINOR		107	30	3	2				
+7-Allan Porting	71.39%	477.8601	137.53	99.05%	Open	C	Senior	MINOR	L2745	127	12	2	1				
+8-Daniel Mahurin	66.81%	447.2504	144.41	93.70%	Open	U		MINOR		124	14	3	1		1		
+9-Kirk Broyles 2	65.44%	438.0552	127.50	102.51%	Limited Optics	B		MINOR	TY111134	94	40	4	4		1		
+10-Daniel Mahurin	63.61%	425.8025	151.88	88.73%	Open	U		MINOR		112	26	4					
+11-Andrew Sparks	63.31%	423.8050	152.30	87.08%	Open	U		MAJOR		112	24	3	3				
+12-Justin Eads	59.99%	401.5712	143.17	82.90%	Open	U		MINOR		105	28	5	4		1		
+13-Doug Boze	53.96%	361.2439	157.23	88.88%	Limited Optics	U		MINOR	A147385	117	21	2	2			5	
+14-Doug Boze	53.04%	355.0722	157.30	86.16%	Limited Optics	U		MINOR	A147385	107	26	4	5			1	
+15-deril oliver	52.76%	353.1896	171.09	69.28%	Carry Optics	C	Military	MINOR	A143560	104	28	6	4		1		
+16-lee krueger	50.84%	340.3423	178.81	68.79%	Carry Optics	U	Foreign	MINOR		107	32	1	2			1	
+17-Collin Gasper 1	49.40%	330.7008	166.03	68.63%	Open	U	Junior	MAJOR	PENDING	96	36	5	5		1	1	
+18-Johnathon Balcom	47.50%	317.9731	187.01	116.20%	Limited	U	Military	MINOR		106	29	5	2		1		
+19-Kolton Kronk	44.43%	297.4261	221.90	50.35%	PCC	U	Junior	MINOR		119	21	2					
+20-John Johnson	44.00%	294.5361	198.97	61.63%	Open	U	Military	MINOR	A148198	117	17	4	4			1	
+21-Chad Luetjen	43.12%	288.6392	183.75	48.87%	PCC	U		MINOR	PENDING	93	40	5	4		2	1	
+22-Kolton Kronk	36.06%	241.4121	269.48	49.59%	Open	U	Junior	MAJOR		115	19	5	3				
+23-Dustin Murray 1	34.84%	233.2398	243.64	47.73%	Open	U	Foreign	MINOR		101	35	3	3		2	1	
+24-Steve Forrest "Fire"	33.23%	222.4672	247.06	52.51%	Limited Optics	U	Military	MINOR	A98873	91	34	14	3				
+25-Bob Knudson	33.20%	222.2105	285.53	45.99%	Open	U	Senior	MINOR		120	19	1	2				
+26-Chris Franklin	32.57%	217.9972	289.65	82.80%	Limited	U		MINOR		121	16	2	3			1	
+27-David Barnard	32.03%	214.3902	209.99	80.83%	Limited	U	Super Senior	MINOR		104	19	10	9		1	2	
+28-Christopher Hart	31.85%	213.1840	213.38	118.33%	Production	D		MINOR	A141798	78	36	20	8		1		
+29-Angie Kronk	30.21%	202.2445	323.15	42.15%	Open	U	Lady	MAJOR		119	18	4	1		1		
+30-Angie Kronk 1	29.79%	199.4100	320.37	41.66%	Open	U	Lady	MAJOR		114	22	4	2				
+31-Racheal Mahurin	24.47%	163.8061	386.67	34.23%	Open	U	Lady	MINOR		104	35	2	1				
+32-Michael Krueger	23.47%	157.1119	324.72	32.18%	Open	U	Super Senior	MINOR		99	32	5	6		2		
+33-Susan Buckingham 4	20.43%	136.7840	382.97	29.15%	Open	U	Super Senior	MINOR		98	34	6	4		2		
+Name
+1-Terry Lauwers
+2-Justin Eads
+3-James Choate
+4-Matt Fox
+5-Mark Kronk
+6-Mark Kronk
+7-Allan Porting
+8-Daniel Mahurin
+9-Kirk Broyles 2
+10-Daniel Mahurin
+11-Andrew Sparks
+12-Justin Eads
+13-Doug Boze
+14-Doug Boze
+15-deril oliver
+16-lee krueger
+17-Collin Gasper 1
+18-Johnathon Balcom
+19-Kolton Kronk
+20-John Johnson
+21-Chad Luetjen
+22-Kolton Kronk
+23-Dustin Murray 1
+24-Steve Forrest "Fire"
+25-Bob Knudson
+26-Chris Franklin
+27-David Barnard
+28-Christopher Hart
+29-Angie Kronk
+30-Angie Kronk 1
+31-Racheal Mahurin
+32-Michael Krueger
+33-Susan Buckingham 4
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Last Time
+Gasper, Collin (1)
+2023-08-13 14:13:03.909 - 2023-08-13 14:14:52.249Edited 2 minutes after.Edited rawpts was: 67 now: 123
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	2	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	2	1	2	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	2	2	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	1	0	2	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	1	1	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 0 now: 31.1Added proc: 1Added aprv: trueAdded details: [object Object]Added numAlphas: 28Added numCharlies: 6Added numDeltas: 2Added numNS: 1Added numM: 6Added numProc: 1Added stringTime: 31.1Edited By Score Tablet 9
+Buckingham, Susan (3)
+2023-08-13 14:04:45.346 - 2023-08-13 14:07:03.672Edited 2 minutes after.Edited str,0 was: 85.93 now: 90.75Added details: [object Object]Added numAlphas: 35Added numCharlies: 6Added numDeltas: 1Added stringTime: 90.75Edited By Score Tablet 92023-08-13 14:04:22.723 - 2023-08-13 14:04:45.346Edited a few seconds after.Edited rawpts was: 55 now: 139
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 0 now: 85.93Removed Reason for Edit ReshootAdded aprv: trueEdited By Score Tablet 92023-08-13 13:58:47.858 - 2023-08-13 14:04:22.723Edited 6 minutes after.Removed proc: 1Edited str,0 was: 90.75 now: 0Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited rawpts was: 137 now: 55Added Reason for Edit ReshootEdited By Score Tablet 9
+Round Peg In A Square
+Broyles, Kirk (2)
+2023-08-13 18:15:36.239 - 2023-08-13 18:17:18.295Edited 2 minutes after.Edited rawpts was: 20 now: 112
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 0 now: 21.17Removed Reason for Edit ReshootAdded aprv: trueAdded details: [object Object]Added numAlphas: 24Added numCharlies: 4Added numNS: 1Added stringTime: 21.17Edited By Score Tablet 82023-08-13 18:15:17.800 - 2023-08-13 18:15:36.239Edited a few seconds after.Edited rawpts was: 108 now: 20Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 21.17 now: 0Added Reason for Edit ReshootEdited By Score Tablet 8
+Kronk, Angie (1)
+2023-08-13 18:29:13.604 - 2023-08-13 18:29:50.000Edited a few seconds after.Edited rawpts was: 98 now: 100
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	1	0	1	0
+Added details: [object Object]Added numAlphas: 20Added numCharlies: 4Added numDeltas: 2Added numM: 2Added stringTime: 55.02Edited By Score Tablet 8
+Murray, Dustin (1)
+2023-08-13 15:59:57.562 - 2023-08-13 16:00:38.698Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+Added details: [object Object]Added numAlphas: 24Added numCharlies: 4Added numNS: 1Added stringTime: 38.89Edited By Score Tablet 10
+Go Fast, Dont Suck
+Buckingham, Susan (1)
+2023-08-13 15:31:55.220 - 2023-08-13 15:57:19.596Edited 25 minutes after.Edited rawpts was: 30 now: 132
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	4	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 0 now: 68.2Added aprv: trueAdded details: [object Object]Added numAlphas: 30Added numCharlies: 4Added stringTime: 68.2Edited By Score Tablet 9
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

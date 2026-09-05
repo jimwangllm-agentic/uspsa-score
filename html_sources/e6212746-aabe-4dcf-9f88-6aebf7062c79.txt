@@ -1,0 +1,465 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BAPS USPSA May USPSA/IPSC 2017-05-20
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	P
+1-Josh Mazzola	100.00%	649.4029	77.90	108.39%	PCC	M		MINOR	A69840	115	17	1	1			
+2-Wade Preutz	89.44%	580.8054	90.05	96.93%	PCC	U		MINOR	TY79055	121	15				1	
+3-Eric Castillo	88.36%	573.8269	84.31	95.81%	PCC	A		MINOR	A87497	118	14		4			
+4-Jason Brinkley 1	81.63%	530.0888	94.13	106.59%	Limited	M		MAJOR	A61861	105	23	5	1		1	
+5-John Nixon 1	80.83%	524.8900	101.10	108.11%	Open	A		MAJOR		102	32	2				
+6-Dave Campell	80.59%	523.3779	93.37	87.35%	PCC	A		MINOR	TY26527	112	18	4	2			
+7-Randy Goodney	79.67%	517.4008	93.70	86.38%	PCC	U		MINOR	A94852	114	17	1	2		1	
+8-Mark Porretto	77.98%	506.3759	103.09	109.50%	Production	M		MINOR		115	20	1				
+9-Chris Peduto	77.87%	505.7139	104.64	104.33%	Open	B		MAJOR	TY56894	106	23	6				
+10-Gerrit Milks	76.44%	496.4197	97.65	82.85%	PCC	C		MINOR	A67608	104	24	4	1			
+11-Dave Eickhoff	75.88%	492.7493	107.22	82.26%	PCC	U	Super Senior	MINOR	TY5063	121	15					
+12-Jay Bennett	73.70%	478.5835	108.45	79.86%	PCC	U		MINOR	A77156	114	22					
+13-Clark Conneby	72.89%	473.3481	109.88	102.44%	Production			MINOR	A75504	113	21	1				
+14-Bob Zweck	72.50%	470.8000	111.00	97.37%	Open	B		MAJOR	A94853	105	25	6				
+15-Mike Wilson	71.30%	463.0327	111.85	77.24%	PCC	U	Super Senior	MINOR	TY84396	121	13	2				2
+16-Corey Slifko	70.56%	458.1868	92.92	89.27%	Limited	A		MAJOR	A82935	94	28	6	5		4	
+17-Robert Hollier	68.42%	444.3065	115.31	74.17%	PCC	U	Senior	MINOR	TY24941	122	12	1			2	
+18-Jason Bright	67.59%	438.9375	111.91	94.91%	Production	U		MINOR	A93447	106	26	3	1			
+19-Jim Duncan	67.35%	437.3992	123.52	95.03%	Production	B	Senior	MINOR	TY33325	129	7					
+20-Roman Gwiscz	66.93%	434.6265	111.06	87.86%	Limited	B		MAJOR		96	31	7	2		1	
+21-Robert Franks	66.68%	433.0483	113.70	113.33%	Single Stack	A		MAJOR	L3464	99	29	3	3			
+22-Chev Jacot	66.52%	431.9886	121.28	88.88%	Open	B		MAJOR		109	23	2	2			
+23-Danny Naramore	64.97%	421.9123	120.16	70.43%	PCC	U		MINOR	TY96553	107	28	1				
+24-Eddie Jimenea	63.39%	411.6780	111.68	85.55%	Open	M		MAJOR	A14869	85	36	7	3		1	
+25-Albert Calderon	62.63%	406.7150	112.49	83.92%	Open	B		MAJOR	A74722	87	38	5	4			1
+26-Doug Dillon	60.29%	391.4983	120.19	111.69%	Carry Optics	U	Law Enforcement	MINOR	A71359	103	29	3	1		2	
+27-Vinh Lam	60.20%	390.9695	108.58	78.88%	Limited	U		MAJOR	TY101025	86	37	6	6		1	
+28-Alex Goben 1	58.77%	381.6460	120.00	77.32%	Limited	B		MAJOR	A86498	110	19	4	2		5	4
+29-Kyle Post	58.25%	378.2544	120.74	82.05%	Production	B		MINOR		98	28	5	3			
+30-David Gilbertson 2	57.56%	373.7639	121.88	75.32%	Limited	C		MAJOR	TY75012	96	28	8	4		1	
+31-Deryle Lowery	57.40%	372.7609	132.96	80.72%	Production	B		MINOR	L2881	108	25	2	1			
+32-Tom Donahue	56.98%	370.0253	113.06	61.78%	PCC	D		MINOR		99	31	3	3		5	
+33-Joseph Giron	56.50%	366.8974	124.76	61.19%	PCC	U		MINOR	A83387	89	37	7	3		1	
+34-Raimon Alfonso	55.99%	363.5884	133.21	95.94%	Single Stack	B		MINOR		102	28	5	1			
+35-Donald Powers	54.49%	353.8306	147.68	71.26%	Limited	U		MAJOR	A102564	106	25	3	1			
+36-Matthew Graham 1	52.21%	339.0516	129.87	56.57%	PCC	U		MINOR		109	17	5	4		2	
+37-Carlos Escandon	51.83%	336.6019	160.97	72.55%	Production	B		MINOR	L2590	119	15		1			
+38-Mike Junco	51.36%	333.5390	102.45	67.22%	Limited			MINOR		82	26	10	10			
+39-Kelton Casey	51.30%	333.1626	105.81	69.34%	Open			MAJOR		84	30	12	9		3	1
+40-Rickey Wiley	50.86%	330.3164	124.25	71.69%	Production	U		MINOR	A91320	99	25	6	5		2	
+41-Angela Rabuck	50.64%	328.8366	150.04	65.86%	Limited			MINOR	A91275	108	23	3	1			
+42-Marlon Poralan	50.12%	325.4611	149.16	94.34%	Carry Optics	D		MINOR	A76330	111	21	1			3	
+43-Steve Deardorff	49.70%	322.7423	141.63	85.54%	Single Stack			MAJOR	TY16844	102	19	6	4		2	
+44-Derek Rabuck	49.03%	318.4321	138.53	68.60%	Production			MINOR	A91331	84	41	10	1		1	
+45-Gary Wu	48.57%	315.4439	132.15	68.53%	Production	C		MINOR	L2998	94	29	7	4		2	
+46-Scott Conneby	48.03%	311.8842	157.56	63.33%	Limited			MAJOR	A75502	104	22	2	3		2	
+47-Pat Byrne	46.22%	300.1479	185.31	80.41%	Single Stack	U		MAJOR	TY93921	129	6					
+48-Tony Devega	45.55%	295.8007	162.19	87.42%	Carry Optics	C		MINOR	A30373	103	25	8			3	
+49-Jim Schultz 1	44.46%	288.7128	171.87	62.48%	Production	C		MINOR	A98586	114	17	2	2			
+50-Jay Olmstead	44.39%	288.2744	177.32	48.05%	PCC	B		MINOR	L3738	123	11	1				8
+51-Norm Lee	44.22%	287.1670	174.51	57.54%	Limited	B	Lady, Super Senior	MAJOR	TY39532	98	26	11	1			
+52-Hung Ta 2	43.95%	285.4148	143.61	57.63%	Limited	C		MAJOR	TY89028	78	37	10	7			
+53-Parker Henss	43.50%	282.5109	58.73	55.86%	Limited	U		MINOR	A79936	70	9	3	1			
+54-Jon Baguio	41.44%	269.1436	166.26	80.44%	Carry Optics	D		MINOR	A101177	102	27	3	4		1	
+55-Adam Post	41.41%	268.9038	166.96	73.49%	Single Stack	C		MINOR		96	29	7	3			
+56-Glenn Cunningham	40.97%	266.0823	194.74	57.76%	Production	C		MINOR	A78280	125	9	2			2	
+57-Jacob Robbins	39.68%	257.6673	160.15	56.02%	Production	U		MINOR	TY100679	113	18	1	4		7	
+58-Eman Alcoseba	38.92%	252.7628	166.55	54.84%	Production	D		MINOR	TY67519	100	20	6	5		2	
+59-David Chow	38.44%	249.6140	152.48	54.37%	Production	C		MINOR	a100573	81	36	13	5		1	
+60-Nigel Legall	38.00%	246.7956	172.37	48.61%	Limited			MAJOR	A99634	95	29	3	8		1	
+61-Lawney Morales	37.45%	243.2194	190.37	64.86%	Single Stack	D	Senior	MINOR		111	22		3		2	
+62-Jason Helms	37.45%	243.1741	180.30	52.52%	Production	U		MINOR	1433	103	21	5	3		4	
+63-John Miller	35.97%	233.5619	206.33	47.01%	Limited	U		MAJOR	PEN	115	16	1	4		2	
+64-Robert Bui	35.86%	232.8496	147.44	50.25%	Production			MINOR		80	33	11	8		2	
+65-Chris Nagala	35.42%	230.0346	177.85	50.16%	Production	C		MINOR	TY97712	107	19	3	6		3	
+66-Terry Price	34.90%	226.6312	223.97	46.03%	Limited			MAJOR	A9411A	110	19	4	2		3	
+67-Paul Barreiro	34.12%	221.5808	147.02	47.90%	Production	U		MINOR	A101922	70	43	9	9		1	1
+68-Chris Zak	33.45%	217.2559	212.33	46.64%	Production	U		MINOR		106	24	2	4		2	
+69-James Parker	32.67%	212.1618	197.90	42.21%	Limited	U		MAJOR	PEN	111	12	2	9		2	
+70-Richard Dillow	31.76%	206.2659	181.29	45.18%	Production	C	Senior	MINOR	FY57446	91	27	10	7		1	2
+71-Dawne Lee	30.92%	200.8121	206.44	39.78%	Limited	C	Lady	MAJOR	TY42290	77	38	14	6		1	
+72-Tracy Kinsky	30.61%	198.7771	249.68	39.72%	Limited	U		MINOR	PEN	112	18	2	2		1	
+73-John Roberts	30.53%	198.2663	226.99	42.92%	Production			MINOR	A102739	109	19	3	4		2	
+74-Margret Wilson	29.17%	189.4380	249.34	40.80%	Production	D	Senior, Lady	MINOR	FY92303	110	20	2	2		2	
+75-Kent Ohler	27.48%	178.4529	244.66	35.86%	Limited			MINOR		101	29		5		2	
+76-Chris Andersen	25.38%	164.8303	241.89	35.27%	Production	U		MINOR	A99699	88	29	11	8		1	
+77-Eric Warren 1	22.00%	142.8647	182.25	30.24%	Production	U		MINOR	PEN	89	27	2	17		6	
+78-Herman Waddy	21.40%	138.9483	266.67	29.78%	Production	U		MINOR	A101165	83	32	9	12		4	
+79-Eric (II) Warren	17.19%	111.6291	340.29	22.23%	Limited			MINOR	PEN	89	26	8	9		1	
+80-Michael Henss	10.81%	70.2207	72.04	13.28%	Limited	C		MINOR	A56644	44	10	2	3		1	
+81-Joe Lowery 1	0.00%	0.0000		0.00%	Open			MAJOR		26						
+Name
+1-Josh Mazzola
+2-Wade Preutz
+3-Eric Castillo
+4-Jason Brinkley 1
+5-John Nixon 1
+6-Dave Campell
+7-Randy Goodney
+8-Mark Porretto
+9-Chris Peduto
+10-Gerrit Milks
+11-Dave Eickhoff
+12-Jay Bennett
+13-Clark Conneby
+14-Bob Zweck
+15-Mike Wilson
+16-Corey Slifko
+17-Robert Hollier
+18-Jason Bright
+19-Jim Duncan
+20-Roman Gwiscz
+21-Robert Franks
+22-Chev Jacot
+23-Danny Naramore
+24-Eddie Jimenea
+25-Albert Calderon
+26-Doug Dillon
+27-Vinh Lam
+28-Alex Goben 1
+29-Kyle Post
+30-David Gilbertson 2
+31-Deryle Lowery
+32-Tom Donahue
+33-Joseph Giron
+34-Raimon Alfonso
+35-Donald Powers
+36-Matthew Graham 1
+37-Carlos Escandon
+38-Mike Junco
+39-Kelton Casey
+40-Rickey Wiley
+41-Angela Rabuck
+42-Marlon Poralan
+43-Steve Deardorff
+44-Derek Rabuck
+45-Gary Wu
+46-Scott Conneby
+47-Pat Byrne
+48-Tony Devega
+49-Jim Schultz 1
+50-Jay Olmstead
+51-Norm Lee
+52-Hung Ta 2
+53-Parker Henss
+54-Jon Baguio
+55-Adam Post
+56-Glenn Cunningham
+57-Jacob Robbins
+58-Eman Alcoseba
+59-David Chow
+60-Nigel Legall
+61-Lawney Morales
+62-Jason Helms
+63-John Miller
+64-Robert Bui
+65-Chris Nagala
+66-Terry Price
+67-Paul Barreiro
+68-Chris Zak
+69-James Parker
+70-Richard Dillow
+71-Dawne Lee
+72-Tracy Kinsky
+73-John Roberts
+74-Margret Wilson
+75-Kent Ohler
+76-Chris Andersen
+77-Eric Warren 1
+78-Herman Waddy
+79-Eric (II) Warren
+80-Michael Henss
+81-Joe Lowery 1
+Old style results
+
+Score Edit History
+Red
+Nixon, John (1)
+2017-05-20 17:11:39.629 - 2017-05-20 17:12:31.338Edited a minute after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	1	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 25Added numCharlies: 7Added stringTime: 21.7Edited By Baps-Squad 2
+Gilbertson, David (2)
+2017-05-20 14:45:47.899 - 2017-05-20 14:46:17.217Edited a few seconds after.Removed penr:Edited str,0 was: 0 now: 30.89Removed dqr:
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Removed cmts:Added details: [object Object]Added numAlphas: 22Added numCharlies: 7Added numDeltas: 2Added numM: 1Added stringTime: 30.89Edited By Baps-Squad 62017-05-20 14:45:15.378 - 2017-05-20 14:45:47.899Edited a few seconds after.Edited str,0 was: 30.89 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited By Baps-Squad 6
+Ta, Hung (2)
+2017-05-20 14:45:36.523 - 2017-05-20 14:37:45.740Edited 8 minutes after.Removed penr:Edited str,0 was: 0 now: 35.78Removed dqr:
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	2	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	1	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed cmts:Added details: [object Object]Added numAlphas: 18Added numBravos: 3Added numCharlies: 11Added stringTime: 35.78Edited By Baps-Squad 62017-05-20 14:37:45.740 - 2017-05-20 14:45:36.523Edited 8 minutes after.Edited str,0 was: 35.78 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	2	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	1	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited By Baps-Squad 6
+Brinkley, Jason (1)
+2017-05-20 16:46:12.870 - 2017-05-20 16:46:32.881Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	1	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 22Added numCharlies: 5Added numDeltas: 4Added numNS: 1Added numM: 1Added stringTime: 18.2Edited By Baps-Squad 3
+Orange
+Warren, Eric (1)
+2017-05-20 17:09:24.454 - 2017-05-20 17:28:50.580Edited 19 minutes after.Edited str,0 was: 68.07 now: 33.98
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 23Added numCharlies: 6Added numM: 1Added stringTime: 33.98Edited By Baps-Squad 3
+Goben, Alex (1)
+2017-05-20 16:23:14.256 - 2017-05-20 16:23:27.038Edited a few seconds after.Edited poph was: 9 now: 8Edited popm was: 0 now: 1Added details: [object Object]Added numAlphas: 26Added numCharlies: 2Added numM: 2Added stringTime: 18.2Edited By Baps-Squad5
+Schultz, Jim (1)
+2017-05-20 16:52:08.306 - 2017-05-20 16:59:56.163Edited 8 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 28Added numCharlies: 2Added stringTime: 33.04Edited By Baps-Squad 4
+Cm 99-08
+Graham, Matthew (1)
+2017-05-20 15:47:18.393 - 2017-05-20 16:01:22.021Edited 14 minutes after.Edited str,0 was: 10.16 now: 12.56
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	1	0	1	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	0	1	0	0	0
+Added details: [object Object]Added numAlphas: 8Added numCharlies: 2Added numDeltas: 1Added numM: 1Added stringTime: 12.56Edited By Baps-Squad 3
+Lowery, Joe (1)
+2017-05-20 15:52:03.427 - 2017-05-20 15:52:41.401Edited a few seconds after.Edited dnf was: false now: trueEdited str,0 was: 8.52 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Added details: [object Object]Edited By Baps-Squad 3
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

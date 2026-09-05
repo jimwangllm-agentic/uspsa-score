@@ -1,0 +1,414 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Wallis Orchard MAR 2026 USPSA Match USPSA 2026-03-15Wallis Orchard Practical Shooters
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Michael Hanover	100.00%	778.0103	96.63	112.00%	Open	GM		MAJOR	TY146302	132	26	2					
+2-Mel Rodero II	90.67%	705.4517	104.99	101.53%	Open	GM		MAJOR	B100	121	35	4					
+3-Tony Vale	90.65%	705.3004	99.76	101.70%	Open	A		MAJOR	Ty153735	111	43	5	1		1		
+4-Colin Kerrigan	87.20%	678.4552	100.67	109.07%	Carry Optics	M		MINOR		124	31	4	1		1		
+5-Sir Loin - The Steaken King	87.16%	678.1042	103.57	97.68%	Open	M		MINOR	A142224	126	29	3	2				
+6-Albert Montanez	86.39%	672.1319	105.21	108.32%	PCC	M		MINOR	A101554	126	29	4	1				
+7-Adam Bandiera	84.80%	659.7889	106.80	94.97%	Open	A		MAJOR	Ty148375	112	41	6	1		1		
+8-Travis McKenzie	84.31%	655.9654	104.70	94.53%	Open	M		MAJOR	L6340	110	35	13	2				
+9-Chez Chike-Udenze	84.18%	654.9515	107.30	94.52%	Open	M		MAJOR	A138598	120	32	7	1		1	1	
+10-Andrew Whitley	83.75%	651.6021	109.86	93.96%	Open	A		MAJOR		112	42	6				1	
+11-Timothy Guerrero	83.21%	647.4114	106.44	93.46%	Open	M		MAJOR	L4633	122	32	4	2		3		
+12-Olayemi Bakare	82.96%	645.4013	113.45	93.02%	Open	A		MAJOR	A105300	121	35	4				1	
+13-Brandon Foss	82.90%	644.9514	111.53	103.93%	Carry Optics	M		MINOR	L5142	127	32	1					
+14-Dat Hoang	82.87%	644.7617	107.70	103.75%	Carry Optics	M		MINOR	L6318	126	31	1	2				
+15-David Warren	81.49%	633.9830	111.53	107.80%	Limited Optics	M	Senior	MINOR	Ty40917	119	39	2					
+16-Heath Helgeson	78.09%	607.5469	115.95	103.33%	Limited Optics	A		MINOR	A149129	131	26	2	1		1		
+17-Jim Havens	76.72%	596.8819	115.08	101.08%	Limited Optics	M	Senior	MINOR	A114636	128	24	5	3				
+18-Glen Kruger	75.77%	589.5336	110.60	96.01%	PCC	U	Senior	MINOR	A171162	125	29	2	4			1	
+19-Michael Whitley	75.56%	587.8464	117.06	100.13%	Limited Optics	U		MINOR	A111091	121	34	5			1		
+20-Albert Legislador	75.46%	587.0985	124.82	95.82%	PCC	B	Senior	MINOR	TY91787	137	22		1				
+21-Marco Yue	75.14%	584.5791	111.78	94.35%	PCC	U		MINOR	NA	113	39	5	3		1		
+22-Wade Pruetz	74.47%	579.3956	117.12	98.38%	Limited Optics	U	Senior	MINOR	TY79005	125	29	4	2				
+23-Ross Winningham	73.24%	569.8073	117.28	97.46%	Limited Optics	M		MINOR	A159283	116	39	4	1		1		
+24-James Bryant 2	73.13%	568.9751	118.98	91.28%	Carry Optics	M		MINOR	TY168985	127	26	4	3		1	1	
+25-Jeremiah Hunt	72.10%	560.9416	117.90	80.96%	Open	B		MAJOR	A148592	96	51	10	3				
+26-Lee Cardwell	72.09%	560.8689	111.56	90.26%	Carry Optics	M		MINOR	A155173	98	55	5	2			1	
+27-Jason Bright	71.60%	557.0522	128.15	89.80%	Carry Optics	A		MINOR	A93447	121	39						
+28-Alberto Silva 3	71.32%	554.8585	114.61	89.04%	Carry Optics	M		MINOR	A151309	109	40	9	2		1		
+29-Tyler Kenny	70.79%	550.7319	115.77	94.54%	Limited Optics	B	Lady, Junior, Senior, Super Senior, Law Enforcement, Military, Distinguished Senior	MINOR	A148691	120	32	4	4			1	
+30-Andre Wijaya	70.64%	549.5544	130.81	79.23%	Open	B		MAJOR	A175473	118	35	6	1			1	
+31-Jesse Harrington 1	70.23%	546.3762	130.25	87.92%	Carry Optics	A		MINOR	A153046	125	32	3					
+32-James Wong	69.88%	543.6875	120.57	87.67%	Carry Optics	B		MINOR	TY162844	117	37	3	3				
+33-James Newman 1	69.36%	539.6633	126.70	87.15%	Carry Optics	C		MINOR	A159823	118	38	3	1				
+34-Matthew Givens	69.25%	538.8005	121.43	87.79%	PCC	A		MINOR	Ty137686	115	40	3	2		1		
+35-Eduardo Cantu	69.24%	538.7290	124.28	77.64%	Open	B		MAJOR	A164104	113	38	6	3		1	1	
+36-Jake Honeycutt	67.87%	528.0630	121.95	90.94%	Limited Optics	B		MINOR	A157597	119	36	1	4		1		
+37-Jon Baguio	67.79%	527.4509	129.05	75.92%	Open	C		MAJOR	X	104	48	5	3				
+38-Cristian Torquemada	67.75%	527.0654	123.65	89.71%	Limited Optics	B		MINOR	A171091	104	52	3	1		1		
+39-Ulrick Fong	67.24%	523.1369	128.45	84.41%	PCC	A		MINOR	a	118	37	2	3		1		
+40-Shawn Prosen	67.16%	522.5055	129.66	88.69%	Limited Optics	U		MINOR		125	32	1	2			1	
+41-Adriel Taylor	66.69%	518.8754	128.16	83.33%	Carry Optics	U		MINOR	A104321	112	41	4	3		1		
+42-Garrick Gonzalez 1	65.84%	512.2673	121.06	86.74%	Limited Optics	B		MINOR	A119804	113	32	11	4				
+43-Yulmer Carreno	65.79%	511.8607	121.94	86.95%	Limited Optics	B		MINOR	A157204	106	42	9	3				
+44-Amber Chike-Udenze	65.63%	510.5796	132.82	82.95%	PCC	B	Lady	MINOR	A138974	119	33	7	1				
+45-Jack Liu	65.54%	509.9375	138.54	82.29%	PCC	M	Law Enforcement	MINOR	L6156	115	38	6	1				
+46-Steven McNamara	65.04%	505.9923	141.86	86.14%	Limited Optics	B	Senior	MINOR	A75212	128	31	1					
+47-Jay-R delos-Santos	64.72%	503.5183	143.08	82.82%	PCC	B	Senior	MINOR	A70297	123	34	1	2				
+48-Gary Wu	63.70%	495.5977	139.38	84.23%	Limited Optics	B	Senior	MINOR	L2998	126	31	1	2				
+49-Roman Gwiscz	63.63%	495.0629	140.94	84.28%	Limited Optics	B		MINOR	L4670	127	29	3	1				
+50-Khoa Nguyen 1	61.80%	480.8040	100.95	81.80%	Limited Optics	A	Law Enforcement	MINOR	A117224	97	35	5	2				
+51-Yihao Zuo	61.25%	476.4937	133.54	80.98%	Limited Optics	C		MINOR	A165414	115	36	5	4				
+52-Don Sanders	60.88%	473.6810	131.90	68.45%	Open	B	Senior	MAJOR	FY46389	92	51	12	5				
+53-michael womack	60.44%	470.1974	152.55	67.81%	Open	U	Distinguished Senior	MAJOR	A166212	109	42	9					
+54-Phyl Santos	60.28%	469.0141	127.39	79.54%	Limited Optics	A		MINOR	A155981	107	41	6	6		1		
+55-TJ Middleton	59.87%	465.7740	151.54	76.52%	PCC	U		MINOR	TY171913	129	24	6	1		1		
+56-Harlan Chen	59.65%	464.1179	134.05	78.82%	Limited Optics	B		MINOR	A163292	105	47	7	1		1	2	
+57-Alison Shuman	58.52%	455.3008	141.09	78.18%	Limited Optics	B	Lady, Senior	MINOR	A155075	110	42	6	2			1	
+58-Michael Pontious	56.42%	438.9419	132.13	73.96%	Limited Optics	B	Super Senior	MINOR	A94575	107	40	5	8				
+59-Janice Pacleb	55.05%	428.3092	121.01	61.19%	Open	B	Lady	MAJOR	Ty75597	94	40	4	4			2	
+60-Yanlin Xiang 2	54.23%	421.9334	149.53	72.05%	Limited Optics	B		MINOR	A164967	128	25	2	5			2	
+61-Markho Babasoro	54.16%	421.3522	133.80	60.57%	Open	C		MAJOR	A174757	103	39	11	7			4	
+62-Cliff Pinsent	54.12%	421.0393	166.84	71.71%	Limited Optics	B	Distinguished Senior	MINOR	FY99321	122	36	2			1		
+63-Andrew Malcolm	53.45%	415.8681	151.62	66.96%	Carry Optics	B		MINOR	A169439	112	42	3	3		2		
+64-Trevor Symons 1	52.95%	411.9241	132.41	70.62%	Limited Optics	C		MINOR	A172350	92	54	9	5		1	1	
+65-Raul Lorenzana	52.86%	411.2275	157.67	66.34%	Carry Optics	C		MINOR	A161461	109	46	2	3		1		
+66-Travis Swingle	51.58%	401.3036	168.94	65.15%	Carry Optics	C		MINOR	A174147	113	42	5			2		
+67-Eric Wu	49.89%	388.1519	131.93	66.04%	Limited Optics	B		MINOR	FY104740	76	65	13	6		1		
+68-Jeff Maxwell, Jr.	49.72%	386.7972	173.76	62.28%	Carry Optics	B	Senior	MINOR	L4489	123	30	5	2		1		
+69-Stone Bai	47.96%	373.0950	149.91	53.67%	Open	C		MAJOR	A155638	74	66	12	8		1		
+70-Grant Nixon	47.76%	371.5962	163.68	59.40%	Carry Optics	C		MINOR	A172934	116	33	4	7			3	
+71-Cyndi Marroquin	47.70%	371.0825	181.91	53.51%	Open	D	Lady	MAJOR	A166509	109	39	8	4			1	
+72-Jeannie Marrone	47.34%	368.3121	198.16	53.11%	Open	C	Lady, Super Senior	MAJOR	A133357	128	25	6	1				
+73-Keith Bowman Jr	46.90%	364.9120	181.23	52.52%	Open	C		MINOR	A157830	127	26	5	2			2	
+74-Daniel Zengerle 2	46.83%	364.3809	157.21	62.00%	Limited Optics	C	Super Senior	MINOR	A160569	93	49	13	5				
+75-Ernie Morales	46.60%	362.5704	138.48	62.48%	Limited Optics	B		MINOR	A169705	98	40	12	10			1	
+76-Marlon Pors	44.56%	346.7174	158.18	55.39%	Carry Optics	C	Law Enforcement	MINOR	Ty1234	108	38	6	8			2	
+77-ian loyd 2	43.36%	337.3102	190.30	54.55%	Carry Optics	U		MINOR	A148072	114	40	5	1			3	
+78-Ryu Yoshida	40.25%	313.1350	169.47	51.18%	Carry Optics	U		MINOR	0	99	43	11	7		1	2	
+79-Kristen Wilson	39.90%	310.4068	164.78	114.29%	Limited	B	Lady	MINOR	ty121933	91	38	22	9		1		
+80-Kelly Kennedy 2	39.46%	306.9702	235.13	49.58%	PCC	U	Super Senior	MINOR	Ty168768	131	29				2		
+81-Gilbert Carrillo	38.59%	300.2304	188.44	51.20%	Limited Optics	C		MINOR	A162029	104	43	7	6		2		
+82-Chris Ballard	38.46%	299.2203	201.89	51.44%	Limited Optics	U		MINOR	A178189	120	27	8	5		1	1	
+83-Matthew Gonzalez 1	36.42%	283.3528	142.89	45.72%	Carry Optics	B		MINOR	A119810	83	47	14	16		4		
+84-Charity Taylor	35.85%	278.9158	261.39	45.27%	PCC	U	Lady, Senior	MINOR	A104508	132	26	2					
+85-Mark Guzman 1	35.47%	275.9820	187.34	44.12%	Carry Optics	C	Senior	MINOR	A158822	91	49	12	8		1		
+86-Sam Jones	34.00%	264.5113	245.55	45.13%	Limited Optics	B		MINOR	1234	116	38	2	4				
+87-Kit Bong Morales	20.38%	158.5909	96.54	26.52%	Limited Optics	U	Senior	MINOR	A57907	50	31	7	4		3		
+88-Arnold Gee	0.00%	0.0000		0.00%	Open	B	Senior	MAJOR	Ty103519								
+89-Erwin Gonzalez	0.00%	0.0000		0.00%	Carry Optics	B	Law Enforcement	MINOR	A93987								
+90-Byron "BigBDaShooter" McGowen	0.00%	0.0000		0.00%	Limited Optics	C	Military	MINOR	A159731								
+91-Shaundy Pepito	0.00%	0.0000		0.00%	Open	U		MAJOR	A135687								
+92-Alberto Silva	0.00%	0.0000		0.00%	Carry Optics	M		MINOR	A151309								
+DQ-Nelson Judan	0.00%	0.0000		0.00%	Limited Optics	U		MINOR									
+Name
+1-Michael Hanover
+2-Mel Rodero II
+3-Tony Vale
+4-Colin Kerrigan
+5-Sir Loin - The Steaken King
+6-Albert Montanez
+7-Adam Bandiera
+8-Travis McKenzie
+9-Chez Chike-Udenze
+10-Andrew Whitley
+11-Timothy Guerrero
+12-Olayemi Bakare
+13-Brandon Foss
+14-Dat Hoang
+15-David Warren
+16-Heath Helgeson
+17-Jim Havens
+18-Glen Kruger
+19-Michael Whitley
+20-Albert Legislador
+21-Marco Yue
+22-Wade Pruetz
+23-Ross Winningham
+24-James Bryant 2
+25-Jeremiah Hunt
+26-Lee Cardwell
+27-Jason Bright
+28-Alberto Silva 3
+29-Tyler Kenny
+30-Andre Wijaya
+31-Jesse Harrington 1
+32-James Wong
+33-James Newman 1
+34-Matthew Givens
+35-Eduardo Cantu
+36-Jake Honeycutt
+37-Jon Baguio
+38-Cristian Torquemada
+39-Ulrick Fong
+40-Shawn Prosen
+41-Adriel Taylor
+42-Garrick Gonzalez 1
+43-Yulmer Carreno
+44-Amber Chike-Udenze
+45-Jack Liu
+46-Steven McNamara
+47-Jay-R delos-Santos
+48-Gary Wu
+49-Roman Gwiscz
+50-Khoa Nguyen 1
+51-Yihao Zuo
+52-Don Sanders
+53-michael womack
+54-Phyl Santos
+55-TJ Middleton
+56-Harlan Chen
+57-Alison Shuman
+58-Michael Pontious
+59-Janice Pacleb
+60-Yanlin Xiang 2
+61-Markho Babasoro
+62-Cliff Pinsent
+63-Andrew Malcolm
+64-Trevor Symons 1
+65-Raul Lorenzana
+66-Travis Swingle
+67-Eric Wu
+68-Jeff Maxwell, Jr.
+69-Stone Bai
+70-Grant Nixon
+71-Cyndi Marroquin
+72-Jeannie Marrone
+73-Keith Bowman Jr
+74-Daniel Zengerle 2
+75-Ernie Morales
+76-Marlon Pors
+77-ian loyd 2
+78-Ryu Yoshida
+79-Kristen Wilson
+80-Kelly Kennedy 2
+81-Gilbert Carrillo
+82-Chris Ballard
+83-Matthew Gonzalez 1
+84-Charity Taylor
+85-Mark Guzman 1
+86-Sam Jones
+87-Kit Bong Morales
+88-Arnold Gee
+89-Erwin Gonzalez
+90-Byron "BigBDaShooter" McGowen
+91-Shaundy Pepito
+92-Alberto Silva
+DQ-Nelson Judan
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+24-04
+Kennedy, Kelly (2)
+2026-03-15 15:49:12.061 - 2026-03-15 15:51:15.505Edited 2 minutes after.Edited str,2 was: 0 now: 6.63Edited str,1 was: 0 now: 9.86Edited str,0 was: 0 now: 3.18
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	6	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	3	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	2	0	0	0	0
+Removed Reason for Edit Moved to Shooter Gonzalez, Matthew (CO/Min)Added rawpts: 80Added aprv: trueAdded details: [object Object]Added numAlphas: 13Added numCharlies: 5Added stringTime: 19.669999999999998Edited By 52026-03-15 15:48:56.273 - 2026-03-15 15:49:12.061Edited a few seconds after.Removed rawpts: 76Edited str,2 was: 5.02 now: 0Edited str,1 was: 4.56 now: 0Edited str,0 was: 2.31 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	5	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	6	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Gonzalez, Matthew (CO/Min)Edited By 5
+Zengerle, Daniel (2)
+2026-03-15 14:59:05.101 - 2026-03-15 15:19:46.028Edited 21 minutes after.Edited str,2 was: 0 now: 5.49Edited str,1 was: 0 now: 5.22Edited str,0 was: 0 now: 2.92
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	4	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	3	0	0	0	0
+ARRAYARRAYEdited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Shooter Warren, David (LO/Min/S) now: 1.77,2.02,2.27,2.50,2.74,2.92;AMG 4343Edited meta,0,t was: 2026-03-15 14:59:05.101 now: 2026-03-15 15:18:53.284Added rawpts: 72Added aprv: trueAdded details: [object Object]Added numAlphas: 9Added numCharlies: 9Added stringTime: 13.63Edited By 62026-03-15 14:56:52.705 - 2026-03-15 14:59:05.101Edited 2 minutes after.Removed rawpts: 76Edited str,2 was: 3.81 now: 0Edited str,1 was: 3.49 now: 0Edited str,0 was: 2.15 now: 0
+A	B	C	D	NS	M	NPM
+Previous	4	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	2	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	5	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+ARRAYARRAYEdited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.14,1.37,1.59,1.80,1.99,2.15;AMG 4343 now: Moved to Shooter Warren, David (LO/Min/S)Edited meta,0,t was: 2026-03-15 14:55:46.347 now: 2026-03-15 14:59:05.101Removed aprv: trueEdited By 6
+Nguyen, Khoa (1)
+2026-03-15 14:17:19.067 - 2026-03-15 14:42:07.124Edited 25 minutes after.Edited rawpts was: 82 now: 80
+A	B	C	D	NS	M	NPM
+Previous	5	0	1	0	0	0	0
+Current	4	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 14Added numCharlies: 3Added numDeltas: 1Added stringTime: 10.91Edited By 7
+Silva, Alberto (1)
+2026-03-15 14:26:22.758 - 2026-03-15 14:31:26.437Edited 5 minutes after.Edited str,2 was: 4.46 now: 4.16ARRAYAdded details: [object Object]Added numAlphas: 11Added numCharlies: 6Added numDeltas: 1Added stringTime: 10.370000000000001Edited By 7
+loyd, ian (2)
+2026-03-15 17:51:50.794 - 2026-03-15 17:54:09.397Edited 2 minutes after.Edited str,2 was: 0 now: 5.67Edited str,1 was: 0 now: 5.5Edited str,0 was: 0 now: 3.12
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	6	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	2	2	0	0	0
+Removed Reason for Edit Moved to Shooter Marrone, Jeannie (O/Maj/L/SS)Added proc: 3Added rawpts: 74Added aprv: trueAdded details: [object Object]Added numAlphas: 12Added numCharlies: 4Added numDeltas: 2Added numProc: 3Added stringTime: 14.290000000000001Edited By 22026-03-15 17:51:30.097 - 2026-03-15 17:51:50.794Edited a few seconds after.Removed rawpts: 70Edited str,2 was: 7.43 now: 0Edited str,1 was: 6.6 now: 0Edited str,0 was: 3.01 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	4	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	0	2	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Marrone, Jeannie (O/Maj/L/SS)Edited By 2
+2b
+Gonzalez, Matthew (1)
+2026-03-15 16:11:40.527 - 2026-03-15 16:12:35.070Edited a minute after.Edited rawpts was: 53 now: 54
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	0	1	0	0	0
+Added details: [object Object]Added numAlphas: 10Added numDeltas: 4Added stringTime: 6.6Edited By 5
+Bay 3
+Newman, James (1)
+2026-03-15 14:45:44.831 - 2026-03-15 14:46:03.520Edited a few seconds after.Edited str,0 was: 2.35 now: 23.5Added details: [object Object]Added numAlphas: 28Added numCharlies: 6Added stringTime: 23.5Edited By 2
+Bay 4
+Harrington, Jesse (1)
+2026-03-15 14:46:20.384 - 2026-03-15 14:47:29.386Edited a minute after.Edited rawpts was: 126 now: 128
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 25Added numCharlies: 4Added numDeltas: 1Added stringTime: 23.25Edited By 3
+Silva, Alberto (2)
+2026-03-15 16:18:11.611 - 2026-03-15 16:20:24.099Edited 2 minutes after.Edited str,0 was: 23.52 now: 21.52Added details: [object Object]Added numAlphas: 20Added numCharlies: 9Added numDeltas: 1Added stringTime: 21.52Edited By 72026-03-15 16:17:28.613 - 2026-03-15 16:18:11.611Edited a few seconds after.Edited rawpts was: 112 now: 118
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited By 7
+Gonzalez, Garrick (1)
+2026-03-15 16:19:22.555 - 2026-03-15 16:20:03.075Edited a few seconds after.Edited rawpts was: 126 now: 124
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 24Added numCharlies: 4Added numDeltas: 2Added stringTime: 21.4Edited By 7
+Bay 5
+Xiang, Yanlin (1)
+2026-03-15 16:23:46.283 - 2026-03-15 16:24:12.876Edited a few seconds after.Edited rawpts was: 95 now: 91
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 20Added numCharlies: 2Added stringTime: 21.51Edited By 1
+Bryant, James (2)
+2026-03-15 15:36:14.763 - 2026-03-15 15:37:48.237Edited 2 minutes after.Edited rawpts was: 15 now: 85Edited str,0 was: 0 now: 23
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 2.22,2.53,3.30,3.72,4.77,5.14,5.46,7.50,7.82,8.62,8.99,9.66,11.03,11.69,12.97,13.30,15.38,16.49,21.17,21.62,23.00;AMG D56DEdited meta,0,t was: 2026-03-15 15:36:14.763 now: 2026-03-15 15:37:11.707Added aprv: trueAdded details: [object Object]Added numAlphas: 20Added numM: 2Added stringTime: 23Edited By 32026-03-15 15:15:26.948 - 2026-03-15 15:36:14.763Edited 21 minutes after.Edited rawpts was: 91 now: 15Edited str,0 was: 19.83 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.94,2.20,2.98,3.32,3.80,4.40,6.00,6.39,8.11,8.51,9.41,9.71,10.37,10.66,11.27,14.16,14.97,16.45,16.92,19.52,19.83;AMG D56D now: ReshootEdited meta,0,t was: 2026-03-15 15:14:58.312 now: 2026-03-15 15:36:14.763Removed aprv: trueEdited By 3
+Bay 6
+Xiang, Yanlin (1)
+2026-03-15 17:11:08.655 - 2026-03-15 17:11:45.068Edited a few seconds after.Added proc: 1Added details: [object Object]Added numAlphas: 16Added numCharlies: 3Added numDeltas: 2Added numM: 3Added numProc: 1Added stringTime: 17.72Edited By 1
+Bay 7
+Symons, Trevor (1)
+2026-03-15 14:24:48.678 - 2026-03-15 14:25:58.727Edited a minute after.Edited rawpts was: 120 now: 118
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 19Added numCharlies: 11Added stringTime: 22.72Edited By 6
+Guzman, Mark (1)
+2026-03-15 17:24:29.242 - 2026-03-15 17:24:41.079Edited a few seconds after.Edited rawpts was: 103 now: 101
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 15Added numCharlies: 11Added numDeltas: 3Added numM: 1Added stringTime: 30.75Edited By 2
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

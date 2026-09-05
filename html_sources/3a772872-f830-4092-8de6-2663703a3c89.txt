@@ -1,0 +1,354 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BAPS USPSA May USPSA 2019-05-18
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Daniel Thompson	100.00%	603.1796	81.21	104.69%	Carry Optics	B		MINOR	TY93931	117	11	1					
+2-August Balagtas	97.44%	587.7238	82.36	99.84%	Open	M		MAJOR	L3674	110	17	1	1				
+3-Randy Goodney	95.75%	577.5303	86.08	98.01%	Open	A		MAJOR	A94852	105	23	1					
+4-Jay Bennett	90.93%	548.4754	83.87	103.64%	PCC	A	Senior	MINOR	A77156	105	23		1		1		
+5-Alex Goben	88.11%	531.4409	90.73	92.46%	Carry Optics	B		MINOR	A86498	114	14		1				
+6-Corey Slifko	87.54%	528.0100	87.45	100.38%	Limited	A		MAJOR	A82935	87	37	3	2				
+7-Gary Owens	87.36%	526.9133	91.80	89.61%	Open	B		MAJOR	FY101331	96	32	1					
+8-Tom Donahue	86.87%	523.9667	90.82	99.48%	PCC	B		MINOR	FY69009	106	22	1					
+9-Ricky Wiley	83.50%	503.6514	95.35	88.12%	Carry Optics	C		MINOR	A91320	113	14	1	1		1		
+10-Duane Mendoza	83.38%	502.9092	82.53	85.51%	Open	C		MAJOR	TY98162	92	24	9	4		1		
+11-Gerrit Milks	83.11%	501.2868	85.71	94.75%	PCC	A		MINOR	A67608	97	27	2	3				
+12-Glenn Cunningham	82.31%	496.4689	99.32	94.16%	PCC	U	Super Senior	MINOR	A78280	123	5		1				
+13-Paul Felker	81.85%	493.6747	89.12	85.59%	Carry Optics	B		MINOR	A107123	97	26	4	2				
+14-Jerry McClain	81.00%	488.5735	102.67	92.82%	Limited	B		MAJOR	TY48726	97	30	2					
+15-Roman Gwiscz	80.70%	486.7429	93.92	82.09%	Open	B		MAJOR	L4670	95	29	3	2		1		
+16-Albert Atmosfera	79.30%	478.3388	92.61	80.77%	Open	C		MAJOR		86	33	8	2		1		
+17-Olyemi Bakare	79.17%	477.5429	100.71	97.75%	Production	B		MINOR	A105300	110	18		1				
+18-Mark Meyers	78.71%	474.7358	93.18	89.62%	PCC	U	Senior, Super Senior	MINOR	A50232	87	35	7					
+19-Ryan Alicaya 1	78.43%	473.0773	99.29	82.16%	Carry Optics	D		MINOR	832330	107	21		1				
+20-Dave Campell	78.28%	472.1903	103.11	80.52%	Open	M		MAJOR	TY26527	107	16	5	1		1		
+21-Brandon Hill	77.97%	470.2830	101.82	97.23%	Production	M	Military	MINOR	A80518	113	13	3			1		
+22-Tony Devega	77.92%	469.9724	96.87	79.70%	Open	B		MAJOR	A30373	96	26	5	2				
+23-Eric Prehn	77.76%	469.0029	91.20	89.08%	PCC			MINOR	TY93797	102	21	3	3		1		
+24-Neal Nandin	77.69%	468.6211	96.57	79.51%	Open	C		MAJOR	FY71894	93	31	2	3				
+25-Mike Junco	75.97%	458.2314	97.32	94.35%	Production	A		MINOR	FY107182	103	19	5	2				
+26-Mike Wilson	75.64%	456.2710	108.04	86.66%	PCC	C	Military	MINOR	TY84396	121	7		1				
+27-Chev Jacot	75.15%	453.2842	70.50	77.15%	Open	B		MAJOR	A72378	87	22	1	1				
+28-Matt Lem	74.56%	449.7544	95.74	91.64%	Production	A		MINOR	FY34763	98	24	3	4				
+29-Jason Bright	74.36%	448.5257	103.36	91.88%	Production	A		MINOR	A93447	106	21		2				
+30-Marlon Poralan	73.95%	446.0508	101.45	84.19%	PCC	U		MINOR	PENDING	100	25	2	2				
+31-Jon Baguio	73.84%	445.3875	99.71	77.63%	Carry Optics			MINOR	PENDING	96	26	7			1		
+32-Kyle Post	73.68%	444.4390	96.51	91.00%	Production	A		MINOR		100	22	4	3		1		
+33-Michael Pontious	72.87%	439.5202	92.42	74.22%	Open	U		MAJOR	TY94575	92	26	4	7				
+34-Eddie Jimenea	72.68%	438.4187	113.08	74.65%	Open	M		MAJOR	A14869	99	30						
+35-Raimon Alfonso	70.94%	427.8775	100.33	72.86%	Open	B		MAJOR	A37107	91	26	6	4				
+36-Jen Kroll	70.35%	424.3644	109.57	73.76%	Carry Optics	C		MINOR	A93835	109	19		1		1		
+37-Rommel Mercado	70.12%	422.9793	108.64	87.03%	Production			MINOR		97	29	3					
+38-Derek Rabuck	69.54%	419.4509	107.31	70.97%	Open	U		MAJOR	TY91331	98	26	2	3		1		
+39-Pat Byrne	69.34%	418.2329	116.17	72.75%	Carry Optics	U		MINOR	TY93921	113	15	1					
+40-Kyle McCord	68.64%	414.0434	109.07	85.10%	Production	B		MINOR		104	20	2	3				
+41-Mike Kahl	68.29%	411.9340	119.37	85.44%	Production	B	Super Senior	MINOR	A70984	111	17	1					
+42-Christopher Zak 3	68.14%	410.9891	110.48	78.67%	PCC	U		MINOR	PEN	108	16	3	2				
+43-Samuel Bharksuwan	67.80%	408.9703	112.91	79.41%	Limited	B		MAJOR	B51	100	22	4	3		1		
+44-Jason Sartor	67.16%	405.1224	103.21	83.78%	Production	B		MINOR	A78681	92	30	3	4				
+45-Gary Wu 3	66.86%	403.2740	99.20	78.27%	Limited	B		MAJOR	L2998	79	39	6	5		1		
+46-John eric Seto	66.40%	400.5264	97.54	75.88%	Limited	U		MAJOR	A112416	83	33	6	7				
+47-Albert Calderon	65.53%	395.2886	115.59	67.22%	Open	B		MAJOR	A74721	98	21	5	5				
+48-Dave Eickhoff	64.17%	387.0800	121.13	107.31%	Single Stack	C	Super Senior	MINOR	TY5063	103	22	3	1				
+49-Tom Neal	64.09%	386.5915	118.21	65.79%	Open	B		MAJOR	L2362	99	25	3	2			1	
+50-Jay Olmstead	62.15%	374.8956	135.24	70.74%	PCC	B	Super Senior	MINOR	L3738	117	12						
+51-Michael Henss 1	61.85%	373.0402	117.88	71.41%	Limited	C	Military	MINOR	A56644	104	19	3	3				
+52-Danny Naramore	61.54%	371.1761	123.61	62.88%	Open	C	Super Senior	MAJOR	TY96553	95	30	2	2				
+53-Bill Kinstley	61.47%	370.7623	123.85	71.29%	Limited	C		MAJOR	A104836	95	28	4	2				
+54-Andy Whitley	61.43%	370.5245	105.83	72.66%	Limited	C		MINOR	TY106649	101	18	4	6		1		
+55-Ashley Sullivan	60.28%	363.5910	119.71	102.68%	Limited 10	C	Lady	MINOR	TY92392	114	10	1	4		1		
+56-Corey Arrimgto,	57.83%	348.8213	122.02	72.15%	Production			MINOR		97	17	7	3		1		
+57-Benjamin Michael	57.77%	348.4548	128.42	60.55%	Carry Optics	U		MINOR		95	28	5	1				
+58-Jim Duncan	57.70%	348.0486	129.36	71.58%	Production		Senior	MINOR	TY33325	117	8		4				
+59-Chris Nagala	57.38%	346.1341	132.72	98.29%	Limited 10	D		MINOR	TY97712	112	12	3	2				
+60-Adam Weinstein	56.08%	338.2760	132.23	58.91%	Carry Optics	U		MINOR	A111998	86	40	3					
+61-Richard Dillow	54.84%	330.7675	137.40	62.83%	PCC	C	Senior	MINOR	FY57446	100	24	3	2				
+62-Robert Hollier	54.30%	327.5535	136.64	67.63%	Production	U	Senior	MINOR	FY24941	107	16	3	3				
+63-Raqlph Burbe	54.01%	325.7690	135.03	56.35%	Carry Optics	none		MINOR		109	15	3	2		2		
+64-Stefan Liming	53.80%	324.5264	154.56	56.45%	Carry Optics			MINOR	A45577	113	14	2					
+65-Ramil Villanueva	53.78%	324.4064	111.64	56.57%	Carry Optics	D		MINOR		87	33	3	6		2		
+66-Angela Rabuck	53.41%	322.1400	127.15	61.19%	Limited	C		MINOR	TY91275	106	14	3	6		1		
+67-Solomon Sandoval	50.83%	306.5860	137.60	58.34%	Limited	U	Senior	MINOR		98	27	1	3		3		
+68-Chris Albright	50.20%	302.8076	140.97	61.67%	Production	D		MINOR	FY107226	91	32	3	3		1		
+69-Nerida Boyette	50.03%	301.7497	133.43	50.98%	Open	none		MAJOR		94	22	5	8				
+70-Mick Sambasile	49.99%	301.5007	143.06	52.57%	Carry Optics	U	Super Senior	MINOR	TY47665	92	32	4	1		1		
+71-Bryan Faustino	49.56%	298.9191	139.29	61.48%	Production	C		MINOR	A115127	98	20	7	4				
+72-Travis Edwards	48.90%	294.9328	138.93	51.44%	Carry Optics	U		MINOR	A107004	92	27	5	5		1		
+73-Shane Richard	48.83%	294.5179	128.19	51.64%	Carry Optics	U		MINOR	106730	101	14	7	7		1		
+74-Francis Nguyen	47.17%	284.5267	148.72	54.58%	Limited			MINOR		110	11	3	5				
+75-Ronald Potier	47.12%	284.2053	175.35	49.38%	Carry Optics	U	Senior	MINOR	TY113089	115	12	2			1		
+76-Adam Post	46.06%	277.8510	168.70	80.53%	Single Stack	C		MINOR		109	17	2	1		2		
+77-Eman Alcoseba	45.33%	273.4097	152.11	77.37%	Single Stack	U		MINOR	TY67519	94	24	3	8				
+78-Jun Wu	45.32%	273.3499	166.44	52.62%	Limited	U		MINOR		102	23	2	2				
+79-Albert Molina	43.87%	264.6254	154.67	44.50%	Open	U		MAJOR	A107586	100	18	3	8				
+80-Bill Hunter	42.06%	253.7046	185.26	43.11%	Open	B	Super Senior	MAJOR	A13721	101	23	4			2		
+81-Mitchell Levy	41.09%	247.8589	185.21	50.95%	Production			MINOR		109	16	2	2				
+82-Patrick Sartor	38.24%	230.6593	164.88	47.10%	Production	U		MINOR	PEN	99	23	1	5		4		
+83-Lawney Morales	35.98%	217.0414	202.74	41.56%	Limited	U	Senior	MINOR		106	18	1	4		1		
+84-Raul Farladansky	30.28%	182.6591	209.23	37.79%	Production		Senior	MINOR		97	25	1	6		1	1	
+85-Roy Tomare	11.30%	68.1608	323.02	13.96%	Production	U		MINOR		50	37	9	4		1		
+DQ-Juliann Milks	0.00%	0.0000		0.00%	Limited	C		MINOR	A110188								
+Name
+1-Daniel Thompson
+2-August Balagtas
+3-Randy Goodney
+4-Jay Bennett
+5-Alex Goben
+6-Corey Slifko
+7-Gary Owens
+8-Tom Donahue
+9-Ricky Wiley
+10-Duane Mendoza
+11-Gerrit Milks
+12-Glenn Cunningham
+13-Paul Felker
+14-Jerry McClain
+15-Roman Gwiscz
+16-Albert Atmosfera
+17-Olyemi Bakare
+18-Mark Meyers
+19-Ryan Alicaya 1
+20-Dave Campell
+21-Brandon Hill
+22-Tony Devega
+23-Eric Prehn
+24-Neal Nandin
+25-Mike Junco
+26-Mike Wilson
+27-Chev Jacot
+28-Matt Lem
+29-Jason Bright
+30-Marlon Poralan
+31-Jon Baguio
+32-Kyle Post
+33-Michael Pontious
+34-Eddie Jimenea
+35-Raimon Alfonso
+36-Jen Kroll
+37-Rommel Mercado
+38-Derek Rabuck
+39-Pat Byrne
+40-Kyle McCord
+41-Mike Kahl
+42-Christopher Zak 3
+43-Samuel Bharksuwan
+44-Jason Sartor
+45-Gary Wu 3
+46-John eric Seto
+47-Albert Calderon
+48-Dave Eickhoff
+49-Tom Neal
+50-Jay Olmstead
+51-Michael Henss 1
+52-Danny Naramore
+53-Bill Kinstley
+54-Andy Whitley
+55-Ashley Sullivan
+56-Corey Arrimgto,
+57-Benjamin Michael
+58-Jim Duncan
+59-Chris Nagala
+60-Adam Weinstein
+61-Richard Dillow
+62-Robert Hollier
+63-Raqlph Burbe
+64-Stefan Liming
+65-Ramil Villanueva
+66-Angela Rabuck
+67-Solomon Sandoval
+68-Chris Albright
+69-Nerida Boyette
+70-Mick Sambasile
+71-Bryan Faustino
+72-Travis Edwards
+73-Shane Richard
+74-Francis Nguyen
+75-Ronald Potier
+76-Adam Post
+77-Eman Alcoseba
+78-Jun Wu
+79-Albert Molina
+80-Bill Hunter
+81-Mitchell Levy
+82-Patrick Sartor
+83-Lawney Morales
+84-Raul Farladansky
+85-Roy Tomare
+DQ-Juliann Milks
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Yellow
+Wu, Gary (3)
+2019-05-19 12:46:06.284 - 2019-05-19 12:48:09.100Edited 2 minutes after.Removed dnfr:Edited aprv was: false now: trueEdited str,0 was: 0 now: 17.66
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed cmts:Removed dqr:Removed penr:Added details: [object Object]Added numAlphas: 23Added numCharlies: 5Added stringTime: 17.66Edited By Baps-master2019-05-19 12:36:54.233 - 2019-05-19 12:46:06.284Edited 9 minutes after.Edited By Baps-master2019-05-18 15:28:32.411 - 2019-05-19 12:36:54.233Edited 21 hours after.Edited aprv was: true now: falseEdited str,0 was: 12.66 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited By Baps-master
+Zak, Christopher (3)
+2019-05-18 14:32:09.495 - 2019-05-18 14:32:45.752Edited a few seconds after.Removed dnfr:Edited aprv was: false now: trueEdited str,0 was: 0 now: 21.91
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+Removed cmts:Removed dqr:Removed penr:Added details: [object Object]Added numAlphas: 22Added numCharlies: 3Added numDeltas: 2Added numM: 1Added stringTime: 21.91Edited By Baps-Squad 32019-05-18 14:31:43.698 - 2019-05-18 14:32:09.495Edited a few seconds after.Edited By Baps-Squad 32019-05-18 14:31:13.000 - 2019-05-18 14:31:43.698Edited a few seconds after.Edited aprv was: true now: falseEdited str,0 was: 21.91 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+Edited By Baps-Squad 3
+Alicaya, Ryan (1)
+2019-05-18 17:18:45.442 - 2019-05-18 17:24:25.666Edited 6 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 25Added numCharlies: 3Added stringTime: 16.61Edited By Baps-Squad5
+Blue
+Henss, Michael (1)
+2019-05-18 15:31:24.060 - 2019-05-18 15:31:55.963Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	0	1	0	0	0
+Added details: [object Object]Added numAlphas: 24Added numCharlies: 1Added numDeltas: 1Added stringTime: 20.62Edited By Baps-Squad 2
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

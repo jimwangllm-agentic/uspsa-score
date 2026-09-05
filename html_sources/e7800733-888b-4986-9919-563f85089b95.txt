@@ -1,0 +1,176 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BAPS USPSA April USPSA 2018-04-21
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Eric Castillo	100.00%	561.5443	75.75	93.59%	PCC	M		MINOR	A87497	114	10	1					
+2-Wade Preutz	97.21%	545.8721	74.41	90.98%	PCC	A		MINOR	TY79055	107	16	2					
+3-Paul Van wyk	94.77%	532.1518	68.82	88.69%	PCC	B		MINOR		102	15	5	3				
+4-Tony Phan	94.25%	529.2636	73.72	88.21%	PCC	M		MINOR	FY11963	110	13	1			2		
+5-Randy Goodney	79.70%	447.5631	82.06	74.59%	PCC	M		MINOR	A94852	101	17	4	2		1		
+6-Henry Moreno	75.83%	425.8319	89.79	101.71%	Open	B		MAJOR	XXXXXX	100	19	4	2		1		
+7-Bob Zweck	75.64%	424.7459	92.64	70.79%	PCC	C		MINOR	A94853	106	18		1		1		
+8-Brandon Hill	75.03%	421.3246	97.59	98.12%	Production	M		MINOR	A80518	112	12	1					
+9-Mark Porretto	70.69%	396.9681	100.33	91.81%	Production	M		MINOR	L3711	108	14	2	1				
+10-James Beshada	70.28%	394.6331	96.26	92.24%	Production	A		MINOR	L4029	106	12	3	2				
+11-Robert Hollier	66.49%	373.3906	111.05	62.23%	PCC	C	Senior	MINOR	FY24941	119	6				1		
+12-Cecil Olmstead	66.40%	372.8420	128.57	62.14%	PCC	B	Super Senior	MINOR	L3738	118	7						
+13-Chris Nagala	64.28%	360.9654	115.93	93.22%	Carry Optics	D		MINOR	TY97712	119	6						
+14-Danny Naramore	64.08%	359.8438	103.99	59.97%	PCC	C		MINOR	TY96553	107	15	1	2		1		
+15-Dale Hamm	63.94%	359.0450	114.99	59.84%	PCC	C	Senior	MINOR	TY97196	94	29	1					
+16-Tony Smallwood	62.87%	353.0425	122.61	87.81%	Carry Optics			MINOR	TY94508	113	8	3	1				
+17-Dave Campell	62.18%	349.1863	94.92	84.86%	Open	M		MAJOR	TY26527	90	23	6	6			1	
+18-Jim Duncan	61.97%	347.9951	121.41	81.42%	Production	B	Senior	MINOR	TY33325	122	3						
+19-Jonathan Warrender	61.80%	347.0152	110.46	95.16%	Limited	B		MAJOR	TY86145	103	17	2	3				
+20-Ashley Sullivan	61.24%	343.9094	117.23	80.57%	Production	C	Lady	MINOR	TY92392	115	8	1	1				
+21-Mike Wilson 1	61.03%	342.7197	112.95	57.12%	PCC	C	Super Senior, Military	MINOR	TY84396	112	12	1			1		
+22-Paul Felker	58.41%	327.9924	119.91	84.46%	Carry Optics	D		MINOR	A107123	108	14	2	1				
+23-JAY-R DELOS-SANTOS	58.05%	325.9772	108.56	82.63%	Carry Optics	U		MINOR	A70297	102	13	3	5				
+24-Gary Wu	57.33%	321.9415	111.36	75.86%	Production	C		MINOR	L2998	94	25	1	3				
+25-Mick Sambasile	56.61%	317.8780	130.16	75.65%	Open	C		MAJOR	TY47665	95	27	1	2				
+26-Steve Deardorff	54.83%	307.8723	125.93	100.92%	Single Stack	B		MAJOR	TY16844	103	14	6	2				
+27-JW Aguirre	54.17%	304.1816	124.72	104.17%	Revolver	B		MINOR	A87708	98	21	2	2				
+28-Marcus Giggenbacher	52.98%	297.4982	126.73	76.51%	Carry Optics	U		MINOR		106	14	3	2				
+29-John Austria	52.96%	297.3711	105.03	70.45%	Production	B		MINOR	FY82746	93	11	1	1				
+30-Eric Mccampell	52.53%	294.9856	112.55	80.88%	Limited	C		MAJOR	A14332	95	20	4	5		3	2	
+31-Mark Meyers	49.68%	278.9757	128.23	71.73%	Carry Optics	U	Super Senior	MINOR		93	25	4	3				
+32-Glenn Cunningham	49.17%	276.1149	148.82	63.80%	Production	C		MINOR	A78280	117	4	1	3				
+33-Tom Eudy	48.90%	274.5961	135.97	63.59%	Production	B		MINOR	A39448	105	15	3	2		1		
+34-Herman Waddy	47.70%	267.8662	157.30	61.87%	Production			MINOR	A101165	98	18	6	1				
+35-Stefan Liming	46.97%	263.7499	143.89	66.93%	Carry Optics	U		MINOR	A71566	107	13	3	2		1		
+36-Roman Gwiscz	46.61%	261.7264	157.17	43.62%	PCC	U		MINOR	A56629	90	29	2	4				
+37-David Chow 1	46.49%	261.0788	120.84	61.26%	Production	C		MINOR	a100573	92	22	5	6			1	
+38-Travis Edwards	46.25%	259.6940	129.06	71.84%	Limited	U		MINOR	A107004	101	13	5	6				
+39-Marlon Poralan	43.89%	246.4385	155.26	57.43%	Production	D		MINOR	PEN	108	10	5	2				
+40-Richard Dillow	42.84%	240.5669	145.63	55.82%	Production	C	Senior	MINOR	TY57446	99	18	3	5				
+41-Adam Post	41.70%	234.1782	152.42	77.81%	Single Stack	C		MINOR	A83655	103	14	5	3		1		
+42-Norm Lee	41.15%	231.1015	161.99	63.80%	Limited	B	Super Senior	MAJOR	TY39532	97	22	2	4				
+43-Terry Price	40.83%	229.3039	183.36	53.25%	Production	D		MINOR	A94118	112	10		2				
+44-Robert Bui	39.77%	223.3284	144.73	50.92%	Production	C		MINOR	A103016	94	22	2	7				
+45-Ryan Alicaya	39.25%	220.4073	114.32	50.93%	Production	C		MINOR	A106355	78	26	2	7				
+46-Bill Hunter	38.54%	216.4046	180.88	56.32%	Carry Optics	U	Super Senior	MINOR	A13721	105	14	4	2				
+47-Lawney Morales	36.74%	206.3374	179.84	58.39%	Limited	U	Senior	MINOR	TY75143	108	11	2	4				
+48-Jeffrey Polk	36.62%	205.6353	134.76	47.33%	Production	C		MINOR	A104167	88	15	5	5				
+49-Bill Kinstley 1	35.25%	197.9665	187.71	54.19%	Limited	U		MAJOR	A104836	98	19	5	3			1	
+50-Vinh Nguyen	35.17%	197.4931	156.05	54.23%	Limited	U		MINOR		96	17	3	9				
+51-Jerry Dueitt	34.50%	193.7245	182.72	63.08%	Single Stack			MINOR	TY108354	93	24	4	4				
+52-Lucas Hickman	33.52%	188.2535	144.65	49.89%	Limited	U		MINOR		96	11	5	13				
+53-Ralph Burbe	32.08%	180.1234	159.45	46.67%	Carry Optics	U		MINOR	A83904	88	13	13	8				
+54-Abelardo Nerida	29.71%	166.8279	145.31	46.82%	Limited	U		MAJOR		90	9	4	16				
+55-Margret Wilson	29.16%	163.7265	215.57	38.00%	Production	none	Lady, Senior, Military	MINOR	FY92303	103	15	2	5				
+56-Dawne Lee	27.32%	153.3915	218.84	41.90%	Limited	C	Lady, Super Senior	MAJOR	TY42290	80	28	10	6				
+57-Zachary Zwicky	27.03%	151.7768	195.89	42.23%	Limited	U		MINOR		95	19	1	10				
+58-Jun Wu	26.76%	150.2439	175.64	34.90%	Production			MINOR	A104927	81	25	8	11				
+59-Jarod Warrender	16.84%	94.5372	347.57	27.38%	Limited			MINOR	NONE	99	14	4	8				
+Name
+1-Eric Castillo
+2-Wade Preutz
+3-Paul Van wyk
+4-Tony Phan
+5-Randy Goodney
+6-Henry Moreno
+7-Bob Zweck
+8-Brandon Hill
+9-Mark Porretto
+10-James Beshada
+11-Robert Hollier
+12-Cecil Olmstead
+13-Chris Nagala
+14-Danny Naramore
+15-Dale Hamm
+16-Tony Smallwood
+17-Dave Campell
+18-Jim Duncan
+19-Jonathan Warrender
+20-Ashley Sullivan
+21-Mike Wilson 1
+22-Paul Felker
+23-JAY-R DELOS-SANTOS
+24-Gary Wu
+25-Mick Sambasile
+26-Steve Deardorff
+27-JW Aguirre
+28-Marcus Giggenbacher
+29-John Austria
+30-Eric Mccampell
+31-Mark Meyers
+32-Glenn Cunningham
+33-Tom Eudy
+34-Herman Waddy
+35-Stefan Liming
+36-Roman Gwiscz
+37-David Chow 1
+38-Travis Edwards
+39-Marlon Poralan
+40-Richard Dillow
+41-Adam Post
+42-Norm Lee
+43-Terry Price
+44-Robert Bui
+45-Ryan Alicaya
+46-Bill Hunter
+47-Lawney Morales
+48-Jeffrey Polk
+49-Bill Kinstley 1
+50-Vinh Nguyen
+51-Jerry Dueitt
+52-Lucas Hickman
+53-Ralph Burbe
+54-Abelardo Nerida
+55-Margret Wilson
+56-Dawne Lee
+57-Zachary Zwicky
+58-Jun Wu
+59-Jarod Warrender
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Orange
+Kinstley, Bill (1)
+2018-04-21 15:22:05.439 - 2018-04-21 15:22:27.883Edited a few seconds after.Added proc: 1Added details: [object Object]Added numAlphas: 26Added numCharlies: 2Added numM: 2Added numProc: 1Added stringTime: 37.42Edited By Baps-Squad5
+Cm 08-03
+Wilson, Mike (1)
+2018-04-21 15:15:44.755 - 2018-05-04 14:13:17.455Edited 13 days after.Edited dnf was: false now: trueEdited dname was: Baps-Squad 4 now: Baps-masterEdited udid was: 14BC1BE444324F429B6758EC0471547E now: 5D9327B4FC51418F82A91FA9C80E1A1DAdded details: [object Object]Added numAlphas: 6Added stringTime: 3.71Edited By Baps-Squad 4
+Chow, David (1)
+2018-04-21 15:18:06.885 - 2018-04-21 15:18:19.609Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 5Added numCharlies: 3Added stringTime: 3.73Edited By Baps-Squad 4
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

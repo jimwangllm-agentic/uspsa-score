@@ -1,0 +1,474 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BAPS USPSA August USPSA/IPSC 2017-08-19
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	P
+1-Paul Van wyk	100.00%	684.2879	77.20	115.00%	PCC	M		MINOR		119	15	2				
+2-John Nixon	89.88%	615.0171	86.17	103.37%	PCC	A		MINOR		119	18	1				
+3-Randy Goodney	84.91%	581.0289	87.27	97.67%	PCC	A		MINOR	A94852	118	15	1	2			
+4-Chad Folger	83.23%	569.5630	84.30	108.17%	Limited	M		MAJOR	L3031	98	30	5	4			
+5-August Balagtas	83.00%	567.9676	93.84	115.00%	Single Stack	A		MAJOR	L3674	104	26	3				
+6-Tony Phan	78.39%	536.4430	92.12	104.75%	Production	M		MINOR	FY11963	110	15	1	2		2	
+7-Scott Miller	76.49%	523.3973	104.48	87.98%	PCC	U		MINOR	TY16696	127	8					
+8-Dave Eickhoff	75.91%	519.4748	93.93	87.34%	PCC	B		MINOR	A5063	110	19	1	2		1	
+9-Jerry McClain	75.85%	519.0465	101.30	99.63%	Limited	B		MAJOR		108	23	4	1			
+10-Sam Bharksuwan	75.00%	513.2416	84.82	98.20%	Open	B		MAJOR	B51	98	28	2	7		2	1
+11-Eric Castillo	73.29%	501.5468	97.08	95.18%	Limited	U		MINOR	A87497	105	25	2	2			
+12-Gerrit Milks	72.94%	499.1030	103.12	83.79%	PCC	C		MINOR	A67608	110	10		1			
+13-Albert Calderon	72.60%	496.8012	104.40	97.17%	Open	B		MAJOR	A74721	96	29	5	1			
+14-Richard Patzen	71.22%	487.3304	91.38	81.92%	PCC			MINOR		104	27		5			1
+15-Brian Whelihan	69.56%	476.0141	118.57	93.51%	Open	A		MAJOR		122	16					
+16-Mark Porretto	69.01%	472.2563	109.85	92.21%	Production	M		MINOR	L3711	110	26		1			
+17-Doug Dillon	68.48%	468.6118	112.87	115.00%	Carry Optics	U	Law Enforcement	MINOR	A71359	116	20	1				
+18-Roberto Cifuentes	67.85%	464.2881	94.77	91.34%	Production			MINOR	A100819	97	27	6	3		1	1
+19-Matt Lem	67.17%	459.6381	103.66	91.19%	Production	A		MINOR	TY34763	103	26	3	2		1	
+20-Robert Hollier	67.08%	459.0359	119.99	77.18%	PCC	C	Senior	MINOR	TY24941	131	2				3	
+21-Jen Kroll	66.98%	458.3285	102.09	89.72%	Production	B		MINOR	TY93835	103	26	3	3		1	
+22-Brandon Hill	66.19%	452.9560	116.10	88.90%	Production	A	Military	MINOR	A80518	122	14		1			1
+23-Roman Gwiscz	65.98%	451.5076	101.99	85.90%	Limited	B		MAJOR		97	29	6	4		3	
+24-Evan McKenna	65.83%	450.4510	98.43	87.08%	Production	B		MINOR	PENTY95861	101	28	1	5		1	
+25-Parker Henss 1	63.51%	434.5744	94.47	82.37%	Limited	U		MINOR	A79936	113	17	3	5		4	2
+26-Chev Jacot	62.77%	429.5079	101.93	82.93%	Open	B		MAJOR	A72378	107	20	4	7		1	1
+27-Wade Preutz	62.27%	426.1166	95.25	79.55%	Limited	A		MINOR	TY79055	86	36	9	6		1	
+28-Dave Campell	62.18%	425.5190	100.79	71.34%	PCC	M		MINOR	TY26527	107	19		8		2	
+29-Deryle Lowery	62.15%	425.2986	121.32	83.82%	Production	B		MINOR	L2881	110	21	3				
+30-Chris Peterson 1	60.82%	416.1572	113.01	81.11%	Production	none		MINOR		114	16		3		3	
+31-Mike Mckinney	60.75%	415.7044	127.61	77.57%	Limited			MAJOR		100	21	8	6		2	
+32-Daniel Thompson	60.64%	414.9429	103.80	80.84%	Production	A		MINOR	TY93931	100	26	1	6		1	
+33-Steven McNamara 1	59.59%	407.7659	124.50	80.41%	Open	B		MAJOR	A75212	101	26	3	2			
+34-Kyle Post 1	57.75%	395.1510	92.98	76.47%	Production	B		MINOR	A74846	95	28	5	10		2	
+35-Mike Junco	57.24%	391.6922	105.65	74.70%	Limited			MINOR		88	35	5	5			1
+36-Chris Whelihan	57.01%	390.1165	148.73	65.58%	PCC			MINOR		125	10	2	1		4	
+37-Jason Sartor	56.52%	386.7318	107.53	73.51%	Limited	U		MINOR	A78681	107	20	4	6		3	
+38-Jim Duncan	56.51%	386.6843	135.64	76.52%	Production	B	Senior	MINOR	TY33325	124	9	2	1			
+39-Vitan Gotsev	55.06%	376.7748	122.38	74.02%	Production	B		MINOR		104	26	5	3		1	
+40-Olayemi Bakare	54.08%	370.0327	116.24	71.73%	Production	U		MINOR		101	23	5	6		1	
+41-Ashley Sullivan	52.35%	358.2038	145.99	70.98%	Production	C	Lady	MINOR	TY92392	121	13		1			
+42-Jay Olmstead	52.04%	356.1220	158.69	59.82%	PCC	B	Super Senior	MINOR	L3738	125	11					
+43-Michael Pontious	50.88%	348.1584	120.28	65.83%	Limited	D		MAJOR	TY94575	99	23	2	10		1	
+44-Michael Henss	50.72%	347.0842	126.45	65.29%	Limited	C		MINOR	A56644	97	29	3	5		1	
+45-Carlos Escandon	50.14%	343.0729	142.95	66.92%	Production	B		MINOR	L2590	106	23		3			
+46-Michael Sambasile 2	49.10%	335.9694	135.29	65.68%	Open	C	Super Senior	MAJOR	TY47665	83	42	5	4			1
+47-Randall Stanford	48.61%	332.6267	127.40	63.58%	Limited	B		MAJOR	A70395	100	22	6	7		1	
+48-Anthony Smallwood	47.86%	327.5267	164.83	55.06%	PCC	U		MINOR	A94508	128	5		1		1	
+49-Jw Aguirre	45.83%	313.6177	141.57	115.00%	Revolver	B		MINOR	A87708	106	22	3	4		2	
+50-Susy Purin	45.49%	311.2851	175.88	52.39%	PCC	U		MINOR		126	11					4
+51-Pat Byrne	45.45%	311.0307	152.99	62.84%	Single Stack			MINOR	TY93921	111	20	1	4			
+52-David Chow	45.03%	308.1166	113.06	60.60%	Production			MINOR	A100573	97	28	2	11		2	1
+53-Chris Nagala	44.77%	306.3705	162.25	60.38%	Production	C		MINOR	TY97712	111	19		2			
+54-Steve Deardorff	43.22%	295.7204	126.60	58.93%	Single Stack	B		MINOR	TY16844	84	32	8	8		1	
+55-Jim Schultz	42.63%	291.7384	142.14	56.98%	Production	C	Senior	MINOR	A98586	104	16		2			
+56-Michelle Lonergan	41.27%	282.4212	157.26	55.10%	Production	C		MINOR	TY84120	102	25	1	6		1	
+57-Nathan Peterson 2	41.02%	280.7022	150.91	54.32%	Production	none		MINOR		94	26	7	8		3	
+58-Ken Shuey	40.92%	280.0039	155.39	52.81%	Limited	U		MINOR	PEN	103	24	3	3		3	2
+59-Angela Rabuck	40.86%	279.5871	153.48	53.37%	Limited	C		MINOR	A91275	104	18	3	8		2	
+60-Richard Dillow	40.76%	278.9407	170.72	54.98%	Production	C	Senior	MINOR	FY57446	106	24	1	3			
+61-Chris Ayres	39.93%	273.2290	139.07	52.09%	Limited			MAJOR		81	35	8	9		3	
+62-Eman Alcoseba	39.71%	271.7585	132.59	50.61%	Limited	none		MINOR	TY67519	91	20	3	11		4	
+63-James Chan	39.27%	268.7529	197.77	53.09%	Production	U		MINOR		131	6		1		2	
+64-Glenn Mckinney	39.12%	267.7232	151.81	50.11%	Limited			MAJOR		95	20	4	13		2	
+65-Glenn Cunningham	38.96%	266.6195	147.53	52.32%	Production	C	Senior	MINOR	A78280	110	15	5	8		4	
+66-Franklin Manas	36.25%	248.0618	127.72	46.79%	Limited	D		MAJOR		74	31	7	14		2	1
+67-Chris Batts	34.52%	236.1870	145.91	44.97%	Limited	none		MINOR	A79338	84	39	3	10		2	1
+68-Lawney Morales	34.42%	235.5340	176.11	47.88%	Single Stack	D		MINOR	TY75143	104	25	2	7		2	
+69-Patrick Sartor	33.01%	225.8659	169.78	44.41%	Production	U		MINOR		101	21	7	8		4	
+70-Ashlee Whelihan	31.39%	214.8007	217.01	53.88%	Carry Optics	U		MINOR		99	27	6	3		1	
+71-Robert Bui	30.86%	211.1854	145.46	41.32%	Production			MINOR	A103016	81	35	7	14		1	
+72-Mackenzie Dillon 1	29.14%	199.4333	193.24	38.88%	Production	D	Junior, Lady	MINOR	A88307	94	25	4	10		4	
+73-Chris Zak 2	27.58%	188.7600	145.59	36.11%	Production	U		MINOR		83	33	6	14		4	1
+74-James Richardson	27.14%	185.6828	250.26	35.12%	Limited			MAJOR	A103934	92	32	6	7		2	
+75-Tom Neal	26.30%	179.9480	177.80	34.89%	Production	C		MINOR		91	20	10	13		5	3
+76-Regine Dolores	24.55%	168.0062	155.15	31.89%	Limited	D		MINOR	A100570	78	35	8	17		6	
+77-Gary Owens	23.47%	160.5961	188.82	31.12%	Production	U		MINOR	FY101331	82	29	7	11		2	7
+78-Jean Richardson	22.02%	150.6624	266.48	28.79%	Limited	U		MINOR	A103935	97	22	7	9		1	
+79-Matt Maruca	17.81%	121.8557	212.06	22.43%	Limited			MINOR		80	26	7	21		3	3
+80-Raymond Whitlock	16.63%	113.7655	179.68	21.60%	Limited	U		MINOR		71	28	12	20		5	
+81-Tommy Mcmolloch	14.10%	96.5088	235.80	19.96%	Single Stack			MAJOR	A104454	68	30	7	26		4	
+82-Ben Cohen	12.67%	86.6912	301.66	16.65%	Production	U		MINOR	PEN	79	32	8	18		4	
+83-Tom Mcmolloch	10.03%	68.6653	379.98	14.08%	Single Stack	U		MAJOR		87	23	3	19		2	1
+84-Mason Sollenberger	8.81%	60.2865	257.91	11.39%	Production	U		MINOR	A103138	69	22	8	29		5	1
+85-Jim Schultz	4.70%	32.1577	15.16	6.82%	Production	C	Senior	MINOR	A98586	7	5					
+Name
+1-Paul Van wyk
+2-John Nixon
+3-Randy Goodney
+4-Chad Folger
+5-August Balagtas
+6-Tony Phan
+7-Scott Miller
+8-Dave Eickhoff
+9-Jerry McClain
+10-Sam Bharksuwan
+11-Eric Castillo
+12-Gerrit Milks
+13-Albert Calderon
+14-Richard Patzen
+15-Brian Whelihan
+16-Mark Porretto
+17-Doug Dillon
+18-Roberto Cifuentes
+19-Matt Lem
+20-Robert Hollier
+21-Jen Kroll
+22-Brandon Hill
+23-Roman Gwiscz
+24-Evan McKenna
+25-Parker Henss 1
+26-Chev Jacot
+27-Wade Preutz
+28-Dave Campell
+29-Deryle Lowery
+30-Chris Peterson 1
+31-Mike Mckinney
+32-Daniel Thompson
+33-Steven McNamara 1
+34-Kyle Post 1
+35-Mike Junco
+36-Chris Whelihan
+37-Jason Sartor
+38-Jim Duncan
+39-Vitan Gotsev
+40-Olayemi Bakare
+41-Ashley Sullivan
+42-Jay Olmstead
+43-Michael Pontious
+44-Michael Henss
+45-Carlos Escandon
+46-Michael Sambasile 2
+47-Randall Stanford
+48-Anthony Smallwood
+49-Jw Aguirre
+50-Susy Purin
+51-Pat Byrne
+52-David Chow
+53-Chris Nagala
+54-Steve Deardorff
+55-Jim Schultz
+56-Michelle Lonergan
+57-Nathan Peterson 2
+58-Ken Shuey
+59-Angela Rabuck
+60-Richard Dillow
+61-Chris Ayres
+62-Eman Alcoseba
+63-James Chan
+64-Glenn Mckinney
+65-Glenn Cunningham
+66-Franklin Manas
+67-Chris Batts
+68-Lawney Morales
+69-Patrick Sartor
+70-Ashlee Whelihan
+71-Robert Bui
+72-Mackenzie Dillon 1
+73-Chris Zak 2
+74-James Richardson
+75-Tom Neal
+76-Regine Dolores
+77-Gary Owens
+78-Jean Richardson
+79-Matt Maruca
+80-Raymond Whitlock
+81-Tommy Mcmolloch
+82-Ben Cohen
+83-Tom Mcmolloch
+84-Mason Sollenberger
+85-Jim Schultz
+Old style results
+
+Score Edit History
+Red
+Henss, Parker (1)
+2017-08-19 17:33:48.320 - 2017-08-19 17:33:51.580Edited a few seconds after.Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 24Added numCharlies: 4Added stringTime: 17.4Edited By Baps-Squad 2
+McNamara, Steven (1)
+2017-08-19 17:25:23.281 - 2017-08-19 17:25:27.059Edited a few seconds after.Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 26Added numCharlies: 2Added stringTime: 24.24Edited By Baps-Squad 3
+Blue
+Zak, Chris (2)
+2017-08-19 18:10:01.552 - 2017-08-19 18:11:09.572Edited a minute after.Removed dnfr:Edited str,0 was: 0 now: 29.26
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	2	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Removed cmts:Removed dqr:Removed penr:Added proc: 1Added details: [object Object]Added numAlphas: 14Added numBravos: 2Added numCharlies: 7Added numDeltas: 1Added numNS: 2Added numM: 6Added numProc: 1Added stringTime: 29.26Edited By Baps-Squad52017-08-19 17:57:12.887 - 2017-08-19 18:10:01.552Edited 13 minutes after.Edited str,0 was: 29.26 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	1	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	1	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	2	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited By Baps-Squad5
+Peterson, Chris (1)
+2017-08-19 17:44:10.306 - 2017-08-19 18:05:59.151Edited 22 minutes after.Edited str,0 was: 45.71 now: 25.71Edited secured was: true now: falseAdded details: [object Object]Added numAlphas: 20Added numBravos: 5Added numCharlies: 2Added numNS: 1Added numM: 3Added stringTime: 25.71Edited By Baps-Squad5
+Peterson, Nathan (2)
+2017-08-19 18:12:53.045 - 2017-08-19 18:13:09.720Edited a few seconds after.Removed dnfr:Edited aprv was: false now: trueEdited str,0 was: 0 now: 35.41
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed cmts:Removed dqr:Removed penr:Added details: [object Object]Added numAlphas: 20Added numCharlies: 7Added numDeltas: 2Added numM: 1Added stringTime: 35.41Edited By Baps-Squad52017-08-19 17:45:57.550 - 2017-08-19 18:12:53.045Edited 27 minutes after.Edited aprv was: true now: falseEdited str,0 was: 45.41 now: 0Edited secured was: true now: false
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited By Baps-Squad5
+Sambasile, Michael (2)
+2017-08-19 17:10:41.730 - 2017-08-19 16:59:54.753Edited 11 minutes after.Edited secured was: true now: false
+A	B	C	D	NS	M	NPM
+Previous	14	0	1	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	15	0	1	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	14	1	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	1	0
+Current	0	0	0	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	1	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	1	0	0	2	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 16Added numBravos: 2Added numCharlies: 10Added numDeltas: 1Added numM: 1Added stringTime: 29.35Edited By Baps-Squad 62017-08-19 16:59:54.753 - 2017-08-19 17:10:41.730Edited 11 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	14	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	15	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	3	14	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	1	0	1	0
+Current	1	0	0	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	1	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	4	0	1	0	0	2	0
+Edited By Baps-Squad 6
+Post, Kyle (1)
+2017-08-19 14:25:35.246 - 2017-08-19 14:50:43.767Edited 25 minutes after.Edited secured was: true now: falseRemoved proc: 1Added details: [object Object]Added numAlphas: 16Added numCharlies: 9Added numDeltas: 1Added numM: 4Added stringTime: 19.9Edited By Baps-Squad 4
+Cm 03-02
+Dillon, Mackenzie (1)
+2017-08-19 17:30:26.194 - 2017-08-19 17:36:52.187Edited 6 minutes after.Edited str,0 was: 14.24 now: 21.39Edited secured was: true now: false
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	1	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	2	2	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 2Added numBravos: 1Added numCharlies: 4Added numNS: 3Added numM: 5Added stringTime: 21.39Edited By Baps-Squad 1
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

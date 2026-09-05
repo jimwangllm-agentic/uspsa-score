@@ -1,0 +1,153 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Wallis Orchard 28SEP19 HIT FACTOR 2019-09-28
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	P
+1-Mike Mansilla	100.00%	696.9074	150.13	144.68%	Limited			MAJOR		107	38	4	1		1	
+2-Jim Havens 1	89.29%	622.2577	162.10	135.08%	Carry Optics			MINOR		122	23	2	3			
+3-Waldo Samano	88.98%	620.0789	156.67	136.29%	Production			MINOR		100	45	4	1		2	
+4-Jon Baguio	84.32%	587.6335	137.85	125.86%	Carry Optics			MINOR		96	44	3	7		1	
+5-Eric Mccampbell	83.62%	582.7578	170.46	121.27%	Limited			MAJOR		93	49	6	2		3	
+6-Gary Wu 1	81.80%	570.0442	170.73	125.60%	Production			MINOR		110	37		3			
+7-Norman Oducado	81.48%	567.8176	149.02	125.07%	Production			MINOR		103	35	4	8			
+8-Jeffrey Polk	77.85%	542.5473	153.86	118.47%	Carry Optics			MINOR		95	40	8	7			
+9-Emmanuel Alcoseba	57.97%	403.9974	214.67	84.31%	Limited			MAJOR		101	34	7	8		2	
+10-Eric Wu	54.65%	380.8295	188.53	78.64%	Limited			MINOR		93	40	6	11		2	
+11-Bill Kinstley	50.78%	353.8938	218.56	73.67%	Limited	U		MAJOR		102	36	1	11		3	2
+12-Allan Santiago	47.71%	332.5115	265.66	150.00%	Single Stack			MINOR		90	52	5	3		2	
+13-Ralph Burbe	31.99%	222.9737	238.54	48.76%	Production			MINOR		88	41	2	19		1	
+14-Matthew Santiago	10.83%	75.4568	327.89	16.78%	Production			MINOR		55	50	12	33		4	
+15-Jing Bedro	0.00%	0.0000		0.00%	PCC			MINOR								
+16-Pat Byrne	0.00%	0.0000		0.00%	Limited			MAJOR								
+17-David Chow	0.00%	0.0000		0.00%	Production			MINOR								
+18-Arnold Gee	0.00%	0.0000		0.00%	Open			MAJOR								
+19-Randy Goodney	0.00%	0.0000		0.00%	PCC			MINOR								
+20-Chev Jacot	0.00%	0.0000		0.00%	Open			MAJOR								
+21-Bill Kinstley	0.00%	0.0000		0.00%	Limited	U		MAJOR								
+22-Taylor Latham	0.00%	0.0000		0.00%	Single Stack			MAJOR								
+23-Duane Mendoza	0.00%	0.0000		0.00%	Open			MAJOR								
+24-Gary Owens	0.00%	0.0000		0.00%	Open			MAJOR								
+25-Alan Regala	0.00%	0.0000		0.00%	Production			MINOR								
+26-Ramil Villanueva	0.00%	0.0000		0.00%	Carry Optics			MINOR								
+27-CHAN WILLIAM	0.00%	0.0000		0.00%	Open			MINOR								
+DQ-Marlon Poralan	0.00%	0.0000		0.00%	Limited			MINOR								
+Name
+1-Mike Mansilla
+2-Jim Havens 1
+3-Waldo Samano
+4-Jon Baguio
+5-Eric Mccampbell
+6-Gary Wu 1
+7-Norman Oducado
+8-Jeffrey Polk
+9-Emmanuel Alcoseba
+10-Eric Wu
+11-Bill Kinstley
+12-Allan Santiago
+13-Ralph Burbe
+14-Matthew Santiago
+15-Jing Bedro
+16-Pat Byrne
+17-David Chow
+18-Arnold Gee
+19-Randy Goodney
+20-Chev Jacot
+21-Bill Kinstley
+22-Taylor Latham
+23-Duane Mendoza
+24-Gary Owens
+25-Alan Regala
+26-Ramil Villanueva
+27-CHAN WILLIAM
+DQ-Marlon Poralan
+Old style results
+
+Score Edit History
+Stage 1
+Havens, Jim (1)
+2019-09-28 14:23:25.321 - 2019-09-28 14:24:05.601Edited a few seconds after.Edited rawpts was: 98 now: 103
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 20Added numCharlies: 4Added numDeltas: 1Added numM: 1Added stringTime: 26.84Edited By Android Device
+Stage 4
+Wu, Gary (1)
+2019-09-28 14:38:11.030 - 2019-09-28 14:39:42.360Edited 2 minutes after.Edited rawpts was: 20 now: 137
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited str,0 was: 0.34 now: 31.43Added aprv: trueAdded details: [object Object]Added numAlphas: 26Added numCharlies: 9Added numM: 1Added stringTime: 31.43Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

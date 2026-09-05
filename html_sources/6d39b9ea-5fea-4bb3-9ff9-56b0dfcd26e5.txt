@@ -1,0 +1,528 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BAS USPSA Oct 21, 2018 USPSA 2018-10-21
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Dave Girardin	100.00%	542.4702	57.74	96.04%	Open	M		MAJOR		85	25	5	3				
+2-Sean Janicki	99.58%	540.2043	61.61	98.33%	Limited	M		MAJOR	TY73127	84	26	7	1				
+3-Shane Fungafat	89.91%	487.7474	65.88	87.06%	Open	A		MAJOR	TY79508	87	25	3	3				
+4-jim martino	82.21%	445.9654	77.29	95.40%	pcc	M	Super Senior	MINOR		97	18	3					
+5-Bill Magyari 1	80.71%	437.8215	74.75	79.39%	Limited	B		MAJOR	A88370	87	21	6	2				
+6-John Zelek	79.63%	431.9501	76.81	91.52%	pcc	A		MINOR	A111538	86	30	2					
+7-Jack Folloni 1	77.81%	422.0823	79.00	98.33%	Production	M	Senior	MINOR	A80334	96	17	4	1				
+8-Anatoly Podpaly	67.22%	364.6476	92.75	77.04%	pcc	B		MINOR	TY62563	91	24	2	1				
+9-Gregory Desnoyers 2	65.21%	353.7359	100.23	76.48%	pcc	U		MINOR	A110807	102	15						
+10-Spencer Boyd 1	64.39%	349.3045	96.00	63.62%	Limited	U		MINOR		92	24	1	1				
+11-Mike Zhang	61.57%	333.9810	98.64	78.69%	Production	U		MINOR		97	18	2	1				
+12-Wade Price	60.73%	329.4235	106.99	60.45%	Limited	C	Senior	MAJOR	L3330	88	28	2					
+13-John Bannon 1	58.00%	314.6096	109.77	98.33%	Single Stack	B		MAJOR	TY84968	90	22	5	1				
+14-Richard Spinella 1	57.67%	312.8432	103.10	57.62%	Limited	U		MAJOR		75	33	5	3				
+15-Joseph Danao	57.58%	312.3670	103.72	57.87%	Limited	U		MAJOR	A113516	76	29	12					
+16-Jim Wallhagen	53.61%	290.8185	114.72	98.33%	Limited 10	C		MAJOR	TY100479	88	25	4	1				
+17-John Shpack 1	51.42%	278.9193	106.93	65.96%	Production	U		MINOR		73	38	6	1				
+18-Jerami Atwater	51.01%	276.7210	101.88	64.35%	Production	C		MINOR	A102565	80	32	1	5				
+19-Mike Fortin 1	49.09%	266.3101	109.59	61.42%	Production	B		MINOR	A110809	86	25	2	5				
+20-Matt Jackson 1	47.68%	258.6464	139.15	56.08%	pcc	U		MINOR	A100514	104	11	2	1			1	
+21-KENDALL PERKINS	46.09%	250.0043	129.99	46.22%	Limited	U		MINOR	A109109	92	20	5	1				
+22-Mark Sudweeks	42.93%	232.8594	148.11	43.09%	Limited	U		MINOR	A114653	91	24	3					
+23-Steven Ribeiro	42.14%	228.5878	104.93	41.78%	Limited	U		MINOR	A99442	64	32	17	5				
+24-Bill Paniccia 1	40.71%	220.8509	149.46	51.47%	Production	C		MINOR	TY112179	94	16	2	3				
+25-Bill Stewart	39.93%	216.6320	156.06	50.18%	Production	C		MINOR	TY102711	100	11	6	1				
+26-Thomas Williams	38.10%	206.6892	157.76	44.28%	pcc	U		MINOR	A57478	85	33				1		
+27-Johny Utah	36.16%	196.1784	171.80	36.33%	Limited	U		MINOR		110	5	2	1			2	
+28-Chris Hiltgen	34.56%	187.4996	148.58	42.69%	Production	U		MINOR	A114178	77	28	8	4		1		
+29-Devin Schlichting 1	32.55%	176.5934	198.89	32.10%	Limited	U		MINOR		98	19						
+DQ-Sean Murphy	0.00%	0.0000		0.00%	Production	U		MINOR	A106798								
+Name
+1-Dave Girardin
+2-Sean Janicki
+3-Shane Fungafat
+4-jim martino
+5-Bill Magyari 1
+6-John Zelek
+7-Jack Folloni 1
+8-Anatoly Podpaly
+9-Gregory Desnoyers 2
+10-Spencer Boyd 1
+11-Mike Zhang
+12-Wade Price
+13-John Bannon 1
+14-Richard Spinella 1
+15-Joseph Danao
+16-Jim Wallhagen
+17-John Shpack 1
+18-Jerami Atwater
+19-Mike Fortin 1
+20-Matt Jackson 1
+21-KENDALL PERKINS
+22-Mark Sudweeks
+23-Steven Ribeiro
+24-Bill Paniccia 1
+25-Bill Stewart
+26-Thomas Williams
+27-Johny Utah
+28-Chris Hiltgen
+29-Devin Schlichting 1
+DQ-Sean Murphy
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+P1 S1 Dixie Land
+Shpack, John (1)
+2018-10-21 13:58:42.744 - 2018-10-21 14:00:20.411Edited 2 minutes after.Edited str,0 was: 0 now: 20.82Edited aprv was: false now: true
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 11Added numCharlies: 6Added numDeltas: 1Added stringTime: 20.82Edited By BAS #1
+Desnoyers, Gregory (1)
+2018-10-21 13:41:06.574 - 2018-10-21 14:07:34.693Edited 26 minutes after.Edited str,0 was: 0 now: 19.2Edited aprv was: false now: true
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 16Added numCharlies: 2Added stringTime: 19.2Edited By BAS #1
+Jackson, Matt (1)
+2018-10-21 13:48:36.070 - 2018-10-21 13:52:10.894Edited 4 minutes after.Edited str,0 was: 0 now: 16.86Edited aprv was: false now: true
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 17Added numDeltas: 1Added stringTime: 16.86Edited By BAS #1
+Spinella, Richard (1)
+2018-10-21 14:00:26.531 - 2018-10-21 14:02:33.468Edited 2 minutes after.Edited str,0 was: 0 now: 18.7Edited aprv was: false now: true
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	1	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 10Added numBravos: 2Added numCharlies: 5Added numM: 1Added stringTime: 18.7Edited By BAS #1
+P2 S3: Jekle And Hyde
+Paniccia, Bill (1)
+2018-10-21 14:48:54.592 - 2018-10-21 14:50:32.659Edited 2 minutes after.Edited str,0 was: 0 now: 15.71Edited aprv was: false now: true
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 15Added numBravos: 2Added numCharlies: 3Added stringTime: 15.71Edited By BAS #1
+P2 S4: Master Blaster
+Bannon, John (1)
+2018-10-21 14:08:50.555 - 2018-10-21 15:54:07.650Edited 2 hours after.Edited str,0 was: 0 now: 9.76Edited aprv was: false now: true
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	1	1	0	0	0
+Added details: [object Object]Added numAlphas: 16Added numCharlies: 1Added numDeltas: 1Added stringTime: 9.76Edited By BAS #3
+P3 S5: Shark Tooth
+Desnoyers, Gregory (1)
+2018-10-21 15:45:13.238 - 2018-10-21 15:47:47.554Edited 3 minutes after.Edited str,0 was: 0 now: 22.86Edited aprv was: false now: true
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 28Added numCharlies: 2Added stringTime: 22.86Edited By BAS #1
+P4 S6: GA State
+Magyari, Bill (1)
+2018-10-21 16:30:58.179 - 2018-10-21 16:34:30.747Edited 4 minutes after.Edited str,0 was: 0 now: 21.33Edited aprv was: false now: true
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	1	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 18Added numBravos: 1Added numCharlies: 7Added numDeltas: 2Added numM: 2Added stringTime: 21.33Edited By BAS #1
+Boyd, Spencer (1)
+2018-10-21 16:20:28.056 - 2018-10-21 16:22:27.325Edited 2 minutes after.Edited str,0 was: 0 now: 30.51Edited aprv was: false now: true
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 21Added numCharlies: 9Added stringTime: 30.51Edited By BAS #1
+Schlichting, Devin (1)
+2018-10-21 14:17:25.478 - 2018-10-21 14:26:07.702Edited 9 minutes after.Edited str,0 was: 0 now: 64.81Edited aprv was: false now: true
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 20Added numCharlies: 10Added stringTime: 64.81Edited By BAS #3
+Fortin, Mike (1)
+2018-10-21 16:01:19.706 - 2018-10-21 16:37:32.470Edited 36 minutes after.Edited str,0 was: 0 now: 33.66Edited aprv was: false now: true
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 18Added numCharlies: 9Added numDeltas: 1Added numM: 2Added stringTime: 33.66Edited By BAS #1
+Folloni, Jack (1)
+2018-10-21 15:55:23.388 - 2018-10-21 16:04:35.190Edited 9 minutes after.Edited str,0 was: 0 now: 22.71Edited aprv was: false now: true
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Added details: [object Object]Added numAlphas: 21Added numCharlies: 7Added numDeltas: 1Added numM: 1Added stringTime: 22.71Edited By BAS #1
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

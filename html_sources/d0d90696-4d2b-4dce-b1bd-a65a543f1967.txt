@@ -1,0 +1,786 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Wallis Orchard Practical Shooters PCSL Aug PCSL_HF 2024-08-18
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	Mem #	Class	Cats	Div	KT	A	C	D	M	NS	NPM	P	Time	%	Pts
+1-Travis McKenzie				Competition (COMP)	4	135	23	2	2				108.76	100.00	798.8581
+2-Bobby Ivester				Competition (COMP)	5	120	36	4					109.94	98.19	784.3863
+3-Brandon Foss				Practical Optics (PO)	2	141	23	2					117.17	96.63	771.9645
+4-Marco Yue				PCC	4	118	40	4					115.35	92.97	742.6585
+5-Olayemi Bakare				Practical Optics (PO)	3	136	25	2	1			1	116.79	92.69	740.4787
+6-Gil Yolo 1				Competition (COMP)	6	122	29	3	4				109.53	92.68	740.3874
+7-Andy Chen				Competition (COMP)	13	111	29	2	2				115.81	92.41	738.2593
+8-Anthony Giuliano				Practical Optics (PO)	5	130	29	1					127.68	88.22	704.7192
+9-Jim Havens 2				Practical Optics (PO)	4	122	37	2	1				124.38	86.49	690.9633
+10-Khoa Nguyen				Practical Optics (PO)	7	111	37	6	2				119.19	86.19	688.5690
+11-Anthony Fong				Practical Optics (PO)	25	88	24	1	7			3	108.22	85.08	679.6383
+12-Christian Canizales				Practical Optics (PO)	41	64	16	4	4				126.20	85.06	679.5471
+13-Taylor Snodgrass				Practical Optics (PO)	5	97	47	9	7			1	104.20	84.72	676.8130
+14-Andrew Whitley				Competition (COMP)	5	106	50	4					126.20	83.86	669.8960
+15-Craig Bellamy 2				Practical Irons (PI)	5	132	23	3	2			1	127.81	83.62	668.0191
+16-Robert Layton				Practical Optics (PO)	14	124	16	1	1				136.90	83.33	665.6812
+17-Steve Cai				Practical Optics (PO)	29	83	26	1	4				125.45	83.14	664.1746
+18-Jerry Bedro				PCC	17	95	33	3	5			2	118.56	81.88	654.1368
+19-Berrhett Foss				Practical Optics (PO)	10	120	21	2	7				124.53	80.13	640.1441
+20-Mike Junco				Practical Optics (PO)	3	136	22	4	2				134.77	79.87	638.0433
+21-Joseph White				Practical Optics (PO)	35	76	17	1	6			1	130.87	77.73	620.9410
+22-Calvin Chui 3				Practical Optics (PO)	29	87	22	2	1				143.00	77.73	620.9339
+23-Gary Wu				Competition (COMP)	2	123	38	5					138.16	77.67	620.5019
+24-Matthew Givens				PCC		118	50	2					140.01	77.18	616.5439
+25-Jesse Harrington				Practical Optics (PO)	2	132	30	3	1				141.66	77.02	615.2721
+26-Doug Joder				PCC	1	124	43	1					143.60	76.84	613.8321
+27-Abe Valdez				Practical Optics (PO)	7	114	40	3	3			1	129.92	76.69	612.6448
+28-Karys Bellamy 4				Practical Optics (PO)	44	52	23	1	6			1	134.79	75.70	604.7383
+29-Skippy Fullerton				Practical Optics (PO)	6	120	35	2	1				144.93	74.69	596.6821
+30-Anji Xu				Practical Optics (PO)	3	121	36	3	4				137.53	73.53	587.4042
+31-David Zhang				Practical Optics (PO)	5	106	49	4	1				140.16	72.90	582.3411
+32-Tony Vale				Practical Optics (PO)	2	119	40	5	2			1	150.70	72.26	577.2268
+33-John Jung				Practical Optics (PO)		92	57	20	1				128.44	70.75	565.1754
+34-Jeremiah Hunt				Practical Optics (PO)	5	105	41	13	1				142.87	70.26	561.3140
+35-Phyl Santos				Practical Optics (PO)	39	66	19	5	2				153.30	70.02	559.3536
+36-Patrick Mccombs				Practical Optics (PO)	4	122	30	8	2				148.40	69.56	555.7089
+37-Rafael Delfin				Practical Optics (PO)	15	101	33	3	3				148.96	68.88	550.2427
+38-Albert Legislador				PCC	24	100	21		1				172.77	68.15	544.4346
+39-Michael Pontious				Competition (COMP)	11	103	36	5	4				147.94	67.59	539.9863
+40-Timothy Honeycutt				Competition (COMP)	7	94	49	12	1				153.72	67.16	536.5047
+41-Pat Byrne 1				Practical Irons (PI)	3	113	47	3	1				156.27	66.84	533.9927
+42-Matthew Lem				Practical Irons (PI)	10	114	26	2	8			1	139.82	66.82	533.7732
+43-Jason Wilson				Practical Irons (PI)	4	106	48	6	2				154.48	66.65	532.4477
+44-Brandon Hunt				Practical Optics (PO)	8	113	31	9	1				160.20	65.69	524.7688
+45-Arnold Gee				Competition (COMP)	2	115	42	4	5				147.05	65.12	520.2262
+46-Lee Cardwell				Practical Optics (PO)	2	101	48	14	3			1	144.97	63.97	511.0359
+47-Edwin Buchwalter				Practical Optics (PO)	11	83	54	11					156.97	63.70	508.9006
+48-Gilbert Goodman				Practical Optics (PO)	10	111	29	5	5			2	151.88	63.00	503.2664
+49-Joshua Day				Practical Optics (PO)	4	111	44	5	2				162.25	62.64	500.4324
+50-George Zhou				Practical Optics (PO)	38	54	22	6	12			1	144.51	60.21	480.9885
+51-James Wong 4				Practical Optics (PO)	7	103	41	6	6			2	150.02	59.94	478.7981
+52-Kristen Day				Practical Irons (PI)	4	121	34	5	2				175.65	59.92	478.6898
+53-Kexin Bai				Competition (COMP)	4	71	69	20	2				145.75	59.14	472.4288
+54-CHAN WILLIAM 1				Practical Irons (PI)	5	78	46	18	18				112.06	58.41	466.5754
+55-Ryan Ngo				Practical Optics (PO)	7	115	35	3	3				183.16	56.79	453.6903
+56-Sean Frederick				Practical Optics (PO)	6	101	43	7	9			2	149.31	54.50	435.4070
+57-Jeannie Marrone				Competition (COMP)	18	93	38	3					209.69	51.64	412.4924
+58-Jonathan Geralnik				Competition (COMP)	7	113	40	3	4				195.26	51.35	410.1739
+59-Moe Zahra 1				Practical Optics (PO)	12	85	40	6	15			3	143.26	50.72	405.2037
+60-John Ren				Practical Irons (PI)	2	91	58	11	6				173.03	49.65	396.6588
+61-Travis Silbernagel				PCC	44	50	21	2	9			4	193.50	47.50	379.4783
+62-TJ Balingit 1				Practical Optics (PO)	17	84	45	4	3				212.90	47.27	377.6269
+63-Dan Schreiber				Practical Optics (PO)	5	123	32	2	3			1	216.39	47.24	377.3824
+64-Miguel Herrera 1				Practical Optics (PO)	54	51	5	2	8			2	212.77	46.13	368.5230
+65-Toan Tieu				Practical Irons (PI)	11	87	39	15	7				206.81	43.52	347.6707
+66-Sydney Holland				Competition (COMP)	5	94	51	11	4				214.80	43.06	343.9993
+67-Britt Schlicher 3				Practical Optics (PO)		111	53	3	3			1	257.64	37.69	301.0680
+68-Alex Nguyen				Practical Irons (PI)	10	72	52	13	13			3	175.19	37.33	298.2462
+69-Jun Wu				Practical Optics (PO)	3	59	28	3	2				85.03	36.43	291.0180
+70-Keith Bowman Jr				Competition (COMP)	9	53	62	21	16				157.54	35.95	287.1623
+71-Michael St. Amand				Practical Optics (PO)		54	77	25	4			5	178.98	34.62	276.5368
+72-Mark Yap				Practical Optics (PO)	11	77	54	10	7			1	243.40	34.54	275.9157
+73-Chris Totcky				Practical Optics (PO)	28	71	30	3	10			2	279.18	31.58	252.2716
+74-Daniell Gianelloni				Practical Optics (PO)	5	41	13		2				51.31	28.08	224.3316
+75-Tyler Kenny				Practical Optics (PO)	2	55	10	2	7			1	65.77	25.36	202.6097
+76-Eric Huh				Practical Optics (PO)		18	6						22.16	10.09	80.5654
+77-Jessica Zhang				Practical Irons (PI)	3	46	53	34	31			3	318.65	9.00	71.9241
+Name
+1-Travis McKenzie
+2-Bobby Ivester
+3-Brandon Foss
+4-Marco Yue
+5-Olayemi Bakare
+6-Gil Yolo 1
+7-Andy Chen
+8-Anthony Giuliano
+9-Jim Havens 2
+10-Khoa Nguyen
+11-Anthony Fong
+12-Christian Canizales
+13-Taylor Snodgrass
+14-Andrew Whitley
+15-Craig Bellamy 2
+16-Robert Layton
+17-Steve Cai
+18-Jerry Bedro
+19-Berrhett Foss
+20-Mike Junco
+21-Joseph White
+22-Calvin Chui 3
+23-Gary Wu
+24-Matthew Givens
+25-Jesse Harrington
+26-Doug Joder
+27-Abe Valdez
+28-Karys Bellamy 4
+29-Skippy Fullerton
+30-Anji Xu
+31-David Zhang
+32-Tony Vale
+33-John Jung
+34-Jeremiah Hunt
+35-Phyl Santos
+36-Patrick Mccombs
+37-Rafael Delfin
+38-Albert Legislador
+39-Michael Pontious
+40-Timothy Honeycutt
+41-Pat Byrne 1
+42-Matthew Lem
+43-Jason Wilson
+44-Brandon Hunt
+45-Arnold Gee
+46-Lee Cardwell
+47-Edwin Buchwalter
+48-Gilbert Goodman
+49-Joshua Day
+50-George Zhou
+51-James Wong 4
+52-Kristen Day
+53-Kexin Bai
+54-CHAN WILLIAM 1
+55-Ryan Ngo
+56-Sean Frederick
+57-Jeannie Marrone
+58-Jonathan Geralnik
+59-Moe Zahra 1
+60-John Ren
+61-Travis Silbernagel
+62-TJ Balingit 1
+63-Dan Schreiber
+64-Miguel Herrera 1
+65-Toan Tieu
+66-Sydney Holland
+67-Britt Schlicher 3
+68-Alex Nguyen
+69-Jun Wu
+70-Keith Bowman Jr
+71-Michael St. Amand
+72-Mark Yap
+73-Chris Totcky
+74-Daniell Gianelloni
+75-Tyler Kenny
+76-Eric Huh
+77-Jessica Zhang
+Old style results
+
+Score Edit History
+Jc251
+Bellamy, Karys (3)
+2024-08-18 14:16:47.788 - 2024-08-18 14:18:15.347Edited a minute after.Edited str,0 was: 0 now: 10.66
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added rawpts: 88Added details: [object Object]Added numAlphas: 9Added numBravos: 4Added numCharlies: 1Added numKT: 4Added stringTime: 10.66Edited By 72024-08-18 14:16:43.166 - 2024-08-18 14:16:47.788Edited a few seconds after.Removed Reason for Edit Moved to Shooter Bellamy, Craig (PIPI/Maj)Edited By 72024-08-18 14:16:21.318 - 2024-08-18 14:16:43.166Edited a few seconds after.Removed rawpts: 80Edited str,0 was: 10.49 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit Moved to Shooter Bellamy, Craig (PIPI/Maj)Edited By 7
+Bellamy, Craig (2)
+2024-08-18 14:16:43.165 - 2024-08-18 14:17:03.822Edited a few seconds after.Edited rawpts was: 80 now: 84
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit From Shooter Bellamy, Karys (POPO/Maj)Added details: [object Object]Added numAlphas: 16Added numCharlies: 1Added numDeltas: 1Added stringTime: 10.49Edited By 72024-08-18 14:16:29.775 - 2024-08-18 14:16:43.165Edited a few seconds after.Edited str,0 was: 0 now: 10.49
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added rawpts: 80Added Reason for Edit From Shooter Bellamy, Karys (POPO/Maj)Edited By 7
+Jc248
+Herrera, Miguel (1)
+2024-08-18 16:46:58.101 - 2024-08-18 16:49:17.891Edited 2 minutes after.Added proc: 1Added details: [object Object]Added numAlphas: 7Added numBravos: 6Added numCharlies: 1Added numM: 2Added numProc: 1Added numKT: 6Added stringTime: 23.81Edited By 4
+Wong, James (3)
+2024-08-18 17:28:58.972 - 2024-08-18 17:29:46.819Edited a minute after.Edited str,0 was: 0 now: 18.45
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added proc: 1Added rawpts: 86Added Reason for Edit From Shooter Chui, Calvin (POPO/Maj)Added details: [object Object]Added numAlphas: 14Added numCharlies: 5Added numDeltas: 1Added numM: 2Added numProc: 1Added stringTime: 18.45Edited By 32024-08-18 17:28:53.098 - 2024-08-18 17:28:58.972Edited a few seconds after.Removed Reason for Edit Moved to Shooter Chui, Calvin (POPO/Maj)Edited By 32024-08-18 17:28:11.854 - 2024-08-18 17:28:53.098Edited a few seconds after.Removed proc: 1Removed rawpts: 86Edited str,0 was: 18.45 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit Moved to Shooter Chui, Calvin (POPO/Maj)Edited By 3
+Chui, Calvin (3)
+2024-08-18 17:29:46.819 - 2024-08-18 17:31:34.012Edited 2 minutes after.Edited str,0 was: 0 now: 17.71
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Removed Reason for Edit Moved to Shooter Wong, James (POPO/Maj)Added rawpts: 102Added details: [object Object]Added numAlphas: 14Added numBravos: 2Added numCharlies: 4Added numKT: 2Added stringTime: 17.71Edited By 32024-08-18 17:28:53.098 - 2024-08-18 17:29:46.819Edited a minute after.Removed proc: 1Removed rawpts: 86Edited str,0 was: 18.45 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,v was: From Shooter Wong, James (POPO/Maj) now: Moved to Shooter Wong, James (POPO/Maj)Edited meta,0,t was: 2024-08-18 17:28:53.098 now: 2024-08-18 17:29:46.819Edited By 32024-08-18 17:28:34.759 - 2024-08-18 17:28:53.098Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added proc: 1Added rawpts: 86Added Reason for Edit From Shooter Wong, James (POPO/Maj)Edited By 3
+WILLIAM, CHAN (1)
+2024-08-18 15:51:29.828 - 2024-08-18 16:12:05.281Edited 21 minutes after.Edited str,0 was: 0 now: 14.08
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	1	0	0	0	0	0
+Added rawpts: 90Added details: [object Object]Added numAlphas: 11Added numBravos: 1Added numCharlies: 8Added numDeltas: 1Added numKT: 1Added stringTime: 14.08Edited By 5
+Jc247
+Byrne, Pat (1)
+2024-08-18 15:18:13.122 - 2024-08-18 15:20:56.174Edited 3 minutes after.Edited str,0 was: 0 now: 23.11
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added rawpts: 114Added details: [object Object]Added numAlphas: 18Added numCharlies: 8Added stringTime: 23.11Edited By 7
+Yolo, Gil (1)
+2024-08-18 16:06:22.204 - 2024-08-18 16:07:01.364Edited a few seconds after.Edited rawpts was: 117 now: 122
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 22Added numCharlies: 4Added stringTime: 17.3Edited By 6
+Wong, James (1)
+2024-08-18 13:51:47.340 - 2024-08-18 13:53:33.139Edited 2 minutes after.Edited str,0 was: 0 now: 24.36
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+Added proc: 1Added rawpts: 108Added details: [object Object]Added numAlphas: 20Added numCharlies: 2Added numDeltas: 2Added numM: 2Added numProc: 1Added stringTime: 24.36Edited By 3
+Hanover, Michael (2)
+2024-08-18 14:13:12.921 - 2024-08-18 14:44:38.357Edited 31 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+Removed Reason for Edit Moved to Shooter Giuliano, Anthony (POPO/Maj)Added rawpts: 4Added numDeltas: 2Added numM: 10Edited By 22024-08-18 14:12:44.146 - 2024-08-18 14:13:12.921Edited a few seconds after.Removed rawpts: 127Edited str,0 was: 20.91 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 0.44,1.17,1.92,2.24,2.85,2.95,3.26,3.36,3.77,3.99,4.56,4.85,5.56,5.88,6.90,7.94,8.99,9.34,9.96,10.27,11.24,11.60,12.63,12.72,13.09,14.04,14.49,15.26,16.61,17.07,19.21,19.42,19.61,20.64,20.91;AMG 1ECB now: Moved to Shooter Giuliano, Anthony (POPO/Maj)Edited meta,0,t was: 2024-08-18 14:12:11.638 now: 2024-08-18 14:13:12.921Edited By 2
+Jc246
+Havens, Jim (2)
+2024-08-18 13:14:21.380 - 2024-08-18 15:40:45.179Edited 2 hours after.Edited str,0 was: 0 now: 18.33
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Stage edited now: 3.19,3.39,4.09,4.31,5.29,5.65,5.86,6.44,6.78,7.44,7.83,8.62,9.10,11.54,11.75,12.68,13.06,13.62,13.94,15.91,16.11,16.98,17.15,17.92,18.33;AMG 2C02Edited meta,0,t was: 2024-08-18 13:14:21.380 now: 2024-08-18 15:40:06.308Edited udid was: bae63fe4-e4d2-4778-93d5-780cdfdbac42 now: 19c77c4c-2cbd-42b2-87e1-516c090d6f96Edited dname was: Pixel now: 1Added rawpts: 112Added details: [object Object]Added numAlphas: 20Added numCharlies: 4Added stringTime: 18.33Edited By Pixel2024-08-18 13:13:12.255 - 2024-08-18 13:14:21.380Edited a minute after.Added Reason for Edit Stage editedEdited By Pixel
+Zahra, Moe (1)
+2024-08-18 14:51:56.606 - 2024-08-18 14:52:12.224Edited a few seconds after.Edited rawpts was: 100 now: 102
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 13Added numBravos: 1Added numCharlies: 9Added numKT: 1Added stringTime: 20.66Edited By 2
+Jc249
+Balingit, TJ (1)
+2024-08-18 14:19:21.276 - 2024-08-18 14:19:47.828Edited a few seconds after.Edited rawpts was: 144 now: 146
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 20Added numBravos: 4Added numCharlies: 2Added numKT: 4Added stringTime: 32.7Edited By 4
+Bellamy, Karys (1)
+2024-08-18 16:39:32.679 - 2024-08-18 16:40:02.104Edited a few seconds after.Edited rawpts was: 135 now: 137
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	1	0	0	0	0	1	0
+Added details: [object Object]Added numAlphas: 5Added numBravos: 10Added numCharlies: 4Added numM: 1Added numKT: 10Added stringTime: 16.59Edited By 7
+Jc252
+Schlicher, Britt (3)
+2024-08-18 14:27:30.754 - 2024-08-18 14:28:50.515Edited a minute after.Edited rawpts was: 10 now: 112Edited str,0 was: 0 now: 36.57
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 20Added numCharlies: 4Added stringTime: 36.57Edited By 52024-08-18 14:27:00.969 - 2024-08-18 14:27:30.754Edited a few seconds after.Removed Reason for Edit Moved to Shooter Wu, Jun (POPO/Maj)Edited By 52024-08-18 14:26:42.700 - 2024-08-18 14:27:00.969Edited a few seconds after.Edited rawpts was: 101 now: 10Edited str,0 was: 24.55 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit Moved to Shooter Wu, Jun (POPO/Maj)Edited By 5
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

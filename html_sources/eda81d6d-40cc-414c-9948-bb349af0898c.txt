@@ -1,0 +1,467 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+GPS USPSA July 2022 USPSA 2022-07-24Generation P C
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Bobby Ivester	100.00%	665.2934	89.58	95.70%	Open	M		MAJOR	A101336	92	44	5	1				
+2-Lan Nguyen	92.13%	612.9226	95.87	88.11%	Open	A		MAJOR	Ty81359	103	32	4	3				
+3-August Balagtas	91.15%	606.4408	95.36	87.32%	Open	M		MAJOR	L3674	97	36	7	2				
+4-Mike Whitesides	90.11%	599.4916	91.23	86.26%	Open	A		MAJOR	TY81358	93	41	4	4		1		
+5-Wade Pruetz 2	90.08%	599.3066	105.21	86.22%	Open	A	Senior	MAJOR	TY79055	111	26	5					
+6-Kevin Bunurai	89.86%	597.8018	94.77	90.59%	Carry Optics	M		MINOR	TY105111	114	20	5	3				
+7-Mike Junco	87.39%	581.4168	101.85	87.98%	Carry Optics	M	Law Enforcement	MINOR	TY34819	110	30	1	1				
+8-Ralph Migrino	86.38%	574.6481	112.49	86.82%	Carry Optics	U	Military	MINOR	A132627	120	20	2					
+9-Jim Havens	84.67%	563.3075	103.51	85.26%	Carry Optics	G	Senior	MINOR	Ty114636	115	17	8	2				
+10-Marco Yue 1	83.91%	558.2605	87.87	93.52%	PCC	A		MINOR	TY109190	107	22	7	6			1	
+11-Paul Felker	81.88%	544.7449	104.67	83.14%	Carry Optics	M		MINOR	TY107123	114	23	3	2		1		
+12-Pete Kirchner	81.56%	542.6038	113.48	82.46%	Carry Optics	A		MINOR	TY105743	119	20	2	1				
+13-Gil Yolo	78.89%	524.8559	100.44	80.16%	Carry Optics	M		MINOR	L5228	110	23	2	7				
+14-Steven McNamara 1	78.59%	522.8845	117.35	75.28%	Open	B	Senior	MAJOR	A75212	102	30	10					
+15-Travis McKenzie	77.47%	515.4352	110.76	77.87%	Carry Optics	B		MINOR	TY139201	110	27	3	2		1		
+16-JOSE ONIA 1	77.28%	514.1176	110.10	77.90%	Carry Optics	B	Senior	MINOR	A134359	109	25	5	3			1	
+17-Roman Gwiscz	75.42%	501.7538	115.49	75.89%	Carry Optics	A		MINOR	l4670	113	23	5	1		1		
+18-Matt Lem	75.35%	501.3258	114.50	75.36%	Carry Optics	M	Law Enforcement	MINOR	FY34763	113	21	5	3				
+19-Jorge Cahas 1	73.63%	489.8265	111.81	70.59%	Open	B	Senior	MAJOR	F-44522	99	32	7	4				
+20-Mike Kahl	73.17%	486.7895	126.42	74.10%	Carry Optics	B	Super Senior	MINOR	TY70984	118	20	2	2				
+21-Khoa Nguyen	72.06%	479.4067	119.57	101.43%	Production	A	Law Enforcement	MINOR	A117224	109	24	7	2				
+22-Chez Chike-Udenze	72.01%	479.1067	127.80	72.99%	Carry Optics	B		MINOR	A138598	119	21	1	1		1		
+23-Henry Wong	71.55%	476.0152	119.42	72.14%	Carry Optics	U		MINOR	0	107	26	7	2				
+24-Doug Joder	71.16%	473.3933	130.56	78.75%	PCC	B		MINOR	A115020	117	23	1	1				
+25-Jack Liu	70.70%	470.3365	117.66	78.20%	PCC	B	Law Enforcement	MINOR	Ty130790	106	30	3	3			1	
+26-Doug Dillon	69.05%	459.3852	126.02	69.69%	Carry Optics	B	Law Enforcement	MINOR	A71359	109	29	2	2				
+27-Jason Wells 2	68.79%	457.6426	115.48	69.06%	Carry Optics	A		MINOR	L5218	108	25	3	6				
+28-Craig Bellamy 1	67.87%	451.5130	119.67	96.89%	Single Stack	M	Law Enforcement	MAJOR	Ty54824	116	18	1	7			1	
+29-Matthew Gonzalez	67.59%	449.6667	121.84	68.17%	Carry Optics	B		MINOR	A119810	113	19	6	4		1		
+30-Joseph Reyes	65.35%	434.7383	142.84	72.55%	PCC	B	Super Senior	MINOR	A127665	123	13	3	3				
+31-Arnold Gee	65.02%	432.5643	125.71	62.38%	Open	B	Senior	MAJOR	TY103519	101	26	6	9				
+32-Chev Jacot	64.08%	426.3129	120.13	65.01%	Carry Optics	B		MINOR	TY72378	109	21	7	5		1		
+33-Brian Kolenda	63.88%	424.9633	125.16	61.19%	Open	C		MINOR	A119637	106	24	5	7				
+34-Robert Bui	63.22%	420.5782	115.23	63.14%	Carry Optics	B		MINOR	A103016	109	21	5	7		2		
+35-Garrick Gonzalez	62.28%	414.3152	120.75	62.81%	Carry Optics	B		MINOR	A119804	97	33	7	5				
+36-Marc Demeza	62.18%	413.6568	127.91	63.06%	Carry Optics	U		MINOR	TY142892	114	22	1	5		3		
+37-Dale Fike 2	61.87%	411.5975	117.63	59.27%	Open	C	Senior	MINOR	TY113427	101	27	6	8				
+38-Jun Wu 1	61.68%	410.3633	132.30	62.12%	Carry Optics	B		MINOR	TY104927	108	27	3	4				
+39-Michael Pontious	61.64%	410.0688	135.08	59.24%	Open	B	Senior	MAJOR	fy94575	103	26	7	6				
+40-James Tonkinson	61.42%	408.6161	124.99	62.47%	Carry Optics	A		MINOR	A123944	102	27	7	6				
+41-Gary Wu	60.76%	404.2143	126.92	61.13%	Carry Optics	B	Senior	MINOR	L2998	101	30	5	6				
+42-David Young	59.65%	396.8268	137.84	60.43%	Carry Optics	C		MINOR	Ty130791	101	34	5	2		1		
+43-Matthew Michna	59.32%	394.6501	119.61	58.95%	Carry Optics	B		MINOR	A128405	108	16	8	10			1	
+44-Antonio Tormis	58.40%	388.5454	124.02	58.64%	Carry Optics	B		MINOR	A124958	90	40	6	6				
+45-John Brunkhorst	58.23%	387.4017	127.47	58.63%	Carry Optics	B		MINOR	A116144	110	17	4	11		1	1	
+46-Robbie Boettcher 1	57.73%	384.0607	145.98	55.23%	Open	U		MINOR	A139912	118	17	4	3		1		
+47-Jimmy Durham	56.30%	374.5662	153.25	63.15%	PCC	U		MINOR	TY135611	106	32	1	3				
+48-Pat Byrne	56.24%	374.1811	133.29	80.67%	Single Stack	B	Super Senior	MINOR	Fy93921	96	36	5	5			1	
+49-Joseph White	55.28%	367.7719	165.99	78.97%	Production	C	Law Enforcement	MINOR	A135489	119	21		2				
+50-Anthony Fong 1	53.19%	353.8913	135.72	53.05%	Carry Optics	U		MINOR	A142224	105	18	14	5		1	1	
+51-Jonathan Backof	52.66%	350.3516	160.98	74.07%	Single Stack	B		MAJOR	L5308	110	22	4	6				
+52-Pocholo Dimayuga	50.20%	333.9985	137.62	86.51%	Limited	C		MAJOR	A106236	94	27	13	8		3		
+53-Boyd Nabas	50.08%	333.1622	138.33	50.41%	Carry Optics	U	Junior	MINOR	0	98	26	8	10				
+54-Drew Yang 1	49.94%	332.2361	146.77	71.54%	Production	C		MINOR	A138478	97	34	4	7				
+55-Hugh Fullerton 1	48.27%	321.1045	147.96	79.60%	Limited	C		MAJOR	A140572	93	25	13	11				
+56-Jonathan Gutierrez	44.55%	296.3603	151.06	42.83%	Open	C		MINOR	A108668	97	27	5	13				
+57-Todd Ellison	43.86%	291.7812	172.80	44.20%	Carry Optics	U		MINOR	A137376	108	22	5	7				
+58-Amber Chike-Udenze	43.29%	287.9939	182.00	43.50%	Carry Optics	C	Lady	MINOR	A138974	97	36	4	5				
+59-matthew okun	42.87%	285.2308	143.53	42.47%	Carry Optics	B		MINOR	A135265	85	35	11	11				
+60-Justin Cordova	41.46%	275.8507	138.39	41.89%	Carry Optics	U		MINOR	A137724	92	28	6	16			2	
+61-Marc Jardell	40.71%	270.8687	209.79	41.13%	Carry Optics	C		MINOR	A136504	119	13	7	3				
+62-Miguel Gonzalez 1	37.95%	252.4696	169.72	53.66%	Production	U		MINOR	A142148	84	40	8	10				
+63-Toan Tieu	36.69%	244.0982	192.94	64.57%	Limited	U		MINOR	A140227	103	24	8	7			1	
+64-Page Brunkhorst	36.57%	243.2734	190.12	50.68%	Single Stack	C	Senior	MAJOR	L4903	106	18	5	13				
+65-George Byrd	36.57%	243.2723	209.00	37.09%	Carry Optics	U	Super Senior	MINOR	A84906	107	23	6	6			1	
+66-Alex Steier	35.49%	236.1143	167.52	66.05%	Limited	C		MINOR	0	91	30	5	16				
+67-Rodwick Gates	34.06%	226.6071	192.22	57.37%	Limited	C		MINOR	A135944	91	24	9	18				
+68-Virak Meas	33.98%	226.0998	142.81	34.44%	Carry Optics	U		MINOR	0	84	27	10	21				
+69-JR Roberts	32.82%	218.3743	211.68	46.04%	Single Stack	D		MINOR	TY102739	104	20	7	11		1		
+70-Karys Bellamy 1	32.74%	217.8375	188.14	32.95%	Carry Optics	D	Lady, Junior	MINOR	Ty130774	91	27	11	13		1	1	
+71-Nathan Bridges	22.73%	151.2168	190.69	22.54%	Carry Optics	U		MINOR	A139264	85	27	9	21		5	1	
+72-bing liu	19.92%	132.5068	226.91	28.40%	Production	X	Foreign	MINOR	0	82	28	9	23		1		
+73-Wei Zhang	19.16%	127.4655	153.71	19.67%	Carry Optics	U	Senior	MINOR	FY140383	75	21	11	35		3		
+74-Danielle Dysart	13.35%	88.8448	218.76	13.02%	Carry Optics	U	Lady	MINOR	A137402	69	26	15	32		2	1	
+75-Amun Imhotep	8.64%	57.4554	340.86	8.52%	Carry Optics	U	Military	MINOR	A141156	88	22	7	25		2	5	
+76-Qi Zhou	3.48%	23.1801	195.26	4.93%	Limited	U	Senior	MAJOR	0	54	23	12	53		5	2	
+DQ-Stephanie Marie	0.00%	0.0000		0.00%	Carry Optics	D	Lady	MINOR	A139099								
+Name
+1-Bobby Ivester
+2-Lan Nguyen
+3-August Balagtas
+4-Mike Whitesides
+5-Wade Pruetz 2
+6-Kevin Bunurai
+7-Mike Junco
+8-Ralph Migrino
+9-Jim Havens
+10-Marco Yue 1
+11-Paul Felker
+12-Pete Kirchner
+13-Gil Yolo
+14-Steven McNamara 1
+15-Travis McKenzie
+16-JOSE ONIA 1
+17-Roman Gwiscz
+18-Matt Lem
+19-Jorge Cahas 1
+20-Mike Kahl
+21-Khoa Nguyen
+22-Chez Chike-Udenze
+23-Henry Wong
+24-Doug Joder
+25-Jack Liu
+26-Doug Dillon
+27-Jason Wells 2
+28-Craig Bellamy 1
+29-Matthew Gonzalez
+30-Joseph Reyes
+31-Arnold Gee
+32-Chev Jacot
+33-Brian Kolenda
+34-Robert Bui
+35-Garrick Gonzalez
+36-Marc Demeza
+37-Dale Fike 2
+38-Jun Wu 1
+39-Michael Pontious
+40-James Tonkinson
+41-Gary Wu
+42-David Young
+43-Matthew Michna
+44-Antonio Tormis
+45-John Brunkhorst
+46-Robbie Boettcher 1
+47-Jimmy Durham
+48-Pat Byrne
+49-Joseph White
+50-Anthony Fong 1
+51-Jonathan Backof
+52-Pocholo Dimayuga
+53-Boyd Nabas
+54-Drew Yang 1
+55-Hugh Fullerton 1
+56-Jonathan Gutierrez
+57-Todd Ellison
+58-Amber Chike-Udenze
+59-matthew okun
+60-Justin Cordova
+61-Marc Jardell
+62-Miguel Gonzalez 1
+63-Toan Tieu
+64-Page Brunkhorst
+65-George Byrd
+66-Alex Steier
+67-Rodwick Gates
+68-Virak Meas
+69-JR Roberts
+70-Karys Bellamy 1
+71-Nathan Bridges
+72-bing liu
+73-Wei Zhang
+74-Danielle Dysart
+75-Amun Imhotep
+76-Qi Zhou
+DQ-Stephanie Marie
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Bay 4
+Fullerton, Hugh (1)
+2022-07-24 15:05:19.397 - 2022-07-24 15:19:05.711Edited 14 minutes after.Edited rawpts was: 20 now: 100Edited str,0 was: 22.44 now: 22.09
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 22Added numCharlies: 2Added numDeltas: 1Added numM: 1Added stringTime: 22.09Edited By Android Device
+Yue, Marco (1)
+2022-07-24 14:05:03.418 - 2022-07-24 14:05:34.602Edited a few seconds after.Edited popm was: 0 now: 1Edited poph was: 4 now: 3Edited rawpts was: 110 now: 105Added proc: 1Added details: [object Object]Added numAlphas: 24Added numM: 2Added numProc: 1Added stringTime: 15.31Edited By Android Device
+Bay 6: Deja Vu
+Fong, Anthony (1)
+2022-07-24 14:22:35.604 - 2022-07-24 14:22:55.515Edited a few seconds after.Edited rawpts was: 56 now: 58
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 11Added numCharlies: 1Added stringTime: 8.39Edited By Android Device
+Bay 7
+Gonzalez, Miguel (1)
+2022-07-24 14:52:41.732 - 2022-07-24 14:53:00.590Edited a few seconds after.Edited rawpts was: 78 now: 80
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 17Added numCharlies: 4Added numDeltas: 3Added numM: 2Added stringTime: 27.97Edited By Android Device
+Cahas, Jorge (1)
+2022-07-24 16:17:04.078 - 2022-07-24 16:17:18.432Edited a few seconds after.Edited rawpts was: 99 now: 97
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	0	1	0	0	0
+Added details: [object Object]Added numAlphas: 17Added numCharlies: 7Added numDeltas: 2Added stringTime: 16.46Edited By Android Device
+Wu, Jun (1)
+2022-07-24 15:51:39.570 - 2022-07-24 16:16:48.645Edited 25 minutes after.Edited rawpts was: 87 now: 90
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 16Added numCharlies: 10Added stringTime: 21.05Edited By Android Device
+Bay 8
+Yang, Drew (1)
+2022-07-24 14:12:21.545 - 2022-07-24 14:15:00.818Edited 3 minutes after.Edited str,1 was: 0 now: 7.37Edited str,0 was: 0 now: 8.24
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	4	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	1	0
+Current	2	0	4	1	0	1	0
+Added rawpts: 47Added aprv: trueAdded details: [object Object]Added numAlphas: 4Added numCharlies: 8Added numDeltas: 3Added numM: 1Added stringTime: 15.61Edited By Android Device
+Bay 9
+Fike, Dale (2)
+2022-07-24 14:03:41.443 - 2022-07-24 14:06:12.445Edited 3 minutes after.Edited rawpts was: 20 now: 96Edited str,0 was: 0 now: 20.71
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Shooter Kolenda, Brian (O/Min) now: 1.78,2.13,2.88,3.21,4.75,5.07,5.68,6.20,7.56,7.86,9.70,10.23,11.57,11.86,13.16,13.57,15.07,15.31,16.14,16.48,17.33,17.61,18.40,18.96,20.03,20.71;AMG 8A95Edited meta,0,t was: 2022-07-24 14:03:41.443 now: 2022-07-24 14:05:06.183Added aprv: trueAdded details: [object Object]Added numAlphas: 22Added numCharlies: 2Added numM: 2Added stringTime: 20.71Edited By Android Device2022-07-24 14:03:16.087 - 2022-07-24 14:03:41.443Edited a few seconds after.Edited rawpts was: 94 now: 20Edited str,0 was: 23.51 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 2.22,2.57,3.37,3.73,5.55,5.84,6.68,7.91,8.25,10.06,11.56,11.96,13.19,13.60,14.60,15.06,16.08,16.99,20.10,21.43,22.06,23.07,23.51;AMG 8A95 now: Moved to Shooter Kolenda, Brian (O/Min)Edited meta,0,t was: 2022-07-24 14:02:25.201 now: 2022-07-24 14:03:41.443Removed aprv: trueEdited By Android Device
+Pruetz, Wade (2)
+2022-07-24 17:46:21.233 - 2022-07-24 17:53:24.753Edited 7 minutes after.Edited rawpts was: 20 now: 105Edited str,0 was: 0 now: 20.57
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter McNamara, Steven (O/Maj/S)Added aprv: trueAdded details: [object Object]Added numAlphas: 21Added numCharlies: 5Added stringTime: 20.57Edited By Android Device2022-07-24 17:45:53.143 - 2022-07-24 17:46:21.233Edited a few seconds after.Edited rawpts was: 105 now: 20Edited str,0 was: 26.32 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter McNamara, Steven (O/Maj/S)Edited By Android Device
+ONIA, JOSE (1)
+2022-07-24 17:32:51.466 - 2022-07-24 17:33:38.155Edited a minute after.Edited rawpts was: 97 now: 100
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 22Added numCharlies: 3Added numDeltas: 1Added stringTime: 19.49Edited By Android Device
+Wells, Jason (2)
+2022-07-24 14:27:14.668 - 2022-07-24 14:32:04.636Edited 5 minutes after.Edited rawpts was: 20 now: 98Edited str,0 was: 0 now: 20.41
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Shooter Bellamy, Karys (CO/Min/L/J) now: 2.00,2.37,2.89,3.33,4.48,4.76,5.45,6.59,6.88,8.34,10.13,11.46,11.73,12.44,12.79,13.24,13.60,14.14,15.06,15.79,18.17,18.58,19.57,20.41;AMG 0F9BEdited meta,0,t was: 2022-07-24 14:27:14.668 now: 2022-07-24 14:31:31.944Added aprv: trueAdded details: [object Object]Added numAlphas: 21Added numCharlies: 4Added numDeltas: 1Added stringTime: 20.41Edited By Android Device2022-07-24 14:23:21.570 - 2022-07-24 14:27:14.668Edited 4 minutes after.Edited rawpts was: 87 now: 20Edited str,0 was: 37.74 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 2.57,3.17,4.35,4.96,8.87,9.47,10.36,11.92,12.54,15.92,17.85,19.12,20.90,21.51,22.89,23.51,27.59,28.16,29.07,29.54,32.77,34.41,36.51,37.74;AMG 0F9B now: Moved to Shooter Bellamy, Karys (CO/Min/L/J)Edited meta,0,t was: 2022-07-24 14:22:43.336 now: 2022-07-24 14:27:14.668Removed aprv: trueEdited By Android Device
+Bellamy, Karys (1)
+2022-07-24 14:27:14.667 - 2022-07-24 14:27:37.976Edited a few seconds after.Edited popm was: 0 now: 1Edited poph was: 4 now: 3Edited rawpts was: 87 now: 82ARRAYAdded details: [object Object]Added numAlphas: 16Added numCharlies: 5Added numDeltas: 2Added numM: 3Added stringTime: 37.74Edited By Android Device
+Bellamy, Craig (1)
+2022-07-24 14:36:43.413 - 2022-07-24 14:37:12.385Edited a few seconds after.Edited rawpts was: 108 now: 109
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 25Added numCharlies: 1Added stringTime: 25.11Edited By Android Device
+McNamara, Steven (1)
+2022-07-24 17:46:21.233 - 2022-07-24 18:01:12.689Edited 15 minutes after.Edited str,0 was: 26.32 now: 22.32Removed Reason for Edit From Shooter Pruetz, Wade (O/Maj/S)Added details: [object Object]Added numAlphas: 21Added numCharlies: 5Added stringTime: 22.32Edited By Android Device
+Bay 10
+Boettcher, Robbie (1)
+2022-07-24 16:37:43.574 - 2022-07-24 16:38:54.231Edited a minute after.Edited rawpts was: 114 now: 116
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	0	0
+Current	3	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 22Added numCharlies: 2Added stringTime: 19.5Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

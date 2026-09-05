@@ -1,0 +1,363 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Thunder Tactical Shooters USPSA Match 11OCT2025 USPSA 2025-10-11
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Michael Hanover	100.00%	679.8419	72.00	98.57%	Open	M		MAJOR	A146302	103	33	2					
+2-Jacob Tullis	85.64%	582.2172	84.00	89.58%	Limited Optics	M		MINOR	A140523	107	28	2	1				
+3-Will Berry	85.13%	578.7338	83.48	98.57%	Carry Optics	M		MINOR	A157815	115	22	1					
+4-Jose Onia	82.99%	564.1835	80.13	87.77%	Limited Optics	X		MINOR	X	96	40	2					
+5-Will Goglas	82.71%	562.2735	85.07	81.48%	Open	B		MAJOR	A154790	91	44	3					
+6-Adam Bandiera	78.62%	534.5017	87.37	83.11%	Limited Optics	A		MINOR	A148375	110	27		1				
+7-Marco Yue	74.97%	509.6959	89.20	92.25%	PCC	M		MINOR	L5762	101	34	2	1		1		
+8-Phil Truong	72.85%	495.2853	92.72	71.89%	Open	B		MINOR	FY128600	105	29	3	1				
+9-Garrett Pressler 2	71.24%	484.3125	89.40	75.60%	Limited Optics	B	Junior	MINOR	A165603	101	33	3	1		1	1	
+10-Shawn Prosen	69.42%	471.9352	95.30	80.60%	Carry Optics	B		MINOR	A165388	102	33	2	1				
+11-Jerry Bedro	67.79%	460.8485	100.34	83.64%	PCC	A		MINOR	A98263	125	10		3			1	
+12-Kenedy Nguyen	67.48%	458.7527	99.61	71.24%	Limited Optics	C		MINOR	A83862	104	31	3			1		
+13-Michael McCoy	67.24%	457.0954	99.24	82.58%	PCC	U		MINOR	A100138	100	36	1	1				
+14-Todd Springer	65.98%	448.5705	87.58	76.37%	Carry Optics	B		MINOR	A146210	94	34	6	4		2		
+15-Daniel Pace	65.09%	442.5364	100.88	68.48%	Limited Optics	A		MINOR	A115578	106	29	1	2				
+16-Dale Fike	65.03%	442.0799	92.81	80.52%	PCC	B	Super Senior	MINOR	A113427	101	30	4	3		2		
+17-Skippy Fullerton 1	63.76%	433.4364	102.83	67.24%	Limited Optics	B		MINOR	A140572	103	33	1	1		1	1	
+18-Jay Bennett	63.27%	430.1099	102.31	73.53%	Carry Optics	A	Super Senior	MINOR	A77156	95	41	1	1				
+19-Rupa Robert Bellord	62.38%	424.0930	109.55	72.28%	Carry Optics	U		MINOR	A174279	108	29		1				
+20-Coder Wang	61.51%	418.1559	106.00	75.32%	PCC	C		MINOR	A170259	95	40	2	1				
+21-Yihao Zuo	60.62%	412.1367	106.95	64.11%	Limited Optics	C		MINOR	A165414	99	36	2	1			1	
+22-Susan "Mimsy" Richie	60.44%	410.9208	116.17	72.75%	PCC	U	Lady, Senior	MINOR	FY113282	107	28	1	2		1		
+23-David Rodriguez	60.15%	408.9049	119.09	69.66%	Carry Optics	U	Junior	MINOR	A164247	128	9		1		1		
+24-Aaron Wood 2	59.41%	403.9230	120.72	69.17%	Carry Optics	U		MINOR	A153873	118	18	2					
+25-Robert Strong	59.33%	403.3700	109.25	58.50%	Open	C		MAJOR	TY135331	96	36	1	5				
+26-Michael Henss	58.25%	396.0355	110.69	61.35%	Limited Optics	C		MINOR	A56644	102	31	4	1		1		
+27-Ethan Barrett	57.46%	390.6308	107.92	66.72%	Carry Optics	U		MINOR	A106831	99	31	6	2		1		
+28-shelby morgan	57.30%	389.5201	116.16	66.84%	Carry Optics	U		MINOR	A174229	97	34	6	1				
+29-Christopher Wilkerson	56.54%	384.3868	108.61	65.79%	Carry Optics	U	Law Enforcement	MINOR	A161474	101	31	2	4		1		
+30-Andre Wijaya	55.48%	377.1684	113.72	64.47%	Carry Optics	U		MINOR	A172696	89	46	2	1				
+31-Waltz Noguerra	55.27%	375.7271	116.36	64.24%	Carry Optics	C	Senior	MINOR	A137731	99	32	5	2				
+32-Marlon Pors	55.23%	375.5005	120.29	54.61%	Open	C	Law Enforcement	MAJOR	Ty1234	90	40	4	4				
+33-Stephen Fenn	54.30%	369.1425	96.91	63.68%	Carry Optics	U		MINOR	A170780	85	40	9	4		1	2	
+34-NeaL NaNDiN	53.62%	364.5532	131.32	62.58%	Carry Optics	U		MINOR	fy71894	103	33	2					
+35-Fares Al-Salim 2	52.35%	355.9132	112.30	55.49%	Limited Optics	C		MINOR	A171235	94	37	4	3		2		
+36-Taylor Latham 2	52.18%	354.7456	127.24	98.57%	Single Stack	B	Super Senior	MINOR	TY39841	102	34	1	1				
+37-Blake Horst	51.61%	350.8949	104.10	51.04%	Open	C		MINOR	A111624	75	53	5	5		1		
+38-Byron "GhostDeadeye" McGowen	50.73%	344.8532	134.17	50.04%	Open	D	Military	MAJOR	A159731	106	28	2	2		1		1
+39-Sean Finnerty 2	47.45%	322.6155	151.38	49.96%	Limited Optics	U		MINOR	A166724	111	27						
+40-Christian Hanks 2	47.32%	321.6774	129.11	49.63%	Limited Optics	U		MINOR	A174148	91	41	4	2		2		
+41-Patrick Achuff	47.22%	321.0108	132.74	49.64%	Limited Optics	U		MINOR	A169206	100	31	3	4				
+42-Valter Gonzalez	46.87%	318.6118	147.78	54.25%	Carry Optics	U		MINOR	A172969	115	21	1	1		2		
+43-Yul Kwan	46.75%	317.8570	129.42	46.11%	Open	C	Senior	MAJOR	A156984	86	37	9	6				
+44-Jovohnn Joseph	46.71%	317.5429	113.18	49.34%	Limited Optics	U		MINOR	A169001	92	35	6	5		2	2	
+45-Joseph Wilkie 2	46.16%	313.7986	128.20	53.65%	Carry Optics	U		MINOR	A166735	77	55	4	2				
+46-Bruce Lamb 2	45.16%	306.9977	138.07	44.58%	Open	A	Super Senior	MINOR	L997	77	58	3					
+47-Chance Elliott	44.53%	302.7031	123.98	52.03%	Carry Optics	U	Military	MINOR	16385838	95	32	4	7				
+48-Marshall Quigley	44.50%	302.5151	143.81	91.91%	Limited	U		MAJOR	A162329	78	46	12	2		2		
+49-Jake Rice 1	43.89%	298.3866	106.92	43.29%	Open	U		MINOR	A173352	94	20	2					
+50-Joseph Atchley	42.77%	290.7758	161.37	45.01%	Limited Optics	U		MINOR	None	117	18	1	2			1	
+51-Virak Meas 1	39.69%	269.8521	117.61	41.71%	Limited Optics	U		MINOR	A155576	80	39	8	11				
+52-Richard Elms 2	38.77%	263.5548	171.37	98.57%	Revolver	B	Super Senior	MINOR	A46313	106	29	2	1			1	
+53-ROBERT HANKS 2	37.72%	256.4375	163.54	37.19%	Open	U		MINOR	A174191	111	21	1	5			2	
+54-Emman Alcoseba	36.60%	248.7905	160.43	77.91%	Limited	C	Super Senior	MINOR	TY67519	88	42	3	5				
+55-Ron Plesko 2	31.59%	214.7346	205.63	36.66%	Carry Optics	D	Super Senior	MINOR	TY138017	101	34	1	2				
+56-Zachary Deason	30.91%	210.1248	143.10	30.56%	Open	U		MAJOR	A172975	81	35	9	13		1	1	
+57-Travis Swingle	28.31%	192.4705	157.86	33.49%	Carry Optics	U		MINOR	174147	101	24	2	11		2	3	
+58-Dale Hamm 2	27.02%	183.6867	191.96	50.16%	Single Stack	C	Super Senior	MAJOR	TY97196	73	49	7	9			13	
+59-Bob Purcell 2	24.35%	165.5748	217.73	25.98%	Limited Optics	U	Super Senior	MINOR	TY111994	80	41	6	11				
+60-Joseph Strong	21.57%	146.6641	199.38	22.39%	Limited Optics	U	Senior	MINOR	NA	80	39	9	10		5		
+61-Charles Morris 2	21.35%	145.1592	145.98	24.78%	Carry Optics	C	Super Senior	MINOR	A75102	73	20		3		2		
+62-Victor Chapa	0.00%	0.0000		0.00%	Limited Optics	U	Law Enforcement	MINOR	A160745								
+63-Harlan Chen	0.00%	0.0000		0.00%	Limited Optics	C		MINOR	A163292								
+64-ian loyd	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	A148072								
+DQ-Rob Rice	0.00%	0.0000		0.00%	Open	U		MINOR	A174209								
+Name
+1-Michael Hanover
+2-Jacob Tullis
+3-Will Berry
+4-Jose Onia
+5-Will Goglas
+6-Adam Bandiera
+7-Marco Yue
+8-Phil Truong
+9-Garrett Pressler 2
+10-Shawn Prosen
+11-Jerry Bedro
+12-Kenedy Nguyen
+13-Michael McCoy
+14-Todd Springer
+15-Daniel Pace
+16-Dale Fike
+17-Skippy Fullerton 1
+18-Jay Bennett
+19-Rupa Robert Bellord
+20-Coder Wang
+21-Yihao Zuo
+22-Susan "Mimsy" Richie
+23-David Rodriguez
+24-Aaron Wood 2
+25-Robert Strong
+26-Michael Henss
+27-Ethan Barrett
+28-shelby morgan
+29-Christopher Wilkerson
+30-Andre Wijaya
+31-Waltz Noguerra
+32-Marlon Pors
+33-Stephen Fenn
+34-NeaL NaNDiN
+35-Fares Al-Salim 2
+36-Taylor Latham 2
+37-Blake Horst
+38-Byron "GhostDeadeye" McGowen
+39-Sean Finnerty 2
+40-Christian Hanks 2
+41-Patrick Achuff
+42-Valter Gonzalez
+43-Yul Kwan
+44-Jovohnn Joseph
+45-Joseph Wilkie 2
+46-Bruce Lamb 2
+47-Chance Elliott
+48-Marshall Quigley
+49-Jake Rice 1
+50-Joseph Atchley
+51-Virak Meas 1
+52-Richard Elms 2
+53-ROBERT HANKS 2
+54-Emman Alcoseba
+55-Ron Plesko 2
+56-Zachary Deason
+57-Travis Swingle
+58-Dale Hamm 2
+59-Bob Purcell 2
+60-Joseph Strong
+61-Charles Morris 2
+62-Victor Chapa
+63-Harlan Chen
+64-ian loyd
+DQ-Rob Rice
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1 Bay 1
+Rice, Jake (1)
+2025-10-11 16:35:40.471 - 2025-10-11 16:36:03.783Edited a few seconds after.Edited rawpts was: 99 now: 20Edited str,0 was: 22.07 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	1	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Joseph, Jovohnn (LO/Min)Added details: [object Object]Added numAlphas: 4Edited By Amazon KFRAPWI e4d5ffd8
+Stage 2 Bay 2
+Finnerty, Sean (2)
+2025-10-11 14:41:43.761 - 2025-10-11 14:45:09.661Edited 3 minutes after.Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 20Added numCharlies: 4Added stringTime: 17.83Edited By Amazon KFRAPWI cab3de8b2025-10-11 14:11:47.174 - 2025-10-11 14:41:43.761Edited 30 minutes after.ARRAYAdded Reason for Edit Stage editedEdited By Amazon KFRAPWI cab3de8b
+Pressler, Garrett (2)
+2025-10-11 14:41:43.761 - 2025-10-11 14:45:14.940Edited 4 minutes after.Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 19Added numCharlies: 5Added stringTime: 12.76Edited By Amazon KFRAPWI cab3de8b2025-10-11 14:14:14.478 - 2025-10-11 14:41:43.761Edited 27 minutes after.ARRAYAdded Reason for Edit Stage editedEdited By Amazon KFRAPWI cab3de8b
+HANKS, ROBERT (2)
+2025-10-11 14:41:43.761 - 2025-10-11 14:45:23.186Edited 4 minutes after.Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 23Added numCharlies: 1Added stringTime: 26.17Edited By Amazon KFRAPWI cab3de8b2025-10-11 14:16:35.912 - 2025-10-11 14:41:43.761Edited 25 minutes after.ARRAYAdded Reason for Edit Stage editedEdited By Amazon KFRAPWI cab3de8b
+Hamm, Dale (2)
+2025-10-11 14:41:43.761 - 2025-10-11 14:45:28.041Edited 4 minutes after.Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 17Added numCharlies: 7Added stringTime: 46.54Edited By Amazon KFRAPWI cab3de8b2025-10-11 14:18:22.250 - 2025-10-11 14:41:43.761Edited 23 minutes after.ARRAYAdded Reason for Edit Stage editedEdited By Amazon KFRAPWI cab3de8b
+Plesko, Ron (2)
+2025-10-11 14:41:43.761 - 2025-10-11 14:45:31.782Edited 4 minutes after.Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 19Added numCharlies: 5Added stringTime: 32.19Edited By Amazon KFRAPWI cab3de8b2025-10-11 14:20:27.150 - 2025-10-11 14:41:43.761Edited 21 minutes after.ARRAYAdded Reason for Edit Stage editedEdited By Amazon KFRAPWI cab3de8b
+Al-Salim, Fares (2)
+2025-10-11 14:41:43.761 - 2025-10-11 14:45:35.047Edited 4 minutes after.Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 19Added numCharlies: 4Added numDeltas: 1Added stringTime: 16.64Edited By Amazon KFRAPWI cab3de8b2025-10-11 14:22:03.037 - 2025-10-11 14:41:43.761Edited 20 minutes after.ARRAYAdded Reason for Edit Stage editedEdited By Amazon KFRAPWI cab3de8b
+Elms, Richard (2)
+2025-10-11 14:41:43.761 - 2025-10-11 14:45:39.107Edited 4 minutes after.Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 19Added numCharlies: 5Added stringTime: 26.92Edited By Amazon KFRAPWI cab3de8b2025-10-11 14:24:01.757 - 2025-10-11 14:41:43.761Edited 18 minutes after.ARRAYAdded Reason for Edit Stage editedEdited By Amazon KFRAPWI cab3de8b
+Morris, Charles (2)
+2025-10-11 14:41:43.761 - 2025-10-11 14:45:46.759Edited 4 minutes after.Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 19Added numCharlies: 3Added numNS: 1Added numM: 2Added stringTime: 31.62Edited By Amazon KFRAPWI cab3de8b2025-10-11 14:26:43.332 - 2025-10-11 14:41:43.761Edited 15 minutes after.ARRAYAdded Reason for Edit Stage editedEdited By Amazon KFRAPWI cab3de8b
+Hanks, Christian (2)
+2025-10-11 14:41:43.761 - 2025-10-11 14:45:51.286Edited 4 minutes after.Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 23Added numCharlies: 1Added stringTime: 19.69Edited By Amazon KFRAPWI cab3de8b2025-10-11 14:28:14.223 - 2025-10-11 14:41:43.761Edited 13 minutes after.ARRAYAdded Reason for Edit Stage editedEdited By Amazon KFRAPWI cab3de8b
+Purcell, Bob (2)
+2025-10-11 14:41:43.761 - 2025-10-11 14:46:09.477Edited 4 minutes after.Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 15Added numCharlies: 7Added numDeltas: 1Added numM: 1Added stringTime: 22.63Edited By Amazon KFRAPWI cab3de8b2025-10-11 14:30:03.438 - 2025-10-11 14:41:43.761Edited 12 minutes after.ARRAYAdded Reason for Edit Stage editedEdited By Amazon KFRAPWI cab3de8b
+Lamb, Bruce (2)
+2025-10-11 14:41:43.761 - 2025-10-11 14:46:19.047Edited 5 minutes after.Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 18Added numCharlies: 6Added stringTime: 23.17Edited By Amazon KFRAPWI cab3de8b2025-10-11 14:31:48.558 - 2025-10-11 14:41:43.761Edited 10 minutes after.ARRAYAdded Reason for Edit Stage editedEdited By Amazon KFRAPWI cab3de8b
+Latham, Taylor (2)
+2025-10-11 14:41:43.761 - 2025-10-11 14:45:00.695Edited 3 minutes after.Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 19Added numCharlies: 5Added stringTime: 17.94Edited By Amazon KFRAPWI cab3de8b2025-10-11 14:33:27.819 - 2025-10-11 14:41:43.761Edited 8 minutes after.ARRAYAdded Reason for Edit Stage editedEdited By Amazon KFRAPWI cab3de8b
+Stage 3 Bay 3
+Fullerton, Skippy (1)
+2025-10-11 14:20:22.017 - 2025-10-11 14:44:25.449Edited 24 minutes after.Added proc: 1Added details: [object Object]Added numAlphas: 15Added numCharlies: 8Added numM: 1Added numProc: 1Added stringTime: 24.86Edited By Amazon KFRAPWI e4d5ffd8
+Wilkie, Joseph (2)
+2025-10-11 13:42:17.247 - 2025-10-11 13:43:53.591Edited 2 minutes after.Edited str,1 was: 0 now: 13.75
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Removed Reason for Edit Stage editedAdded rawpts: 106Added aprv: trueAdded details: [object Object]Added numAlphas: 17Added numCharlies: 7Added stringTime: 27.560000000000002Edited By Amazon KFRAPWI c637965d2025-10-11 13:41:50.029 - 2025-10-11 13:42:17.247Edited a few seconds after.Added Reason for Edit Stage editedEdited By Amazon KFRAPWI c637965d
+Stage 4 Bay 4
+Meas, Virak (1)
+2025-10-11 14:31:31.076 - 2025-10-11 14:32:02.910Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	1	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 20Added numCharlies: 5Added numDeltas: 2Added numM: 1Added stringTime: 24.17Edited By Amazon KFRAPWI c637965d
+Wood, Aaron (2)
+2025-10-11 16:38:07.692 - 2025-10-11 16:46:48.205Edited 9 minutes after.Edited rawpts was: 10 now: 116Edited str,0 was: 0 now: 22.86
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Removed Reason for Edit Moved to Shooter Onia, Jose (LO/Min)Added aprv: trueAdded details: [object Object]Added numAlphas: 22Added numCharlies: 5Added numDeltas: 1Added stringTime: 22.86Edited By Amazon KFRAPWI dbb27d242025-10-11 16:26:37.055 - 2025-10-11 16:38:07.692Edited 12 minutes after.Edited rawpts was: 116 now: 10Edited str,0 was: 14.58 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Onia, Jose (LO/Min)Edited By Amazon KFRAPWI dbb27d24
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

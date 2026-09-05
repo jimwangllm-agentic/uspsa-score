@@ -1,0 +1,264 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+TSV Conroe USPSA SATURDAY 08-22-26 USPSA 2026-08-22TSV Conroe - Texas Shooting Venue
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Jacob Tullis	100.00%	600.0042	104.15	102.20%	Limited Optics	M		MINOR	a140523	102	24	1					
+2-Bobby Ivester	98.55%	591.3018	107.33	101.13%	PCC	A		MINOR	A101336	109	17	1					
+3-Hunter Sparkman	95.47%	572.8058	106.67	99.50%	Open	U	Law	MINOR	A165234	104	21	1	1				
+4-Will Goglas	95.39%	572.3302	106.57	99.58%	Open	A		MAJOR	A154790	87	34	5	1				
+5-Travis McKenzie	95.12%	570.7100	104.26	99.34%	Open	M		MAJOR	L6340	85	36	4	2				
+6-Glen Kruger	93.51%	561.0593	112.65	96.30%	PCC	B	Senior	MINOR	A171162	105	20	2					
+7-Dan Ausmus	91.31%	547.8886	98.41	93.27%	Limited Optics	M		MINOR	L6447	93	29	2	3		2		
+8-Heath Helgeson	91.19%	547.1151	103.74	93.21%	Limited Optics	A		MINOR	A149129	98	24	3	2		1		
+9-Anthony Fong	85.42%	512.5510	105.85	87.08%	Limited Optics	G		MINOR	A142224	103	20		4		1	2	
+10-Ulrick Fong	83.51%	501.0341	118.74	85.78%	PCC	A	Senior	MINOR	A170451	94	28	4	1				
+11-Shaundy Pepito	83.12%	498.7057	118.14	86.96%	Open	U		MAJOR	A327490	102	20	1	4				
+12-Garrett Pressler	82.67%	496.0261	117.83	84.49%	Limited Optics	A		MINOR	A165603	103	17	5	2				
+13-Taylor Snodgrass	80.11%	480.6394	114.48	97.41%	Carry Optics	M		MINOR	A159149	96	25	2	4				
+14-Coder W	78.90%	473.4245	121.89	80.95%	PCC	A		MINOR		89	34	3	1				
+15-Joshua Blume	78.72%	472.2941	119.24	96.73%	Carry Optics	A		MINOR	148746	92	32	1	2		1		
+16-Leo Garra	78.60%	471.6105	115.86	81.99%	Open	A		MAJOR		90	29	2	6				
+17-James Rogers	78.46%	470.7914	134.14	80.11%	Limited Optics	A	Law	MINOR	A101402	104	21	2					
+18-John Ren	77.87%	467.2422	119.72	95.14%	Carry Optics	A		MINOR	A168570	95	25	5	2		1		
+19-Phyl Santos 2	75.85%	455.1142	125.60	77.85%	PCC			MINOR		93	27	5	2			1	
+20-David Zhang	70.98%	425.8586	130.08	86.91%	Carry Optics	B		MINOR	FY140383	93	26	5	3				
+21-Andre Wijaya	70.81%	424.8852	117.12	74.01%	Open	B		MINOR	A175473	87	29	5	6				
+22-Jon Baguio	70.12%	420.6964	143.05	72.91%	Open	C		MAJOR	X	86	35	4	2				
+23-Samuel Maness	69.74%	418.4372	142.22	71.37%	Limited Optics	B		MINOR	A182556	93	29	5					
+24-Duane Mendoza	69.74%	418.4325	137.06	71.27%	Limited Optics	X		MINOR	X	82	38	7					
+25-Jason Hoang	69.43%	416.5662	130.00	70.92%	Limited Optics	U		MINOR	Ty164936	89	28	7	3				
+26-Jeremy Meserole	67.76%	406.5660	131.53	83.38%	Carry Optics	U		MINOR		93	24	6	4				
+27-Sean Finnerty	67.28%	403.6953	156.90	68.75%	Limited Optics	C		MINOR	A166724	114	10	2	1				
+28-Ryan “Goot” Gutierrez	65.49%	392.9289	141.63	68.49%	Open	U	Military, Law	MINOR	A148227	97	27		3			1	
+29-Cade Horton	63.36%	380.1338	116.21	64.61%	Limited Optics	B		MINOR	A168751	81	36	2	8		1	2	
+30-Phil Truong 1	62.22%	373.3135	128.43	75.57%	Carry Optics	X		MINOR	X	86	32	2	7			1	
+31-Jacob Elliott	59.92%	359.5222	171.89	74.04%	Carry Optics	B	Law	MINOR	A146767	104	20	3			1		
+32-Nathan Tribes	59.47%	356.8222	143.70	72.33%	Carry Optics	B		MINOR	A177203	94	25	3	5		1	2	
+33-Yulmer Carreno	58.93%	353.6116	131.88	60.29%	Limited Optics	A		MINOR	A157204	81	33	7	6		1		
+34-Patrick Parfait	58.50%	350.9910	156.47	72.14%	Carry Optics	C		MINOR	A180192	89	32	4	2		1		
+35-Taylor Latham	58.35%	350.1156	175.64	102.60%	Limited	B	Super Senior	MINOR	TY39841	97	29	1					
+36-Dale Fike	57.97%	347.8145	158.50	60.46%	Open		Senior, Super Senior	MINOR		85	38	2	2		1		
+37-Arnold Vo	55.42%	332.4985	149.29	57.91%	Open			MINOR		101	14	5	7			1	
+38-Tyler Denmon	55.24%	331.4687	109.06	58.62%	Open	B		MINOR	X	87	26	2	12			4	
+39-Paul Young	53.01%	318.0883	142.19	54.25%	Limited Optics	B		MINOR	A179492	78	37	6	6			2	
+40-Napoleon BigLew Lewis 1	52.56%	315.3659	164.70	64.99%	Carry Optics	U	Senior	MINOR	A154149	97	24		6			2	
+41-Marlon Pors	50.38%	302.2870	154.53	51.52%	Limited Optics	C	Law	MINOR	ty1234	82	30	8	7		1		
+42-Roger Campbell	50.12%	300.7492	172.84	61.36%	Carry Optics	C	Law	MINOR	A147122	94	26	1	6			1	
+43-Travis Isley	49.76%	298.5804	155.20	60.80%	Carry Optics	U		MINOR	A181067	91	24	4	8			2	
+44-Garrett Shannon	49.57%	297.4118	189.69	60.38%	Carry Optics	U		MINOR	A181073	104	17	2	4			2	
+45-Tommy Teas	49.36%	296.1514	182.60	87.46%	Limited	B	Super Senior	MAJOR	FY2227	76	35	12	4				
+46-Bobby LYDAY	48.63%	291.7620	203.62	50.93%	Open	C	Super Senior	MINOR	A160925	96	27	2	2		1		
+47-Hieu Le	45.87%	275.1985	165.52	55.98%	Carry Optics	U	Law	MINOR		93	23	3	8			3	
+48-Ryan Stegint	45.40%	272.4254	140.15	46.24%	Limited Optics	C		MINOR	A167764	74	34	10	9		1	2	
+49-Lee Smithheart	44.25%	265.5245	229.01	46.29%	Open	C	Senior	MINOR	TY111315	110	13		4			1	
+50-Chris Ballard	43.04%	258.2611	297.53	44.20%	Limited Optics	C		MINOR	A178189	98	23	3	3		1		
+51-Phillip Nguyen	42.06%	252.3366	192.71	43.95%	Open			MAJOR		104	14		9			3	
+52-Colby Johnson	40.46%	242.7671	233.71	42.28%	Open	U	Military	MINOR	A176151	100	21	3	3		1		
+53-Michael Pontious	39.98%	239.8834	157.49	40.58%	Limited Optics	B	Super Senior	MINOR	A94575	77	31	6	13			2	
+54-Patrick Gilbert	39.71%	238.2807	162.31	48.63%	Carry Optics	U		MINOR		89	22	5	11		3	2	
+55-Dale Hamm 1	34.90%	209.3738	229.33	105.83%	Production	D	Super Senior	MINOR	TY97196	87	31	2	7		1		
+56-Zachary Deason	34.54%	207.2682	176.27	61.96%	Limited	C		MINOR	A172975	69	37	8	13			1	
+57-Cristo Sanchez	34.45%	206.6734	181.13	42.67%	Carry Optics	U	Law	MINOR		88	24	2	13		2	1	
+58-Zachary Davis	34.06%	204.3590	181.13	59.27%	Limited	U	Law	MINOR		85	29	1	12		1	5	
+59-Jaime Elizondo	33.64%	201.8710	243.54	41.58%	Carry Optics	U	Law	MINOR	0	94	22		11			2	
+60-Virak Meas	33.02%	198.1198	168.70	34.45%	Open	D	Senior	MINOR	O	76	29	7	15			1	
+61-Gregory Reeves	24.57%	147.4083	162.37	29.74%	Carry Optics	C		MINOR	A182104	69	29	11	18		1	5	
+62-Antonio Gonzales	22.51%	135.0692	240.03	27.68%	Carry Optics	U		MINOR	A183390	77	31	7	12		3	2	
+63-Joel Narisma	14.98%	89.8948	215.79	15.10%	Limited Optics	U		MINOR		73	23	7	24			5	
+64-Lee King	8.31%	49.8888	399.09	85.00%	Single Stack	D	Distinguished Senior	MINOR	A163654	65	29	15	18		2	4	
+65-Will Berry	0.00%	0.0000		0.00%	Carry Optics	M	Law	MINOR	TY157815								
+66-Luis Bonilla	0.00%	0.0000		0.00%	Limited			MINOR									
+67-Chez Chike-Udenze	0.00%	0.0000		0.00%	Open	M		MAJOR	A138598								
+68-AJ Emmons	0.00%	0.0000		0.00%	Limited Optics	U		MINOR									
+69-Andi Emmons	0.00%	0.0000		0.00%	Open	U	Lady	MINOR	A183947								
+70-lee King	0.00%	0.0000		0.00%	Single Stack	D	Distinguished Senior	MINOR	A163654								
+71-Kenedy Nguyen	0.00%	0.0000		0.00%	Carry Optics	B		MINOR	A83862								
+Name
+1-Jacob Tullis
+2-Bobby Ivester
+3-Hunter Sparkman
+4-Will Goglas
+5-Travis McKenzie
+6-Glen Kruger
+7-Dan Ausmus
+8-Heath Helgeson
+9-Anthony Fong
+10-Ulrick Fong
+11-Shaundy Pepito
+12-Garrett Pressler
+13-Taylor Snodgrass
+14-Coder W
+15-Joshua Blume
+16-Leo Garra
+17-James Rogers
+18-John Ren
+19-Phyl Santos 2
+20-David Zhang
+21-Andre Wijaya
+22-Jon Baguio
+23-Samuel Maness
+24-Duane Mendoza
+25-Jason Hoang
+26-Jeremy Meserole
+27-Sean Finnerty
+28-Ryan “Goot” Gutierrez
+29-Cade Horton
+30-Phil Truong 1
+31-Jacob Elliott
+32-Nathan Tribes
+33-Yulmer Carreno
+34-Patrick Parfait
+35-Taylor Latham
+36-Dale Fike
+37-Arnold Vo
+38-Tyler Denmon
+39-Paul Young
+40-Napoleon BigLew Lewis 1
+41-Marlon Pors
+42-Roger Campbell
+43-Travis Isley
+44-Garrett Shannon
+45-Tommy Teas
+46-Bobby LYDAY
+47-Hieu Le
+48-Ryan Stegint
+49-Lee Smithheart
+50-Chris Ballard
+51-Phillip Nguyen
+52-Colby Johnson
+53-Michael Pontious
+54-Patrick Gilbert
+55-Dale Hamm 1
+56-Zachary Deason
+57-Cristo Sanchez
+58-Zachary Davis
+59-Jaime Elizondo
+60-Virak Meas
+61-Gregory Reeves
+62-Antonio Gonzales
+63-Joel Narisma
+64-Lee King
+65-Will Berry
+66-Luis Bonilla
+67-Chez Chike-Udenze
+68-AJ Emmons
+69-Andi Emmons
+70-lee King
+71-Kenedy Nguyen
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 4
+Truong, Phil (1)
+2026-08-22 17:02:49.302 - 2026-08-22 17:03:12.622Edited a few seconds after.Added proc: 1Added details: [object Object]Added numAlphas: 24Added numCharlies: 8Added numM: 2Added numProc: 1Added stringTime: 27.29Edited By Amazon KFQUWI 876f0d6b
+Lewis, Napoleon BigLew (1)
+2026-08-22 16:34:00.538 - 2026-08-22 16:34:17.406Edited a few seconds after.Added proc: 1Added details: [object Object]Added numAlphas: 26Added numCharlies: 4Added numM: 4Added numProc: 1Added stringTime: 30.83Edited By Amazon KFMUWI b9933831
+Stage 5
+Santos, Phyl (2)
+2026-08-22 14:00:20.467 - 2026-08-22 14:01:45.799Edited a minute after.Edited rawpts was: 15 now: 109Edited str,0 was: 0 now: 24.96
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 2.84,3.14,4.08,4.22,5.27,5.40,5.54,7.96,10.78,11.19,11.36,12.20,12.69,17.23,17.47,18.08,18.86,19.69,20.07,20.29,22.17,22.35,24.07,24.24,24.74,24.96;AMG 84FBEdited meta,0,t was: 2026-08-22 14:00:20.467 now: 2026-08-22 14:01:06.937Added aprv: trueAdded details: [object Object]Added numAlphas: 23Added numCharlies: 3Added stringTime: 24.96Edited By Amazon KFQUWI 876f0d6b2026-08-22 13:43:32.907 - 2026-08-22 14:00:20.467Edited 17 minutes after.Edited rawpts was: 93 now: 15Edited str,0 was: 25.36 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.66,1.96,4.73,5.23,5.42,6.53,6.73,7.74,8.29,11.57,12.98,13.19,13.84,14.69,14.83,15.93,16.07,18.59,19.02,19.26,20.25,20.38,21.33,21.80,22.17,23.13,23.40,24.03,24.71,25.36;AMG 84FB now: ReshootEdited meta,0,t was: 2026-08-22 13:42:42.726 now: 2026-08-22 14:00:20.467Removed aprv: trueEdited By Amazon KFQUWI 876f0d6b
+Hamm, Dale (1)
+2026-08-22 17:29:43.488 - 2026-08-22 17:30:03.387Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	2	0	1	0	0
+Added details: [object Object]Added numAlphas: 17Added numCharlies: 8Added numNS: 1Added numM: 1Added stringTime: 51.05Edited By Amazon KFMUWI b9933831
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

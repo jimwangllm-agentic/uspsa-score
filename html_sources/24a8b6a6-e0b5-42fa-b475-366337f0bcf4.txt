@@ -1,0 +1,442 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BAPS USPSA October USPSA 2021-10-16
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Corey Slifko	100.00%	560.7264	68.70	93.45%	Open	A		MAJOR	TY82935	104	15	2	1				
+2-Albert Montanez	98.57%	552.7286	73.83	92.12%	Open	M		MAJOR	TY101554	102	17	3					
+3-Ryan Alicaya	97.05%	544.1898	70.04	90.70%	Open	D		MAJOR		87	31	3					
+4-Wade Pruetz	93.22%	522.7160	72.60	87.12%	Open	A		MAJOR		94	22	5	1				
+5-Derek Rabuck	91.61%	513.7026	77.76	95.18%	PCC	B		MINOR	TY91331	101	19	1	1		1		
+6-Mike Junco	89.78%	503.4106	74.46	96.38%	Carry Optics	M	Law Enforcement	MINOR	FY34819	98	24						
+7-Randy Goodney	88.31%	495.1512	77.23	82.53%	Open	A	Senior	MAJOR	A94852	91	26	5					
+8-Roman Gwiscz	88.16%	494.3463	74.60	94.45%	Carry Optics	A		MINOR	L4670	94	26	2					
+9-Dave Campbell	85.77%	480.9617	80.13	89.22%	PCC	M	Super Senior	MINOR		103	18	1					
+10-Duane Mendoza	85.74%	480.7509	64.93	80.13%	Open	B		MINOR	X	98	20	2	2			6	
+11-Arnold Gee 4	85.45%	479.1534	82.70	79.86%	Open	B		MAJOR	TY103519	106	15	1					
+12-Chev Jacot 1	83.23%	466.6991	82.33	77.78%	Open	B		MAJOR	A72378	94	21	6	1				
+13-Mike Kahl	79.53%	445.9326	82.66	85.22%	Carry Optics	B	Super Senior	MINOR	TY70984	103	19				1	1	
+14-Tony Phan	78.71%	441.3653	86.40	84.52%	Carry Optics	A		MINOR	FY11963	105	16		1				
+15-Jon Baguio	76.97%	431.5941	80.83	82.60%	Carry Optics	X		MINOR		92	27	1	2				
+16-Matt Lem	76.32%	427.9735	86.32	82.09%	Carry Optics	M	Law Enforcement	MINOR	FY34763	102	16	3	1				
+17-Eddie Jimenea 1	74.95%	420.2525	90.14	70.04%	Open	M		MAJOR	TY14869	89	32		1				
+18-Alex Goben	73.94%	414.5803	85.49	79.01%	Carry Optics	A		MINOR	A86498	97	21	1	3				
+19-Tom Donahue	68.81%	385.8407	95.68	64.31%	Open	C	Super Senior	MAJOR		91	28	2	1		1		
+20-Michael Pontious 2	65.05%	364.7357	89.95	60.79%	Open		Senior	MAJOR	FY94575	89	26	1	6				
+21-Jim Duncan	64.25%	360.2721	111.26	66.91%	PCC	U	Super Senior	MINOR	ty33325	117	3	2			1		
+22-Antonio Tormis	63.05%	353.5429	89.19	67.81%	Carry Optics	B		MINOR		82	29	8	3				
+23-Pat Byrne	63.04%	353.4803	109.81	67.82%	Carry Optics	B		MINOR	FY93921	111	10		1				
+24-Wilson Mike	62.89%	352.6423	104.29	66.12%	PCC	U	Super Senior	MINOR		109	11		2			1	
+25-Marlon Poralan	60.47%	339.0913	105.21	65.19%	Carry Optics	X		MINOR		95	15	4	2				
+26-Raymon Alfonso	59.30%	332.5242	109.90	88.52%	Limited			MINOR		88	30	4					
+27-Andrew Orozco	56.62%	317.4967	124.01	52.92%	Open	U	Law Enforcement	MINOR	A135730	112	10						
+28-Robert Hollier	56.57%	317.2214	124.21	94.12%	Single Stack	C	Senior	MAJOR	FY24941	103	18	1					
+29-Carlos Escandon	56.53%	316.9745	116.02	93.49%	Production	B		MINOR	L2590	98	22	1	1				
+30-Mick Sambasile	56.23%	315.3003	115.47	52.55%	Open	C	Super Senior	MAJOR	TY47665	97	21	2	2		1		
+31-Glenn Cunningham	55.66%	312.0960	119.77	59.93%	Carry Optics	U	Super Senior	MINOR	A78280	111	8	2	1			1	
+32-Casey Parsons	55.47%	311.0607	103.18	82.54%	Limited	B		MAJOR	FY78742	77	37	2	6				
+33-Jonathan Backof	55.29%	310.0213	127.46	89.45%	Single Stack	B		MAJOR	A116878	91	27	3	1		1		
+34-Gaty Wu 1	55.06%	308.7458	117.73	90.15%	Production	B		MINOR		95	23	3	1				
+35-Dylan Lorence 1	54.56%	305.9076	118.89	50.98%	Open	B	Military	MAJOR	A123359	69	42	7	4				
+36-Kyle Parsons	51.05%	286.2560	128.44	85.38%	Production			MINOR		110	10		2		1		
+37-Kenedy Nguyen 1	50.73%	284.4512	114.49	54.51%	Carry Optics	C		MINOR	A83862	83	31	5	3				
+38-Q Nguyen 1	50.19%	281.4328	112.64	74.81%	Limited	C		MAJOR	Y99688	75	29	9	5				
+39-Mark Hopmann	48.28%	270.7174	135.50	71.81%	Limited	U		MAJOR	TY134553	89	25	1	1			1	
+40-Berrhett Foss 2	47.94%	268.8375	113.03	71.37%	Limited			MINOR		92	18	5	6		1		
+41-Angela Rabuck	47.14%	264.3360	141.58	78.26%	Single Stack	U	Lady	MINOR	A91275	105	14	2	1				
+42-Ron Potier	43.07%	241.5072	154.32	46.15%	Carry Optics	D	Super Senior	MINOR	TY113089	103	17	1	1				
+43-John Stokes	41.42%	232.2309	165.63	68.29%	Production	U	Senior	MINOR		109	12	1			1		
+44-Raul Sarladansky	40.89%	229.2654	152.61	60.77%	Limited	D	Super Senior	MAJOR	TY120341	88	25	6	3				
+45-Steve Diaz	40.86%	229.0920	131.69	60.61%	Limited	U		MAJOR		92	20	2	8		1		
+46-Mike Sakach	38.26%	214.5380	160.59	56.84%	Limited			MINOR	TY108893	101	16	2	3		1		
+47-Richard Dillow	37.76%	211.7123	146.34	63.94%	Single Stack	C	Super Senior	MAJOR	TY57446	92	18	4	8				
+48-JR Roberts	37.34%	209.3794	160.08	55.65%	Limited	C		MAJOR	TY102739	79	36	3	4		1		
+49-Joseph Reyes	36.60%	205.2318	126.23	54.42%	Limited		Super Senior	MINOR		75	30	9	8				
+50-Tom Neal	35.07%	196.6237	142.55	57.99%	Single Stack			MAJOR	L2362	72	27	15	8				
+51-Mark Pontevedra	30.22%	169.4657	133.42	50.12%	Production			MINOR		69	32	6	12				
+52-Simeon Serrano	28.88%	161.9500	194.57	31.18%	Carry Optics	U	Junior	MINOR	TY136967	99	16	2	5			4	
+53-Lisa Nguyen	21.23%	119.0547	223.79	31.58%	Limited	U	Lady	MINOR	A135827	83	14	11	12				
+Name
+1-Corey Slifko
+2-Albert Montanez
+3-Ryan Alicaya
+4-Wade Pruetz
+5-Derek Rabuck
+6-Mike Junco
+7-Randy Goodney
+8-Roman Gwiscz
+9-Dave Campbell
+10-Duane Mendoza
+11-Arnold Gee 4
+12-Chev Jacot 1
+13-Mike Kahl
+14-Tony Phan
+15-Jon Baguio
+16-Matt Lem
+17-Eddie Jimenea 1
+18-Alex Goben
+19-Tom Donahue
+20-Michael Pontious 2
+21-Jim Duncan
+22-Antonio Tormis
+23-Pat Byrne
+24-Wilson Mike
+25-Marlon Poralan
+26-Raymon Alfonso
+27-Andrew Orozco
+28-Robert Hollier
+29-Carlos Escandon
+30-Mick Sambasile
+31-Glenn Cunningham
+32-Casey Parsons
+33-Jonathan Backof
+34-Gaty Wu 1
+35-Dylan Lorence 1
+36-Kyle Parsons
+37-Kenedy Nguyen 1
+38-Q Nguyen 1
+39-Mark Hopmann
+40-Berrhett Foss 2
+41-Angela Rabuck
+42-Ron Potier
+43-John Stokes
+44-Raul Sarladansky
+45-Steve Diaz
+46-Mike Sakach
+47-Richard Dillow
+48-JR Roberts
+49-Joseph Reyes
+50-Tom Neal
+51-Mark Pontevedra
+52-Simeon Serrano
+53-Lisa Nguyen
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Red
+Foss, Berrhett (1)
+2021-10-16 15:28:50.993 - 2021-10-16 15:29:09.215Edited a few seconds after.Removed watchCode:Edited poph was: 4 now: 3Edited popm was: 0 now: 1Added details: [object Object]Added numAlphas: 18Added numBravos: 1Added numCharlies: 2Added numDeltas: 1Added numM: 2Added stringTime: 18.62Edited By Baps-Squad 2
+Jimenea, Eddie (1)
+2021-10-16 14:05:41.977 - 2021-10-16 14:21:56.733Edited 16 minutes after.Removed watchCode:Edited str,0 was: 13.6 now: 14.78
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 19Added numCharlies: 5Added stringTime: 14.78Edited By Baps-Squad 1
+Orange
+Wu, Gaty (1)
+2021-10-16 14:25:55.435 - 2021-10-16 14:46:49.411Edited 21 minutes after.Removed watchCode:Edited str,0 was: 0 now: 20.15
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 19Added numCharlies: 7Added stringTime: 20.15Edited By Baps-Squad 1
+Gee, Arnold (1)
+2021-10-16 14:26:47.080 - 2021-10-16 14:50:25.780Edited 24 minutes after.Removed watchCode:Edited str,0 was: 0 now: 15.03
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 22Added numCharlies: 4Added stringTime: 15.03Edited By Baps-Squad 1
+Yellow
+Pontious, Michael (1)
+2021-10-16 14:27:34.504 - 2021-10-16 14:37:41.739Edited 10 minutes after.Removed watchCode:Edited str,0 was: 0 now: 12.62
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 16Added numCharlies: 5Added numM: 3Added stringTime: 12.62Edited By Baps-Squad 2
+Lorence, Dylan (1)
+2021-10-16 15:24:25.762 - 2021-10-16 15:24:49.829Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	1	0	1	0	0	0	0
+Removed watchCode:Added details: [object Object]Added numAlphas: 20Added numCharlies: 4Added stringTime: 15.72Edited By Baps-Squad6
+Gee, Arnold (1)
+2021-10-16 14:54:28.338 - 2021-10-16 15:16:11.680Edited 22 minutes after.Removed watchCode:Edited str,0 was: 0 now: 16.7
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 19Added numCharlies: 4Added numDeltas: 1Added stringTime: 16.7Edited By Baps-Squad 1
+Nguyen, Kenedy (1)
+2021-10-16 14:16:57.572 - 2021-10-16 14:17:21.519Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+Removed watchCode:Added details: [object Object]Added numAlphas: 17Added numCharlies: 4Added numDeltas: 2Added numM: 1Added stringTime: 19.16Edited By Baps-Squad 3
+Green
+Gee, Arnold (1)
+2021-10-16 15:21:47.153 - 2021-10-16 15:47:39.985Edited 26 minutes after.Removed watchCode:Edited str,0 was: 0 now: 20.32
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 35Added numCharlies: 1Added stringTime: 20.32Edited By Baps-Squad 1
+Blue
+Pontious, Michael (1)
+2021-10-16 14:39:51.470 - 2021-10-16 14:44:30.287Edited 5 minutes after.Removed watchCode:Edited str,0 was: 0 now: 12.5
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 14Added numCharlies: 2Added stringTime: 12.5Edited By Baps-Squad 2
+Gee, Arnold (1)
+2021-10-16 15:54:44.003 - 2021-10-16 16:09:57.822Edited 15 minutes after.Removed watchCode:Edited str,0 was: 0 now: 9.89
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 14Added numCharlies: 2Added stringTime: 9.89Edited By Baps-Squad 1
+Cm99-
+Nguyen, Q (1)
+2021-10-16 15:23:37.005 - 2021-10-16 15:54:34.002Edited 31 minutes after.Removed watchCode:Edited str,0 was: 0 now: 8.7
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	3	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 6Added numCharlies: 4Added numM: 2Added stringTime: 8.7Edited By Baps-Squad 2
+Foss, Berrhett (1)
+2021-10-16 15:23:47.995 - 2021-10-16 15:47:35.181Edited 24 minutes after.Removed watchCode:Edited str,0 was: 0 now: 10.22
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+Edited aprv was: false now: trueAdded details: [object Object]Added numAlphas: 8Added numCharlies: 1Added numDeltas: 1Added numM: 2Added stringTime: 10.22Edited By Baps-Squad 2
+Jacot, Chev (1)
+2021-10-16 15:30:24.785 - 2021-10-16 15:30:50.789Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	3	0	0	0	0	1	0
+Removed watchCode:Added details: [object Object]Added numAlphas: 9Added numCharlies: 1Added numDeltas: 1Added numM: 1Added stringTime: 12.15Edited By Baps-Squad 3
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

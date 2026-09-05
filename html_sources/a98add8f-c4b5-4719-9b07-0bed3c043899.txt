@@ -1,0 +1,104 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BPS USPSA Mar 31, 2019 USPSA 2019-03-30
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Todd Mori	100.00%	160.6596	64.06	112.45%	Production	A	Military	MINOR	TY112573	39	3						
+2-Michal Kadlec	90.25%	145.0000	48.92	72.50%	Limited	U	Military, Foreign	MINOR		33	8		4			3	
+3-Madison Henson	84.65%	135.9968	56.83	94.35%	Limited	U	Military	MINOR	A118218	30	11		2		1		
+4-Jonathan Wood 1	67.07%	107.7600	58.97	65.37%	Limited	U		MINOR	TY116519	29	11	2	3		3		
+5-Todd Mori	56.02%	90.0000	16.23	45.00%	Production	A	Military	MINOR	TY112573	16	3	1	1				
+6-Jonathan Wood	47.90%	76.9639	82.75	39.26%	Limited	U		MINOR	TY116519	31	7	4	4		1		
+7-Scott Medeiros	39.46%	63.4032	95.12	31.70%	Limited	U	Military	MINOR	A118225	29	9	1	5				
+8-Sean MacKenzie	38.15%	61.2943	75.94	34.07%	Limited	U	Military	MINOR		31	6		8		1		
+9-Adam Haggard	36.64%	58.8717	109.94	32.94%	Limited	U	Military	MINOR		32	7	2	5				
+10-Travis Goodson	33.86%	54.4057	79.40	28.15%	Limited	U	Military	MINOR		26	11	1	6		1		
+11-douglas armentrout	26.80%	43.0536	100.40	38.65%	Production	U	Military	MINOR	A117922	28	9	2	6				
+12-Conner Alford	7.00%	11.2397	97.71	5.62%	Limited	U		MINOR		13	7	1	16				
+Name
+1-Todd Mori
+2-Michal Kadlec
+3-Madison Henson
+4-Jonathan Wood 1
+5-Todd Mori
+6-Jonathan Wood
+7-Scott Medeiros
+8-Sean MacKenzie
+9-Adam Haggard
+10-Travis Goodson
+11-douglas armentrout
+12-Conner Alford
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Mistakes Were Made
+Wood, Jonathan (1)
+2019-03-31 04:51:53.760 - 2019-03-31 06:05:46.364Edited an hour after.Edited str,0 was: 35.41 now: 27.18
+A	B	C	D	NS	M	NPM
+Previous	0	2	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+Added details: [object Object]Added numAlphas: 22Added numBravos: 2Added numCharlies: 7Added numDeltas: 1Added numNS: 2Added stringTime: 27.18Edited By iPhone
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

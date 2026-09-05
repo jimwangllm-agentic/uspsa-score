@@ -1,0 +1,123 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+GPS USPSA Mini Match USPSA 2025-05-01Gainesville Practical Shooters
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Tony Mazza	100.00%	584.1695	62.51	150.00%	Carry Optics	M		MINOR	A77602	96	20	3	1				
+2-Jake Prevost	90.53%	528.8594	67.79	149.10%	PCC	U		MINOR	A142467	95	22	2	1		1		
+3-Jeremy Lightner	82.95%	484.5769	73.20	150.00%	Limited Optics	M	Military	MINOR	A73910	87	29	3	1				
+4-Sam Ho	78.35%	457.7233	77.07	117.56%	Carry Optics	U	Law	MINOR		95	21	2	2		1		
+5-Bob Dzamko	71.93%	420.2216	81.71	118.52%	PCC	A		MINOR	Ty78926	93	24		3			1	
+6-Jerry Rieta	71.71%	418.8950	85.79	118.22%	PCC	B		MINOR	TY132824	100	16	2	2		1		
+7-Jimmy Ho 2	68.73%	401.4808	90.59	103.30%	Carry Optics	B		MINOR	A140526	96	20	4			1		
+8-Erwin Perera	65.00%	379.7198	85.96	97.61%	Carry Optics	C		MINOR	A147540	80	32	5	3				
+9-Scott Benjamin	58.78%	343.3818	101.91	97.59%	PCC	C		MINOR		83	35	1	1				
+10-Ben Salhanick	57.14%	333.7745	99.44	86.46%	Carry Optics	U		MINOR	A159718	89	26	3	2		2		
+11-kyle everage	50.78%	296.6700	128.79	76.10%	Carry Optics	U		MINOR	L6073	104	15	1			1		
+12-Giles Peek	49.87%	291.3532	121.40	83.31%	PCC	U	Senior	MINOR	A145270	98	20		2			1	
+13-Will Reece	47.56%	277.8235	129.87	150.00%	Production	U		MINOR		94	19	7			1		
+14-Tom Davis	47.27%	276.1203	68.14	113.75%	Open	B		MINOR		66	17	5	3				
+15-Warren Meek	45.20%	264.0678	126.98	81.66%	Limited Optics	C	Law	MINOR	A163793	83	31	5	1		2		
+16-Danny Villamil	40.02%	233.7708	137.60	60.33%	Carry Optics	D		MINOR	A163270	88	24	6	2		3		
+17-Stacie Crouch	28.12%	164.2421	173.03	45.92%	PCC	U	Lady	MINOR		67	38	12	3		2		
+18-Miguel Rodriguez	11.90%	69.5424	184.73	40.08%	Production	U		MINOR		65	21	17	17		5		
+Name
+1-Tony Mazza
+2-Jake Prevost
+3-Jeremy Lightner
+4-Sam Ho
+5-Bob Dzamko
+6-Jerry Rieta
+7-Jimmy Ho 2
+8-Erwin Perera
+9-Scott Benjamin
+10-Ben Salhanick
+11-kyle everage
+12-Giles Peek
+13-Will Reece
+14-Tom Davis
+15-Warren Meek
+16-Danny Villamil
+17-Stacie Crouch
+18-Miguel Rodriguez
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+We Play Games
+Ho, Jimmy (2)
+2025-05-01 23:30:56.895 - 2025-05-01 23:48:45.032Edited 18 minutes after.Edited str,1 was: 0 now: 10.7Edited str,0 was: 0 now: 10.02
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 108Added aprv: trueAdded details: [object Object]Added numAlphas: 18Added numCharlies: 6Added stringTime: 20.72Edited By Black Tablet2025-05-01 23:29:45.381 - 2025-05-01 23:30:56.895Edited a minute after.Removed rawpts: 99Edited str,1 was: 9.8 now: 0Edited str,0 was: 9.34 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	2	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Black Tablet
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

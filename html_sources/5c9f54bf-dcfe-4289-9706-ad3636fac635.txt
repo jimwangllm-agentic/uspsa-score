@@ -1,0 +1,330 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BAPS USPSA July 2022 USPSA 2022-07-16
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Ryan Alicaya	100.00%	592.3123	78.29	102.49%	Open	D		MAJOR		100	28	3					
+2-Bobby Ivester	95.33%	564.6689	80.07	98.45%	Open	M		MAJOR	A101336	88	35		1				
+3-Paul Felker 2	89.07%	527.5813	85.04	97.57%	Carry Optics	M		MINOR	TY107123	103	26	2					
+4-Ralf Migs	88.82%	526.0759	75.96	97.26%	Carry Optics	U		MINOR		87	33	10	1				
+5-Whitley Andrew	87.77%	519.8568	83.94	90.56%	Open			MAJOR	TY106649	83	41	7					
+6-Mike Junco	84.54%	500.7393	84.62	93.07%	Carry Optics	M	Law Enforcement	MINOR	FY34819	101	24	3	1				
+7-Wade Pruetz 1	84.28%	499.2217	83.31	85.79%	Open	A	Senior	MAJOR	A79055	88	35	6	2		2		
+8-Duane Mendoza	83.56%	494.9099	79.20	92.14%	Carry Optics	B		MINOR		77	44	10					
+9-Matt Lem	80.15%	474.7428	91.47	88.13%	Carry Optics	M		MINOR	FY34763	105	19	3	1				
+10-Steven McNamara	79.66%	471.8284	94.48	81.89%	Open	B	Senior	MAJOR	A75212	103	24	3	1				
+11-Edwin Garcia 1	77.04%	456.3130	98.65	85.05%	Carry Optics			MINOR		94	34	2	1				
+12-Craig Bellamy	76.50%	453.1396	93.09	106.27%	Single Stack	U	Law Enforcement	MAJOR	TY54824	99	21	6	3				
+13-Sheng Onia	76.44%	452.7407	86.07	84.95%	Carry Optics	C		MINOR	0	87	31	11	2				
+14-Jonathan Warrender	75.04%	444.4587	101.50	82.47%	Carry Optics	C		MINOR	ty86145	115	16				1		
+15-Dario Belarmino	74.19%	439.4204	85.90	101.47%	PCC	U		MINOR		88	31	8	4				
+16-Gerrit Milks	71.82%	425.4233	94.14	97.25%	PCC	A	Super Senior	MINOR	A67608	105	18	5	3		1		
+17-Jon Baguio	71.46%	423.2856	87.42	70.58%	Open	C		MAJOR		84	29	16	2			8	
+18-Jerry McClain	71.12%	421.2387	98.21	98.10%	Limited	B		MAJOR	A48726	101	22	6	2		3		
+19-Randy Goodney	70.58%	418.0459	85.08	72.82%	Open	A	Senior	MAJOR	A94852	89	30	5	7		1	1	
+20-Nick Milks	70.41%	417.0506	97.41	96.45%	PCC			MINOR		93	29	8	1				
+21-Kyle Post	69.84%	413.6564	106.11	100.96%	Production	A	Law Enforcement	MINOR	A74846	109	20	1	1				
+22-Doug Dillon	68.92%	408.2243	101.88	75.81%	Carry Optics	B	Law Enforcement	MINOR	A71359	100	27	2	2				
+23-Ashley Krenek	67.24%	398.2498	106.03	74.42%	Carry Optics	B	Lady	MINOR	TY92392	99	22	4	1				
+24-Khoa Nguyen	67.19%	397.9882	93.38	96.40%	Production	A	Law Enforcement	MINOR	A117224	97	26	1	5			1	
+25-August Balagtas	67.05%	397.1725	84.02	73.39%	Carry Optics	A		MINOR	L3674	77	42	6	6				
+26-Bruce Meuth	66.97%	396.6450	104.53	93.87%	Limited	B	Senior	MAJOR	TY87524	87	36	5	3				
+27-Roman Gwiscz	66.53%	394.0472	110.05	73.57%	Carry Optics	A		MINOR	L4670	100	25	5	1				
+28-Michael Pontious 1	65.98%	390.8037	103.13	67.49%	Open	B	Senior	MAJOR	ty94575	87	32	8	4				
+29-Mike Kahl	65.91%	390.3999	100.12	72.71%	Carry Optics	B	Super Senior	MINOR	TY70984	100	26	1	4		1		
+30-Alex Goben	65.47%	387.7803	111.89	72.25%	Carry Optics	A		MINOR	A86498	101	25	3	2				
+31-Glenn Cunningham	62.27%	368.8303	126.75	85.08%	PCC	C	Super Senior	MINOR	A78280	121	9		1				
+32-Haydn Brown	60.81%	360.1889	122.75	84.53%	Production	C		MINOR	A62956	100	25	4	2		1		
+33-Marlon Poralan	59.61%	353.0843	109.01	62.04%	Open			MAJOR		81	28	16	4		1		
+34-Pat Byrne	59.09%	349.9919	106.00	82.78%	Single Stack	B		MINOR	FY93921	90	33	4	4			1	
+35-Robert Hollier	57.56%	340.9282	127.10	80.95%	Single Stack	C	Super Senior	MAJOR	FY24941	104	23	2	2				
+36-Gary Wu	57.03%	337.7758	115.28	62.84%	Carry Optics	B		MINOR	L2998	96	24	7	4				
+37-Carlos Escandon	55.90%	331.1302	140.09	78.98%	Single Stack	B	Super Senior	MAJOR	L2590	92	30	8	1				
+38-Joshua Day	54.24%	321.2759	136.16	76.00%	Limited	U		MINOR		105	22	2	2				
+39-Norman Oducado	53.90%	319.2817	108.62	76.07%	Limited	C		MINOR	A103491	90	18	13	9				
+40-Jim Duncan	52.06%	308.3440	126.54	56.99%	Carry Optics	B	Super Senior	MINOR	ty33325	103	18	6	3			1	
+41-Jonathan Backof 2	48.71%	288.5289	129.41	67.44%	Single Stack	B		MAJOR	L5308	83	37	5	6		1		
+42-Jason Mellerstig	47.92%	283.8186	158.86	52.68%	Carry Optics	U		MINOR		116	13	1	1				
+43-Mike Wilson	45.31%	268.3958	143.73	49.49%	Carry Optics	B	Super Senior	MINOR	TY84396	100	26	1	4		1	1	
+44-Francis Nguyen	44.59%	264.1113	134.75	48.75%	Carry Optics	C	Law Enforcement	MINOR	L5103	65	47	18	1				
+45-Mick Sambasile	43.05%	254.9738	163.98	45.07%	Open	C	Super Senior	MAJOR	TY47665	83	38	7	3				
+46-Michelle Lonergan	42.68%	252.8231	141.68	61.15%	Production	C	Lady	MINOR	TY84120	85	32	9	4				
+47-Art Nelson	39.60%	234.5288	177.13	55.30%	Limited	U		MAJOR	A1166323	77	43	8	3				
+48-Eman Alcoseba	37.42%	221.6271	148.50	52.11%	Limited			MAJOR	TY67519	71	39	12	9				
+49-Richard Dillow	37.18%	220.2040	168.88	52.27%	Limited	C	Super Senior	MAJOR	TY57446	84	29	13	5		1		
+50-Mackenzie Dillon	35.10%	207.9207	189.35	50.76%	Production	D	Junior, Lady	MINOR	A88307	98	24	2	5				
+51-Miguel Gonzalez 1	35.10%	207.8978	181.93	50.39%	Production	U		MINOR	A142148	74	40	14	3		1		
+52-Kicker Cardenas	34.79%	206.0461	168.05	49.67%	Production	U	Lady	MINOR		85	33	7	6				
+53-Bob Klee	33.27%	197.0581	161.86	47.99%	Production	U	Senior	MINOR	A135792	78	28	10	7		1		
+54-Adam Ubias	28.12%	166.5359	153.77	30.64%	Carry Optics	U	Military	MINOR		64	38	14	15		1	1	
+55-Teddy Elarmo	27.84%	164.8977	204.55	31.07%	Carry Optics			MINOR		80	35	10	6		1		
+56-Ozge Cumberland	24.98%	147.9527	167.66	27.62%	Carry Optics		Lady	MINOR		73	35	11	12			2	
+57-Ethan Sonnier	20.52%	121.5607	152.85	30.09%	Limited			MINOR		75	28	11	17		2		
+58-Brandon Mabile	19.37%	114.7438	285.90	20.72%	Carry Optics	U		MINOR	A119307	87	29	7	8		4		
+59-Danielle Dysart	18.61%	110.2419	256.83	20.33%	Carry Optics	U	Lady	MINOR	A137402	63	47	11	10				
+60-Peter Nguyen	13.99%	82.8462	226.68	15.59%	Carry Optics	U		MINOR		62	34	17	18		1		
+61-Peter Lauzon	10.16%	60.1630	339.60	10.63%	Open	U	Senior	MAJOR		63	29	13	26		1	2	
+Name
+1-Ryan Alicaya
+2-Bobby Ivester
+3-Paul Felker 2
+4-Ralf Migs
+5-Whitley Andrew
+6-Mike Junco
+7-Wade Pruetz 1
+8-Duane Mendoza
+9-Matt Lem
+10-Steven McNamara
+11-Edwin Garcia 1
+12-Craig Bellamy
+13-Sheng Onia
+14-Jonathan Warrender
+15-Dario Belarmino
+16-Gerrit Milks
+17-Jon Baguio
+18-Jerry McClain
+19-Randy Goodney
+20-Nick Milks
+21-Kyle Post
+22-Doug Dillon
+23-Ashley Krenek
+24-Khoa Nguyen
+25-August Balagtas
+26-Bruce Meuth
+27-Roman Gwiscz
+28-Michael Pontious 1
+29-Mike Kahl
+30-Alex Goben
+31-Glenn Cunningham
+32-Haydn Brown
+33-Marlon Poralan
+34-Pat Byrne
+35-Robert Hollier
+36-Gary Wu
+37-Carlos Escandon
+38-Joshua Day
+39-Norman Oducado
+40-Jim Duncan
+41-Jonathan Backof 2
+42-Jason Mellerstig
+43-Mike Wilson
+44-Francis Nguyen
+45-Mick Sambasile
+46-Michelle Lonergan
+47-Art Nelson
+48-Eman Alcoseba
+49-Richard Dillow
+50-Mackenzie Dillon
+51-Miguel Gonzalez 1
+52-Kicker Cardenas
+53-Bob Klee
+54-Adam Ubias
+55-Teddy Elarmo
+56-Ozge Cumberland
+57-Ethan Sonnier
+58-Brandon Mabile
+59-Danielle Dysart
+60-Peter Nguyen
+61-Peter Lauzon
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Red
+Felker, Paul (2)
+2022-07-16 16:22:16.852 - 2022-07-16 16:24:53.549Edited 3 minutes after.Removed dnfr:Removed watchCode:Edited str,0 was: 0 now: 13.2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited aprv was: false now: trueRemoved cmts:Removed dqr:Removed penr:Added details: [object Object]Added numAlphas: 14Added numCharlies: 9Added numDeltas: 1Added stringTime: 13.2Edited By Baps-Squad 22022-07-16 16:17:14.493 - 2022-07-16 16:22:16.852Edited 5 minutes after.Edited str,0 was: 13.2 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	1	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	1	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	1	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited aprv was: true now: falseEdited By Baps-Squad 2
+Orange
+Pruetz, Wade (1)
+2022-07-16 14:12:53.298 - 2022-07-16 14:13:59.718Edited a minute after.Removed watchCode:
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	2	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	2	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	2	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 17Added numCharlies: 11Added numDeltas: 1Added numNS: 1Added numM: 1Added stringTime: 13.81Edited By Baps-Squad 2
+Green
+Backof, Jonathan (2)
+2022-07-16 16:27:02.612 - 2022-07-16 16:27:27.172Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	0	0	0	1	0
+Removed watchCode:Added details: [object Object]Added numAlphas: 23Added numCharlies: 6Added numM: 5Added stringTime: 34.04Edited By Baps-Squad62022-07-16 16:26:37.242 - 2022-07-16 16:27:02.612Edited a few seconds after.Edited poph was: 5 now: 4Edited popm was: 0 now: 1Edited By Baps-Squad6
+Blue
+Gonzalez, Miguel (1)
+2022-07-16 15:03:37.157 - 2022-07-16 15:06:17.891Edited 3 minutes after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 20.27
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Removed watchCode:Added details: [object Object]Added numAlphas: 12Added numCharlies: 4Added stringTime: 20.27Edited By Baps-Squad 3
+Pontious, Michael (1)
+2022-07-16 14:07:20.689 - 2022-07-16 14:07:56.480Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	1	1	0	0	0
+Edited rawpts was: 63 now: 65Added details: [object Object]Added numAlphas: 7Added numCharlies: 7Added numDeltas: 1Added numM: 1Added stringTime: 11.72Edited By Android Device
+Stage 6
+Garcia, Edwin (1)
+2022-07-16 14:58:53.730 - 2022-07-16 15:00:17.105Edited a minute after.Edited aprv was: false now: trueEdited str,0 was: 0 now: 6.67
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Removed watchCode:Added details: [object Object]Added numAlphas: 9Added numCharlies: 4Added numDeltas: 1Added stringTime: 6.67Edited By Baps Squad-4
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

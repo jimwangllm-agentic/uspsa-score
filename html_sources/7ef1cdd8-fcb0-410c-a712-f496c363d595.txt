@@ -1,0 +1,180 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BPS USPSA Apr 27, 2019 USPSA 2019-04-27
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Madison Henson	100.00%	202.3189	65.98	104.66%	Production	D	Military	MINOR	A118218	28	11	1			1		
+2-Michal Kadlec 2	94.75%	191.6960	63.29	100.92%	Limited	U	Military, Foreign	MINOR		21	11		1				
+3-Michal Kadlec 1	90.19%	182.4711	74.22	95.57%	Limited	U	Military	MINOR		26	7		1				
+4-Madison Henson 1	79.28%	160.4023	65.58	83.83%	Limited	D	Military	MINOR	A118218	25	5		3				
+5-Todd Mori 4	78.80%	159.4358	65.67	83.24%	Production	A	Military	MINOR	TY112573	30	6		3		1		
+6-Scott Medeiros	68.75%	139.0898	88.30	71.39%	Production	U	Military	MINOR	A118225	25	10		1		1		
+7-Jonathan Wood	59.70%	120.7924	77.51	63.89%	Limited	U		MINOR	TY116519	28	4		5				
+8-douglas armentrout	21.03%	42.5537	87.03	22.29%	Production	U	Military	MINOR	A117922	18	8	6	8				
+Name
+1-Madison Henson
+2-Michal Kadlec 2
+3-Michal Kadlec 1
+4-Madison Henson 1
+5-Todd Mori 4
+6-Scott Medeiros
+7-Jonathan Wood
+8-douglas armentrout
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Die-Harder
+Giddens, Justin (1)
+2019-04-28 04:14:43.113 - 2019-04-28 04:15:17.996Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+Added numAlphas: 19Added numBravos: 3Added numCharlies: 1Added numDeltas: 1Added numNS: 1Added numM: 2Added stringTime: 98.61Edited By iPhone
+The Condor
+Wood, Jonathan (1)
+2019-04-28 05:19:43.359 - 2019-04-28 05:36:58.264Edited 17 minutes after.Edited str,1 was: 10.19 now: 11.39Edited str,0 was: 10 now: 11.81Edited aprv was: true now: false
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	2	0	0	0	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	1	0	0	1	0
+Added numAlphas: 8Added numCharlies: 6Added numNS: 1Added numM: 2Added stringTime: 23.200000000000003Edited By iPhone
+Henson, Madison (1)
+2019-04-27 15:51:42.935 - 2019-04-28 05:29:26.219Edited 14 hours after.Edited str,1 was: 10.73 now: 9.83Edited str,0 was: 10.38 now: 9.32
+A	B	C	D	NS	M	NPM
+Previous	0	1	0	0	1	1	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 12Added numCharlies: 4Added stringTime: 19.15Edited By iPhone
+Mori, Todd (4)
+2019-04-28 05:31:28.762 - 2019-04-28 05:32:20.601Edited a minute after.Edited str,1 was: 8.77 now: 10.43
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 12Added numCharlies: 4Added stringTime: 19.560000000000002Edited By iPhone2019-04-28 05:22:46.670 - 2019-04-28 05:31:28.762Edited 9 minutes after.Edited str,0 was: 8.17 now: 9.13Edited By iPhone2019-04-28 05:16:41.190 - 2019-04-28 05:22:46.670Edited 6 minutes after.Edited str,1 was: 12.55 now: 8.77Edited str,0 was: 9.22 now: 8.17
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Edited By iPhone2019-04-28 05:05:44.550 - 2019-04-28 05:16:41.190Edited 11 minutes after.Edited str,1 was: 12.88 now: 12.55Edited str,0 was: 8.92 now: 9.22
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited By iPhone
+Kadlec, Michal (1)
+2019-04-27 15:48:46.489 - 2019-04-28 05:14:07.869Edited 13 hours after.Edited str,1 was: 13.26 now: 8.62Edited str,0 was: 11.81 now: 8.72
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	1	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	1	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 11Added numCharlies: 5Added stringTime: 17.34Edited By iPhone
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

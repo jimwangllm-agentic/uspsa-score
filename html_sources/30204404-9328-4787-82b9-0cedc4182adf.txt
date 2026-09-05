@@ -1,0 +1,722 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+GPS USPSA November 2024 USPSA 2024-11-24Generation P C
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Michael Hanover 1	100.00%	789.9327	86.02	114.88%	Open	U		MAJOR	A146302	132	33	3	2				
+2-Bobby Ivester	97.03%	766.4505	89.71	111.49%	Open	M		MAJOR	A101336	124	45		1				
+3-Vinh Lam	96.95%	765.8772	89.07	118.20%	Limited Optics	U		MINOR	Ty101025	148	21		1			1	
+4-Anthony Fong	92.22%	728.4450	90.38	112.44%	Limited Optics	M		MINOR	A142224	130	32	8					
+5-Joshua Chew	92.00%	726.7181	90.28	112.03%	Limited Optics	A	Junior	MINOR	TY143381	140	25	5			2	1	
+6-Chez Chike-Udenze	88.65%	700.2830	91.23	101.86%	Open	M		MAJOR	A138598	133	30	2	5			1	
+7-Marco Yue 2	88.19%	696.6392	95.64	118.61%	PCC	M		MINOR	L5762	140	27	1	2				
+8-Adam Bandiera	86.91%	686.5037	99.91	106.27%	Limited Optics	A		MINOR	A148375	140	28	2					
+9-Jim Havens	86.23%	681.1743	95.95	105.00%	Limited Optics	M	Senior	MINOR	a114636	138	28	2	2		1		
+10-Andrew Whitley	86.13%	680.3956	97.74	99.05%	Open	A		MAJOR	TY106649	125	39	4	2		1		
+11-Zachary Ralston	84.65%	668.6959	97.02	113.12%	Carry Optics	M		MINOR	A123081	132	34	2	2				
+12-Mike Junco	83.61%	660.4966	98.44	101.83%	Limited Optics	M	Senior, Law Enforcement	MINOR	FY34819	138	28	1	3				
+13-Qingbang Cai 1	83.34%	658.3130	99.84	95.68%	Open	U		MINOR	A148273	135	31	2	2				
+14-Patrick Mccombs 2	83.22%	657.3985	105.21	95.53%	Open	U		MAJOR	A157503	134	31	4	1				
+15-Brandon Foss	82.96%	655.3473	100.09	110.44%	Carry Optics	M		MINOR	L5142	129	37	3	1				
+16-Claude Chew	82.33%	650.3289	107.82	110.34%	Carry Optics	A		MINOR	TY143380	146	24						
+17-Daniell Gianelloni	82.13%	648.8024	103.28	110.49%	Carry Optics	A	Law Enforcement	MINOR	FY134287	138	30	1	1				
+18-Jack Liu 3	81.96%	647.4533	100.65	111.11%	PCC	A	Law Enforcement	MINOR	L6156	132	35	1	2				
+19-Travis McKenzie	81.51%	643.8725	98.14	93.77%	Open	U		MAJOR	L6340	133	31	1	5		2	2	
+20-Paul Felker	80.16%	633.2014	101.42	97.91%	Limited Optics	U		MINOR	TY107123	133	33	2	2		1		
+21-Wade Pruetz	79.60%	628.8115	101.66	91.25%	Open	A	Senior	MAJOR	TY79055	135	30	2	3			4	
+22-Jose Onia	78.78%	622.3423	101.63	96.93%	Limited Optics	B		MINOR	A134359	124	42	1	3				
+23-Joseph White	78.66%	621.3754	108.78	105.71%	Carry Optics	B	Law Enforcement	MINOR	A135489	148	19	1	2				
+24-Jay-R delos-Santos	78.02%	616.3402	113.09	105.43%	PCC	B	Senior	MINOR	A7097	156	13		1		1		
+25-JC Aguinaldo	77.85%	614.9873	109.44	103.91%	Carry Optics	C		MINOR	0	134	32	3	1				
+26-Christian Canizales	77.18%	609.6503	101.87	103.26%	Carry Optics	A		MINOR	TY150265	126	35	6	3				
+27-David Warren	76.32%	602.8472	100.10	93.19%	Limited Optics	M	Senior	MINOR	TY40917	132	32	2	4		3		
+28-Roman Gwiscz	76.01%	600.4629	113.59	92.87%	Limited Optics	U		MINOR	L4670	141	29				1		
+29-Matthew Lem	75.33%	595.0696	112.92	100.99%	Carry Optics	M	Senior, Law Enforcement	MINOR	A34763	143	23	2	2				
+30-Kolton Cox	74.69%	590.0363	101.68	91.28%	Limited Optics	A		MINOR	A155275	130	32	4	4		2		
+31-Gil Yolo	73.83%	583.1985	115.61	117.23%	Single Stack	A		MAJOR	L5228	125	40	4	1		1		
+32-James Wong	73.56%	581.0707	116.21	98.42%	Carry Optics	U		MINOR	A162844	141	26	2	1				
+33-Matthew Givens	73.34%	579.3721	109.72	100.59%	PCC	B		MINOR	A137686	123	44	2	1			2	
+34-Andy Chen 4	72.55%	573.0937	103.75	96.85%	PCC	A		MINOR	A86721	117	41	6	6				
+35-Jun Wu 2	72.30%	571.0825	125.45	98.49%	PCC	C		MINOR	a104927	155	15						
+36-Jeremiah Hunt	71.58%	565.3963	119.23	82.56%	Open	U		MAJOR	A149285	114	46	9	1				
+37-Pocholo Dimayuga	70.99%	560.8061	118.33	86.66%	Limited Optics	C		MINOR	.	140	25	2	3				
+38-Heath Helgeson 2	70.70%	558.4889	107.19	86.97%	Limited Optics	U		MINOR	A149129	128	30	7	5				
+39-Henry Wong	70.16%	554.2350	129.71	85.64%	Limited Optics	U		MINOR	0	155	14	1					
+40-Mike Kahl	68.97%	544.8165	121.70	91.52%	Carry Optics	A	Distinguished Senior	MINOR	A70984	152	15		3		1	1	
+41-Doug Joder	68.92%	544.3987	123.38	93.05%	PCC	B		MINOR	TY115020	142	26	1	1		1	1	
+42-Don Sanders	68.07%	537.7337	115.03	78.32%	Open	B	Senior	MAJOR	FY46389	104	51	11	4		2		
+43-Jason Wells	65.38%	516.4872	130.38	103.80%	Single Stack	A		MAJOR	L5218	135	29	5	1		2		
+44-Paul Torre	65.12%	514.3813	124.32	87.29%	Carry Optics	C	Law Enforcement	MINOR	A88028	136	28	3	3				
+45-Steven McNamara	65.04%	513.8109	138.28	74.51%	Open	B	Senior	MAJOR	A75212	152	15	1	2		1	2	
+46-Phillip Nguyen	64.91%	512.7505	111.00	78.90%	Limited Optics	U		MINOR	TY152423	129	31	2	8		1		
+47-Virak Meas	64.63%	510.5074	126.03	78.90%	Limited Optics	U	Senior	MINOR	O	127	39	2	2				
+48-Jorge Cahas	64.34%	508.2777	93.21	74.12%	Open	B	Senior	MAJOR	F-44522	108	38	7	17			6	
+49-George Zhou 5	64.25%	507.5599	123.04	87.40%	PCC	C		MINOR	A146179	137	27	1	5				
+50-Brandon Hunt	64.21%	507.1897	131.66	78.69%	Limited Optics	C		MINOR	FY150701	140	28	2				3	
+51-Manny Nerona	64.18%	506.9450	117.53	78.13%	Limited Optics	C		MINOR	A69445	130	27	8	5		1		
+52-Devin Yolo	63.76%	503.6526	116.88	121.43%	Production	B		MINOR	A112987	107	52	8	3				
+53-John Ren	60.99%	481.7646	135.83	81.30%	Carry Optics	U		MINOR	0	131	36	3			2		
+54-Jerry Bedro	60.01%	474.0469	127.12	73.54%	Limited Optics	C		MINOR	A98263	135	27	6	2		1	4	
+55-Michael Pontious	59.65%	471.1744	94.05	68.72%	Open	B	Senior	MAJOR	Fy94575	89	44	11	26			12	
+56-Abrahan Figueroa	58.62%	463.0873	133.92	71.21%	Limited Optics	U	Senior	MINOR	TY54053	113	51	4	2				
+57-Nathan Bridges	58.06%	458.6548	142.64	77.79%	Carry Optics	C		MINOR	A139264	129	33	7	1				
+58-Robbie Boettcher	56.75%	448.3122	149.91	90.74%	Single Stack	B		MAJOR	L5829	116	50	4				2	
+59-Gary Wu	56.69%	447.8432	143.16	91.30%	Single Stack	B	Senior	MAJOR	L2998	118	40	8	4				
+60-Carlos Escandon	55.20%	436.0742	130.66	85.90%	Single Stack	A	Super Senior	MAJOR	L2590	107	44	4	15			7	
+61-Charles Davis	54.96%	434.1579	161.63	87.67%	Single Stack	U	Super Senior	MAJOR	TY73740	140	25	4	1				
+62-Pat Byrne	53.96%	426.2535	147.77	85.27%	Single Stack	B	Distinguished Senior	MINOR	ty93921	126	38	2	4			1	
+63-Raul Lorenzana	53.41%	421.9052	149.31	71.69%	Carry Optics	U		MINOR		131	32	5	2		1	1	
+64-Jason Wee 2	53.28%	420.8625	135.89	65.05%	Limited Optics	U	Military	MINOR	A148695	137	22	3	8		2		
+65-CHAN WILLIAM	52.40%	413.9542	100.19	63.67%	Limited Optics	X		MINOR		86	62	10	12		3		
+66-Baiwan Zhang 2	51.23%	404.6703	134.32	69.98%	PCC	B		MINOR	FY140383	116	44	4	6		3	1	
+67-Edward Yu 2	51.21%	404.5524	167.61	69.33%	PCC	C	Law Enforcement	MINOR	A148356	140	27		3			1	
+68-John Brunkhorst	50.98%	402.7145	150.60	81.47%	Single Stack	U		MAJOR	L6310	98	57	10	5				
+69-Derek Rabuck	50.56%	399.3572	164.56	80.49%	Single Stack	U		MAJOR	Ty91331	117	44	5	4				
+70-Stormtrooper Qian 4	49.57%	391.6045	126.91	68.17%	PCC	C		MINOR	A150939	133	21		16		1	3	
+71-Eric Wu	45.72%	361.1786	174.60	72.72%	Single Stack	U		MINOR		115	43	11	1				
+72-Arnold Gee	44.55%	351.8955	164.43	70.76%	Single Stack	C	Senior	MINOR	A103519	115	40	11	4		1		
+73-Daniel Zengerle	44.31%	350.0436	154.85	53.89%	Limited Optics	C	Super Senior	MINOR	A160569	120	40	2	8		2		
+74-Andrew Bowman	42.84%	338.3817	181.07	68.07%	Single Stack	C		MINOR	TY153695	124	37	3	6				
+75-JR Roberts	41.01%	323.9782	207.73	65.06%	Single Stack	C		MAJOR	TY102739	118	48	2	2				
+76-Ung Ngo	39.70%	313.6158	175.69	45.52%	Open	U	Junior	MINOR		135	22	5	8		5	1	
+77-Angela Rabuck	38.39%	303.2926	212.63	61.33%	Single Stack	U	Lady	MINOR	Ty91375	140	24	3	3		1		
+78-Dan Schreiber	32.09%	253.4865	233.03	51.35%	Single Stack	U	Super Senior	MINOR	A147899	130	30	4	6			1	
+79-Marlon Poralan	4.69%	37.0113	39.23	5.67%	PCC	D	Law Enforcement	MINOR	TY1234	23	3		22				
+DQ-Albert Legislador	0.00%	0.0000		0.00%	Carry Optics	C	Senior	MINOR	TY91787								
+Name
+1-Michael Hanover 1
+2-Bobby Ivester
+3-Vinh Lam
+4-Anthony Fong
+5-Joshua Chew
+6-Chez Chike-Udenze
+7-Marco Yue 2
+8-Adam Bandiera
+9-Jim Havens
+10-Andrew Whitley
+11-Zachary Ralston
+12-Mike Junco
+13-Qingbang Cai 1
+14-Patrick Mccombs 2
+15-Brandon Foss
+16-Claude Chew
+17-Daniell Gianelloni
+18-Jack Liu 3
+19-Travis McKenzie
+20-Paul Felker
+21-Wade Pruetz
+22-Jose Onia
+23-Joseph White
+24-Jay-R delos-Santos
+25-JC Aguinaldo
+26-Christian Canizales
+27-David Warren
+28-Roman Gwiscz
+29-Matthew Lem
+30-Kolton Cox
+31-Gil Yolo
+32-James Wong
+33-Matthew Givens
+34-Andy Chen 4
+35-Jun Wu 2
+36-Jeremiah Hunt
+37-Pocholo Dimayuga
+38-Heath Helgeson 2
+39-Henry Wong
+40-Mike Kahl
+41-Doug Joder
+42-Don Sanders
+43-Jason Wells
+44-Paul Torre
+45-Steven McNamara
+46-Phillip Nguyen
+47-Virak Meas
+48-Jorge Cahas
+49-George Zhou 5
+50-Brandon Hunt
+51-Manny Nerona
+52-Devin Yolo
+53-John Ren
+54-Jerry Bedro
+55-Michael Pontious
+56-Abrahan Figueroa
+57-Nathan Bridges
+58-Robbie Boettcher
+59-Gary Wu
+60-Carlos Escandon
+61-Charles Davis
+62-Pat Byrne
+63-Raul Lorenzana
+64-Jason Wee 2
+65-CHAN WILLIAM
+66-Baiwan Zhang 2
+67-Edward Yu 2
+68-John Brunkhorst
+69-Derek Rabuck
+70-Stormtrooper Qian 4
+71-Eric Wu
+72-Arnold Gee
+73-Daniel Zengerle
+74-Andrew Bowman
+75-JR Roberts
+76-Ung Ngo
+77-Angela Rabuck
+78-Dan Schreiber
+79-Marlon Poralan
+DQ-Albert Legislador
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Bay 4
+Qian, Stormtrooper (2)
+2024-11-24 18:49:54.903 - 2024-11-24 18:51:51.504Edited 2 minutes after.Edited rawpts was: 10 now: 134Edited str,0 was: 0 now: 24.26
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 3.89,4.10,4.70,4.86,6.01,6.46,7.10,7.30,7.87,8.06,8.64,8.84,11.45,11.64,12.08,12.28,13.45,13.74,14.33,15.30,17.43,18.02,21.51,21.75,22.55,22.74,23.57,24.26;AMG 61D6Edited meta,0,t was: 2024-11-24 18:49:54.907 now: 2024-11-24 18:50:50.026Added aprv: trueAdded details: [object Object]Added numAlphas: 27Added numCharlies: 3Added stringTime: 24.26Edited By Android Device2024-11-24 18:49:15.865 - 2024-11-24 18:49:54.903Edited a few seconds after.Edited rawpts was: 46 now: 10Edited str,0 was: 27.64 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 3.53,3.73,4.26,4.44,26.55,26.90,27.43,27.64;AMG 61D6 now: ReshootEdited meta,0,t was: 2024-11-24 18:48:49.346 now: 2024-11-24 18:49:54.907Removed aprv: trueEdited By Android Device
+Hanover, Michael (1)
+2024-11-24 17:00:51.732 - 2024-11-24 17:01:19.496Edited a few seconds after.Edited rawpts was: 137 now: 132
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Added details: [object Object]Added numAlphas: 26Added numCharlies: 3Added numM: 1Added stringTime: 15.77Edited By Bay1
+Zhou, George (2)
+2024-11-24 15:06:18.957 - 2024-11-24 18:39:47.564Edited 4 hours after.Edited rawpts was: 10 now: 138Edited str,0 was: 0 now: 23.61
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 4.51,4.66,5.35,5.52,6.18,6.35,6.76,6.92,7.79,7.96,8.71,8.88,10.21,10.38,10.99,11.15,11.99,12.16,12.69,13.90,15.85,17.09,20.67,20.84,21.38,22.20,22.93,23.61;AMG 61D6Edited meta,0,t was: 2024-11-24 15:06:18.960 now: 2024-11-24 18:38:57.661Added aprv: trueAdded details: [object Object]Added numAlphas: 29Added numCharlies: 1Added stringTime: 23.61Edited By Android Device2024-11-24 15:06:18.956 - 2024-11-24 15:06:18.957Edited a few seconds after.Edited rawpts was: 114 now: 10Edited str,0 was: 17.34 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.64,1.79,2.24,2.41,2.84,2.99,4.80,4.99,6.04,6.22,7.71,7.91,8.37,9.16,9.90,10.60,11.62,11.80,13.11,13.28,15.04,15.72,16.19,16.86,17.17,17.34;AMG 61D6 now: ReshootEdited meta,0,t was: 2024-11-24 15:05:10.500 now: 2024-11-24 15:06:18.960Edited By Android Device
+Chen, Andy (2)
+2024-11-24 15:06:24.730 - 2024-11-24 18:37:37.233Edited 4 hours after.Edited rawpts was: 10 now: 126Edited str,0 was: 0 now: 25
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 11.90,12.05,12.34,12.47,13.33,13.48,13.96,14.14,14.77,14.94,15.38,15.63,17.02,17.18,17.52,17.72,18.35,18.54,18.88,19.07,20.33,20.55,23.27,23.46,23.62,23.93,24.10,24.72,25.00;AMG 61D6Edited meta,0,t was: 2024-11-24 15:06:24.733 now: 2024-11-24 18:36:29.916Added aprv: trueAdded details: [object Object]Added numAlphas: 26Added numCharlies: 2Added numM: 2Added stringTime: 25Edited By Android Device2024-11-24 15:03:52.549 - 2024-11-24 15:06:24.730Edited 3 minutes after.Edited rawpts was: 126 now: 10Edited str,0 was: 16.65 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.32,1.48,1.89,2.12,2.52,2.76,3.76,4.63,5.06,5.20,5.44,5.60,6.19,8.09,8.28,9.65,9.91,10.72,11.08,11.51,12.03,12.20,12.46,12.65,14.69,14.99,15.45,15.69,16.65;AMG 61D6 now: ReshootEdited meta,0,t was: 2024-11-24 15:02:47.427 now: 2024-11-24 15:06:24.733Removed aprv: trueEdited By Android Device
+Bay 10: The Thrill Of The Bill Drill
+Qian, Stormtrooper (2)
+2024-11-24 19:09:18.239 - 2024-11-24 19:13:57.699Edited 5 minutes after.Edited str,1 was: 0 now: 1.76Edited str,0 was: 0 now: 9.02
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	6	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	4	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	2	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 2.03,2.25,2.48,4.45,5.47,8.41,9.02;AMG 61D6Edited meta,0,t was: 2024-11-24 19:09:18.243 now: 2024-11-24 19:09:58.365Added rawpts: 36Added aprv: trueAdded details: [object Object]Added numAlphas: 6Added numCharlies: 2Added numM: 10Added stringTime: 10.78Edited By Android Device2024-11-24 17:47:06.304 - 2024-11-24 19:09:18.239Edited an hour after.Removed rawpts: 88Edited str,2 was: 4.73 now: 0Edited str,1 was: 14.6 now: 0Edited str,0 was: 2.15 now: 0
+A	B	C	D	NS	M	NPM
+Previous	5	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	6	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	6	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+ARRAYARRAYEdited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.20,1.41,1.61,1.78,1.97,2.15;AMG 61D6 now: ReshootEdited meta,0,t was: 2024-11-24 17:45:28.659 now: 2024-11-24 19:09:18.243Removed aprv: trueEdited By Android Device
+Wee, Jason (2)
+2024-11-24 19:22:14.861 - 2024-11-24 19:23:52.000Edited 2 minutes after.Edited str,2 was: 0 now: 7.74Edited str,1 was: 0 now: 5.1Edited str,0 was: 0 now: 2.71
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	6	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	5	0	1	0	0	0	0
+ARRAYARRAYEdited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 1.82,2.00,2.17,2.36,2.54,2.71;AMG 61D6Edited meta,0,t was: 2024-11-24 19:22:14.866 now: 2024-11-24 19:22:51.401Added rawpts: 84Added aprv: trueAdded details: [object Object]Added numAlphas: 15Added numCharlies: 3Added stringTime: 15.55Edited By Android Device2024-11-24 18:00:09.388 - 2024-11-24 19:22:14.861Edited an hour after.Removed rawpts: 80Edited str,2 was: 5.45 now: 0Edited str,1 was: 5.2 now: 0Edited str,0 was: 2.67 now: 0
+A	B	C	D	NS	M	NPM
+Previous	4	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	5	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string2 now: fromEdited meta,0,v was: 1.45,1.71,1.97,4.56,4.99,5.45;AMG 61D6 now: ReshootEdited meta,0,t was: 2024-11-24 17:59:44.199 now: 2024-11-24 19:22:14.866Removed aprv: trueEdited By Android Device
+Zhang, Baiwan (2)
+2024-11-24 19:14:14.099 - 2024-11-24 19:16:15.631Edited 2 minutes after.Edited str,2 was: 0 now: 6.59Edited str,1 was: 0 now: 6.31Edited str,0 was: 0 now: 4.18
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	5	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	5	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	2	0	0	0	0
+ARRAYARRAYEdited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 1.48,1.66,1.84,2.05,3.96,4.18;AMG 61D6Edited meta,0,t was: 2024-11-24 19:14:14.104 now: 2024-11-24 19:14:21.020Added proc: 1Added rawpts: 74Added aprv: trueAdded details: [object Object]Added numAlphas: 10Added numCharlies: 8Added numProc: 1Added stringTime: 17.08Edited By Android Device2024-11-24 17:49:31.397 - 2024-11-24 19:14:14.099Edited an hour after.Removed rawpts: 70Edited str,2 was: 4.2 now: 0Edited str,1 was: 4.34 now: 0Edited str,0 was: 2.09 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	4	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	4	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	5	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+ARRAYARRAYEdited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.15,1.32,1.50,1.70,1.90,2.09;AMG 61D6 now: ReshootEdited meta,0,t was: 2024-11-24 17:48:26.262 now: 2024-11-24 19:14:14.104Removed aprv: trueEdited By Android Device
+Liu, Jack (3)
+2024-11-24 18:58:31.027 - 2024-11-24 19:20:17.950Edited 22 minutes after.Edited rawpts was: 45 now: 82Edited str,2 was: 2.75 now: 3.6Edited str,1 was: 2.97 now: 3.83Edited str,0 was: 1.66 now: 2.31
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	5	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	5	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	4	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 14Added numCharlies: 4Added stringTime: 9.74Edited By Android Device2024-11-24 18:57:46.864 - 2024-11-24 18:58:31.027Edited a few seconds after.Edited str,2 was: 0 now: 2.75Edited str,1 was: 0 now: 2.97Edited str,0 was: 0 now: 1.66
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 45Added aprv: trueEdited By Android Device2024-11-24 17:55:50.266 - 2024-11-24 18:57:46.864Edited an hour after.Removed rawpts: 90Edited str,2 was: 2.74 now: 0Edited str,1 was: 3.21 now: 0Edited str,0 was: 1.85 now: 0
+A	B	C	D	NS	M	NPM
+Previous	6	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	6	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	6	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+ARRAYARRAYEdited meta,0,k was: string0 now: fromEdited meta,0,v was: 0.75,0.92,1.20,1.37,1.53,1.85;AMG 61D6 now: ReshootEdited meta,0,t was: 2024-11-24 17:54:37.980 now: 2024-11-24 18:57:46.868Removed aprv: trueEdited By Android Device
+Yu, Edward (2)
+2024-11-24 19:16:49.682 - 2024-11-24 19:18:00.003Edited a minute after.Edited str,2 was: 0 now: 5.64Edited str,1 was: 0 now: 5.28Edited str,0 was: 0 now: 4.16
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	6	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	6	0	0	0	0	0	0
+ARRAYARRAYEdited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 3.26,3.43,3.60,3.79,3.97,4.16;AMG 61D6Edited meta,0,t was: 2024-11-24 19:16:49.686 now: 2024-11-24 19:16:53.121Added rawpts: 86Added aprv: trueAdded details: [object Object]Added numAlphas: 16Added numCharlies: 2Added stringTime: 15.080000000000002Edited By Android Device2024-11-24 17:53:42.182 - 2024-11-24 19:16:49.682Edited an hour after.Removed rawpts: 86Edited str,2 was: 4.84 now: 0Edited str,1 was: 4.73 now: 0Edited str,0 was: 2.12 now: 0
+A	B	C	D	NS	M	NPM
+Previous	6	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	6	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+ARRAYARRAYEdited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.24,1.40,1.58,1.75,1.93,2.12;AMG 61D6 now: ReshootEdited meta,0,t was: 2024-11-24 17:52:35.266 now: 2024-11-24 19:16:49.686Removed aprv: trueEdited By Android Device
+Cai, Qingbang (1)
+2024-11-24 18:12:03.761 - 2024-11-24 18:14:28.571Edited 2 minutes after.Edited str,2 was: 0 now: 6.85Edited str,1 was: 0 now: 3.61Edited str,0 was: 1.8 now: 2.19
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	3	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	3	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	5	0	1	0	0	0	0
+ARRAYEdited meta,0,k was: string0 now: string1Edited meta,0,v was: 0.97,1.17,1.34,1.48,1.65,1.80;AMG 61D6 now: 1.52,1.71,1.89,3.24,3.44,3.61;AMG 61D6Edited meta,0,t was: 2024-11-24 18:10:54.935 now: 2024-11-24 18:13:34.387Added rawpts: 72Added aprv: trueAdded details: [object Object]Added numAlphas: 10Added numCharlies: 7Added numDeltas: 1Added stringTime: 12.649999999999999Edited By Android Device
+Zhou, George (3)
+2024-11-24 19:06:07.968 - 2024-11-24 19:06:37.611Edited a few seconds after.Edited rawpts was: 66 now: 71
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	1	0	1	0
+Current	4	0	1	1	0	0	0
+Added details: [object Object]Added numAlphas: 11Added numCharlies: 5Added numDeltas: 1Added numM: 1Added stringTime: 12.7Edited By Android Device2024-11-24 19:04:41.207 - 2024-11-24 19:06:07.968Edited a minute after.Edited str,2 was: 0 now: 4.94Edited str,1 was: 0 now: 4.95Edited str,0 was: 0 now: 2.81
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	2	0	0	1	0
+Removed Reason for Edit ReshootAdded rawpts: 66Added aprv: trueEdited By Android Device2024-11-24 18:06:30.376 - 2024-11-24 19:04:41.207Edited an hour after.Removed rawpts: 84Edited str,2 was: 4.32 now: 0Edited str,1 was: 4.77 now: 0Edited str,0 was: 1.94 now: 0
+A	B	C	D	NS	M	NPM
+Previous	4	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	6	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	5	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+ARRAYARRAYEdited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.03,1.22,1.39,1.57,1.76,1.94;AMG 61D6 now: ReshootEdited meta,0,t was: 2024-11-24 18:05:24.928 now: 2024-11-24 19:04:41.212Removed aprv: trueEdited By Android Device
+Helgeson, Heath (2)
+2024-11-24 19:20:40.162 - 2024-11-24 19:22:05.719Edited a minute after.Edited str,2 was: 0 now: 4.3Edited str,1 was: 0 now: 4.28Edited str,0 was: 0 now: 2.51
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	3	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	3	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	1	1	0	0	0
+ARRAYARRAYEdited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 1.47,1.67,1.90,2.14,2.33,2.51;AMG 61D6Edited meta,0,t was: 2024-11-24 19:20:40.167 now: 2024-11-24 19:21:03.472Added rawpts: 64Added aprv: trueAdded details: [object Object]Added numAlphas: 9Added numCharlies: 5Added numDeltas: 4Added stringTime: 11.09Edited By Android Device2024-11-24 17:58:09.245 - 2024-11-24 19:20:40.162Edited an hour after.Removed rawpts: 76Edited str,2 was: 5.5 now: 0Edited str,1 was: 3.73 now: 0Edited str,0 was: 13.18 now: 0
+A	B	C	D	NS	M	NPM
+Previous	5	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	4	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+ARRAYARRAYEdited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.35,1.58,1.76,1.96,12.99,13.18;AMG 61D6 now: ReshootEdited meta,0,t was: 2024-11-24 17:56:46.148 now: 2024-11-24 19:20:40.167Removed aprv: trueEdited By Android Device
+Wu, Jun (2)
+2024-11-24 19:07:00.888 - 2024-11-24 19:08:32.252Edited 2 minutes after.Edited str,2 was: 0 now: 5.22Edited str,1 was: 0 now: 4.91Edited str,0 was: 0 now: 6.48
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	6	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	6	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	2	0	0	0	0
+ARRAYARRAYEdited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 5.46,5.65,5.87,6.08,6.29,6.48;AMG 61D6Edited meta,0,t was: 2024-11-24 19:07:00.895 now: 2024-11-24 19:07:27.655Added rawpts: 86Added aprv: trueAdded details: [object Object]Added numAlphas: 16Added numCharlies: 2Added stringTime: 16.61Edited By Android Device2024-11-24 18:10:09.436 - 2024-11-24 19:07:00.888Edited an hour after.Removed rawpts: 80Edited str,2 was: 6.37 now: 0Edited str,1 was: 4.63 now: 0Edited str,0 was: 6.57 now: 0
+A	B	C	D	NS	M	NPM
+Previous	3	0	3	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	6	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+ARRAYARRAYEdited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.06,1.25,1.45,1.63,1.83,6.57;AMG 61D6 now: ReshootEdited meta,0,t was: 2024-11-24 18:09:06.632 now: 2024-11-24 19:07:00.895Removed aprv: trueEdited By Android Device
+Yue, Marco (2)
+2024-11-24 19:02:34.823 - 2024-11-24 19:03:44.804Edited a minute after.Edited str,2 was: 0 now: 3.61Edited str,1 was: 0 now: 3.37Edited str,0 was: 0 now: 2.32
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	6	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	5	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	2	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 84Added aprv: trueAdded details: [object Object]Added numAlphas: 15Added numCharlies: 3Added stringTime: 9.299999999999999Edited By Android Device2024-11-24 18:08:24.865 - 2024-11-24 19:02:34.823Edited an hour after.Removed rawpts: 86Edited str,2 was: 3.43 now: 0Edited str,1 was: 2.92 now: 0Edited str,0 was: 1.55 now: 0
+A	B	C	D	NS	M	NPM
+Previous	4	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	6	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	6	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+ARRAYARRAYEdited meta,0,k was: string0 now: fromEdited meta,0,v was: 0.83,0.98,1.12,1.26,1.40,1.55;AMG 61D6 now: ReshootEdited meta,0,t was: 2024-11-24 18:07:17.134 now: 2024-11-24 19:02:34.830Removed aprv: trueEdited By Android Device
+Mccombs, Patrick (2)
+2024-11-24 19:25:02.543 - 2024-11-24 19:25:49.768Edited a minute after.Edited str,2 was: 0 now: 4.66Edited str,1 was: 0 now: 5.12Edited str,0 was: 0 now: 2.24
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	3	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	6	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 85Added aprv: trueAdded details: [object Object]Added numAlphas: 13Added numCharlies: 5Added stringTime: 12.02Edited By Android Device2024-11-24 18:03:03.331 - 2024-11-24 19:25:02.543Edited an hour after.Removed proc: 2Removed rawpts: 86Edited str,2 was: 5.26 now: 0Edited str,1 was: 4.08 now: 0Edited str,0 was: 2.37 now: 0
+A	B	C	D	NS	M	NPM
+Previous	6	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	3	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	5	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+ARRAYARRAYEdited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.47,1.67,1.84,2.02,2.20,2.37;AMG 61D6 now: ReshootEdited meta,0,t was: 2024-11-24 18:00:57.311 now: 2024-11-24 19:25:02.548Removed aprv: trueEdited By Android Device
+Chen, Andy (2)
+2024-11-24 18:58:53.942 - 2024-11-24 19:01:22.606Edited 2 minutes after.Edited str,2 was: 0 now: 3.47Edited str,1 was: 0 now: 3.73Edited str,0 was: 0 now: 2.4
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	6	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	5	0	1	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 84Added aprv: trueAdded details: [object Object]Added numAlphas: 15Added numCharlies: 3Added stringTime: 9.6Edited By Android Device2024-11-24 18:04:20.251 - 2024-11-24 18:58:53.942Edited an hour after.Removed rawpts: 77Edited str,2 was: 2.76 now: 0Edited str,1 was: 3.16 now: 0Edited str,0 was: 1.39 now: 0
+A	B	C	D	NS	M	NPM
+Previous	4	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	6	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	0	1	0	1	0
+Current	0	0	0	0	0	0	0
+ARRAYARRAYEdited meta,0,k was: string0 now: fromEdited meta,0,v was: 0.82,0.97,1.12,1.26,1.39;AMG 61D6 now: ReshootEdited meta,0,t was: 2024-11-24 18:03:20.413 now: 2024-11-24 18:58:53.946Removed aprv: trueEdited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

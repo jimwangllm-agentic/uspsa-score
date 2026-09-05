@@ -1,0 +1,159 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+BAPS USPSA November USPSA/IPSC 2017-11-18
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	P
+1-Paul Van wyk	100.00%	652.0394	74.87	108.67%	PCC	B		MINOR	FY36295	114	19					
+2-Tony Phan	90.90%	592.7159	81.31	98.79%	PCC	M		MINOR	FY11963	120	13		1		1	
+3-Wade Pruetz 1	88.72%	578.4836	83.64	96.41%	PCC	A		MINOR	TY79055	117	13	2	1			
+4-Doug Dillon	78.43%	511.3706	95.85	85.23%	PCC	U	Law Enforcement	MINOR	A71359	114	16					
+5-Robert Hollier	77.57%	505.8001	101.45	84.30%	PCC	C	Senior	MINOR	FY24941	129	3					
+6-John Nixon	74.76%	487.4843	106.36	81.25%	PCC	A		MINOR		118	14		1			
+7-Brandon Hill	73.57%	479.7133	104.54	106.17%	Production	M		MINOR	TY80518	122	11	1				
+8-James Beshada	70.56%	460.0797	98.00	100.45%	Production	A		MINOR	L4029	105	23	2	2		1	
+9-Scott Ragsdale	67.81%	442.1284	105.21	97.64%	Production	U		MINOR	A91297	114	16	3	1		1	
+10-Matt Lem	65.22%	425.2662	119.50	100.74%	Single Stack	A		MAJOR	TY34763	106	24	3				
+11-Gerrit Milks	64.40%	419.9288	94.28	69.99%	PCC	C		MINOR	A67608	108	14	1	7			2
+12-Tom Neal	63.57%	414.4743	120.60	111.67%	Open	B		MAJOR	L2362	108	21	2				
+13-Mike Junco	63.24%	412.3644	106.83	92.11%	Production			MINOR		100	27	4	1		1	
+14-Jim Duncan	62.88%	409.9734	123.32	90.08%	Production	B	Senior	MINOR	TY33325	126	7	1			1	
+15-Mike Mckinney	60.02%	391.3546	127.82	93.91%	Single Stack	B		MAJOR		114	16	1			1	
+16-Dave Campell	58.49%	381.3576	133.02	94.12%	Single Stack	M		MAJOR	TY26527	101	24	3	3			1
+17-Mike Wilson	57.72%	376.3395	129.53	62.72%	PCC	C	Super Senior, Military	MINOR	TY84396	126	5		1		4	
+18-Bruce Meuth	56.91%	371.0932	110.01	100.24%	Limited	C		MAJOR	TY87524	104	23	3	4		4	
+19-Deryle Lowery	56.23%	366.6667	129.07	80.83%	Production	B		MINOR	L2881	111	20	1	1		1	
+20-Casey Parsons	56.14%	366.0621	113.24	96.48%	Limited	B		MINOR	FY78742	98	28	1	4		1	
+21-Robin Woods	55.98%	364.9884	129.64	96.98%	Limited	B		MAJOR	TY51892	110	20	1	2			1
+22-Susana Purin	55.10%	359.2765	125.75	59.88%	PCC			MINOR	A104889	111	16	2	2			1
+23-Steve Deardorff	53.94%	351.7237	129.22	58.62%	PCC	U		MINOR	TY16844	108	20	3	1		2	
+24-Jacob Robbins	52.50%	342.2957	144.31	75.08%	Production	C		MINOR	TY100679	115	17				1	
+25-Jay Olmstead	50.81%	331.3213	150.24	55.22%	PCC	C	Super Senior	MINOR	L3738	120	12		1			
+26-Richard Dillow	50.20%	327.3234	140.89	87.31%	Limited	C	Senior	MAJOR	FY57446	101	24	4	3			
+27-Danny Naramore	47.01%	306.5367	140.43	51.09%	PCC	C		MINOR	TY96553	95	24	5	8			1
+28-John Stokes	44.69%	291.3796	164.68	63.59%	Production	U		MINOR		111	15	2	2			
+29-Mark Meyers	41.86%	272.9456	138.49	101.66%	Carry Optics	none		MINOR	P	92	26	10	4		3	
+30-Jerry Dueitt	41.34%	269.5412	173.53	111.67%	Limited 10	U		MINOR		112	18		3			
+31-Glenn Mckinney	40.11%	261.5058	174.46	60.05%	Single Stack	C		MAJOR		95	30	1	7			
+32-Paul Felker	38.76%	252.7501	163.79	67.53%	Limited	U		MINOR		103	19	6	5		1	
+33-Shane Richard	38.30%	249.7219	158.10	92.49%	Carry Optics			MINOR	PEN	105	14		8			
+34-Glenn Cunningham	38.09%	248.3481	128.10	52.35%	Production	C		MINOR	A78280	96	11	3	21			
+35-Eric Warren	33.09%	215.7393	221.75	57.06%	Limited			MINOR	2057	114	11	3	3			
+36-Tony Hernandez 1	31.80%	207.3623	202.33	54.34%	Limited			MINOR		100	19	5	7		1	
+37-James Parker	30.84%	201.0565	195.47	54.01%	Limited	U		MAJOR	PEN	106	17	3	8		1	1
+38-Lucas Hickman	29.85%	194.6405	201.95	53.10%	Limited	U		MAJOR	PEN	95	24	6	8		1	
+39-Terry Price	29.82%	194.4483	193.24	50.65%	Limited	U	Super Senior, Military	MINOR	A94118	105	14	2	8		1	2
+40-Lawney Morales	28.62%	186.6348	219.86	50.29%	Limited	U	Senior	MINOR	TY75143	107	16	7	4		2	
+41-Mike Van Wie 1	26.61%	173.5158	243.18	38.52%	Production	U		MINOR	P	104	20	2	5		2	
+42-Abel Espinoza	23.30%	151.9251	258.59	33.14%	Production	U		MINOR	PEND	100	22	2	6		2	1
+43-Charles de Boisblanc	21.76%	141.8989	185.35	31.65%	Production			MINOR		83	29	4	16		4	
+44-Larry Janecka	21.67%	141.3213	347.90	38.39%	Limited	U		MAJOR	PEN	117	11	2	2		2	
+45-April Ontiveros	20.23%	131.8779	227.15	34.85%	Limited	U		MINOR		81	21	6	16		1	
+46-Bryan Salinas	18.87%	123.0271	215.87	32.51%	Limited			MINOR		78	20	11	19			
+47-Eric Warren Jr	18.00%	117.3616	279.20	31.82%	Limited	U		MINOR		86	21	4	12		1	
+DQ-Hunter Schexnayder	0.00%	0.0000		0.00%	Production	U	Junior	MINOR								
+Name
+1-Paul Van wyk
+2-Tony Phan
+3-Wade Pruetz 1
+4-Doug Dillon
+5-Robert Hollier
+6-John Nixon
+7-Brandon Hill
+8-James Beshada
+9-Scott Ragsdale
+10-Matt Lem
+11-Gerrit Milks
+12-Tom Neal
+13-Mike Junco
+14-Jim Duncan
+15-Mike Mckinney
+16-Dave Campell
+17-Mike Wilson
+18-Bruce Meuth
+19-Deryle Lowery
+20-Casey Parsons
+21-Robin Woods
+22-Susana Purin
+23-Steve Deardorff
+24-Jacob Robbins
+25-Jay Olmstead
+26-Richard Dillow
+27-Danny Naramore
+28-John Stokes
+29-Mark Meyers
+30-Jerry Dueitt
+31-Glenn Mckinney
+32-Paul Felker
+33-Shane Richard
+34-Glenn Cunningham
+35-Eric Warren
+36-Tony Hernandez 1
+37-James Parker
+38-Lucas Hickman
+39-Terry Price
+40-Lawney Morales
+41-Mike Van Wie 1
+42-Abel Espinoza
+43-Charles de Boisblanc
+44-Larry Janecka
+45-April Ontiveros
+46-Bryan Salinas
+47-Eric Warren Jr
+DQ-Hunter Schexnayder
+Old style results
+
+Score Edit History
+Yellow
+Hernandez, Tony (1)
+2017-11-18 16:27:52.373 - 2017-11-18 16:28:18.606Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	1	1	0
+Current	0	0	0	0	1	2	0
+Added details: [object Object]Added numAlphas: 19Added numBravos: 2Added numCharlies: 3Added numDeltas: 2Added numNS: 1Added numM: 2Added stringTime: 25.53Edited By Baps-Squad 1
+Green
+Van Wie, Mike (1)
+2017-11-18 15:55:29.437 - 2017-11-18 15:56:24.205Edited a minute after.Removed proc: 1Added details: [object Object]Added numAlphas: 10Added numCharlies: 4Added numM: 2Added stringTime: 20.66Edited By Baps-Squad 4
+Pruetz, Wade (1)
+2017-11-18 15:11:55.773 - 2017-11-18 15:33:57.991Edited 22 minutes after.Edited aprv was: false now: trueEdited str,0 was: 4.25 now: 8.95
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 15Added numCharlies: 1Added stringTime: 8.95Edited By Baps-Squad5
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+
