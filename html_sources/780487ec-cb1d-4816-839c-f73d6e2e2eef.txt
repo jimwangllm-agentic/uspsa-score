@@ -1,0 +1,96 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Apr 6 USPSA 2023-04-06Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Ray Fishel	100.00%	343.8012	52.02	92.92%	PCC	B	Senior	MINOR	A92443	47	23	3	1				
+2-Kenedy Nguyen	73.37%	252.2439	64.84	68.17%	Open	B		MAJOR	A83862	38	28	4	4		1	1	
+3-Ronald Gillory jr	68.04%	233.9386	84.12	63.23%	PCC	B		MINOR	TY83291	58	15		1				
+4-Aaron Gillory	66.12%	227.3083	67.58	61.43%	Carry Optics	B	Law Enforcement	MINOR	TY144826	46	21	4	3		2		
+5-Blaine Newlin	64.52%	221.8088	78.38	59.95%	Limited	B	Foreign	MINOR	A103350	43	25	4	2				
+6-Mark Lutzel	60.28%	207.2468	80.14	56.01%	Carry Optics	C	Super Senior	MINOR	FY101009	45	24	3	2		1		
+7-Lisa Nguyen	46.97%	161.4844	101.27	43.64%	Open	D	Lady	MAJOR	A135827	32	36	2	4				
+8-Lauren Gillory	40.33%	138.6684	94.71	37.48%	Carry Optics	U	Lady	MINOR		32	28	9	5		1		
+9-Wei Zhang	38.58%	132.6246	76.31	35.84%	Carry Optics	C		MINOR	FY140383	37	23	4	10				
+10-John Del Toro	37.12%	127.6339	123.35	34.50%	Limited	C	Super Senior	MAJOR	A107511	41	22	2	9				
+11-Damien Fajardo	31.17%	107.1525	137.71	28.96%	Carry Optics	U		MINOR	A126913	51	17	2	4			3	
+12-Jason Williams	29.36%	100.9480	121.35	27.28%	Open	D		MINOR	A145508	34	29	6	5		1		
+13-Allen Klappenbach	28.94%	99.4967	100.00	26.89%	Carry Optics	U		MINOR	A124613	36	24	5	9		3		
+14-Cole Moorhaj 1	25.08%	86.2382	91.67	23.31%	Carry Optics	U		MINOR		46	16		12		1	5	
+15-Kenneth Carden 1	17.70%	60.8376	233.59	16.44%	Carry Optics	D	Super Senior	MINOR	FY145364	47	19	3	5		2		
+16-Jake Ludwig	5.40%	18.5707	121.21	5.02%	Carry Optics	U		MINOR		31	20	8	15		2	2	
+17-Kenneth Carden	0.00%	0.0000		0.00%	Carry Optics	D	Super Senior	MINOR	FY145364								
+18-Eduardo Gomez	0.00%	0.0000		0.00%	PCC	U	Law Enforcement	MINOR									
+19-AJ Jackson	0.00%	0.0000		0.00%	PCC	A		MINOR	TY81745								
+20-Hung Le	0.00%	0.0000		0.00%	Carry Optics	U	Law Enforcement	MINOR									
+Name
+1-Ray Fishel
+2-Kenedy Nguyen
+3-Ronald Gillory jr
+4-Aaron Gillory
+5-Blaine Newlin
+6-Mark Lutzel
+7-Lisa Nguyen
+8-Lauren Gillory
+9-Wei Zhang
+10-John Del Toro
+11-Damien Fajardo
+12-Jason Williams
+13-Allen Klappenbach
+14-Cole Moorhaj 1
+15-Kenneth Carden 1
+16-Jake Ludwig
+17-Kenneth Carden
+18-Eduardo Gomez
+19-AJ Jackson
+20-Hung Le
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Steeler Standards
+Moorhaj, Cole (1)
+2023-04-07 00:51:22.258 - 2023-04-07 00:51:49.964Edited a few seconds after.Added proc: 4Added details: [object Object]Added numAlphas: 13Added numCharlies: 3Added numM: 4Added numProc: 4Added stringTime: 24.46Edited By BCPS KINDLE FIRE #4
+Stage 2
+Carden, Kenneth (1)
+2023-04-07 00:19:29.309 - 2023-04-07 00:20:10.090Edited a few seconds after.Edited rawpts was: 71 now: 73
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	2	1	0
+Current	1	0	0	0	2	1	0
+Added details: [object Object]Added numAlphas: 11Added numCharlies: 6Added numNS: 2Added numM: 1Added stringTime: 62.61Edited By BCPS KINDLE FIRE #4
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

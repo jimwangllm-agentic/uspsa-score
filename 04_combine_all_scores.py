@@ -1,5 +1,5 @@
 # python -m pip install openpyxl
-# python combine_all_scores.py
+# python 04_combine_all_scores.py
 
 import pandas as pd
 from pathlib import Path

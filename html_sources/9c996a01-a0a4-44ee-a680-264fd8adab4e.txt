@@ -1,0 +1,135 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Mar 16 USPSA 2023-03-16Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Robert Gatewood	100.00%	290.5037	54.54	90.78%	Carry Optics	U	Military	MINOR		31	33						
+2-Kenedy Nguyen	96.33%	279.8537	48.20	87.45%	Open	B		MAJOR	A83862	17	44		3			1	
+3-Daniel Duong	91.23%	265.0257	48.95	82.82%	Carry Optics	B		MINOR	A112386	25	36		3				
+4-William Stowe	84.28%	244.8487	63.41	76.52%	Open	B		MAJOR	A104602	19	43		2				
+5-Ronald Gillory Jr.	64.11%	186.2357	79.42	58.20%	PCC	B		MINOR	TY83291	18	46						
+6-Mark Lutzel	62.34%	181.1141	63.62	56.60%	Carry Optics	C	Super Senior	MINOR	FY101009	15	46		3				
+7-Justin Dang	62.02%	180.1634	64.28	56.30%	Open	U		MINOR		27	33		4				
+8-Desmond Jackson	54.52%	158.3785	78.42	49.49%	PCC	B		MINOR	TY89242	15	46		3				
+9-Wei Zhang 2	53.61%	155.7450	52.29	48.67%	Carry Optics	C		MINOR	FY140383	23	33		8				
+10-Blaine Newlin	51.54%	149.7337	69.27	46.79%	Limited	B	Foreign	MINOR	A103350	18	41		5				
+11-Nathan Bridges	44.16%	128.2958	62.77	40.09%	Carry Optics	C		MINOR	A139264	17	40		7				
+12-Brandon Hunt 1	32.14%	93.3623	77.90	29.18%	Carry Optics	U		MINOR		14	42		8				
+13-Lisa Nguyen	28.73%	83.4718	102.97	26.08%	Open	D	Lady	MAJOR	A135827	29	25		10			2	
+14-John Del Toro	19.32%	56.1262	92.78	17.54%	Limited	C	Super Senior	MINOR	A107511	26	25		13			2	
+DQ-Kenneth Carden	0.00%	0.0000		0.00%	Carry Optics	D	Super Senior	MINOR	FY145364								
+Name
+1-Robert Gatewood
+2-Kenedy Nguyen
+3-Daniel Duong
+4-William Stowe
+5-Ronald Gillory Jr.
+6-Mark Lutzel
+7-Justin Dang
+8-Desmond Jackson
+9-Wei Zhang 2
+10-Blaine Newlin
+11-Nathan Bridges
+12-Brandon Hunt 1
+13-Lisa Nguyen
+14-John Del Toro
+DQ-Kenneth Carden
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Hunt, Brandon (1)
+2023-03-17 00:32:29.587 - 2023-03-17 00:32:46.119Edited a few seconds after.Edited rawpts was: 52 now: 55
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 5Added numCharlies: 10Added numM: 1Added stringTime: 19Edited By Android Device
+Zhang, Wei (2)
+2023-03-17 00:33:15.337 - 2023-03-17 00:34:20.991Edited a minute after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 0 now: 12.79Removed Reason for Edit ReshootAdded aprv: trueAdded rawpts: 57Added details: [object Object]Added numAlphas: 6Added numCharlies: 9Added numM: 1Added stringTime: 12.79Edited By Android Device2023-03-17 00:17:15.065 - 2023-03-17 00:33:15.337Edited 16 minutes after.Removed proc: 4Edited str,0 was: 13.43 now: 0Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+Removed rawpts: 56Added Reason for Edit ReshootEdited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

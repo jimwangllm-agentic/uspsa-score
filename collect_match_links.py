@@ -1,4 +1,5 @@
 # python collect_match_links.py "https://practiscore.com/results?query=Kidlat%20Shooters" --output match_links/Kidlat.csv
+# python collect_match_links.py "https://practiscore.com/results?query=Kidlat%20Shooters" --output match_links/Kidlat.csv
 
 """Collect PractiScore match-result links from one or more search pages."""
 

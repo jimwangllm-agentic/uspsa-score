@@ -1,3 +1,7 @@
+# cd "C:\Users\pcc20\test\uspsa-score"
+
+# python 03_download_all_matches.py
+
 import pandas as pd
 import subprocess
 from pathlib import Path

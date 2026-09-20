@@ -1,0 +1,485 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+TSV Conroe USPSA Pistol/PCC Match USPSA 2026-09-05TSV Conroe - Texas Shooting Venue
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Tony Vale 5	100.00%	886.1613	119.23	97.92%	Open	M		MAJOR	A153735	135	36	6					
+2-Glen Kruger 2	91.11%	807.3623	125.42	89.21%	PCC	A	Senior	MINOR	A171162	148	30	1	2				
+3-Garrett Pressler 1	89.83%	796.0112	130.21	87.96%	Open	A		MINOR	A165603	150	29	1	1				
+4-Lee Cardwell 2	89.46%	792.8009	124.10	87.60%	PCC	M		MINOR	A155173	137	40	2	1		1		
+5-Olayemi Bakare	89.43%	792.5364	132.06	87.57%	Open	M		MAJOR	A105300	143	35	2	1		1		
+6-Dan Ausmus	88.20%	781.6295	124.03	86.37%	Limited Optics	M		MINOR	L6447	142	34	2	3		1		
+7-Matthew Givens	81.69%	723.9047	141.68	79.99%	PCC	A		MINOR	ty137686	141	35	5					
+8-Will Goglas 2	79.27%	702.4265	128.38	77.62%	Open	A		MAJOR	A154790	127	39	7	8		1		
+9-Eric Huggins Jr	71.83%	636.4990	164.16	70.33%	Limited Optics	U	Military	MINOR	A164549	153	26	1	1				
+10-Phyl Santos	70.55%	625.1896	149.38	69.08%	PCC	D		MINOR		138	36	4	3		3		
+11-Albert Legislador	66.48%	589.1520	163.01	65.10%	PCC	B	Senior	MINOR	TY91747	150	23	1	6		1	2	
+12-Dale Fike	64.11%	568.1254	178.48	62.78%	Limited Optics		Super Senior	MINOR		143	33	5			1		
+13-TJ Middleton	61.41%	544.1649	160.11	60.13%	PCC	B		MINOR	TY171913	128	42	6	5			2	
+14-Noah Bryson	61.15%	541.8678	180.24	59.87%	Carry Optics	U		MINOR		124	47	6	4				
+15-Hayden Frasier 2	58.73%	520.4728	179.79	57.51%	Carry Optics	B		MINOR	A186175	124	48	7	2				
+16-Benjamin Reinhold	58.48%	518.2602	205.02	57.27%	Open	U	Law	MINOR		162	18		1				
+17-Bryant Moorefield	55.95%	495.7634	182.22	54.78%	Limited Optics	B		MINOR	A176823	130	41	6	4		3		
+18-Valter Gonzalez	54.32%	481.4018	204.44	53.19%	Carry Optics	C		MINOR	A172969	142	32	5	2		1		
+19-Ryan Stegint	53.03%	469.8907	187.42	51.92%	Limited Optics	C		MINOR	A167764	134	37	4	6		2		
+20-Seth Dickens	49.92%	442.3516	108.76	48.88%	Carry Optics	C		MINOR	A165855	89	33	2			1		
+21-Joseph Wilkie	49.38%	437.5838	192.74	48.35%	Carry Optics	B		MINOR	A166735	121	51	4	5		2	1	
+22-Yulmer Carreno 1	48.93%	433.6330	152.05	47.92%	Limited Optics	A		MINOR	A157204	115	45	12	7			1	
+23-Grant Nixon 1	47.49%	420.8571	188.48	46.50%	Carry Optics	B		MINOR	A172934	133	34	8	2			2	
+24-Edwin Gomez	47.13%	417.6704	225.69	46.15%	Carry Optics	C		MINOR	A175285	140	36		5		1		1
+25-Tom Dowdy	46.63%	413.2090	226.08	45.66%	PCC	B	Distinguished Senior	MINOR	A156310	153	25	2	1			10	
+26-Eric Mccampbell	44.86%	397.5641	247.19	43.93%	Limited	B	Senior	MAJOR	A14332	121	51	4	5		1		
+27-Eric Gonzales 2	43.76%	387.7669	212.85	42.85%	Carry Optics	U	Law	MINOR	A150036	141	31	4	5		2	5	
+28-Matthew Brown	41.20%	365.0608	235.28	40.34%	Open	U	Law	MINOR		134	35	5	7		1	2	
+29-Andres Lezama 2	38.31%	339.4918	159.78	37.51%	Limited Optics	B		MINOR	A167280	109	46	9	15		3	5	
+30-Bruce Lamb	36.10%	319.8784	271.54	35.35%	Open	X	Distinguished Senior	MINOR	L-997	116	56	4	5			1	
+31-Sutton Ross	35.14%	311.4374	265.12	34.41%	Limited Optics	U		MINOR		135	34	3	9		3		
+32-Dale Hamm	34.51%	305.8497	299.78	33.80%	Production	D	Super Senior	MINOR	TY97196	128	42	7	4				
+33-Joe Nguyen 2	34.34%	304.2758	266.92	33.62%	Limited Optics	U		MINOR	A180201	112	49	12	8		1		
+34-Arnet Nguyen 4	33.13%	293.5883	314.66	32.44%	Carry Optics	U	Military	MINOR		152	20	2	7		2		
+35-Ross "Riff Raff" Pimentel 1	32.19%	285.2326	170.02	31.52%	Carry Optics	C	Senior, Law	MINOR	A157753	102	30	9	5				
+36-Tom Campbell	30.38%	269.2396	327.87	29.75%	Carry Optics	C	Senior	MINOR	A100462	125	48	2	6			1	
+37-Ron Plesko	29.95%	265.4029	359.77	29.33%	Carry Optics	D	Super Senior	MINOR	TY138017	126	46	7	2				
+38-Gregory Reeves	5.65%	50.0297	52.36	5.53%	Carry Optics	C		MINOR	A182104	27	1						
+39-Brandon Hunt	0.00%	0.0000		0.00%	Open	B		MAJOR	fy150701								
+40-Mauricio Salvatori 1	0.00%	0.0000		0.00%	Production		Senior	MINOR	A167187	12							
+Name
+1-Tony Vale 5
+2-Glen Kruger 2
+3-Garrett Pressler 1
+4-Lee Cardwell 2
+5-Olayemi Bakare
+6-Dan Ausmus
+7-Matthew Givens
+8-Will Goglas 2
+9-Eric Huggins Jr
+10-Phyl Santos
+11-Albert Legislador
+12-Dale Fike
+13-TJ Middleton
+14-Noah Bryson
+15-Hayden Frasier 2
+16-Benjamin Reinhold
+17-Bryant Moorefield
+18-Valter Gonzalez
+19-Ryan Stegint
+20-Seth Dickens
+21-Joseph Wilkie
+22-Yulmer Carreno 1
+23-Grant Nixon 1
+24-Edwin Gomez
+25-Tom Dowdy
+26-Eric Mccampbell
+27-Eric Gonzales 2
+28-Matthew Brown
+29-Andres Lezama 2
+30-Bruce Lamb
+31-Sutton Ross
+32-Dale Hamm
+33-Joe Nguyen 2
+34-Arnet Nguyen 4
+35-Ross "Riff Raff" Pimentel 1
+36-Tom Campbell
+37-Ron Plesko
+38-Gregory Reeves
+39-Brandon Hunt
+40-Mauricio Salvatori 1
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Pressler, Garrett (1)
+2026-09-05 15:51:32.713 - 2026-09-05 15:51:57.263Edited a few seconds after.Added details: [object Object]Added numAlphas: 27Added numCharlies: 4Added numDeltas: 1Added stringTime: 20.02Edited By Amazon KFRAWI 965d8b69
+Nguyen, Arnet (2)
+2026-09-05 13:42:38.409 - 2026-09-05 13:42:59.252Edited a few seconds after.Edited str,0 was: 0 now: 52.36Added aprv: trueAdded details: [object Object]Added numAlphas: 31Added numCharlies: 1Added stringTime: 52.36Edited By Amazon KFRAWI 647a7fb62026-09-05 13:42:20.476 - 2026-09-05 13:42:38.409Edited a few seconds after.Edited rawpts was: 90 now: 138
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited By Amazon KFRAWI 647a7fb6
+Stage 2
+Salvatori, Mauricio (1)
+2026-09-05 13:52:56.227 - 2026-09-05 13:53:28.572Edited a few seconds after.Edited rawpts was: 142 now: 60Edited str,0 was: 30.31 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	1	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Santos, Phyl (PCC/Min)Added details: [object Object]Added numAlphas: 12Edited By Amazon KFRAWI 4b445232
+Stage 3
+Nguyen, Joe (2)
+2026-09-05 14:05:32.710 - 2026-09-05 14:05:48.059Edited a few seconds after.Edited rawpts was: 123 now: 133
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 30Added numCharlies: 7Added numDeltas: 2Added numM: 1Added stringTime: 41.85Edited By Amazon KFRAWI 4b4452322026-09-05 14:05:11.585 - 2026-09-05 14:05:32.710Edited a few seconds after.Added Reason for Edit Stage editedEdited By Amazon KFRAWI 4b445232
+Frasier, Hayden (2)
+2026-09-05 14:41:50.898 - 2026-09-05 14:42:28.921Edited a few seconds after.Edited rawpts was: 125 now: 135
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 31Added numCharlies: 6Added numDeltas: 2Added numM: 1Added stringTime: 31.99Edited By Amazon KFRAWI 647a7fb62026-09-05 14:36:16.737 - 2026-09-05 14:41:50.898Edited 6 minutes after.Added Reason for Edit Stage editedEdited By Amazon KFRAWI 647a7fb6
+Nguyen, Arnet (2)
+2026-09-05 14:41:50.898 - 2026-09-05 14:42:23.426Edited a few seconds after.Edited rawpts was: 144 now: 154
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 37Added numCharlies: 3Added stringTime: 47.35Edited By Amazon KFRAWI 647a7fb62026-09-05 14:39:20.362 - 2026-09-05 14:41:50.898Edited 3 minutes after.Added Reason for Edit Stage editedEdited By Amazon KFRAWI 647a7fb6
+Stage 4
+Vale, Tony (1)
+2026-09-05 16:26:09.329 - 2026-09-05 16:28:13.409Edited 2 minutes after.Edited rawpts was: 10 now: 131Edited str,0 was: 34.69 now: 18.79
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,v was: 34.69;AMG 3DB6 now: 1.76,2.07,2.58,2.90,3.58,3.91,4.71,5.20,5.68,8.27,8.63,9.09,9.72,10.15,11.03,11.46,12.37,12.52,13.27,13.75,13.99,14.70,14.96,15.90,16.19,16.48,16.86,17.71,18.05,18.61,18.79;AMG 3DB6Edited meta,0,t was: 2026-09-05 16:24:44.836 now: 2026-09-05 16:27:07.428Added aprv: trueAdded details: [object Object]Added numAlphas: 21Added numCharlies: 7Added numDeltas: 4Added stringTime: 18.79Edited By Amazon KFRAWI ee75081d
+Stage 5
+Vale, Tony (2)
+2026-09-05 17:12:59.914 - 2026-09-05 17:16:56.773Edited 4 minutes after.Edited rawpts was: 30 now: 153Edited str,0 was: 0 now: 21.65
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited meta,0,k was: from now: string0Edited meta,0,v was: Reshoot now: 1.29,1.43,1.86,2.21,3.09,3.40,3.72,4.01,5.37,5.60,5.92,6.15,8.42,8.60,8.98,9.25,10.44,10.68,11.19,11.78,13.06,13.53,13.94,14.35,14.83,15.18,16.18,17.17,18.53,19.16,19.61,19.77,20.11,20.45,21.44,21.65;AMG 3DB6Edited meta,0,t was: 2026-09-05 17:12:59.914 now: 2026-09-05 17:16:02.974Added aprv: trueAdded details: [object Object]Added numAlphas: 31Added numCharlies: 7Added stringTime: 21.65Edited By Amazon KFRAWI ee75081d2026-09-05 13:50:01.330 - 2026-09-05 17:12:59.914Edited 3 hours after.Edited rawpts was: 147 now: 30Edited str,0 was: 12.68 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	1	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.26,1.40,1.73,2.02,2.95,3.22,3.65,4.02,5.13,5.28,5.62,6.02,6.21,8.43,8.59,8.96,9.32,10.33,10.63,10.96,11.38,12.68;AMG 3DB6 now: ReshootEdited meta,0,t was: 2026-09-05 13:48:57.366 now: 2026-09-05 17:12:59.914Removed aprv: trueEdited By Amazon KFRAWI ee75081d
+Stage 6
+Kruger, Glen (2)
+2026-09-05 16:52:43.795 - 2026-09-05 16:58:30.215Edited 6 minutes after.Edited rawpts was: 120 now: 126Edited str,0 was: 17.16 now: 16.2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 22Added numCharlies: 7Added numM: 1Added stringTime: 16.2Edited By Amazon KFRAWI ee75081d2026-09-05 14:15:23.245 - 2026-09-05 16:52:43.795Edited 3 hours after.ARRAYEdited By Amazon KFRAWI ee75081d
+Carreno, Yulmer (1)
+2026-09-05 14:17:36.113 - 2026-09-05 16:52:43.795Edited 3 hours after.ARRAYAdded details: [object Object]Added numAlphas: 17Added numCharlies: 9Added numDeltas: 1Added stringTime: 20Edited By Amazon KFRAWI ee75081d
+Nixon, Grant (1)
+2026-09-05 14:20:36.787 - 2026-09-05 16:52:43.795Edited 3 hours after.ARRAYAdded details: [object Object]Added numAlphas: 19Added numCharlies: 5Added numDeltas: 3Added stringTime: 28.38Edited By Amazon KFRAWI ee75081d
+Pimentel, Ross "Riff Raff" (1)
+2026-09-05 14:23:01.743 - 2026-09-05 16:52:43.795Edited 2 hours after.ARRAYAdded details: [object Object]Added numAlphas: 17Added numCharlies: 8Added numDeltas: 1Added numM: 1Added stringTime: 25.06Edited By Amazon KFRAWI ee75081d
+Vale, Tony (2)
+2026-09-05 16:52:43.795 - 2026-09-05 17:01:08.607Edited 8 minutes after.Edited rawpts was: 121 now: 135Edited str,0 was: 16.39 now: 15.48
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	2	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	2	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+ARRAYEdited meta,0,v was: 1.22,1.40,1.88,2.27,3.54,3.93,4.64,5.06,6.04,6.19,6.95,7.32,7.98,8.28,9.13,9.76,10.04,10.43,10.61,13.28,13.46,13.92,14.20,14.87,15.03,15.29,15.43,15.93,16.21,16.39;AMG 3DB6 now: 1.27,1.43,1.91,2.24,3.49,3.81,4.22,4.56,5.34,5.62,6.23,6.52,6.95,7.70,7.90,8.83,10.06,10.23,10.41,10.56,12.69,12.87,13.29,13.52,14.06,14.22,14.49,14.65,15.29,15.48;AMG 3DB6Edited meta,0,t was: 2026-09-05 14:25:15.408 now: 2026-09-05 16:59:50.775Added details: [object Object]Added numAlphas: 20Added numBravos: 4Added numCharlies: 6Added stringTime: 15.48Edited By Amazon KFRAWI ee75081d2026-09-05 14:25:21.700 - 2026-09-05 16:52:43.795Edited 2 hours after.ARRAYEdited By Amazon KFRAWI ee75081d
+Cardwell, Lee (2)
+2026-09-05 16:52:43.795 - 2026-09-05 17:03:42.892Edited 11 minutes after.Edited rawpts was: 121 now: 131Edited str,0 was: 19.6 now: 17.13
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+ARRAYEdited meta,0,v was: 1.39,1.53,2.04,2.18,3.05,3.18,4.77,4.91,5.27,5.39,7.14,7.43,8.22,8.37,9.40,10.50,10.66,11.05,11.19,11.98,12.63,12.77,13.32,14.17,14.31,14.49,14.68,17.34,17.50,18.60,18.73,19.17,19.60;AMG 3DB6 now: 0.81,0.96,1.25,1.37,2.40,2.78,3.68,4.19,5.22,5.36,6.41,6.56,7.45,7.57,7.87,8.01,8.65,8.80,9.25,10.16,10.29,13.09,13.22,13.45,13.60,14.53,14.88,15.02,15.52,15.76,17.13;AMG 3DB6Edited meta,0,t was: 2026-09-05 14:27:05.800 now: 2026-09-05 17:02:45.959Added details: [object Object]Added numAlphas: 23Added numCharlies: 7Added stringTime: 17.13Edited By Amazon KFRAWI ee75081d2026-09-05 14:27:33.998 - 2026-09-05 16:52:43.795Edited 2 hours after.ARRAYEdited By Amazon KFRAWI ee75081d
+Goglas, Will (2)
+2026-09-05 16:52:43.795 - 2026-09-05 17:05:59.422Edited 13 minutes after.Edited rawpts was: 119 now: 126Edited str,0 was: 17.45 now: 16.05
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	1	1	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+ARRAYEdited meta,0,v was: 1.32,1.56,2.12,2.41,3.89,4.21,4.44,4.94,5.18,6.03,6.22,7.30,7.57,8.27,8.73,8.94,9.29,9.46,9.76,9.92,12.51,12.67,13.24,13.45,13.99,14.75,14.91,15.28,15.44,15.89,16.18,17.45;AMG 3DB6 now: 1.27,1.44,1.95,2.24,3.71,4.09,4.50,4.83,5.77,5.99,7.11,7.35,8.12,8.53,8.75,9.19,9.36,9.72,9.95,12.80,13.00,13.48,13.64,14.45,14.61,14.95,15.11,15.59,16.05;AMG 3DB6Edited meta,0,t was: 2026-09-05 14:29:00.418 now: 2026-09-05 17:05:05.724Added details: [object Object]Added numAlphas: 19Added numCharlies: 8Added numDeltas: 2Added numM: 1Added stringTime: 16.05Edited By Amazon KFRAWI ee75081d2026-09-05 14:30:00.511 - 2026-09-05 16:52:43.795Edited 2 hours after.ARRAYEdited By Amazon KFRAWI ee75081d
+Gonzales, Eric (2)
+2026-09-05 16:52:43.795 - 2026-09-05 17:08:16.650Edited 16 minutes after.Edited rawpts was: 123 now: 127Edited str,0 was: 40.98 now: 34.21
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 21Added numCharlies: 9Added stringTime: 34.21Edited By Amazon KFRAWI ee75081d2026-09-05 14:32:00.415 - 2026-09-05 16:52:43.795Edited 2 hours after.ARRAYEdited By Amazon KFRAWI ee75081d
+Lezama, Andres (2)
+2026-09-05 16:52:43.795 - 2026-09-05 16:54:23.518Edited 2 minutes after.Edited str,0 was: 22.75 now: 32.05ARRAYEdited meta,0,v was: 1.57,1.79,2.27,2.62,3.98,4.37,5.08,5.53,5.97,7.45,7.74,9.09,9.33,9.54,10.70,11.15,11.64,12.09,12.32,13.08,13.27,13.65,14.20,14.40,18.36,18.92,19.74,20.02,20.24,20.96,21.15,21.47,21.64,22.37,22.57,22.75;AMG 3DB6 now: 32.05;AMG 3DB6Edited meta,0,t was: 2026-09-05 14:33:39.868 now: 2026-09-05 16:53:50.151Added details: [object Object]Added numAlphas: 13Added numCharlies: 11Added numDeltas: 3Added stringTime: 32.05Edited By Amazon KFRAWI ee75081d2026-09-05 14:41:05.585 - 2026-09-05 16:52:43.795Edited 2 hours after.ARRAYEdited By Amazon KFRAWI ee75081d
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+
