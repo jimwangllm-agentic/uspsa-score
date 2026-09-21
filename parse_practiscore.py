@@ -1,6 +1,6 @@
 # cd "C:\Users\pcc20\test\uspsa-score"
 
-# python parse_practiscore.py "html_sources/361755db-f754-4292-b063-c1b0dd8b1daa.txt" -o "parsed/361755db-f754-4292-b063-c1b0dd8b1daa.csv"
+# python parse_practiscore.py "html_sources/1a211aed-8fcd-440b-98aa-a19053327049.txt" -o "parsed/1a211aed-8fcd-440b-98aa-a19053327049.csv"
 
 
 from __future__ import annotations

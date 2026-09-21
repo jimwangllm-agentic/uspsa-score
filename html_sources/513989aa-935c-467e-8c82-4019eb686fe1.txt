@@ -1,0 +1,295 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+TSV USPSA SATURDAY Pistol/PCC Match 9-19-2026 USPSA 2026-09-19TSV Conroe - Texas Shooting Venue
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Ulrick Fong	100.00%	681.4156	114.89	90.25%	PCC	A	Senior	MINOR	A170351	131	18	2			1		
+2-Hunter Sparkman	94.77%	645.7594	117.07	85.53%	Limited Optics	U	Law	MINOR		134	14		3				
+3-Garrett Pressler	94.61%	644.6572	114.89	85.39%	Open	A		MINOR	A165603	129	18	1	3			1	
+4-Coder Wang	89.76%	611.6239	125.97	81.01%	PCC	A		MINOR	A170259	121	29	1					
+5-Glen Kruger	87.92%	599.0921	125.02	79.35%	PCC	A	Senior	MINOR	A171162	116	30	2	3				
+6-Phyl Santos	86.79%	591.3977	147.63	78.33%	PCC			MINOR		125	23		3		2		
+7-Dale Fike 1	85.31%	581.3180	132.76	77.00%	PCC		Senior, Super Senior	MINOR	A113427	129	19	2	1				
+8-Tyler Hooper	83.26%	567.3322	136.02	75.14%	Carry Optics			MINOR		126	23	2			1		
+9-Paul Piretti 1	80.99%	551.8711	127.22	73.10%	PCC	U		MINOR	a149477	134	11	2	4		3		
+10-TJ Middleton	74.00%	504.2505	121.42	66.79%	PCC	B		MINOR	TY171913	99	40	6	6			1	
+11-Andre Wijaya	73.99%	504.1649	126.85	66.78%	Open	B		MINOR	A175473	128	15	1	7		1	2	
+12-Kenedy Nguyen	72.39%	493.2510	147.72	65.33%	Carry Optics	B		MINOR	A86832	115	28	7	1		1		
+13-Ross "Riff Raff" Pimentel	69.94%	476.6007	135.59	63.13%	PCC	U	Senior	MINOR	A157753	103	37	6	5				
+14-Taylor Latham 2	61.13%	416.5722	174.68	55.18%	Single Stack	B	Super Senior	MINOR		122	26		3				
+15-Brad Hoang	59.66%	406.5401	142.67	53.85%	PCC	U		MINOR	A185931	114	23	5	9		4	1	
+16-Mo Zaidi	57.60%	392.5228	168.12	51.99%	Limited	C		MINOR	A186499	113	30	6	2		5		
+17-Josh Heiliger	46.85%	319.2571	192.80	42.29%	Open	C		MAJOR		110	27	3	11			1	
+18-Ivan Gomez 2	39.49%	269.1186	229.28	35.64%	Carry Optics	U		MINOR		127	12	1	11		1	2	
+19-Tommy Teas	32.02%	218.2075	373.67	28.90%	Revolver	B	Super Senior	MAJOR	FY2227	121	25	5					
+20-Dale Hamm 2	28.83%	196.4432	362.66	26.02%	Revolver	D	Super Senior	MINOR	TY97196	107	36	4	4		2		
+21-Raquel Gonzalez	13.94%	94.9703	355.28	12.58%	Carry Optics			MINOR		88	30	10	23		1	2	
+22-Mauricio Salvatori	13.80%	94.0261	390.65	12.45%	Production	U	Senior	MINOR	A167187	89	27	7	28		5	3	
+23-Viny Salvatori	9.80%	66.7622	342.44	8.84%	Production	U	Junior	MINOR		74	36	9	32		3	2	
+DQ-Jimmy Shoot "doan" Shoot	0.00%	0.0000		0.00%	Carry Optics	B	Law	MINOR	A184392								
+Name
+1-Ulrick Fong
+2-Hunter Sparkman
+3-Garrett Pressler
+4-Coder Wang
+5-Glen Kruger
+6-Phyl Santos
+7-Dale Fike 1
+8-Tyler Hooper
+9-Paul Piretti 1
+10-TJ Middleton
+11-Andre Wijaya
+12-Kenedy Nguyen
+13-Ross "Riff Raff" Pimentel
+14-Taylor Latham 2
+15-Brad Hoang
+16-Mo Zaidi
+17-Josh Heiliger
+18-Ivan Gomez 2
+19-Tommy Teas
+20-Dale Hamm 2
+21-Raquel Gonzalez
+22-Mauricio Salvatori
+23-Viny Salvatori
+DQ-Jimmy Shoot "doan" Shoot
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Latham, Taylor (2)
+2026-09-19 14:15:21.998 - 2026-09-19 14:36:31.821Edited 21 minutes after.Edited rawpts was: 10 now: 128Edited str,0 was: 0 now: 30.96
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Removed Reason for Edit Moved to Shooter Gomez, Ivan (CO/Min)Added aprv: trueAdded details: [object Object]Added numAlphas: 24Added numCharlies: 6Added stringTime: 30.96Edited By Amazon KFQUWI 113d4c952026-09-19 14:14:55.965 - 2026-09-19 14:15:21.998Edited a few seconds after.Edited rawpts was: 120 now: 10Edited str,0 was: 36.75 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	1	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Gomez, Ivan (CO/Min)Edited By Amazon KFQUWI 113d4c95
+Piretti, Paul (1)
+2026-09-19 15:22:45.633 - 2026-09-19 15:23:18.069Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+Added details: [object Object]Added numAlphas: 26Added numCharlies: 3Added numNS: 3Added numM: 1Added stringTime: 20.53Edited By Amazon KFQUWI 10244a15
+Stage 2
+Gomez, Ivan (2)
+2026-09-19 14:47:55.118 - 2026-09-19 14:50:58.881Edited 3 minutes after.Edited rawpts was: 45 now: 101Edited str,0 was: 0 now: 50.75
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Hamm, Dale (R/Min/SS)Added proc: 1Added aprv: trueAdded details: [object Object]Added numAlphas: 28Added numCharlies: 2Added numM: 4Added numProc: 1Added stringTime: 50.75Edited By Amazon KFQUWI 113d4c952026-09-19 14:47:33.269 - 2026-09-19 14:47:55.118Edited a few seconds after.Edited rawpts was: 109 now: 45Edited str,0 was: 21.62 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Hamm, Dale (R/Min/SS)Edited By Amazon KFQUWI 113d4c95
+Hamm, Dale (2)
+2026-09-19 14:48:15.263 - 2026-09-19 14:58:04.169Edited 10 minutes after.Edited rawpts was: 45 now: 107Edited str,0 was: 0 now: 100.02
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Fike, Dale (L/Min/SS/S)Added aprv: trueAdded details: [object Object]Added numAlphas: 29Added numCharlies: 2Added numDeltas: 1Added numM: 2Added stringTime: 100.02Edited By Amazon KFQUWI 113d4c952026-09-19 14:47:55.111 - 2026-09-19 14:48:15.263Edited a few seconds after.Edited rawpts was: 109 now: 45Edited str,0 was: 21.62 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,v was: From Shooter Gomez, Ivan (CO/Min) now: Moved to Shooter Fike, Dale (L/Min/SS/S)Edited meta,0,t was: 2026-09-19 14:47:55.111 now: 2026-09-19 14:48:15.263Removed aprv: trueEdited By Amazon KFQUWI 113d4c95
+Stage 6
+Fike, Dale (1)
+2026-09-19 13:44:21.772 - 2026-09-19 13:44:55.557Edited a few seconds after.Edited rawpts was: 108 now: 110
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 26Added stringTime: 19.15Edited By Amazon KFQUWI 113d4c95
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+
