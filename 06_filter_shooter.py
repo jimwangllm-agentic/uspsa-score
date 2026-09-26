@@ -30,19 +30,53 @@ INPUT_FILE = Path("all_scores.xlsx")
 # ]
 
 
-OUTPUT_FILE = Path("example_david.xlsx")
+# OUTPUT_FILE = Path("example_david.xlsx")
+
+# # Names to search for
+# SHOOTER_NAMES = [
+#     "david zhang",
+#     "wei zhang",
+# ]
+
+
+# # Member numbers to search for
+# MEMBER_NUMBERS = [
+#     "FY140383",
+# ]
+
+
+
+
+# OUTPUT_FILE = Path("example_qian.xlsx")
+
+# # Names to search for
+# SHOOTER_NAMES = [
+#     "stormtrooper",
+#     "chang qian",
+# ]
+
+
+# # Member numbers to search for
+# MEMBER_NUMBERS = [
+#     "A150939",
+#     "A1509",
+# ]
+
+
+OUTPUT_FILE = Path("example_harlan.xlsx")
 
 # Names to search for
 SHOOTER_NAMES = [
-    "david zhang",
-    "wei zhang",
+    "harlan chen",
+    "chen harlan",
 ]
 
 
 # Member numbers to search for
 MEMBER_NUMBERS = [
-    "FY140383",
+    "A163292",
 ]
+
 
 
 # ------------------------------------------------------------
