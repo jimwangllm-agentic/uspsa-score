@@ -1,0 +1,128 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Apr 21 USPSA 2022-04-21Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-AJ Jackson	100.00%	307.1749	51.03	93.08%	Open	B		MINOR	A81745	43	19	3	1				
+2-Pete Kirchner	98.55%	302.7269	53.21	91.74%	Carry Optics	A		MINOR	TY105743	44	19	2	1				
+3-Ronald Gillory Jr.	91.79%	281.9592	65.38	85.44%	PCC	B		MINOR	TY83291	49	17					1	
+4-Ray Fishel	85.41%	262.3501	60.66	79.50%	PCC	B	Senior	MINOR	A92443	36	28	1	1				
+5-Blaine Newlin 1	82.65%	253.8952	58.86	76.94%	Limited 10	B		MINOR	TY103350	43	19	2	2			1	
+6-Mark Lutzel	76.78%	235.8364	69.30	71.47%	Carry Optics	C	Senior	MINOR	FY101009	39	26	1					
+7-Mark Hopmann	75.80%	232.8477	71.65	70.56%	Carry Optics	B	Senior	MINOR	TY134553	39	27						
+8-Khoa Nguyen	75.71%	232.5498	58.90	70.47%	Production	A	Law Enforcement	MINOR	A117224	34	26	4	2				
+9-Kenedy Nguyen	69.92%	214.7701	60.46	65.08%	Carry Optics	C		MINOR	A83862	35	25	4	2		2		
+10-Lauren Christenson	64.88%	199.2984	78.77	60.39%	Carry Optics	U	Lady	MINOR		40	25		1				
+11-Joseph Reyes	62.19%	191.0204	73.28	57.88%	Limited	C	Super Senior	MINOR	TY127665	33	28	3	2				
+12-Charles Bradbury	50.70%	155.7491	75.96	47.20%	Open	D		MINOR	A107489	37	18	6	5				
+13-John Del Toro 2	49.60%	152.3440	109.64	46.16%	Limited	C	Super Senior	MAJOR	A107511	31	33	1	1				
+14-Lisa Nguyen	30.98%	95.1650	97.30	28.84%	Open	D	Lady	MAJOR	A135827	32	20	5	9				
+15-Byron J Frank 1	24.46%	75.1265	97.49	22.77%	Carry Optics	U		MINOR	A139338	25	25	6	10		2	2	
+16-Monroe Voyles	9.20%	28.2699	101.45	8.57%	Production	U		MINOR		24	24	6	12		4	2	
+Name
+1-AJ Jackson
+2-Pete Kirchner
+3-Ronald Gillory Jr.
+4-Ray Fishel
+5-Blaine Newlin 1
+6-Mark Lutzel
+7-Mark Hopmann
+8-Khoa Nguyen
+9-Kenedy Nguyen
+10-Lauren Christenson
+11-Joseph Reyes
+12-Charles Bradbury
+13-John Del Toro 2
+14-Lisa Nguyen
+15-Byron J Frank 1
+16-Monroe Voyles
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Newlin, Blaine (1)
+2022-04-22 01:05:45.541 - 2022-04-22 01:06:27.632Edited a few seconds after.Added proc: 1Added details: [object Object]Added numAlphas: 17Added numCharlies: 3Added numM: 2Added numProc: 1Added stringTime: 22.92Edited By BCPS KINDLE FIRE #4
+Stage 4
+Del Toro, John (2)
+2022-04-22 01:32:35.528 - 2022-04-22 01:34:12.013Edited 2 minutes after.Edited rawpts was: 15 now: 67
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Edited str,0 was: 0 now: 22.75Removed Reason for Edit ReshootAdded aprv: trueAdded details: [object Object]Added numAlphas: 10Added numCharlies: 8Added stringTime: 22.75Edited By BCPS KINDLE FIRE #42022-04-22 01:15:06.987 - 2022-04-22 01:32:35.528Edited 17 minutes after.Edited rawpts was: 65 now: 15Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 29.9 now: 0Added Reason for Edit ReshootEdited By BCPS KINDLE FIRE #4
+Frank, Byron J (1)
+2022-04-22 01:31:53.913 - 2022-04-22 01:32:18.735Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	1	1	1	0
+Current	0	0	0	1	0	1	0
+Added details: [object Object]Added numAlphas: 9Added numCharlies: 2Added numDeltas: 4Added numNS: 1Added numM: 3Added stringTime: 19.22Edited By BCPS KINDLE FIRE #4
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

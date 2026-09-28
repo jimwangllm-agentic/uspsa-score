@@ -1,0 +1,119 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday April 11th USPSA 2021-04-11Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Cory Klemashevich	100.00%	654.3927	73.28	97.67%	PCC	G		MINOR	A87214	102	23	6	3		1	1	
+2-AJ Jackson 2	85.23%	557.7682	89.55	83.25%	PCC	A		MINOR	A81745	93	29	11	1		1		
+3-gerrit milks	84.76%	554.6352	96.85	82.78%	PCC	A	Super Senior	MINOR	a67608	97	33	4					
+4-Cory Klemashevich	82.89%	542.4366	84.97	80.96%	Carry Optics	M		MINOR	A87214	94	32	4	4		2	1	
+5-Preston Sidwell	75.71%	495.4224	114.18	73.94%	Open	U		MINOR	A130485	109	23	2					
+6-Tommy Teas	75.19%	492.0459	114.08	73.44%	PCC	U	Senior	MINOR	TY2227	105	28	1					
+7-William Conlan 1	74.76%	489.2469	89.50	73.02%	PCC	U		MINOR		93	30	8	3		4	1	
+8-Juliann Milks	66.21%	433.3035	106.87	64.67%	Carry Optics	U	Lady	MINOR	a110188	82	40	8	4				
+9-Danny Dubuisson	59.76%	391.0703	142.27	58.37%	Carry Optics	C		MINOR		107	21	6			1		
+10-Preston Sidwell	59.55%	389.6825	139.63	58.16%	Carry Optics	U		MINOR	A130485	111	21	2			3		
+11-Josh Rizzo	58.17%	380.6498	148.56	56.81%	Open	U		MAJOR	A128367	96	36	2			1		
+12-Juliann Milks	58.00%	379.5239	125.55	56.65%	PCC	B	Lady	MINOR	a110188	86	32	12	4				
+13-Taylor Latham	55.25%	361.5250	131.70	53.96%	Single Stack	B		MAJOR	TY39841	91	34	4	5		3		
+14-Mike Reed	53.10%	347.4678	147.05	51.86%	Carry Optics	C		MINOR	FY92760	94	34	4	2				
+15-Jason Wilson 1	53.05%	347.1769	158.40	51.82%	Revolver	G		MINOR		114	16	2	2		1		
+16-Will Toomey	50.41%	329.8474	146.93	49.23%	Carry Optics	U		MINOR		106	22	2	4		2	1	
+17-Michael Fink	49.89%	326.4738	163.69	48.73%	PCC	C		MINOR	A129063	110	19	2	3		3		
+18-Michael Reed	44.05%	288.2589	147.32	43.02%	Production	C		MINOR	FY92760	88	31	11	4		5		
+19-Mickey Gallaway	41.74%	273.1686	208.59	40.77%	Limited	U	Super Senior	MINOR	FY-556	99	30	5					
+20-Daniel Claybaugh	38.98%	255.0551	184.51	38.07%	Limited	U		MINOR		102	26	2	4		2	1	
+21-Gary Brisco	34.47%	225.5848	226.55	33.67%	Carry Optics	C	Super Senior	MINOR	FY 73704	93	33	5	3				
+22-Dale Hamm	32.78%	214.5114	156.37	32.02%	Limited	C	Senior	MAJOR	TY97196	66	41	16	11		3		
+23-Saunders Arnold	31.42%	205.6129	238.97	30.69%	Carry Optics	U		MINOR		106	23	1	4		4		
+24-nick milks	25.27%	165.3628	315.09	24.68%	Single Stack	C		MAJOR	a109961	69	44	9	12		4	5	
+25-Michael Fink	18.90%	123.6496	207.17	18.46%	Limited	C		MINOR	A120063	87	26	8	13		14		
+26-Taylor Latham	0.00%	0.0000		0.00%	Open	B		MAJOR									
+Name
+1-Cory Klemashevich
+2-AJ Jackson 2
+3-gerrit milks
+4-Cory Klemashevich
+5-Preston Sidwell
+6-Tommy Teas
+7-William Conlan 1
+8-Juliann Milks
+9-Danny Dubuisson
+10-Preston Sidwell
+11-Josh Rizzo
+12-Juliann Milks
+13-Taylor Latham
+14-Mike Reed
+15-Jason Wilson 1
+16-Will Toomey
+17-Michael Fink
+18-Michael Reed
+19-Mickey Gallaway
+20-Daniel Claybaugh
+21-Gary Brisco
+22-Dale Hamm
+23-Saunders Arnold
+24-nick milks
+25-Michael Fink
+26-Taylor Latham
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Jackson, AJ (2)
+2021-04-11 15:14:12.996 - 2021-04-11 15:16:33.728Edited 2 minutes after.Edited rawpts was: 67 now: 68
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	1	0	1	0
+Current	0	0	0	2	0	0	0
+Added details: [object Object]Added numAlphas: 21Added numDeltas: 3Added stringTime: 12.64Edited By Android Device2021-04-11 15:13:26.741 - 2021-04-11 15:14:12.996Edited a minute after.Edited rawpts was: 68 now: 67
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	0	0	0	1	0	1	0
+Edited By Android Device
+HI-Jinx
+Wilson, Jason (1)
+2021-04-11 15:26:43.321 - 2021-04-11 15:27:58.269Edited a minute after.Edited rawpts was: 46 now: 41
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	1	0	0	1	0
+Added details: [object Object]Added numAlphas: 5Added numCharlies: 5Added numDeltas: 1Added numM: 1Added stringTime: 8.81Edited By Android Device
+Stage 5
+Conlan, William (1)
+2021-04-11 16:00:38.856 - 2021-04-11 16:00:54.432Edited a few seconds after.Added proc: 1Added details: [object Object]Added numAlphas: 20Added numCharlies: 3Added numDeltas: 3Added numNS: 2Added numM: 2Added numProc: 1Added stringTime: 17.24Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

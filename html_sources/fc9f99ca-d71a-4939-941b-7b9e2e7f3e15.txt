@@ -1,0 +1,163 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Nov 4 USPSA 2021-11-04Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Rudy Pineda 1	100.00%	284.4225	52.13	94.81%	PCC	U		MINOR	A131323	39	19	2					
+2-Pete Kirchner	91.54%	260.3654	54.76	86.79%	Carry Optics	A		MINOR	TY105743	41	17	1	1				
+3-Desmond Jackson	88.24%	250.9843	56.07	83.66%	PCC	B		MINOR	TY89242	34	25	1					
+4-Ray Fishel 1	84.72%	240.9516	60.85	80.32%	PCC	B	Senior	MINOR	A92443	41	19				1		
+5-Joseph Reyes	82.26%	233.9615	60.08	77.99%	PCC	U	Super Senior	MINOR	A127665	37	23				1		
+6-KERRICK WARD 1	79.04%	224.8156	58.06	74.94%	PCC	C		MINOR	A133505	45	15					4	
+7-Mark Hopmann 2	74.95%	213.1880	74.66	71.06%	PCC	U	Senior	MINOR	TY134553	49	11						
+8-Mark Lutzel	71.39%	203.0584	69.24	67.69%	Carry Optics	C	Senior	MINOR	FY101009	35	22	3					
+9-Ronald GilloryJr	70.52%	200.5674	79.54	66.86%	Carry Optics	C		MINOR	TY83291	48	12						
+10-Robert Gatewood	68.69%	195.3703	70.64	65.12%	Open	U	Military	MINOR	A118214	41	15	1	3				
+11-Don Same	68.68%	195.3503	77.47	65.12%	PCC	U	Senior	MINOR	TY105098	35	24	1					
+12-Garry Newton	68.01%	193.4291	58.16	64.48%	PCC	M	Super Senior	MINOR	A79434	35	21		4				
+13-Charles Bradbury	65.93%	187.5306	70.35	62.51%	Open	U		MINOR	A107489	32	23	4	1				
+14-Aaron Gillory	65.58%	186.5363	59.38	62.18%	PCC	U	Law Enforcement	MINOR		33	22	2	3		1		
+15-Kenedy Nguyen	61.48%	174.8492	66.77	58.28%	Carry Optics	D		MINOR	A83862	28	26	5	1		1		
+16-Bruce Lamb	58.92%	167.5746	70.57	55.86%	PCC	U	Super Senior	MINOR	L997	34	20	5	1		2		
+17-AJ Jackson	54.82%	155.9315	55.00	51.98%	Open	B		MINOR	A81745	22	29	4	5				
+18-Jim Havens 1	53.85%	153.1519	42.60	51.05%	Carry Optics	M		MINOR	Ty114636	20	29	3	8		2		
+19-Blaine Newlin	32.51%	92.4748	106.93	30.82%	Revolver	U		MINOR	TY103350	34	20	2	4		1	1	
+20-Santiago Fields 1	28.00%	79.6257	71.19	26.54%	Limited	D		MINOR	TY128653	29	21	2	8		3		
+21-John Del Toro 2	27.91%	79.3699	158.79	26.46%	Revolver	U	Super Senior	MINOR	A107511	40	17	1	2		1		
+22-Lisa Nguyen	23.42%	66.6215	150.68	22.21%	Limited	D	Lady	MAJOR	A135827	25	25	4	6		2		
+23-John Vian	19.35%	55.0221	109.69	18.34%	Limited	U		MAJOR		19	20	6	15				
+Name
+1-Rudy Pineda 1
+2-Pete Kirchner
+3-Desmond Jackson
+4-Ray Fishel 1
+5-Joseph Reyes
+6-KERRICK WARD 1
+7-Mark Hopmann 2
+8-Mark Lutzel
+9-Ronald GilloryJr
+10-Robert Gatewood
+11-Don Same
+12-Garry Newton
+13-Charles Bradbury
+14-Aaron Gillory
+15-Kenedy Nguyen
+16-Bruce Lamb
+17-AJ Jackson
+18-Jim Havens 1
+19-Blaine Newlin
+20-Santiago Fields 1
+21-John Del Toro 2
+22-Lisa Nguyen
+23-John Vian
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Pineda, Rudy (1)
+2021-11-05 00:22:28.158 - 2021-11-05 00:23:12.752Edited a minute after.Edited rawpts was: 70 now: 72
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 12Added numCharlies: 7Added numDeltas: 1Added stringTime: 14.52Edited By BCPS KINDLE FIRE #3
+Hopmann, Mark (2)
+2021-11-05 00:14:44.348 - 2021-11-05 00:15:11.583Edited a few seconds after.Edited rawpts was: 74 now: 84
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 17Added numCharlies: 3Added stringTime: 21.6Edited By BCPS KINDLE FIRE #32021-11-05 00:14:27.076 - 2021-11-05 00:14:44.348Edited a few seconds after.Added Reason for Edit Stage editedEdited By BCPS KINDLE FIRE #3
+Del Toro, John (2)
+2021-11-05 00:19:55.474 - 2021-11-05 00:47:28.452Edited 28 minutes after.Edited rawpts was: 10 now: 78Edited str,0 was: 0 now: 48.05
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded aprv: trueAdded details: [object Object]Added numAlphas: 14Added numCharlies: 6Added stringTime: 48.05Edited By BCPS KINDLE FIRE #32021-11-05 00:19:55.472 - 2021-11-05 00:19:55.474Edited a few seconds after.Edited str,0 was: 41.62 now: 0Added Reason for Edit ReshootEdited By BCPS KINDLE FIRE #3
+Sit Or Get Off The Shot
+Havens, Jim (1)
+2021-11-05 02:13:53.594 - 2021-11-05 02:14:18.826Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	1	0
+Added rawpts: 41Added details: [object Object]Added numAlphas: 4Added numCharlies: 7Added numM: 1Added stringTime: 11.43Edited By BCPS KINDLE FIRE #2
+WARD, KERRICK (1)
+2021-11-05 02:52:40.466 - 2021-11-05 02:53:54.438Edited a minute after.Edited proc was: 1 now: 4Edited proc_cnts,0,tvEWrC was: 1 now: 4Added details: [object Object]Added numAlphas: 11Added numCharlies: 1Added numProc: 4Added stringTime: 13.739999999999998Edited By BCPS KINDLE FIRE #3
+Stage 4
+Fishel, Ray (1)
+2021-11-05 01:55:28.054 - 2021-11-05 02:03:08.656Edited 8 minutes after.Edited rawpts was: 66 now: 68
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 10Added numCharlies: 6Added stringTime: 12.02Edited By BCPS KINDLE FIRE #3
+Fields, Santiago (1)
+2021-11-05 02:42:00.599 - 2021-11-05 02:42:17.767Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	1	0	1	0	0
+Added details: [object Object]Added numAlphas: 8Added numCharlies: 6Added numNS: 2Added numM: 2Added stringTime: 12.95Edited By BCPS KINDLE FIRE #2
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

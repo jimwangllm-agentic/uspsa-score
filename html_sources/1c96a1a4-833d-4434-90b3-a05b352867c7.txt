@@ -1,0 +1,155 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+SPCGC Hosts Kidlat Shooters USPSA 09-01-22 USPSA 2022-09-01Spring Pistol Caliber Gun Club
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Phil Truong	100.00%	304.3663	37.87	98.18%	Carry Optics	B		MINOR	FY128600	42	20						
+2-Manny Nerona	95.47%	290.5908	38.40	93.74%	Carry Optics	B		MINOR	A69445	45	15	1	1				
+3-Fredi Loke 2	86.01%	261.7910	47.99	84.45%	Open	U	Super Senior	MINOR	A130588	54	8						
+4-Rudy Widiaman	63.89%	194.4492	52.83	62.73%	Carry Optics	U		MINOR		43	15	2	2				
+5-Kirk Skinner	62.49%	190.2045	57.53	61.36%	Carry Optics	U		MINOR		36	25	1					
+6-KERRICK WARD 1	58.56%	178.2224	64.18	57.49%	Open	C	Senior	MAJOR	1	47	12	2	1		1		
+7-KYLE WARD	58.45%	177.9054	54.26	57.39%	Open	U		MINOR	2	43	14	4	1		1	2	
+8-Nic Blades	56.37%	171.5756	68.72	55.35%	Single Stack	C		MINOR	A83339	46	15	1					
+9-Virak Meas 2	45.73%	139.1909	70.90	44.90%	Carry Optics	U		MINOR		40	17	3	2		1		
+10-Edward Dugas	38.83%	118.1910	95.63	38.13%	Single Stack		Senior	MINOR	NA	45	16		1				
+Name
+1-Phil Truong
+2-Manny Nerona
+3-Fredi Loke 2
+4-Rudy Widiaman
+5-Kirk Skinner
+6-KERRICK WARD 1
+7-KYLE WARD
+8-Nic Blades
+9-Virak Meas 2
+10-Edward Dugas
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Meas, Virak (2)
+2022-09-01 23:28:39.938 - 2022-09-01 23:40:34.003Edited 12 minutes after.Edited str,0 was: 0 now: 27.99
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 104Added aprv: trueAdded details: [object Object]Added numAlphas: 17Added numCharlies: 6Added numDeltas: 1Added stringTime: 27.99Edited By Android Device2022-09-01 23:28:39.936 - 2022-09-01 23:28:39.938Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit ReshootEdited By Android Device
+Stage 2
+WARD, KERRICK (1)
+2022-09-02 00:17:40.484 - 2022-09-02 00:19:13.570Edited 2 minutes after.Edited rawpts was: 5 now: 111Edited str,0 was: 0 now: 24.46
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added aprv: trueAdded details: [object Object]Added numAlphas: 19Added numCharlies: 4Added numM: 1Added stringTime: 24.46Edited By Android Device
+Loke, Fredi (1)
+2022-09-01 23:54:40.159 - 2022-09-02 00:00:35.868Edited 6 minutes after.Removed proc: 1Added details: [object Object]Added numAlphas: 20Added numCharlies: 4Added stringTime: 18.33Edited By Android Device
+HI Cost of Living
+Loke, Fredi (1)
+2022-09-02 00:49:08.998 - 2022-09-02 00:49:57.650Edited a minute after.Edited str,0 was: 18 now: 10Added details: [object Object]Added numAlphas: 11Added numCharlies: 3Added stringTime: 10Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

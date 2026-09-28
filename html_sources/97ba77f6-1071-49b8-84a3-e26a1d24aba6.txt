@@ -1,0 +1,253 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Sep 15 USPSA 2022-09-15Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Ray Fishel	100.00%	233.6444	39.95	95.37%	PCC	B	Senior	MINOR	A92443	31	17	1					
+2-Ronald Gillory Jr.	91.96%	214.8601	51.53	87.70%	PCC	B		MINOR	TY83291	43	6						
+3-Pete Kirchner	91.51%	213.8107	42.26	87.27%	Carry Optics	A		MINOR	TY105743	29	18	2					
+4-Mark Lutzel 3	80.99%	189.2276	49.77	77.24%	Carry Optics	C	Super Senior	MINOR	FY101009	34	15						
+5-James Jackson	78.44%	183.2788	52.61	74.81%	PCC	U		MINOR	A89219	31	17	1					
+6-AJ Jackson	73.67%	172.1231	40.88	70.25%	Open	B		MINOR	TY81745	20	23	5	1				
+7-Don Same	71.52%	167.1117	53.10	68.21%	PCC	C	Super Senior	MINOR	TY105098	27	13						
+8-Desmond Jackson	53.16%	124.1986	42.39	50.69%	Carry Optics	B		MINOR	TY89242	24	19	2	3		2		
+9-Joseph Reyes	46.35%	108.3016	54.38	44.20%	Limited	C	Super Senior	MINOR	TY127665	28	15	1	5				
+10-John Del Toro 2	41.29%	96.4682	85.67	39.37%	Limited 10	C	Super Senior	MINOR	A107511	30	16	2	1				
+11-Blaine Newlin	38.75%	90.5424	57.99	36.96%	Limited 10	B	Foreign	MINOR	A103350	23	13	3	4		1		
+12-Fulbert DelMundo	30.46%	71.1696	63.60	29.05%	Production	U		MINOR	TY143383	23	17	2	7				
+13-Luke Buffington	24.21%	56.5670	70.32	23.09%	Limited	U		MINOR		17	17	7	8		1	2	
+14-Ian Melchior 2	22.91%	53.5200	54.83	21.84%	Limited	U		MINOR	A144892	14	19	4	12		1	6	
+15-Salil Cheriyan	17.63%	41.1882	89.49	16.81%	Limited	U		MAJOR		16	21	5	7		2	1	
+16-LaShaun Jackson 2	12.16%	28.4218	151.91	11.60%	Carry Optics	D	Lady	MINOR	A89243	16	20	4	9		1		
+Name
+1-Ray Fishel
+2-Ronald Gillory Jr.
+3-Pete Kirchner
+4-Mark Lutzel 3
+5-James Jackson
+6-AJ Jackson
+7-Don Same
+8-Desmond Jackson
+9-Joseph Reyes
+10-John Del Toro 2
+11-Blaine Newlin
+12-Fulbert DelMundo
+13-Luke Buffington
+14-Ian Melchior 2
+15-Salil Cheriyan
+16-LaShaun Jackson 2
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Melchior, Ian (2)
+2022-09-16 00:32:12.190 - 2022-09-16 00:34:17.388Edited 2 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 0 now: 18.83Removed Reason for Edit ReshootAdded proc: 2Added aprv: trueAdded rawpts: 29Added details: [object Object]Added numAlphas: 3Added numCharlies: 4Added numDeltas: 2Added numM: 5Added numProc: 2Added stringTime: 18.83Edited By BCPS KINDLE FIRE #22022-09-16 00:23:37.092 - 2022-09-16 00:32:12.190Edited 9 minutes after.Removed rawpts: 32Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	1	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 15.83 now: 0Added Reason for Edit ReshootEdited By BCPS KINDLE FIRE #2
+Lutzel, Mark (2)
+2022-09-16 00:32:22.167 - 2022-09-16 00:35:54.613Edited 4 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 0 now: 18.6Removed Reason for Edit ReshootAdded aprv: trueAdded rawpts: 58Added details: [object Object]Added numAlphas: 8Added numCharlies: 6Added stringTime: 18.6Edited By BCPS KINDLE FIRE #22022-09-16 00:26:22.146 - 2022-09-16 00:32:22.167Edited 6 minutes after.Removed rawpts: 53Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 16.87 now: 0Added Reason for Edit ReshootEdited By BCPS KINDLE FIRE #2
+Del Toro, John (2)
+2022-09-16 00:32:28.276 - 2022-09-16 00:39:36.441Edited 7 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Edited str,0 was: 0 now: 34.76Removed Reason for Edit ReshootAdded aprv: trueAdded rawpts: 47Added details: [object Object]Added numAlphas: 6Added numCharlies: 5Added numDeltas: 2Added numM: 1Added stringTime: 34.76Edited By BCPS KINDLE FIRE #22022-09-16 00:31:18.944 - 2022-09-16 00:32:28.276Edited a minute after.Removed rawpts: 43Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	1	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 32.7 now: 0Added Reason for Edit ReshootEdited By BCPS KINDLE FIRE #2
+Stage 2
+Lutzel, Mark (1)
+2022-09-16 00:58:13.393 - 2022-09-16 00:58:56.697Edited a few seconds after.Edited rawpts was: 40 now: 55
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+Added aprv: trueAdded details: [object Object]Added numAlphas: 13Added stringTime: 13.32Edited By BCPS KINDLE FIRE #2
+Front Sight
+Jackson, LaShaun (2)
+2022-09-16 01:53:59.683 - 2022-09-16 02:07:19.482Edited 13 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	3	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	2	0	0	0
+Edited str,1 was: 0 now: 4.88Edited str,0 was: 0 now: 6.85Removed Reason for Edit Moved to Shooter Jackson, AJ (O/Min)Added aprv: trueAdded rawpts: 38Added details: [object Object]Added numAlphas: 4Added numCharlies: 5Added numDeltas: 3Added stringTime: 11.73Edited By BCPS KINDLE FIRE #32022-09-16 01:53:09.349 - 2022-09-16 01:53:59.683Edited a minute after.Removed rawpts: 46Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	1	0	2	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,1 was: 2.94 now: 0Edited str,0 was: 3.77 now: 0Added Reason for Edit Moved to Shooter Jackson, AJ (O/Min)Edited By BCPS KINDLE FIRE #3
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

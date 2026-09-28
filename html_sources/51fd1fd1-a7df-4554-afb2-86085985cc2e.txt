@@ -1,0 +1,114 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly June 2 USPSA 2022-06-02Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Ray Fishel	100.00%	257.2838	42.86	95.29%	PCC	B		MINOR	A92443	33	21						
+2-Aj Jackson 3	84.06%	216.2784	46.02	80.10%	Open	B		MINOR	TY81745	35	16	2	1				
+3-Joseph Reyes	81.99%	210.9450	48.25	78.13%	PCC	B	Super Senior	MINOR	TY127665	36	16	1	1				
+4-Desmond Jackson	79.30%	204.0254	47.19	75.56%	Carry Optics	B		MINOR	TY89242	24	29	1					
+5-Blaine Newlin	76.31%	196.3348	61.86	72.72%	Single Stack	B	Foreign	MAJOR	TY103350	39	14	1					
+6-Kenedy Nguyen	76.29%	196.2751	43.11	72.69%	Open	C		MINOR	A83862	31	20	2	1		2		
+7-Christopher Boatcallie	73.65%	189.4942	62.16	70.18%	PCC	U		MINOR	A104118	36	18						
+8-Chuck Bradbury	65.12%	167.5530	67.21	62.06%	Open	U		MINOR		43	11						
+9-Mark Lutzel	61.86%	159.1606	56.35	58.95%	Carry Optics	C	Senior	MINOR	FY101009	34	18	1	1		1		
+10-Ronald Gillory jr.	60.61%	155.9319	59.61	57.75%	PCC	B		MINOR	TY83291	33	18	1	2				
+11-Thomas Black	54.26%	139.6036	65.86	51.71%	Limited	U	Law Enforcement	MINOR	A118333	41	12		1		2		
+12-John Del toro	45.81%	117.8623	95.80	43.65%	Single Stack	D	Super Senior	MAJOR	A107511	33	21						
+13-Jennifer Kleiber-boatcallie	41.52%	106.8282	97.90	39.57%	PCC	U	Lady	MINOR	A142192	33	19		2				
+14-Diarmaid Roche	36.69%	94.3903	77.44	34.96%	Limited	U		MINOR	A141990	37	13	2	2		3		
+15-Lisa Nguyen	26.85%	69.0923	76.81	25.59%	Open	D	Lady	MAJOR	A135827	30	13	4	7		4		
+16-Dan Brodt	17.68%	45.4750	61.59	16.84%	Limited	C		MINOR	A109102	17	28	2	7		4		
+17-Daniel Dinh	0.00%	0.0000		0.00%	Carry Optics	C		MINOR	A135920								
+18-Peter Hoang	0.00%	0.0000		0.00%	Carry Optics	U		MINOR									
+19-Pete Kirchner	0.00%	0.0000		0.00%	Carry Optics	A		MINOR	ty105743								
+Name
+1-Ray Fishel
+2-Aj Jackson 3
+3-Joseph Reyes
+4-Desmond Jackson
+5-Blaine Newlin
+6-Kenedy Nguyen
+7-Christopher Boatcallie
+8-Chuck Bradbury
+9-Mark Lutzel
+10-Ronald Gillory jr.
+11-Thomas Black
+12-John Del toro
+13-Jennifer Kleiber-boatcallie
+14-Diarmaid Roche
+15-Lisa Nguyen
+16-Dan Brodt
+17-Daniel Dinh
+18-Peter Hoang
+19-Pete Kirchner
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Jackson, Aj (1)
+2022-06-03 00:47:22.244 - 2022-06-03 00:47:53.367Edited a few seconds after.Edited rawpts was: 43 now: 45
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 7Added numCharlies: 3Added numDeltas: 1Added numM: 1Added stringTime: 16.1Edited By BCPS KINDLE FIRE #2
+Eye Of The Tiger
+Jackson, Aj (2)
+2022-06-03 01:36:32.507 - 2022-06-03 01:40:12.900Edited 4 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Edited str,0 was: 0 now: 4.32Removed Reason for Edit Moved to Shooter Jackson, Desmond (CO/Min)Added aprv: trueAdded rawpts: 18Added details: [object Object]Added numCharlies: 6Added stringTime: 4.32Edited By BCPS KINDLE FIRE #22022-06-03 01:35:43.967 - 2022-06-03 01:36:32.507Edited a minute after.Removed rawpts: 18Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 4.05 now: 0Added Reason for Edit Moved to Shooter Jackson, Desmond (CO/Min)Edited By BCPS KINDLE FIRE #2
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

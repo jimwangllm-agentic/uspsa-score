@@ -1,0 +1,293 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday November 14th USPSA 2021-11-14Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Cory Klemashevich	100.00%	645.0000	69.46	95.56%	PCC	G		MINOR	L5150	113	19	1	2				
+2-Cory Klemashevich	88.01%	567.6569	81.82	84.10%	Carry Optics	G		MINOR	L5150	110	22	3					
+3-Rudy Pineda	82.45%	531.8109	86.23	78.79%	Carry Optics	A		MINOR	A131323	110	24		1				
+4-Jim Havens	75.35%	486.0143	86.14	72.00%	Carry Optics	M		MINOR	TY114636	104	26	2	3		1		
+5-Chad Folger	75.34%	485.9352	92.10	71.99%	Limited	M		MAJOR	L3031	100	30	2	3		1		
+6-Sean Jennings	68.72%	443.2162	102.88	65.66%	Limited	B		MAJOR	A120450	82	47	6					
+7-Edwin Buchwalter	64.98%	419.1265	109.98	62.09%	PCC	C		MINOR		100	34	1					
+8-Joe Paetzold	64.30%	414.7198	117.03	61.44%	Carry Optics	C		MINOR		113	20	2					
+9-William Conlan	58.19%	375.3504	94.53	55.61%	Open	B		MINOR	A45421	89	34	6	6		3		
+10-Holdon Perez	57.03%	367.8180	124.11	54.49%	Production	U		MINOR	A87515	113	21	1			2		
+11-Will Toomey 2	56.07%	361.6430	111.00	53.58%	Carry Optics	C		MINOR	A134068	109	17	4	5			1	
+12-Taylor Latham	53.87%	347.4843	128.62	51.48%	Single Stack	B	Senior	MAJOR	TY39841	99	31	2	3				
+13-Jason Wilson 1	53.23%	343.3021	130.85	50.86%	Carry Optics	U		MINOR	a94696	111	23	1				5	
+14-Dale Fike 3	44.82%	289.0963	147.33	42.83%	Limited	U	Senior	MAJOR		97	30		8				
+15-Saunders Arnold	44.78%	288.8268	145.26	42.79%	Carry Optics	C		MINOR	A134823	90	41	3	1		1		
+16-Daniel Claybaugh	42.56%	274.5418	170.30	40.67%	Carry Optics	D		MINOR		113	21		1				
+17-audry Folger 4	35.66%	230.0382	158.40	34.08%	Limited	C	Lady	MAJOR	A125117	79	37	11	8				
+18-Jason Wilson	35.31%	227.7546	105.72	33.74%	Open	U		MINOR		85	15	3	7		2	2	
+19-Veronika Jordan	22.98%	148.2189	281.35	21.96%	Open	X	Lady	MINOR		98	30	5	2		4		
+20-Chris Salch 2	20.63%	133.0594	303.38	19.71%	Limited	U		MAJOR		86	37	8	4		2		
+21-Joseph Nguyen	15.66%	101.0392	273.26	14.97%	Production	U		MINOR	A137664	86	28	6	15		4	1	
+22-Scott Doucet 1	14.32%	92.3477	352.77	13.68%	Production	X		MINOR		92	22	7	14		5	3	
+23-Robert Grande 1	11.38%	73.3970	234.21	10.87%	Production	G		MINOR		59	44	7	25		2		
+Name
+1-Cory Klemashevich
+2-Cory Klemashevich
+3-Rudy Pineda
+4-Jim Havens
+5-Chad Folger
+6-Sean Jennings
+7-Edwin Buchwalter
+8-Joe Paetzold
+9-William Conlan
+10-Holdon Perez
+11-Will Toomey 2
+12-Taylor Latham
+13-Jason Wilson 1
+14-Dale Fike 3
+15-Saunders Arnold
+16-Daniel Claybaugh
+17-audry Folger 4
+18-Jason Wilson
+19-Veronika Jordan
+20-Chris Salch 2
+21-Joseph Nguyen
+22-Scott Doucet 1
+23-Robert Grande 1
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Diamond Cutter
+Doucet, Scott (1)
+2021-11-14 16:32:35.263 - 2021-11-14 16:35:06.913Edited 3 minutes after.Edited rawpts was: 21 now: 15Edited str,0 was: 0 now: 9.44
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	1	2	0
+Current	1	0	0	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	2	2	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	2	0	0	0
+Added aprv: trueAdded details: [object Object]Added numAlphas: 2Added numCharlies: 1Added numDeltas: 2Added numNS: 3Added numM: 3Added stringTime: 9.44Edited By Android Device
+Stage 4
+Salch, Chris (2)
+2021-11-14 15:37:26.630 - 2021-11-14 18:26:03.544Edited 3 hours after.Edited meta,0,t was: 2021-11-14 15:37:26.630 now: 2021-11-14 18:26:03.544Added details: [object Object]Added numAlphas: 24Added numCharlies: 6Added stringTime: 70.45Edited By Android Device2021-11-14 15:26:32.232 - 2021-11-14 15:37:26.630Edited 11 minutes after.Added Reason for Edit Stage editedEdited By Android Device
+Wilson, Jason (1)
+2021-11-14 17:24:06.616 - 2021-11-14 17:44:47.659Edited 21 minutes after.Edited rawpts was: 25 now: 121Edited str,0 was: 0 now: 26.95
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 28Added numCharlies: 2Added numProc: 5Added stringTime: 26.95Edited By Android Device
+Folger, audry (4)
+2021-11-14 18:35:02.237 - 2021-11-14 18:37:58.866Edited 3 minutes after.Edited popm was: 0 now: 2Edited poph was: 5 now: 3Edited rawpts was: 25 now: 94Edited str,0 was: 0 now: 31.21
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded aprv: trueAdded details: [object Object]Added numAlphas: 15Added numCharlies: 7Added numDeltas: 3Added numM: 5Added stringTime: 31.21Edited By Android Device2021-11-14 18:26:03.544 - 2021-11-14 18:35:02.237Edited 9 minutes after.Edited rawpts was: 105 now: 25Edited str,0 was: 35.12 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited meta,0,v was: Stage edited now: ReshootEdited meta,0,t was: 2021-11-14 18:26:03.544 now: 2021-11-14 18:35:02.241Removed aprv: trueEdited By Android Device2021-11-14 15:37:26.629 - 2021-11-14 18:26:03.544Edited 3 hours after.Edited meta,0,t was: 2021-11-14 15:37:26.629 now: 2021-11-14 18:26:03.544Edited By Android Device2021-11-14 15:31:45.584 - 2021-11-14 15:37:26.629Edited 6 minutes after.Added Reason for Edit Stage editedEdited By Android Device
+Grande, Robert (1)
+2021-11-14 18:44:32.256 - 2021-11-14 18:44:55.922Edited a few seconds after.Edited popm was: 0 now: 3Edited poph was: 5 now: 2Edited rawpts was: 70 now: 55Added details: [object Object]Added numAlphas: 8Added numCharlies: 7Added numDeltas: 4Added numM: 11Added stringTime: 39Edited By Android Device
+Fike, Dale (3)
+2021-11-14 15:37:26.629 - 2021-11-14 18:26:03.544Edited 3 hours after.Edited meta,0,t was: 2021-11-14 15:37:26.629 now: 2021-11-14 18:26:03.543Added details: [object Object]Added numAlphas: 27Added numCharlies: 3Added stringTime: 26.76Edited By Android Device2021-11-14 15:29:42.422 - 2021-11-14 15:37:26.629Edited 8 minutes after.Added Reason for Edit Stage editedEdited By Android Device2021-11-14 15:28:57.048 - 2021-11-14 15:29:42.422Edited a minute after.Edited rawpts was: 119 now: 122
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	2	0	0	0	0	0	0
+Edited By Android Device
+Stage 7
+Toomey, Will (2)
+2021-11-14 17:34:20.261 - 2021-11-14 17:46:59.956Edited 13 minutes after.Edited str,0 was: 0 now: 18.37
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Paetzold, Joe (CO/Min)Added proc: 1Added rawpts: 98Added aprv: trueAdded details: [object Object]Added numAlphas: 17Added numCharlies: 4Added numDeltas: 1Added numM: 2Added numProc: 1Added stringTime: 18.37Edited By Android Device2021-11-14 17:33:54.573 - 2021-11-14 17:34:20.261Edited a few seconds after.Removed rawpts: 108Edited str,0 was: 18.86 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Paetzold, Joe (CO/Min)Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

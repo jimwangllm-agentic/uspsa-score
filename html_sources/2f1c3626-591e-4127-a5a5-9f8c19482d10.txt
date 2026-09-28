@@ -1,0 +1,213 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Aug 11 USPSA 2022-08-11Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Mark Hopmann	100.00%	306.0207	82.88	85.01%	PCC	C	Super Senior	MINOR	TY134553	62	9	1					
+2-Kenedy Nguyen	99.87%	305.6155	67.58	84.89%	Open	C		MAJOR	A83862	43	22	5	2		1		
+3-Blaine Newlin 4	90.23%	276.1174	73.41	76.70%	PCC	C	Foreign	MINOR	A103350	52	16	2	2		1		
+4-Desmond Jackson	87.84%	268.8011	76.11	74.67%	Carry Optics	B		MINOR	TY89242	49	20	1	2				
+5-Robert Gatewood	85.51%	261.6808	71.40	72.69%	Open	U	Military	MINOR	A118214	49	18	1	4				
+6-Aj Jackson	83.67%	256.0584	73.70	71.13%	Open	B		MINOR	TY81745	54	13	1	4			1	
+7-Mark Lutzel	72.09%	220.6093	84.27	61.28%	Carry Optics	C	Super Senior	MINOR	FY101009	47	20	1	4				
+8-Ray Fishel	69.12%	211.5330	68.34	58.76%	PCC	B		MINOR	A92443	37	28	1	6				
+9-Ronald Gillory jr.	67.24%	205.7556	113.15	57.15%	PCC	B		MINOR	TY83291	55	15		2				
+10-Joseph Reyes 1	63.26%	193.5897	69.41	53.77%	PCC	B	Super Senior	MINOR	TY127665	48	16		8			2	
+11-Aaron Gillory	59.42%	181.8517	75.23	50.51%	Carry Optics	U	Law Enforcement	MINOR		49	20		3			12	
+12-Don Same	51.97%	159.0396	102.71	44.18%	Carry Optics	C	Super Senior	MINOR	TY105098	40	26	1	5				
+13-Lisa Nguyen 1	50.08%	153.2535	111.27	42.57%	Open	D	Lady	MAJOR	A135827	39	25	5	3		4		
+14-Samuel Bharksuwan	46.52%	142.3480	79.12	39.54%	Carry Optics	B	Senior	MINOR	B51	33	16	2	3				
+15-David Hruzek 1	43.90%	134.3393	89.35	37.32%	Carry Optics	C	Senior	MINOR	A100909	45	14	3	10			1	
+16-Charles Bradbury 1	36.17%	110.6749	79.93	30.74%	PCC	C		MINOR	A107489	40	22	1	9		1	10	
+17-Hugh Fullerton	19.64%	60.1152	60.17	16.70%	Limited	C		MAJOR		21	7	1	7			3	
+Name
+1-Mark Hopmann
+2-Kenedy Nguyen
+3-Blaine Newlin 4
+4-Desmond Jackson
+5-Robert Gatewood
+6-Aj Jackson
+7-Mark Lutzel
+8-Ray Fishel
+9-Ronald Gillory jr.
+10-Joseph Reyes 1
+11-Aaron Gillory
+12-Don Same
+13-Lisa Nguyen 1
+14-Samuel Bharksuwan
+15-David Hruzek 1
+16-Charles Bradbury 1
+17-Hugh Fullerton
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+STAGE 1
+Bradbury, Charles (1)
+2022-08-12 00:58:30.788 - 2022-08-12 01:00:08.926Edited 2 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	0	0	1	1	0
+Added details: [object Object]Added numAlphas: 7Added numCharlies: 7Added numNS: 1Added numM: 4Added stringTime: 16.96Edited By BCPS KINDLE FIRE #2
+Newlin, Blaine (4)
+2022-08-12 00:34:32.127 - 2022-08-12 00:36:36.710Edited 2 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 0 now: 13.88Removed Reason for Edit ReshootAdded aprv: trueAdded rawpts: 76Added details: [object Object]Added numAlphas: 12Added numCharlies: 5Added numDeltas: 1Added stringTime: 13.88Edited By BCPS KINDLE FIRE #42022-08-12 00:17:12.928 - 2022-08-12 00:34:32.127Edited 17 minutes after.Removed rawpts: 82Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 15.57 now: 0Added Reason for Edit ReshootEdited By BCPS KINDLE FIRE #42022-08-12 00:14:45.708 - 2022-08-12 00:17:12.928Edited 2 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited str,0 was: 0 now: 15.57Removed Reason for Edit ReshootAdded rawpts: 82Added aprv: trueEdited By BCPS KINDLE FIRE #42022-08-12 00:12:20.101 - 2022-08-12 00:14:45.708Edited 2 minutes after.Removed rawpts: 72Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 12.08 now: 0Added Reason for Edit ReshootEdited By BCPS KINDLE FIRE #4
+STAGE 2
+Nguyen, Lisa (1)
+2022-08-12 00:49:09.006 - 2022-08-12 00:49:50.870Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	1	0	1	0	0
+Added details: [object Object]Added numAlphas: 12Added numCharlies: 5Added numDeltas: 1Added numNS: 1Added stringTime: 28.89Edited By BCPS KINDLE FIRE #4
+STAGE 4
+Hruzek, David (1)
+2022-08-12 01:35:19.098 - 2022-08-12 01:37:18.292Edited 2 minutes after.Added proc: 1Added details: [object Object]Added numAlphas: 12Added numCharlies: 4Added numM: 2Added numProc: 1Added stringTime: 17.21Edited By BCPS KINDLE FIRE #4
+Reyes, Joseph (1)
+2022-08-12 01:28:26.076 - 2022-08-12 01:37:42.427Edited 9 minutes after.Added proc: 1Added details: [object Object]Added numAlphas: 12Added numCharlies: 3Added numM: 3Added numProc: 1Added stringTime: 13.86Edited By BCPS KINDLE FIRE #4
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

@@ -1,0 +1,122 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Sep 22 USPSA 2022-09-22Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Desmond Jackson	100.00%	310.7224	56.31	97.10%	Carry Optics	B		MINOR	TY89242	43	21						
+2-Joseph Reyes	91.38%	283.9458	65.99	88.73%	PCC	B	Super Senior	MINOR	TY127665	52	12						
+3-Ray Fishel 2	84.79%	263.4491	58.88	82.33%	PCC	B	Senior	MINOR	A92443	37	25	1	1		1		
+4-Robert Gatewood	78.79%	244.8266	67.54	76.51%	Open	U	Military	MINOR	A118214	41	20	2	1				
+5-Mark Lutzel	75.67%	235.1267	72.43	73.48%	Carry Optics	C	Super Senior	MINOR	FY101009	52	10		2				
+6-Don Same 2	64.39%	200.0743	94.63	62.52%	PCC	C	Super Senior	MINOR	TY105098	45	18	1					
+7-Ronald Gillory Jr.	64.33%	199.8966	87.76	62.47%	PCC	B		MINOR	TY83291	46	17		1				
+8-Blaine Newlin	55.78%	173.3212	69.93	54.16%	Limited 10	B	Foreign	MINOR	A103350	42	16	1	5		1		
+9-Charles Bradbury	51.28%	159.3275	81.80	49.79%	Carry Optics	U		MINOR	A107489	36	24	2	2		1	2	
+10-Cameron Bayne	49.25%	153.0348	80.70	47.82%	Carry Optics	U		MINOR	A140685	41	15	3	5		4		
+11-John Del Toro	37.39%	116.1743	136.07	36.30%	Limited 10	C	Super Senior	MINOR	A107511	44	15	3	2				
+12-Ian Melchior 2	25.46%	79.1198	72.57	24.72%	Carry Optics	U		MINOR	A144892	29	24	2	9		6	2	
+Name
+1-Desmond Jackson
+2-Joseph Reyes
+3-Ray Fishel 2
+4-Robert Gatewood
+5-Mark Lutzel
+6-Don Same 2
+7-Ronald Gillory Jr.
+8-Blaine Newlin
+9-Charles Bradbury
+10-Cameron Bayne
+11-John Del Toro
+12-Ian Melchior 2
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+STAGE 1 - CLOSING IN
+Fishel, Ray (2)
+2022-09-23 00:37:47.327 - 2022-09-23 00:37:59.320Edited a few seconds after.Edited rawpts was: 68 now: 78
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Stage editedAdded aprv: trueAdded details: [object Object]Added numAlphas: 12Added numCharlies: 6Added stringTime: 22.9Edited By BCPS KINDLE FIRE #22022-09-23 00:37:27.724 - 2022-09-23 00:37:47.327Edited a few seconds after.Added Reason for Edit Stage editedEdited By BCPS KINDLE FIRE #2
+Oh No
+Melchior, Ian (2)
+2022-09-23 01:43:19.656 - 2022-09-23 01:52:15.707Edited 9 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	2	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	2	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	2	1	0
+Edited str,1 was: 0 now: 5.04Edited str,0 was: 0 now: 5.41Removed Reason for Edit Moved to Shooter Gatewood, Robert (O/Min/M)Added aprv: trueAdded rawpts: 37Added details: [object Object]Added numAlphas: 6Added numCharlies: 2Added numDeltas: 1Added numNS: 4Added numM: 3Added stringTime: 10.45Edited By BCPS KINDLE FIRE #32022-09-23 01:42:38.096 - 2022-09-23 01:43:19.656Edited a few seconds after.Removed rawpts: 52Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	1	0	3	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,1 was: 4.84 now: 0Edited str,0 was: 6.15 now: 0Added Reason for Edit Moved to Shooter Gatewood, Robert (O/Min/M)Edited By BCPS KINDLE FIRE #3
+Same, Don (2)
+2022-09-23 02:06:20.233 - 2022-09-23 02:15:59.447Edited 10 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+Edited str,1 was: 0 now: 4.93Edited str,0 was: 0 now: 5.35Removed Reason for Edit Moved to Shooter Del Toro, John (L10/Min/SS)Added aprv: trueAdded rawpts: 58Added details: [object Object]Added numAlphas: 11Added numCharlies: 1Added stringTime: 10.28Edited By BCPS KINDLE FIRE #22022-09-23 02:05:43.351 - 2022-09-23 02:06:20.233Edited a few seconds after.Removed rawpts: 50Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	2	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,1 was: 7.85 now: 0Edited str,0 was: 7.11 now: 0Added Reason for Edit Moved to Shooter Del Toro, John (L10/Min/SS)Edited By BCPS KINDLE FIRE #2
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

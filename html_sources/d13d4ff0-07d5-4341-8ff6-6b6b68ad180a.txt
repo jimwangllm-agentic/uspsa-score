@@ -1,0 +1,319 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros 2016-05-15 USPSA USPSA/IPSC 2016-05-15
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	P
+1-Gerrit Milks	100.00%	483.2645	99.34	78.58%	Open			MAJOR		95	15	5	2			
+2-Richard Patzen 1	97.86%	472.9339	99.23	76.90%	Single Stack	U		MINOR	A53303	109	9	1	4			
+3-Robert Franks 1	97.64%	471.8406	100.28	76.72%	Single Stack	A		MAJOR	L3464	96	22	1	2		2	1
+4-Tommy Teas	96.26%	465.1908	109.28	75.64%	Single Stack	B	Senior	MAJOR	TY2227	95	22	4			1	
+5-Charles Thomason 1	94.05%	454.5256	117.30	73.91%	Single Stack	U	Super Senior	MAJOR	A10536	105	10	4	1			
+6-Daniel Reetz	84.52%	408.4544	101.50	66.42%	Limited	U		MINOR		100	16	2	5		2	
+7-Tom Echols	77.13%	372.7288	126.99	60.61%	Production	C		MINOR	A87414	108	12		3		1	
+8-Eric Mccampbell	76.16%	368.0306	112.85	59.84%	Limited	U		MINOR	A14332	97	15	6	5			
+9-Nick Milks	70.89%	342.6016	111.18	55.71%	Limited			MINOR		86	21	7	5		2	
+10-Jason Wilson	69.44%	335.5840	144.89	54.57%	Revolver	U		MINOR	A94696	110	9	2	2			
+11-Khris Wright 1	68.21%	329.6296	117.90	53.60%	Open	B	Senior	MAJOR	TY38170	90	17	3	11		2	
+12-Greg Thoede 2	66.10%	319.4524	112.98	51.94%	Limited	B	Senior	MAJOR	fy16969	84	22	6	7		5	
+13-Michael Kellett 2	59.07%	285.4827	119.20	46.42%	Limited	C		MINOR		92	15	9	7		4	
+14-Daniel DuBuisson	56.21%	271.6421	179.01	44.17%	Carry Optics	D		MINOR	L3935	102	17		2		2	
+15-GARY BRISCO	53.54%	258.7481	177.73	42.07%	Carry Optics	D	Senior	MINOR	TY73704	92	21	9	1			
+16-Hunter George	51.32%	248.0047	128.57	40.33%	Limited			MINOR		93	15	4	10		2	
+17-Alex Tran	51.06%	246.7308	166.40	40.12%	Limited			MINOR	A87378	104	10	1	5		1	2
+18-James Hunter 1	33.02%	159.5929	218.38	25.95%	Open	U	Super Senior	MINOR		91	17	2	11			
+19-Mary DuBuisson	30.89%	149.2838	300.28	24.27%	Limited	U	Lady	MINOR		105	11	1	5			
+20-kevin baker 2	23.01%	111.2160	152.67	18.08%	Production	U		MINOR	A95439	76	15	12	19		4	3
+21-Chris Salch	22.73%	109.8293	221.78	17.86%	Limited	U		MAJOR	512-730-0916	86	18	4	15		8	6
+22-James Johnson 1	21.32%	103.0467	239.60	16.76%	Single Stack			MAJOR		88	12	6	16		4	2
+Name
+1-Gerrit Milks
+2-Richard Patzen 1
+3-Robert Franks 1
+4-Tommy Teas
+5-Charles Thomason 1
+6-Daniel Reetz
+7-Tom Echols
+8-Eric Mccampbell
+9-Nick Milks
+10-Jason Wilson
+11-Khris Wright 1
+12-Greg Thoede 2
+13-Michael Kellett 2
+14-Daniel DuBuisson
+15-GARY BRISCO
+16-Hunter George
+17-Alex Tran
+18-James Hunter 1
+19-Mary DuBuisson
+20-kevin baker 2
+21-Chris Salch
+22-James Johnson 1
+Old style results
+
+Score Edit History
+Get To The Trailer
+Thoede, Greg (1)
+2016-05-15 14:32:57.316 - 2016-05-15 15:39:12.829Edited an hour after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	1	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	1	1	0
+Current	0	0	2	0	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	1	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	1	0	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	1	1	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	1	1	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	1	1	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 93 now: 92Edited str,0 was: 26.09 now: 24.38Added details: [object Object]Added numAlphas: 8Added numBravos: 1Added numCharlies: 10Added numDeltas: 4Added numNS: 3Added numM: 1Added stringTime: 24.38Edited By Android Device
+Kellett, Michael (2)
+2016-05-15 14:37:00.830 - 2016-05-15 15:42:19.721Edited an hour after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 29.11 now: 21.19Added rawpts: 98Added details: [object Object]Added numAlphas: 17Added numCharlies: 3Added numDeltas: 4Added stringTime: 21.19Edited By Android Device2016-05-15 14:26:28.713 - 2016-05-15 14:37:00.830Edited 11 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	1	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	1	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	1	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed rawpts: 103Edited By Android Device
+baker, kevin (1)
+2016-05-15 14:30:15.102 - 2016-05-15 14:31:53.538Edited 2 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added rawpts: 60Added details: [object Object]Added numAlphas: 7Added numCharlies: 6Added numDeltas: 7Added numM: 4Added stringTime: 30.41Edited By Android Device
+Patzen, Richard (1)
+2016-05-15 15:51:50.437 - 2016-05-15 15:57:18.729Edited 5 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 103 now: 105Edited str,0 was: 42.86 now: 22.62Added details: [object Object]Added numAlphas: 18Added numCharlies: 5Added numM: 1Added stringTime: 22.62Edited By Android Device
+Johnson, James (1)
+2016-05-15 14:55:28.633 - 2016-05-15 14:55:54.061Edited a few seconds after.Added proc: 1Added details: [object Object]Added numAlphas: 11Added numCharlies: 4Added numDeltas: 3Added numNS: 1Added numM: 6Added numProc: 1Added stringTime: 38.1Edited By Android Device
+Listen here
+Hunter, James (1)
+2016-05-15 17:09:07.263 - 2016-05-15 17:09:58.623Edited a minute after.Edited popm was: 0 now: 1Edited rawpts was: 121 now: 116Edited poph was: 13 now: 12Added details: [object Object]Added numAlphas: 34Added numCharlies: 2Added numM: 2Added stringTime: 53.9Edited By Android Device
+Thoede, Greg (1)
+2016-05-15 16:57:45.073 - 2016-05-15 16:58:56.004Edited a minute after.Edited popm was: 0 now: 2Edited rawpts was: 125 now: 115Edited poph was: 13 now: 11Added popns: 2Added details: [object Object]Added numAlphas: 34Added numNS: 4Added numM: 4Added stringTime: 24.46Edited By Android Device
+Wright, Khris (1)
+2016-05-15 15:09:40.627 - 2016-05-15 15:47:53.173Edited 38 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Edited rawpts was: 122 now: 118Edited str,0 was: 23.06 now: 42.57Added details: [object Object]Added numAlphas: 35Added numBravos: 1Added numCharlies: 1Added numM: 1Added stringTime: 42.57Edited By Android Device
+Listing Lazily To The Left
+baker, kevin (1)
+2016-05-15 14:29:27.589 - 2016-05-15 16:50:27.616Edited 2 hours after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	1	0	0	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	1	1	0	0	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	1	0	0	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	1	0	1	0	0	0	0
+Edited rawpts was: 60 now: 96Edited str,0 was: 30.41 now: 20.45Added details: [object Object]Added numAlphas: 15Added numBravos: 1Added numCharlies: 5Added numDeltas: 3Added numNS: 4Added numM: 6Added stringTime: 20.45Edited By Android Device
+Thomason, Charles (1)
+2016-05-15 14:44:33.052 - 2016-05-15 23:05:06.596Edited 8 hours after.Edited str,0 was: 7.41 now: 17.41Edited dname was: Android Device now: MaryIpad3Edited udid was: 1c45348f-9135-4ede-ad51-eb680c163c7c now: 07d88935e11e4d41bbee87258a4496c5Added details: [object Object]Added numAlphas: 26Added numCharlies: 4Added stringTime: 17.41Edited By Android Device
+Can You Count
+Franks, Robert (1)
+2016-05-15 15:22:31.711 - 2016-05-15 15:23:56.991Edited a minute after.Added proc: 1Added details: [object Object]Added numAlphas: 18Added numBravos: 2Added numProc: 1Added stringTime: 8.39Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

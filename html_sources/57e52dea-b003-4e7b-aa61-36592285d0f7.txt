@@ -1,0 +1,227 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday June 13th USPSA 2021-06-13Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Albert Montanez	100.00%	583.0405	78.76	91.82%	Open	M		MAJOR	TY101554	104	20	3					
+2-Cory Klemashevich	95.93%	559.2903	68.54	88.08%	PCC	G		MINOR	A87214	98	22	3	4		1		
+3-Cory Klemashevich	90.85%	529.6874	79.67	83.42%	Carry Optics	M		MINOR	A87214	93	30	4					
+4-Ryan Alicaya	82.25%	479.5243	91.92	75.52%	Open	D		MAJOR		99	25	2	1		1		
+5-William Conlan	72.20%	420.9836	93.88	66.30%	PCC	A		MINOR		98	22	4	3		1		
+6-Bryan Faustino	71.13%	414.7078	105.96	65.31%	PCC	D		MINOR		101	24	2				2	
+7-AJ Jackson	68.27%	398.0343	102.10	62.68%	PCC	A		MINOR	A81745	86	33	7	1				
+8-Josh Rizzo	61.77%	360.1477	126.71	56.72%	Open	U		MAJOR		104	17	6					
+9-John Austria	56.33%	328.4044	130.17	51.72%	Carry Optics	B		MINOR		88	32	6	1		1		
+10-Danny Dubuisson 2	54.38%	317.0707	146.37	49.93%	Carry Optics	C	Senior	MINOR	L3935	114	12	1			1		
+11-Will Toomey	53.01%	309.0798	132.29	48.67%	Carry Optics	U		MINOR	A134068	101	20	3	3		1	1	
+12-Joe Paetzold 2	52.13%	303.9658	137.62	47.87%	Carry Optics	X		MINOR		110	11	4	2		2		
+13-Taylor Latham	50.70%	295.5825	138.56	46.55%	Single Stack	B	Senior	MAJOR	TY39841	95	26	2	4			1	
+14-Jason Wilson	47.99%	279.8112	141.07	44.06%	Limited	U		MAJOR		89	29	3	6			2	
+15-Robert Taylor	44.84%	261.4573	124.08	41.17%	Open	U		MINOR	A131290	105	9	5	8		5		
+16-Saunders Arnold	43.08%	251.1488	156.49	39.55%	Carry Optics	U		MINOR	A134823	93	29	3	2		2		
+17-Sophia Parafina 3	40.42%	235.6522	171.82	37.11%	Carry Optics	C	Lady, Senior	MINOR	TY79642	93	30	1	3		1		
+18-Matthew Michna	35.62%	207.7010	173.35	32.71%	Limited	D	Junior	MINOR	A128405	81	30	11	5		3		
+19-Mickey Gallaway	34.08%	198.6877	194.58	31.29%	Limited	B	Super Senior	MINOR		90	30	4	3		2		
+20-Dale Hamm 2	29.03%	169.2470	255.83	26.65%	Single Stack	C	Senior	MAJOR	TY97196	81	28	14	4		1		
+21-Cory Klemashevich	9.62%	56.0667	4.55	8.83%	Limited 10	M		MINOR	A87214	12							
+Name
+1-Albert Montanez
+2-Cory Klemashevich
+3-Cory Klemashevich
+4-Ryan Alicaya
+5-William Conlan
+6-Bryan Faustino
+7-AJ Jackson
+8-Josh Rizzo
+9-John Austria
+10-Danny Dubuisson 2
+11-Will Toomey
+12-Joe Paetzold 2
+13-Taylor Latham
+14-Jason Wilson
+15-Robert Taylor
+16-Saunders Arnold
+17-Sophia Parafina 3
+18-Matthew Michna
+19-Mickey Gallaway
+20-Dale Hamm 2
+21-Cory Klemashevich
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Parafina, Sophia (1)
+2021-06-13 15:51:11.771 - 2021-06-13 15:52:06.024Edited a minute after.Edited rawpts was: 70 now: 72
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 21Added numCharlies: 4Added numM: 1Added stringTime: 30.85Edited By Android Device
+Front Sight
+Parafina, Sophia (2)
+2021-06-13 16:18:54.309 - 2021-06-13 16:20:25.943Edited 2 minutes after.Edited str,1 was: 0 now: 3.72Edited str,0 was: 0 now: 4.34
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	2	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 50Added aprv: trueAdded details: [object Object]Added numAlphas: 8Added numCharlies: 3Added numDeltas: 1Added stringTime: 8.06Edited By Android Device2021-06-13 16:08:07.128 - 2021-06-13 16:18:54.309Edited 11 minutes after.Removed rawpts: 54Edited str,1 was: 4.32 now: 0Edited str,0 was: 4.9 now: 0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Android Device
+Hamm, Dale (2)
+2021-06-13 16:17:06.583 - 2021-06-13 16:18:42.323Edited 2 minutes after.Edited str,1 was: 0 now: 4.57Edited str,0 was: 0 now: 4.68
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	2	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	1	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 48Added aprv: trueAdded details: [object Object]Added numAlphas: 6Added numCharlies: 3Added numDeltas: 3Added stringTime: 9.25Edited By Android Device2021-06-13 16:06:27.233 - 2021-06-13 16:17:06.583Edited 11 minutes after.Removed rawpts: 29Edited str,1 was: 4.25 now: 0Edited str,0 was: 4.75 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	2	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	1	0	1	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Android Device
+Paetzold, Joe (2)
+2021-06-13 16:20:47.653 - 2021-06-13 16:22:06.170Edited a minute after.Edited str,1 was: 0 now: 3.19Edited str,0 was: 0 now: 3.56
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 56Added aprv: trueAdded details: [object Object]Added numAlphas: 11Added numDeltas: 1Added stringTime: 6.75Edited By Android Device2021-06-13 16:09:53.402 - 2021-06-13 16:20:47.653Edited 11 minutes after.Removed rawpts: 54Edited str,1 was: 3.29 now: 0Edited str,0 was: 3.55 now: 0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Android Device
+Stage 6
+Dubuisson, Danny (2)
+2021-06-13 15:17:16.281 - 2021-06-13 15:20:31.116Edited 3 minutes after.Edited rawpts was: 20 now: 116Edited str,0 was: 0 now: 27.5
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Latham, Taylor (SS/Maj)Added aprv: trueAdded details: [object Object]Added numAlphas: 26Added numCharlies: 2Added numNS: 1Added stringTime: 27.5Edited By Android Device2021-06-13 15:16:57.641 - 2021-06-13 15:17:16.281Edited a few seconds after.Removed proc: 1Edited rawpts was: 98 now: 20Edited str,0 was: 25.75 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Latham, Taylor (SS/Maj)Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

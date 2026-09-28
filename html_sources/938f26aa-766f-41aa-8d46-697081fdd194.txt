@@ -1,0 +1,189 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday April 10th USPSA 2022-04-10Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Cory Klemashevich	100.00%	686.3533	69.11	95.99%	PCC	G		MINOR	L5150	101	38	4			1		
+2-Larry Thomas	82.28%	564.7421	84.40	78.98%	PCC	B		MINOR	A115204	96	40	7					
+3-Cory Klemashevich	68.23%	468.2953	97.45	65.50%	Carry Optics	G		MINOR	L5150	91	42	8	2		1		
+4-William Conlan	62.07%	426.0113	90.13	59.58%	PCC	B	Super Senior, Foreign	MINOR	A45421	71	54	14	4				
+5-Jason Wilson	57.63%	395.5763	116.68	55.33%	Limited	M		MAJOR		100	34	5	4		3		
+6-Ian Johnston	57.51%	394.7435	87.42	55.21%	Carry Optics	B		MINOR	A135959	84	37	13	9				
+7-Charles Davis 1	55.81%	383.0502	122.94	53.57%	Limited	B	Senior	MAJOR		92	43	4	4				
+8-Andrew Nurcahya 1	55.40%	380.2630	111.86	53.18%	Open	U		MINOR		97	39	5	2		2	2	
+9-Clinton Shawhan	51.31%	352.1396	118.62	49.25%	Limited	U		MAJOR	A106964	72	56	8	7				
+10-Guanwu Li 1	51.04%	350.3231	132.47	49.00%	Carry Optics	U		MINOR		101	39	2	1			2	
+11-Eric Mccampbell	47.56%	326.4041	142.01	45.65%	Single Stack	C	Senior	MAJOR	A14332	82	49	8	4				
+12-Jimmy Durham	46.22%	317.2123	153.13	44.37%	Open	C		MAJOR	TY135611	89	47	4	3				
+13-Tommy Teas	44.37%	304.5302	133.82	42.59%	Carry Optics	U	Senior	MINOR	FY2227	82	51	7	3		1	2	
+14-Joe Paetzold 1	44.29%	303.9527	100.66	42.51%	Carry Optics	C		MINOR		84	42	6	11		2	3	
+15-Tom Eudy	41.41%	284.2120	154.92	39.75%	Limited	B	Super Senior	MINOR	TY39448	85	50	4	4				
+16-Cody Pratt 1	40.98%	281.2845	147.81	39.34%	PCC	U		MINOR		94	39	6	4		3		
+17-Saunders Arnold 1	36.08%	247.6630	147.12	34.64%	Carry Optics	C		MINOR	A134823	77	44	17	5		3	2	
+18-Gary Brisco	36.04%	247.3396	179.55	34.59%	Open	U	Super Senior	MINOR	FY73704	99	28	14	2		1		
+19-Charles Anderson 3	35.29%	242.2027	181.20	33.87%	Limited	U		MINOR		96	41	4	2		2		
+20-Ozge Cumberland	31.09%	213.4171	167.12	29.85%	Carry Optics	D	Lady	MINOR		92	34	9	8		2		
+21-Joshua Lawrence	28.89%	198.3066	211.00	27.74%	Limited	X		MINOR		97	32	8	6				
+22-Christopher Ham	28.76%	197.3636	158.85	27.60%	Limited	C		MINOR	A135936	67	48	22	6		4		
+23-Rodwick Gates	28.55%	195.9447	194.73	27.40%	Limited	D		MINOR	A135944	89	39	10	5		4		
+24-matt baum	28.43%	195.1301	198.51	27.29%	Limited	U		MINOR	A141110	72	43	19	9		2		
+25-Daniel Claybaugh	26.69%	183.1774	211.77	25.62%	Limited	D		MINOR		88	38	10	7		1		
+26-Kevin Baker	26.59%	182.5152	147.10	25.53%	Production	B		MINOR	A95439	77	40	8	18			2	
+27-Dale Hamm	22.50%	154.4625	221.10	21.60%	Single Stack	C	Senior	MAJOR	TY97196	74	40	18	11		6		
+28-Danielle Dysart	8.81%	60.4522	302.36	8.45%	Limited	U	Lady	MINOR	A137402	69	36	14	24		5		
+29-Cory Klemashevich	2.85%	19.5491	3.75	2.73%	Revolver	X		MINOR	L5150	3	3						
+Name
+1-Cory Klemashevich
+2-Larry Thomas
+3-Cory Klemashevich
+4-William Conlan
+5-Jason Wilson
+6-Ian Johnston
+7-Charles Davis 1
+8-Andrew Nurcahya 1
+9-Clinton Shawhan
+10-Guanwu Li 1
+11-Eric Mccampbell
+12-Jimmy Durham
+13-Tommy Teas
+14-Joe Paetzold 1
+15-Tom Eudy
+16-Cody Pratt 1
+17-Saunders Arnold 1
+18-Gary Brisco
+19-Charles Anderson 3
+20-Ozge Cumberland
+21-Joshua Lawrence
+22-Christopher Ham
+23-Rodwick Gates
+24-matt baum
+25-Daniel Claybaugh
+26-Kevin Baker
+27-Dale Hamm
+28-Danielle Dysart
+29-Cory Klemashevich
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Eye Of The Tiger
+Davis, Charles (1)
+2022-04-10 16:47:56.482 - 2022-04-10 16:49:15.207Edited a minute after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Added rawpts: 25Added aprv: trueAdded details: [object Object]Added numAlphas: 1Added numCharlies: 5Added stringTime: 5.01Edited By Android Device
+Arnold, Saunders (1)
+2022-04-10 16:50:57.806 - 2022-04-10 16:52:33.904Edited 2 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added rawpts: 18Added aprv: trueAdded details: [object Object]Added numAlphas: 3Added numCharlies: 1Added numNS: 2Added numM: 2Added numProc: 1Added stringTime: 5.96Edited By Android Device
+Nurcahya, Andrew (1)
+2022-04-10 16:58:27.903 - 2022-04-10 17:01:01.723Edited 3 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added rawpts: 24Added aprv: trueAdded details: [object Object]Added numAlphas: 3Added numCharlies: 3Added numProc: 2Added stringTime: 3.9Edited By Android Device
+Paetzold, Joe (1)
+2022-04-10 16:56:12.317 - 2022-04-10 16:57:09.941Edited a minute after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added rawpts: 20Added details: [object Object]Added numAlphas: 1Added numCharlies: 5Added stringTime: 3.74Edited By Android Device
+Anderson, Charles (3)
+2022-04-10 16:41:26.765 - 2022-04-10 16:42:33.386Edited a minute after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added rawpts: 19Added aprv: trueAdded details: [object Object]Added numAlphas: 2Added numCharlies: 3Added numNS: 1Added numM: 1Added stringTime: 6.27Edited By Android Device2022-04-10 16:36:53.103 - 2022-04-10 16:41:26.765Edited 5 minutes after.Edited str,0 was: 0 now: 6.27Edited By Android Device2022-04-10 16:32:31.746 - 2022-04-10 16:36:53.103Edited 4 minutes after.Edited str,0 was: 7.21 now: 0Edited By Android Device
+Pratt, Cody (1)
+2022-04-10 16:45:19.898 - 2022-04-10 16:46:57.004Edited 2 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Added rawpts: 18Added aprv: trueAdded details: [object Object]Added numCharlies: 6Added stringTime: 4.91Edited By Android Device
+Li, Guanwu (1)
+2022-04-10 16:38:10.853 - 2022-04-10 16:40:07.842Edited 2 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added proc: 2Added rawpts: 24Added aprv: trueAdded details: [object Object]Added numAlphas: 3Added numCharlies: 3Added numProc: 2Added stringTime: 4.75Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

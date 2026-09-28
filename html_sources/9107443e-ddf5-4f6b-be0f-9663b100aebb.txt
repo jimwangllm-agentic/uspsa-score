@@ -1,0 +1,184 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA- SUNDAY June 14th USPSA 2026-06-14Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Cory Klemashevich	100.00%	705.0000	88.68	100.00%	PCC	GM		MINOR	L5150	115	25	1					
+2-Cory Klemashevich	81.60%	575.2799	96.30	81.60%	Carry Optics	GM		MINOR	L5150	108	24	5	4				
+3-Mack McLaughlin	76.31%	537.9653	107.64	76.31%	Limited Optics	A		MINOR	L4211	101	37	3			2		
+4-Zach Smith	74.43%	524.7391	106.30	74.43%	Carry Optics	A	Military	MINOR	A152801	102	34	2	3		2		
+5-Travis Ritter	72.14%	508.5538	106.35	72.14%	PCC	B		MINOR	L6508	103	34	1	3		1	1	
+6-Thomas Rodriguez	64.61%	455.5104	126.17	64.61%	Open	M		MAJOR	A59184	85	53	3			3	4	
+7-Ethan House 2	62.29%	439.1215	135.91	62.29%	Carry Optics	U	Military	MINOR	A181493	113	23	4	1		1		
+8-Joshua Blume 1	59.85%	421.9311	135.11	59.85%	Carry Optics	A		MINOR	A148746	100	36	5			3		
+9-Joe Paetzold	59.46%	419.2187	121.32	59.46%	Carry Optics	B		MINOR	A135487	86	46	5	4		1		
+10-Brady Forcey	57.96%	408.6520	126.24	57.96%	Carry Optics	U	Junior	MINOR	A181491	116	21		4		6	1	
+11-Saunders Arnold 1	56.70%	399.7010	131.54	56.70%	PCC	U		MINOR	L5609	97	31	8	5		2	2	
+12-Shamar Laing	51.08%	360.1396	131.14	51.08%	Carry Optics	B	Military	MINOR	A164215	91	39	7	4		5	1	
+13-Tyler Hooper	48.16%	339.5027	136.06	48.16%	Carry Optics	C		MINOR	A178934	101	28	6	6		4	1	
+14-Chris Flores	46.72%	329.3408	161.58	46.72%	Carry Optics	B		MINOR	A154697	103	30	7	1		3	2	
+15-Noah harris	43.37%	305.7567	186.65	43.37%	Carry Optics	U		MINOR		99	36	2	4		1		
+16-Nathan Moores	42.73%	301.2461	158.86	42.73%	Carry Optics	U		MINOR	A175340	94	34	6	7		2	1	
+17-Kyle Post	42.07%	296.6232	136.09	42.07%	Limited Optics	U	Law Enforcement	MINOR	A74846	66	49	14	12		8		
+18-Collin Campbell	37.03%	261.0780	217.19	37.03%	Open	U		MINOR		106	28	4	3		2		
+19-D’Artagnan Logsdon	36.06%	254.2034	236.16	36.06%	Carry Optics	U		MINOR		107	27	6	1		2		
+20-Saunders Arnold	35.62%	251.1359	147.94	35.62%	Carry Optics	B		MINOR	L5609	87	32	10	12		2	2	
+21-Garrick Garza	34.74%	244.9272	238.08	34.74%	Limited Optics	U	Senior	MINOR	A179040	112	22	4	3			2	
+22-Paul Young	31.01%	218.6425	193.03	31.01%	Carry Optics	U		MINOR	A179492	88	40	8	5		8	2	
+23-William Conlan	30.45%	214.6601	96.39	30.45%	PCC	A	Senior	MINOR	A45421	54	20	7	4		1		
+24-Justin Krus	29.67%	209.1882	200.63	29.67%	Carry Optics	C		MINOR	A168992	90	35	7	9		4	1	
+25-CALEB MOCK 1	16.81%	118.4920	157.96	16.81%	Open	B		MINOR	A168709	56	42	20	23		5	2	
+26-AbdAllah Fahmy	12.15%	85.6668	384.70	12.15%	Carry Optics	U		MINOR	ty181106	75	43	10	13		3	3	
+27-Danny Chalker	12.13%	85.5150	372.19	12.13%	Carry Optics	U		MINOR		72	34	25	10		6		
+Name
+1-Cory Klemashevich
+2-Cory Klemashevich
+3-Mack McLaughlin
+4-Zach Smith
+5-Travis Ritter
+6-Thomas Rodriguez
+7-Ethan House 2
+8-Joshua Blume 1
+9-Joe Paetzold
+10-Brady Forcey
+11-Saunders Arnold 1
+12-Shamar Laing
+13-Tyler Hooper
+14-Chris Flores
+15-Noah harris
+16-Nathan Moores
+17-Kyle Post
+18-Collin Campbell
+19-D’Artagnan Logsdon
+20-Saunders Arnold
+21-Garrick Garza
+22-Paul Young
+23-William Conlan
+24-Justin Krus
+25-CALEB MOCK 1
+26-AbdAllah Fahmy
+27-Danny Chalker
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Blume, Joshua (1)
+2026-06-14 15:12:20.234 - 2026-06-14 15:18:48.106Edited 6 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	1	0	1	0	0
+Added details: [object Object]Added numAlphas: 7Added numCharlies: 4Added numDeltas: 3Added numNS: 1Added stringTime: 12.03Edited By Amazon KFKAWI a7147c21
+Stage 3
+MOCK, CALEB (1)
+2026-06-14 15:40:45.031 - 2026-06-14 15:41:18.087Edited a few seconds after.Edited popm was: 0 now: 1Edited poph was: 3 now: 2Edited rawpts was: 76 now: 71Added details: [object Object]Added numAlphas: 11Added numCharlies: 7Added numDeltas: 5Added numNS: 4Added numM: 9Added stringTime: 38.55Edited By Amazon KFKAWI a7147c21
+Stage 4
+House, Ethan (2)
+2026-06-14 14:09:38.507 - 2026-06-14 14:10:48.344Edited a minute after.Edited rawpts was: 20 now: 122Edited str,0 was: 0 now: 26.27
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Hooper, Tyler (CO/Min)Added aprv: trueAdded details: [object Object]Added numAlphas: 26Added numCharlies: 4Added stringTime: 26.27Edited By Amazon KFGIWI 0e2f3c042026-06-14 14:09:29.482 - 2026-06-14 14:09:38.507Edited a few seconds after.Edited rawpts was: 114 now: 20Edited str,0 was: 30.54 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	1	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Hooper, Tyler (CO/Min)Edited By Amazon KFGIWI 0e2f3c04
+Stage 6
+Arnold, Saunders (1)
+2026-06-14 16:25:15.252 - 2026-06-14 16:28:34.053Edited 3 minutes after.Added proc: 1Added details: [object Object]Added numAlphas: 25Added numCharlies: 5Added numDeltas: 2Added numM: 2Added numProc: 1Added stringTime: 24.68Edited By Amazon KFGIWI 32705a47
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

@@ -1,0 +1,305 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Kidlat Shooters AUGUST USPSA match 08-01-26 USPSA 2026-08-01
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Travis Mckenzie	100.00%	749.5705	101.41	92.54%	Open	M		MAJOR		120	38	2	2				
+2-Ryan Jaw	97.75%	732.7039	100.60	90.46%	Open	U		MAJOR	X	118	37	5	2		1		
+3-Albert Montanez	93.30%	699.3650	105.12	86.34%	PCC	M		MINOR	TY101554	139	20	1	2		1	1	
+4-Roger Feng 1	93.20%	698.5705	107.10	86.24%	Carry Optics	M		MINOR	A157776	134	26	1	1			1	
+5-Jim Havens	88.03%	659.8645	112.08	81.46%	Open	M	Senior	MINOR	a114636	130	28	3	1		1		
+6-Andre Wijaya	84.38%	632.4958	118.55	78.09%	Carry Optics	C		MINOR	A175473	130	29	2	1				
+7-Albert Legislador	84.07%	630.1897	119.73	77.80%	PCC	B	Senior	MINOR	Ty91787	130	29	2	1				
+8-Shaundy Pepito	82.97%	621.9143	118.74	76.78%	Open	U		MAJOR	A156809	106	51	3	2				
+9-Tyler Denmon	82.71%	619.9405	116.03	76.54%	Open	B		MINOR	X	116	40	5	1				
+10-Glen Kruger	81.09%	607.8008	127.02	75.04%	PCC	B	Senior	MINOR	A171162	131	27	2	2				
+11-Jerry Bedro	78.98%	592.0298	132.59	73.09%	PCC	A		MINOR	A98263	148	13	1			2		
+12-Phil Truong 1	78.88%	591.2446	125.84	72.99%	Open	B		MINOR	X	133	26	1	2				
+13-Drew Yang	78.10%	585.3893	119.45	72.27%	Carry Optics	A		MINOR	FY138478	122	35	2	3		1		
+14-Temu Leograndis	77.15%	578.2977	113.13	71.39%	PCC	D		MINOR	a155982	113	38	6	5		2		
+15-Ulrick Fong	76.11%	570.4983	112.40	70.43%	PCC	A	Senior	MINOR	A170351	121	35	2	4		5		
+16-Wade Pruetz	75.25%	564.0390	123.86	69.63%	Open	A	Senior	MAJOR	A79055	111	43	4	4		2		
+17-Waldo Samano	72.55%	543.8099	120.31	67.14%	Carry Optics	M		MINOR	Ty87973	112	43	4	3		2	1	
+18-John Ren 2	72.31%	542.0448	126.46	66.92%	Carry Optics	A		MINOR	A168570	131	27	1	3		4		
+19-Ross "Riff Raff" Pimentel	68.37%	512.4843	143.98	63.27%	PCC	U	Senior	MINOR	A157753	121	37	3	1				
+20-Duane Mendoza	67.97%	509.4864	127.38	62.90%	Limited Optics	U		MINOR	X	112	43	2	5			1	
+21-Janice Pacleb	66.48%	498.3418	145.18	61.52%	Open			MAJOR		103	52	4	3				
+22-Alex Goben	66.18%	496.0661	137.80	61.24%	Carry Optics	A		MINOR	L5929	134	22	1	5		3		
+23-NeaL NaNDiN	65.24%	489.0529	147.73	60.38%	Open	C		MAJOR	FY71894	115	43	2	2		3		
+24-Jon Baguio	64.74%	485.2522	147.33	59.91%	Open	C		MAJOR	X	98	54	7	3				
+25-Gennady Khokhorin	63.29%	474.4235	145.42	58.57%	Limited Optics	U	Super Senior	MINOR	A123884	114	42	4	2		1		
+26-Manny Nerona	62.75%	470.3417	145.15	58.07%	Limited Optics	B		MINOR	A69445	133	24		5		3		
+27-Jose Onia	62.50%	468.4737	117.66	57.84%	Limited Optics	C	Senior	MINOR	12346	101	46	6	9			2	
+28-David Zhang	62.09%	465.4221	154.83	57.46%	Carry Optics	B		MINOR	FY140383	125	32	3	2				
+29-Marco Olivarez	60.35%	452.3501	159.63	55.85%	Carry Optics	C		MINOR	A176449	125	33	2	2		2		
+30-Harlan Chen 1	59.85%	448.6480	137.44	55.39%	Limited Optics	B		MINOR	a163292	110	43	3	6		2		
+31-James Berry	59.77%	448.0538	159.61	55.32%	Carry Optics	U		MINOR	A174774	117	43		2		1		
+32-Bryant Moorefield	59.33%	444.7487	163.26	54.91%	Limited Optics	U		MINOR	A176823	137	16	3	6				
+33-chris bulkley	57.99%	434.6531	155.15	53.66%	Carry Optics	B		MINOR	A159469	122	33	2	5				
+34-Kirk Skinner	55.28%	414.3939	162.19	51.16%	Limited Optics	B		MINOR	A157600	115	41	3	3		2		
+35-Jhun Caoagas jr 1	54.49%	408.4709	162.46	50.43%	Limited Optics	C		MINOR	A170038	108	47	2	5				
+36-Kit Bong Morales 3	50.56%	378.9923	143.55	46.79%	Carry Optics	U	Senior	MINOR	A57907	106	38	9	9		4	1	
+37-Chris Ballard	50.31%	377.1448	166.76	46.56%	Limited Optics	C		MINOR	A178189	122	31	4	5		3	1	
+38-Jonathan Yanbao Bousquet	49.63%	372.0127	197.45	45.93%	Limited Optics	U		MINOR	A185757	140	18	1	3		1		
+39-Fred Ermac	42.51%	318.6091	207.90	39.33%	Limited Optics	U		MINOR	A106439	119	37	1	5		2	1	
+40-Devie ubas	40.36%	302.5400	157.33	37.35%	Open	C		MAJOR		90	41	12	19			1	
+41-Antonio Martinez	39.93%	299.3213	84.56	36.95%	Carry Optics			MINOR		73	23	7	7		1	1	
+42-Lee King	35.97%	269.6393	228.06	33.29%	Carry Optics	C	Super Senior	MINOR	A163654	124	27	4	7		3		
+43-Emman Alcoseba	27.00%	202.3991	262.85	24.99%	Limited	C	Super Senior	MINOR	TY67519	106	39	5	12		2	2	
+44-peter Alcazaren	15.07%	112.9562	128.82	13.95%	Single Stack	U		MINOR		48	24	5	1		3		
+45-Olayemi Bakare	0.00%	0.0000		0.00%	Open	A		MAJOR	A105300								
+46-August Balagtas	0.00%	0.0000		0.00%	Open	M		MAJOR	L3674								
+47-Jared Butler	0.00%	0.0000		0.00%	Limited Optics	C		MINOR	A183653								
+48-Yulmer Carreno	0.00%	0.0000		0.00%	Limited Optics	B		MINOR	A157204								
+49-Mervs Castillon	0.00%	0.0000		0.00%	Limited Optics	U	Senior	MINOR	A174980								
+50-William Horton	0.00%	0.0000		0.00%	Open	U		MAJOR	A12309584								
+51-Yul Kwan	0.00%	0.0000		0.00%	Open	C		MAJOR	A165984								
+52-Napoleon BigLew Lewis	0.00%	0.0000		0.00%	Open	C	Senior	MINOR	A154149								
+53-Napoleon BigLew Lewis	0.00%	0.0000		0.00%	Production	U	Senior	MINOR	A154149								
+54-Andres Lezama	0.00%	0.0000		0.00%	Limited Optics	C		MINOR	A168072								
+55-Andres Lezama	0.00%	0.0000		0.00%	Limited Optics	C		MINOR	A168072								
+56-Jack Liu	0.00%	0.0000		0.00%	PCC	M		MINOR	L6156								
+57-Keaton Mayfield	0.00%	0.0000		0.00%	Carry Optics	A		MINOR	A147501								
+58-Byron "BigBDaShooter" McGowen	0.00%	0.0000		0.00%	Carry Optics	C	Junior	MINOR	A159731								
+59-Neil McMullin	0.00%	0.0000		0.00%	Limited	U		MINOR	A162927								
+60-Virak Meas	0.00%	0.0000		0.00%	Open	C	Senior	MINOR	O								
+61-Marco Olivarez	0.00%	0.0000		0.00%	Carry Optics	C		MINOR	A176449								
+62-Johans Pinto	0.00%	0.0000		0.00%	Carry Optics	D		MINOR	A182441								
+63-stormtrooper Qian	0.00%	0.0000		0.00%	Limited Optics	B		MINOR	a11112								
+64-Jeje Racza	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	0								
+65-Sonny Somera	0.00%	0.0000		0.00%	Limited Optics	D		MINOR	A118611								
+66-Raul Sotelo	0.00%	0.0000		0.00%	Limited Optics	A	Senior	MINOR	TY41489								
+67-Charity Taylor	0.00%	0.0000		0.00%	PCC	D	Lady, Senior	MINOR	A104508								
+68-Antonio Tormis	0.00%	0.0000		0.00%	Open	B		MAJOR	A121458								
+69-Coder W	0.00%	0.0000		0.00%	PCC	A		MINOR	A178525								
+70-Yanlin Xiang	0.00%	0.0000		0.00%	Limited Optics	B		MINOR	A164967								
+71-Rene Zalamea	0.00%	0.0000		0.00%	Limited Optics	U	Senior	MINOR	a66891								
+72-Jay-R delos-Santos	0.00%	0.0000		0.00%	PCC	B	Senior	MINOR	A70297								
+73-lin shi	0.00%	0.0000		0.00%	Carry Optics	U	Super Senior	MINOR	TY138430								
+74-lin shi	0.00%	0.0000		0.00%	Carry Optics	U	Junior	MINOR	TY138430								
+Name
+1-Travis Mckenzie
+2-Ryan Jaw
+3-Albert Montanez
+4-Roger Feng 1
+5-Jim Havens
+6-Andre Wijaya
+7-Albert Legislador
+8-Shaundy Pepito
+9-Tyler Denmon
+10-Glen Kruger
+11-Jerry Bedro
+12-Phil Truong 1
+13-Drew Yang
+14-Temu Leograndis
+15-Ulrick Fong
+16-Wade Pruetz
+17-Waldo Samano
+18-John Ren 2
+19-Ross "Riff Raff" Pimentel
+20-Duane Mendoza
+21-Janice Pacleb
+22-Alex Goben
+23-NeaL NaNDiN
+24-Jon Baguio
+25-Gennady Khokhorin
+26-Manny Nerona
+27-Jose Onia
+28-David Zhang
+29-Marco Olivarez
+30-Harlan Chen 1
+31-James Berry
+32-Bryant Moorefield
+33-chris bulkley
+34-Kirk Skinner
+35-Jhun Caoagas jr 1
+36-Kit Bong Morales 3
+37-Chris Ballard
+38-Jonathan Yanbao Bousquet
+39-Fred Ermac
+40-Devie ubas
+41-Antonio Martinez
+42-Lee King
+43-Emman Alcoseba
+44-peter Alcazaren
+45-Olayemi Bakare
+46-August Balagtas
+47-Jared Butler
+48-Yulmer Carreno
+49-Mervs Castillon
+50-William Horton
+51-Yul Kwan
+52-Napoleon BigLew Lewis
+53-Napoleon BigLew Lewis
+54-Andres Lezama
+55-Andres Lezama
+56-Jack Liu
+57-Keaton Mayfield
+58-Byron "BigBDaShooter" McGowen
+59-Neil McMullin
+60-Virak Meas
+61-Marco Olivarez
+62-Johans Pinto
+63-stormtrooper Qian
+64-Jeje Racza
+65-Sonny Somera
+66-Raul Sotelo
+67-Charity Taylor
+68-Antonio Tormis
+69-Coder W
+70-Yanlin Xiang
+71-Rene Zalamea
+72-Jay-R delos-Santos
+73-lin shi
+74-lin shi
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Caoagas jr, Jhun (1)
+2026-08-01 14:55:46.991 - 2026-08-01 14:56:19.530Edited a few seconds after.Edited rawpts was: 121 now: 124
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 23Added numCharlies: 3Added stringTime: 23.08Edited By Amazon KFARWI c6d28d00
+Stage 3
+Morales, Kit Bong (1)
+2026-08-01 15:35:50.790 - 2026-08-01 15:51:29.314Edited 16 minutes after.Edited str,0 was: 33.85 now: 23.2Added details: [object Object]Added numAlphas: 25Added numCharlies: 8Added numDeltas: 1Added numNS: 2Added numM: 2Added stringTime: 23.2Edited By Amazon KFARWI 18e7027c
+Feng, Roger (1)
+2026-08-01 14:22:55.198 - 2026-08-01 14:23:55.798Edited a minute after.Added proc: 1Added details: [object Object]Added numAlphas: 28Added numCharlies: 6Added numM: 2Added numProc: 1Added stringTime: 18.59Edited By Kidlat 4
+Stage 4
+Morales, Kit Bong (1)
+2026-08-01 16:03:59.800 - 2026-08-01 16:13:56.863Edited 10 minutes after.Edited str,0 was: 31.98 now: 21.03Added details: [object Object]Added numAlphas: 29Added numCharlies: 1Added stringTime: 21.03Edited By Amazon KFARWI 18e7027c
+Chen, Harlan (1)
+2026-08-01 14:28:27.184 - 2026-08-01 14:29:49.091Edited a minute after.Edited popm was: 0 now: 1Edited poph was: 4 now: 3Edited rawpts was: 113 now: 108Added details: [object Object]Added numAlphas: 22Added numCharlies: 4Added numDeltas: 1Added numM: 3Added stringTime: 23.96Edited By Amazon KFARWI 831c4c81
+Stage 5
+Morales, Kit Bong (1)
+2026-08-01 13:51:24.341 - 2026-08-01 14:16:23.854Edited 25 minutes after.Edited str,0 was: 48.29 now: 30.1Added details: [object Object]Added numAlphas: 25Added numCharlies: 5Added numDeltas: 2Added numM: 2Added stringTime: 30.1Edited By Amazon KFARWI 18e7027c
+Stage 6
+Ren, John (2)
+2026-08-01 15:36:00.876 - 2026-08-01 15:37:39.715Edited 2 minutes after.Edited str,0 was: 0 now: 18.73
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Zhang, David (CO/Min)Added rawpts: 123Added aprv: trueAdded details: [object Object]Added numAlphas: 21Added numCharlies: 6Added numNS: 1Added numM: 1Added stringTime: 18.73Edited By Amazon KFARWI 831c4c812026-08-01 15:35:18.229 - 2026-08-01 15:36:00.876Edited a few seconds after.Removed rawpts: 128Edited str,0 was: 22.39 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Zhang, David (CO/Min)Edited By Amazon KFARWI 831c4c81
+Truong, Phil (1)
+2026-08-01 15:18:24.828 - 2026-08-01 15:18:39.521Edited a few seconds after.Edited str,0 was: 32.62 now: 17.57Added details: [object Object]Added numAlphas: 20Added numCharlies: 6Added numDeltas: 1Added numM: 1Added stringTime: 17.57Edited By Kidlat 4
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

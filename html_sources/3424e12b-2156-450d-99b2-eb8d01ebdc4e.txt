@@ -1,0 +1,87 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Mar 2 USPSA 2023-03-03Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Aj Jackson 1	100.00%	290.4794	45.94	88.02%	PCC	A		MINOR	TY81745	39	26		1		1		
+2-Desmond Jackson	93.56%	271.7680	57.22	82.35%	Carry Optics	B		MINOR	TY89242	47	18	1					
+3-Samuel Bharksuwan	87.78%	254.9761	52.24	77.27%	Open	A	Senior	MAJOR	B51	37	25	1	3		1		
+4-Robert Gatewood	80.24%	233.0698	56.78	70.63%	Carry Optics	B	Military	MINOR	A118214	43	20	1	2			1	
+5-Ray Fishel	74.84%	217.3980	43.87	65.88%	PCC	B	Senior	MINOR	A92443	29	32	1	4			2	
+6-Kenedy Nguyen	73.96%	214.8355	43.91	65.10%	Open	B		MAJOR	A83862	32	25	3	6		3		
+7-Ronald Gillory jr.	70.66%	205.2441	77.33	62.20%	PCC	B		MINOR	TY83291	50	16					1	
+8-William Hamilton 1	69.59%	202.1427	67.12	61.26%	Carry Optics	C	Law Enforcement	MINOR	A147128	45	19		2			1	
+9-Nathan Bridges	69.35%	201.4385	62.73	61.04%	Carry Optics	C		MINOR	A139264	34	28	3	1		1		
+10-Lisa Nguyen	50.80%	147.5574	89.64	44.71%	Open	D	Lady	MAJOR	A135827	33	27	2	4				
+11-Jason Williams	48.88%	141.9982	89.22	43.03%	Open	D		MINOR	A145508	32	32	1	1		1		
+12-James Jackson	46.53%	135.1712	72.25	40.96%	Carry Optics	U		MINOR	A89219	32	27	3	4		2		
+13-Mark Lutzel	46.20%	134.2068	57.51	40.67%	Carry Optics	C	Super Senior	MINOR	FY101009	43	14		9		2	2	
+14-Michael Green	39.67%	115.2427	95.05	34.92%	Open	D		MINOR	A145466	41	22	1	2		4		
+15-Kenneth Carden	18.41%	53.4706	187.70	16.20%	Carry Optics	D	Super Senior	MINOR	FY145364	28	32	2	4		1		
+16-Chad Burge	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	A148118								
+Name
+1-Aj Jackson 1
+2-Desmond Jackson
+3-Samuel Bharksuwan
+4-Robert Gatewood
+5-Ray Fishel
+6-Kenedy Nguyen
+7-Ronald Gillory jr.
+8-William Hamilton 1
+9-Nathan Bridges
+10-Lisa Nguyen
+11-Jason Williams
+12-James Jackson
+13-Mark Lutzel
+14-Michael Green
+15-Kenneth Carden
+16-Chad Burge
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Hamilton, William (1)
+2023-03-03 01:26:51.186 - 2023-03-03 01:27:20.121Edited a few seconds after.Added proc: 1Added details: [object Object]Added numAlphas: 12Added numCharlies: 6Added numM: 2Added numProc: 1Added stringTime: 16.64Edited By BCPS KINDLE FIRE #4
+Jackson, Aj (1)
+2023-03-03 01:28:56.585 - 2023-03-03 01:29:30.181Edited a few seconds after.Edited rawpts was: 83 now: 79
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 12Added numCharlies: 8Added stringTime: 12.39Edited By BCPS KINDLE FIRE #4
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

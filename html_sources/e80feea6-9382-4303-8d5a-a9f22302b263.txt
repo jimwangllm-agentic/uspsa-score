@@ -1,0 +1,248 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA- SUNDAY July 12th USPSA 2026-07-12Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Cory Klemashevich	100.00%	663.7806	72.53	98.34%	PCC	GM		MINOR	L5150	111	23	1			1		
+2-Cory Klemashevich	80.21%	532.4051	83.46	78.87%	Carry Optics	GM		MINOR	L5150	98	28	7	2				
+3-Luis Benitez 2	73.84%	490.1282	99.04	72.61%	Limited Optics	A		MINOR		115	16	4			1		
+4-Mason House	72.80%	483.2094	96.33	71.59%	Carry Optics	A		MINOR	TY170228	104	28	2	1		1		
+5-Travis Ritter	72.67%	482.3758	91.71	71.46%	PCC	B		MINOR	L6508	100	32	2	1		3		
+6-Robert Martinez	72.46%	480.9493	96.03	71.25%	Limited Optics	A		MINOR		113	17	3	2		1		
+7-Coder Wang	69.01%	458.0725	93.63	67.86%	PCC	A		MINOR	A178525	91	36	7	1		1		
+8-Joshua Blume	67.23%	446.2518	100.17	66.11%	Carry Optics	A		MINOR	A148746	89	42	4				1	
+9-Jason Wilson	65.56%	435.1720	102.86	64.47%	Carry Optics	M		MINOR	A94696	101	32		2		1		
+10-Jason Wilson	64.02%	424.9323	100.68	62.95%	Limited Optics	U		MINOR	A94696	100	29	4	2		3		
+11-Saunders Arnold	61.51%	408.2967	96.79	60.49%	PCC	U		MINOR	L5609	87	40	3	5		1		
+12-Alex Lee	58.45%	387.9773	93.61	57.48%	Carry Optics	A	Military	MINOR		76	45	9	5		1		
+13-Christopher Boatcallie	54.70%	363.0949	119.07	53.79%	Limited Optics	U		MINOR	A104118	99	28	4	3		1		
+14-Rommel Mercado	54.61%	362.5019	113.24	53.70%	Limited Optics	A	Foreign	MINOR	A70687	92	34	7	2		2		
+15-Chris Flores 1	53.55%	355.4454	115.89	52.66%	Carry Optics	B		MINOR	A154697	89	34	9	2		2		
+16-William Nesmith	48.23%	320.1347	97.55	47.43%	Limited Optics	B		MINOR	A174816	71	50	6	8		3		
+17-Jared Butler 2	44.70%	296.7387	132.56	43.96%	Limited Optics	U		MINOR	A183653	100	28	3	4		4	1	
+18-Zachary Deason	43.08%	285.9588	174.91	42.36%	Limited	U		MINOR	A172975	94	37	3					
+19-Stewart Peng	42.90%	284.7411	153.64	42.18%	PCC			MINOR		102	28	4	1		1	2	
+20-Will Toomey	41.07%	272.5949	138.57	40.38%	Carry Optics	C		MINOR		94	29	6	6		1	1	
+21-Jeff Ort	40.72%	270.2836	120.70	40.04%	Limited Optics	A		MINOR		75	42	9	7		5		
+22-Joseph Wilkie	40.11%	266.2613	125.17	39.45%	Carry Optics	B		MINOR		86	31	10	8		2	1	
+23-Garrick Garza	38.44%	255.1407	174.30	37.80%	Limited Optics	U	Senior	MINOR	A179040	90	36	8	1				
+24-Paul Young	32.19%	213.6540	136.25	31.65%	Carry Optics	U		MINOR	A179492	70	43	16	6		6	2	
+25-Luis Bonilla	14.52%	96.3663	187.05	14.28%	Limited	D		MINOR		68	31	11	25		2	3	
+Name
+1-Cory Klemashevich
+2-Cory Klemashevich
+3-Luis Benitez 2
+4-Mason House
+5-Travis Ritter
+6-Robert Martinez
+7-Coder Wang
+8-Joshua Blume
+9-Jason Wilson
+10-Jason Wilson
+11-Saunders Arnold
+12-Alex Lee
+13-Christopher Boatcallie
+14-Rommel Mercado
+15-Chris Flores 1
+16-William Nesmith
+17-Jared Butler 2
+18-Zachary Deason
+19-Stewart Peng
+20-Will Toomey
+21-Jeff Ort
+22-Joseph Wilkie
+23-Garrick Garza
+24-Paul Young
+25-Luis Bonilla
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Butler, Jared (2)
+2026-07-12 16:28:03.415 - 2026-07-12 16:29:25.354Edited a minute after.Edited str,0 was: 0 now: 11.54
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Boatcallie, Christopher (LO/Min)Added rawpts: 64Added aprv: trueAdded details: [object Object]Added numAlphas: 12Added numCharlies: 1Added numDeltas: 1Added stringTime: 11.54Edited By Amazon KFGIWI 668461ed2026-07-12 16:27:28.250 - 2026-07-12 16:28:03.415Edited a few seconds after.Removed rawpts: 66Edited str,0 was: 9.94 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Boatcallie, Christopher (LO/Min)Edited By Amazon KFGIWI 668461ed
+Stage 4
+Flores, Chris (1)
+2026-07-12 15:25:19.759 - 2026-07-12 15:26:24.443Edited a minute after.Edited rawpts was: 26 now: 70Edited str,0 was: 6.18 now: 14.57
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added aprv: trueAdded details: [object Object]Added numAlphas: 14Added numCharlies: 3Added numDeltas: 1Added stringTime: 14.57Edited By Amazon KFGIWI 065203e4
+Stage 5
+Benitez, Luis (2)
+2026-07-12 16:18:16.158 - 2026-07-12 16:28:15.216Edited 10 minutes after.Edited rawpts was: 15 now: 143Edited str,0 was: 0 now: 22.63
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Martinez, Robert (LO/Min)Added aprv: trueAdded details: [object Object]Added numAlphas: 31Added numCharlies: 1Added numNS: 1Added stringTime: 22.63Edited By Amazon KFKAWI a7147c212026-07-12 16:18:00.183 - 2026-07-12 16:18:16.158Edited a few seconds after.Edited rawpts was: 129 now: 15Edited str,0 was: 19.16 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Martinez, Robert (LO/Min)Edited By Amazon KFKAWI a7147c21
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

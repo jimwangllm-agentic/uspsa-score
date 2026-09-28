@@ -1,0 +1,95 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Feb 23 USPSA 2023-02-24Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Aaron Gillory	100.00%	247.0463	33.53	95.02%	Carry Optics	U	Law Enforcement	MINOR		33	19						
+2-AJ Jackson	96.69%	238.8610	29.24	91.87%	PCC	A		MINOR	TY81745	30	18	4			1	1	
+3-Ray Fishel	93.18%	230.2036	32.07	88.54%	PCC	B	Senior	MINOR	A92443	35	13	3	1		1		
+4-Robert Gatewood	84.65%	209.1284	37.99	80.43%	Open	U	Military	MINOR		36	13	3			1		
+5-Fred Shepherd	81.92%	202.3800	43.79	77.84%	Open	U		MAJOR		29	21	2					
+6-Mark Lutzel	80.02%	197.6789	42.64	76.03%	Carry Optics	C	Super Senior	MINOR	FY101009	40	12				1		
+7-William Hamilton	77.94%	192.5409	47.39	74.05%	Limited	U		MAJOR	A147128	36	16						
+8-Ronald Gillory jr 1	77.26%	190.8586	48.86	73.41%	PCC	B		MINOR	TY83291	47	5						
+9-Chad Burge	70.95%	175.2812	49.93	67.42%	Carry Optics	U		MINOR	A148118	39	12	1					
+10-Desmond Jackson	70.16%	173.3370	44.46	66.67%	Carry Optics	B		MINOR	TY89242	32	18	1	1				
+11-Jeremiah Hunt	61.48%	151.8946	54.26	58.42%	Carry Optics	U		MINOR		38	13	1			1		
+12-Blaine Newlin	60.81%	150.2373	34.94	57.78%	Limited	B		MINOR	A103350	30	16	3	3		2	1	
+13-James Jackson	59.13%	146.0732	50.98	56.18%	Carry Optics	U		MINOR	A89219	28	22	2			1		
+14-Brandon Hunt	52.51%	129.7278	59.02	49.90%	Carry Optics	U		MINOR		24	26	2					
+15-Don Same	50.03%	123.5994	58.17	47.54%	PCC	U		MINOR	A105098	32	18		2		1		
+16-John Del Toro	45.79%	113.1180	60.43	43.51%	Limited	C	Super Senior	MINOR	A107511	32	17	1	2		1		
+17-Jason Williams	45.64%	112.7506	53.21	43.37%	Open	D		MINOR	A145508	27	22	1	2		2	1	
+18-Michael Green	43.33%	107.0460	51.65	41.17%	Open	U		MINOR	A145466	28	18	4	2		3		
+19-David Hruzek	34.22%	84.5349	60.28	32.51%	Limited	U	Senior	MINOR	A-100909	22	24	4	2		1	2	
+20-Kenneth Carden	15.58%	38.4993	115.61	14.81%	Carry Optics	U	Super Senior	MINOR	FY145364	25	16	5	6		5		
+21-ian loyd	9.70%	23.9722	67.18	9.22%	Carry Optics	U	Senior	MINOR	A148072	21	20	2	9		3		
+Name
+1-Aaron Gillory
+2-AJ Jackson
+3-Ray Fishel
+4-Robert Gatewood
+5-Fred Shepherd
+6-Mark Lutzel
+7-William Hamilton
+8-Ronald Gillory jr 1
+9-Chad Burge
+10-Desmond Jackson
+11-Jeremiah Hunt
+12-Blaine Newlin
+13-James Jackson
+14-Brandon Hunt
+15-Don Same
+16-John Del Toro
+17-Jason Williams
+18-Michael Green
+19-David Hruzek
+20-Kenneth Carden
+21-ian loyd
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Gillory jr, Ronald (1)
+2023-02-24 01:25:30.093 - 2023-02-24 01:25:49.166Edited a few seconds after.Edited rawpts was: 86 now: 84
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 17Added numCharlies: 3Added stringTime: 16.84Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

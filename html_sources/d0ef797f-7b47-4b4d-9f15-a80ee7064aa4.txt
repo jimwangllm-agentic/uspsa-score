@@ -1,0 +1,703 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Kidlat Shooters March USPSA Match 3-7-26 USPSA 2026-03-07Kidlat Shooters
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Olayemi Bakare 2	100.00%	673.1713	109.25	87.42%	Open	A		MAJOR	A105300	127	22	1	1				
+2-Edwin Garcia	99.72%	671.2604	93.49	87.18%	Open	G		MAJOR	TY38396	107	35	8	3				
+3-Jerry Bedro	97.03%	653.1619	105.35	84.83%	PCC	A	Super Senior	MINOR	A98263	132	21						
+4-John Paul Garcia	93.71%	630.8022	103.01	81.92%	Open	A		MAJOR	L4169	119	28	5	2			1	
+5-Garrett Pressler 2	92.97%	625.8379	102.29	81.28%	Limited Optics	A	Junior	MINOR	A165603	120	29	4	1		1		
+6-Charles Spears 1	82.29%	553.9271	121.17	71.94%	Carry Optics	B		MINOR	A164017	123	28	3					
+7-Waldo Samano 2	81.02%	545.4052	112.34	70.83%	Limited Optics	A		MINOR	TY87973	110	39	2	3				
+8-James “JimO” O'Flaherty 1	77.69%	523.0103	130.16	67.92%	Limited Optics	B	Senior	MINOR	FY100318	129	22	3					
+9-NeaL NaNDiN 1	74.72%	502.9739	130.77	65.32%	Open	C		MAJOR	FY71894	113	32	2	2			1	
+10-Chris Trevino	74.04%	498.4175	150.60	64.73%	Limited Optics	C		MINOR	A159015	124	25	3	2				
+11-Dutch Bertholf	73.88%	497.3100	131.15	64.59%	Limited Optics	B	Senior	MINOR	FY120913	124	26	3	1				
+12-raul sotelo	73.25%	493.1006	133.19	64.04%	Open			MAJOR		118	29	2	2		1		
+13-Harlan Chen 1	72.76%	489.7784	128.65	63.61%	Limited Optics	B		MINOR	A163292	112	37	3	2		2		
+14-Phil Truong	72.24%	486.3033	121.66	63.16%	Carry Optics	B		MINOR	X	118	27	6	3		2	1	
+15-Tyler Milligan	69.33%	466.7260	134.48	60.61%	Carry Optics	U		MINOR	NA	127	19	5	3		1		
+16-Robert Bui 1	68.39%	460.3506	135.29	59.79%	Limited Optics	B		MINOR	A103016	120	29	2	3		1		
+17-samuel bharksuwan	66.51%	447.6958	134.68	58.14%	Carry Optics	B	Senior	MINOR	B51	105	42	2	3				
+18-Janice Pacleb	65.89%	443.5433	149.97	57.60%	Open	B	Lady	MAJOR	TY75597	123	22	5	4			2	
+19-Kenedy Nguyen	64.64%	435.1266	137.21	56.51%	Limited Optics	B		MINOR	A83862	99	44	8	2				
+20-Gennady Khokhorin 1	64.22%	432.3030	147.06	56.14%	Limited Optics	U	Super Senior	MINOR	A123884	128	21	3	2		1		
+21-Yul Kwan 1	63.38%	426.6719	133.26	55.41%	Open	C	Senior	MAJOR	A156984	103	40	4	7			1	
+22-Taylor Latham 2	62.98%	423.9528	160.66	55.06%	Limited	A	Super Senior	MINOR	TY39841	132	16	1	1				
+23-Coder Wang 4	62.93%	423.6553	141.65	55.02%	PCC	B		MINOR	NA	125	24	1	4			2	
+24-Marlon Poralan	59.88%	403.0955	167.93	52.35%	Limited Optics	D		MINOR	1234	122	28	4					
+25-James Berry 1	59.67%	401.7146	140.30	52.17%	Carry Optics	U		MINOR	A174774	109	38	2	5			1	
+26-vox esguerra	59.05%	397.4824	148.27	51.62%	Open	C		MAJOR	A79097	93	40	16	5		1	1	
+27-Edsel Esquivel	59.04%	397.4215	154.93	51.61%	Limited Optics	C		MINOR	A	124	19	3	5				
+28-Joseph Stefanski	55.66%	374.6979	164.61	48.66%	Carry Optics	U		MINOR	NA	113	32	6	3		1		
+29-Ronald Gillory	55.63%	374.4888	195.15	48.63%	PCC	B		MINOR	TY83291	144	10						
+30-Antonio Martinez 2	55.22%	371.7485	152.21	48.28%	Carry Optics	B		MINOR	A160169	106	35	9	4		1	1	
+31-Virak Meas	52.30%	352.0870	126.34	45.73%	Open	D		MINOR	O	101	26	8	13				
+32-Christian Sulit 2	49.34%	332.1626	190.05	43.14%	Carry Optics	U	Senior	MINOR	A169780	116	26	11			1		
+33-Shane Judice	47.92%	322.5739	167.44	41.89%	Carry Optics	C		MINOR	A148536	90	51	8	5				
+34-Eric “Baltik” Esico	45.98%	309.5563	187.67	40.20%	Limited	C		MINOR	TY150782	107	35	9	3		1	1	
+35-Emman Alcoseba	45.15%	303.9597	187.72	39.48%	Limited	C	Super Senior	MINOR	TY67519	117	26	4	7		1	1	
+36-Gabriel Esico	40.56%	273.0271	197.11	35.46%	Limited	U		MINOR	A	107	29	10	8		1	1	
+37-Kit Bong Morales 4	35.50%	238.9702	180.40	31.04%	Limited Optics	U	Senior	MINOR	A57907	100	26	6	13		3	1	
+38-Sonny Somera 2	33.33%	224.3714	284.51	29.14%	Carry Optics	U		MINOR	A118711	116	30	5	2				
+39-Emman Alcoseba	0.00%	0.0000		0.00%	Limited	C	Super Senior	MINOR	TY67519								
+40-Jon Baguio	0.00%	0.0000		0.00%	Open	C		MAJOR	X								
+41-August Balagtas	0.00%	0.0000		0.00%	Open	M		MAJOR	L3674								
+42-Jerry Bedro	0.00%	0.0000		0.00%	PCC	A	Super Senior	MINOR	A98263								
+43-Ignacio Caoagas jr	0.00%	0.0000		0.00%	Carry Optics	C		MINOR	A170038								
+44-Tyler Denmon	0.00%	0.0000		0.00%	Limited Optics	A		MINOR	A156054	14							
+45-Ulrick Fong	0.00%	0.0000		0.00%	PCC	A	Senior	MINOR	A170351								
+46-Timoteo Gonzales	0.00%	0.0000		0.00%	Open	U	Junior	MINOR	NA								
+47-Angelo Guadalquiver	0.00%	0.0000		0.00%	Open	U		MAJOR	X								
+48-Judah Harms	0.00%	0.0000		0.00%	Limited Optics	U		MINOR	TY159115								
+49-Albert Legislador	0.00%	0.0000		0.00%	Open	C	Senior	MAJOR	TY91787								
+50-Napoleon BigLew Lewis	0.00%	0.0000		0.00%	Limited Optics	B	Senior	MINOR	A154149								
+51-Napoleon BigLew Lewis	0.00%	0.0000		0.00%	Limited Optics	U	Senior	MINOR	A154149								
+52-Napoleon BigLew Lewis	0.00%	0.0000		0.00%	Limited Optics	B	Senior	MINOR	A154149								
+53-Jack Luckey	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	U								
+54-Antonio Martinez	0.00%	0.0000		0.00%	Carry Optics	B		MINOR	A160169								
+55-Keaton Mayfield	0.00%	0.0000		0.00%	Carry Optics	A		MINOR	A147501								
+56-Byron "BigBDaShooter" McGowen	0.00%	0.0000		0.00%	Limited Optics	C		MINOR	A159731								
+57-Neil McMullin	0.00%	0.0000		0.00%	Limited	U		MINOR	A162927								
+58-Tyler Milligan	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	NA								
+59-Charity Montanez	0.00%	0.0000		0.00%	PCC	M		MINOR	A101554								
+60-FRANCIS NGUYEN	0.00%	0.0000		0.00%	Limited Optics	B		MINOR	A169979								
+61-Janice Pacleb	0.00%	0.0000		0.00%	Open	B	Lady	MAJOR	TY75597								
+62-Janice Pacleb	0.00%	0.0000		0.00%	Open	B	Lady	MAJOR	TY75597								
+63-Andrew Philip	0.00%	0.0000		0.00%	Limited Optics	U		MINOR	A153653								
+64-Ross "Riff Raff" Pimentel	0.00%	0.0000		0.00%	Limited Optics	C	Senior	MINOR	A157753								
+65-Marlon Poralan	0.00%	0.0000		0.00%	Limited Optics	C		MINOR	TY1234								
+66-Marlon Poralan	0.00%	0.0000		0.00%	Limited Optics	C		MINOR	TY1234								
+67-Marlon Poralan	0.00%	0.0000		0.00%	Open	D		MAJOR	TY763304								
+68-JJ "Temu version" Racaza	0.00%	0.0000		0.00%	Limited Optics	U		MINOR	0	16							
+69-Waldo Samano	0.00%	0.0000		0.00%	Limited Optics	A		MINOR	TY87973								
+70-Waldo Samano	0.00%	0.0000		0.00%	Production	A		MINOR	TY87973								
+71-Kirk Skinner	0.00%	0.0000		0.00%	Limited Optics	B	Junior	MINOR	A157600								
+72-Sonny Somera	0.00%	0.0000		0.00%	Limited Optics	D		MINOR	A118611								
+73-Hunter Sparkman	0.00%	0.0000		0.00%	Limited Optics	A		MINOR	A165234								
+74-Charity Taylor	0.00%	0.0000		0.00%	PCC	D	Lady, Senior	MINOR	A104508								
+75-Antonio Tormis	0.00%	0.0000		0.00%	Open	U		MAJOR	A123456	22							
+76-Cristian Torquemada	0.00%	0.0000		0.00%	Limited Optics	B		MINOR	A171091								
+77-Andre Wijaya	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	A175473								
+78-Yanlin Xiang	0.00%	0.0000		0.00%	Limited Optics	B		MINOR	A164967								
+79-Rene Zalamea	0.00%	0.0000		0.00%	Limited Optics	U	Senior	MINOR	66891								
+80-David Zhang	0.00%	0.0000		0.00%	Limited Optics	A		MINOR	FY140383								
+81-Jay-R delos-Santos	0.00%	0.0000		0.00%	PCC	B	Senior	MINOR	A70297								
+Name
+1-Olayemi Bakare 2
+2-Edwin Garcia
+3-Jerry Bedro
+4-John Paul Garcia
+5-Garrett Pressler 2
+6-Charles Spears 1
+7-Waldo Samano 2
+8-James “JimO” O'Flaherty 1
+9-NeaL NaNDiN 1
+10-Chris Trevino
+11-Dutch Bertholf
+12-raul sotelo
+13-Harlan Chen 1
+14-Phil Truong
+15-Tyler Milligan
+16-Robert Bui 1
+17-samuel bharksuwan
+18-Janice Pacleb
+19-Kenedy Nguyen
+20-Gennady Khokhorin 1
+21-Yul Kwan 1
+22-Taylor Latham 2
+23-Coder Wang 4
+24-Marlon Poralan
+25-James Berry 1
+26-vox esguerra
+27-Edsel Esquivel
+28-Joseph Stefanski
+29-Ronald Gillory
+30-Antonio Martinez 2
+31-Virak Meas
+32-Christian Sulit 2
+33-Shane Judice
+34-Eric “Baltik” Esico
+35-Emman Alcoseba
+36-Gabriel Esico
+37-Kit Bong Morales 4
+38-Sonny Somera 2
+39-Emman Alcoseba
+40-Jon Baguio
+41-August Balagtas
+42-Jerry Bedro
+43-Ignacio Caoagas jr
+44-Tyler Denmon
+45-Ulrick Fong
+46-Timoteo Gonzales
+47-Angelo Guadalquiver
+48-Judah Harms
+49-Albert Legislador
+50-Napoleon BigLew Lewis
+51-Napoleon BigLew Lewis
+52-Napoleon BigLew Lewis
+53-Jack Luckey
+54-Antonio Martinez
+55-Keaton Mayfield
+56-Byron "BigBDaShooter" McGowen
+57-Neil McMullin
+58-Tyler Milligan
+59-Charity Montanez
+60-FRANCIS NGUYEN
+61-Janice Pacleb
+62-Janice Pacleb
+63-Andrew Philip
+64-Ross "Riff Raff" Pimentel
+65-Marlon Poralan
+66-Marlon Poralan
+67-Marlon Poralan
+68-JJ "Temu version" Racaza
+69-Waldo Samano
+70-Waldo Samano
+71-Kirk Skinner
+72-Sonny Somera
+73-Hunter Sparkman
+74-Charity Taylor
+75-Antonio Tormis
+76-Cristian Torquemada
+77-Andre Wijaya
+78-Yanlin Xiang
+79-Rene Zalamea
+80-David Zhang
+81-Jay-R delos-Santos
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Pressler, Garrett (1)
+2026-03-07 14:59:00.796 - 2026-03-07 15:03:15.922Edited 4 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 22Added numCharlies: 2Added stringTime: 13.29Edited By KIDLAT#1
+Stage 2
+Sulit, Christian (2)
+2026-03-07 16:09:02.868 - 2026-03-07 16:27:21.318Edited 18 minutes after.Removed Reason for Edit Moved to Stage Stage 2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+Edited rawpts was: 20 now: 108Edited str,0 was: 0 now: 23.91Added aprv: trueAdded details: [object Object]Added numAlphas: 22Added numBravos: 1Added numCharlies: 5Added stringTime: 23.91Edited By KIDLAT#52026-03-07 15:56:16.932 - 2026-03-07 16:09:02.868Edited 13 minutes after.Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited rawpts was: 106 now: 20Edited str,0 was: 23.18 now: 0Added Reason for Edit Moved to Stage Stage 2Edited By KIDLAT#5
+Bui, Robert (1)
+2026-03-07 16:05:55.332 - 2026-03-07 16:06:15.302Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 25Added numCharlies: 2Added numDeltas: 1Added stringTime: 15.83Edited By KIDLAT#6
+Bakare, Olayemi (2)
+2026-03-07 16:08:48.710 - 2026-03-07 16:32:01.094Edited 23 minutes after.Removed Reason for Edit Moved to Stage Stage 2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 20 now: 117Edited str,0 was: 0 now: 12.07Added aprv: trueAdded details: [object Object]Added numAlphas: 25Added numCharlies: 3Added stringTime: 12.07Edited By KIDLAT#52026-03-07 15:52:04.155 - 2026-03-07 16:08:48.710Edited 17 minutes after.Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited rawpts was: 117 now: 20Edited str,0 was: 11.62 now: 0Added Reason for Edit Moved to Stage Stage 2Edited By KIDLAT#5
+Samano, Waldo (2)
+2026-03-07 16:08:42.024 - 2026-03-07 16:35:19.278Edited 27 minutes after.Removed Reason for Edit Moved to Stage Stage 2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited rawpts was: 20 now: 94Edited str,0 was: 0 now: 14.88Added aprv: trueAdded details: [object Object]Added numAlphas: 18Added numCharlies: 8Added numM: 2Added stringTime: 14.88Edited By KIDLAT#52026-03-07 16:01:41.714 - 2026-03-07 16:08:42.024Edited 7 minutes after.Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited rawpts was: 99 now: 20Edited str,0 was: 13.5 now: 0Added Reason for Edit Moved to Stage Stage 2Edited By KIDLAT#5
+Latham, Taylor (2)
+2026-03-07 16:08:56.548 - 2026-03-07 16:24:19.421Edited 15 minutes after.Removed Reason for Edit Moved to Stage Stage 2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 20 now: 103Edited str,0 was: 0 now: 19.86Added aprv: trueAdded details: [object Object]Added numAlphas: 21Added numCharlies: 6Added numM: 1Added stringTime: 19.86Edited By KIDLAT#52026-03-07 15:54:01.862 - 2026-03-07 16:08:56.548Edited 15 minutes after.Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	2	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited rawpts was: 112 now: 20Edited str,0 was: 21.89 now: 0Added Reason for Edit Moved to Stage Stage 2Edited By KIDLAT#5
+Morales, Kit Bong (2)
+2026-03-07 16:08:34.914 - 2026-03-07 16:29:46.964Edited 21 minutes after.Removed Reason for Edit Moved to Stage Stage 2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+Edited rawpts was: 20 now: 86Edited str,0 was: 0 now: 20.95Added aprv: trueAdded details: [object Object]Added numAlphas: 16Added numBravos: 3Added numCharlies: 5Added numDeltas: 2Added numM: 2Added stringTime: 20.95Edited By KIDLAT#52026-03-07 15:58:59.474 - 2026-03-07 16:08:34.914Edited 10 minutes after.Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	1	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+Edited rawpts was: 108 now: 20Edited str,0 was: 23.3 now: 0Added Reason for Edit Moved to Stage Stage 2Edited By KIDLAT#5
+Stage 3
+Wang, Coder (2)
+2026-03-07 15:59:01.571 - 2026-03-07 16:05:25.207Edited 6 minutes after.Removed Reason for Edit Reshoot
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 30 now: 132Edited str,0 was: 0 now: 29.22Added aprv: trueAdded proc: 2Added details: [object Object]Added numAlphas: 30Added numCharlies: 4Added numM: 4Added numProc: 2Added stringTime: 29.22Edited By KIDLAT#12026-03-07 15:59:01.566 - 2026-03-07 15:59:01.571Edited a few seconds after.Edited str,0 was: 49.64 now: 0Added Reason for Edit ReshootEdited By KIDLAT#1
+Kwan, Yul (1)
+2026-03-07 15:16:22.395 - 2026-03-07 15:17:38.804Edited a minute after.Added proc: 1Added details: [object Object]Added numAlphas: 26Added numCharlies: 7Added numDeltas: 2Added numM: 3Added numProc: 1Added stringTime: 29.39Edited By KIDLAT#3
+Stage 4
+NaNDiN, NeaL (1)
+2026-03-07 16:11:21.073 - 2026-03-07 16:11:47.467Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	0	1	0	0	0
+Edited rawpts was: 127 now: 129Added details: [object Object]Added numAlphas: 23Added numCharlies: 8Added numDeltas: 1Added stringTime: 20.84Edited By KIDLAT#2
+Martinez, Antonio (2)
+2026-03-07 15:55:47.714 - 2026-03-07 15:57:47.136Edited 2 minutes after.Removed Reason for Edit Moved to Shooter Gillory, Ronald (PCC/Min)Edited popm was: 0 now: 1
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited rawpts was: 20 now: 125Edited str,0 was: 0 now: 20Edited poph was: 4 now: 3Added aprv: trueAdded proc: 1Added details: [object Object]Added numAlphas: 26Added numCharlies: 3Added numDeltas: 1Added numM: 2Added numProc: 1Added stringTime: 20Edited By KIDLAT#22026-03-07 15:55:01.649 - 2026-03-07 15:55:47.714Edited a minute after.Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited rawpts was: 138 now: 20Edited str,0 was: 34.29 now: 0Added Reason for Edit Moved to Shooter Gillory, Ronald (PCC/Min)Edited By KIDLAT#2
+Wang, Coder (1)
+2026-03-07 16:25:46.959 - 2026-03-07 16:26:03.003Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+Edited rawpts was: 132 now: 130Added details: [object Object]Added numAlphas: 27Added numCharlies: 5Added stringTime: 23.83Edited By KIDLAT#1
+Stage 5
+Morales, Kit Bong (2)
+2026-03-07 14:56:59.632 - 2026-03-07 14:57:20.747Edited a few seconds after.Removed Reason for Edit Stage edited
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Edited rawpts was: 104 now: 109Added aprv: trueAdded details: [object Object]Added numAlphas: 34Added numCharlies: 3Added numM: 1Added stringTime: 42.55Edited By KIDLAT#52026-03-07 14:56:28.710 - 2026-03-07 14:56:59.632Edited a few seconds after.ARRAYAdded Reason for Edit Stage editedEdited By KIDLAT#5
+Chen, Harlan (1)
+2026-03-07 16:41:51.907 - 2026-03-07 22:14:15.682Edited 6 hours after.Edited rawpts was: 38 now: 108Edited poph was: 0 now: 14Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 33Added numCharlies: 4Added numDeltas: 1Added stringTime: 32.16Edited By KIDLAT#1
+Wang, Coder (1)
+2026-03-07 16:47:29.175 - 2026-03-07 22:14:15.679Edited 5 hours after.Edited rawpts was: 42 now: 112Edited poph was: 0 now: 14Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 34Added numCharlies: 4Added stringTime: 32.96Edited By KIDLAT#1
+Pressler, Garrett (1)
+2026-03-07 16:51:54.217 - 2026-03-07 22:14:15.681Edited 5 hours after.Edited rawpts was: 48 now: 118Edited poph was: 0 now: 14Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 37Added numCharlies: 1Added stringTime: 22.8Edited By KIDLAT#1
+Berry, James (1)
+2026-03-07 16:45:03.148 - 2026-03-07 22:14:15.681Edited 5 hours after.Edited rawpts was: 36 now: 106Edited poph was: 0 now: 14Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 32Added numCharlies: 5Added numDeltas: 1Added stringTime: 29.36Edited By KIDLAT#1
+Somera, Sonny (2)
+2026-03-07 17:18:07.020 - 2026-03-07 17:18:20.575Edited a few seconds after.Removed Reason for Edit Stage edited
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 101 now: 111Added aprv: trueAdded details: [object Object]Added numAlphas: 35Added numBravos: 1Added numCharlies: 1Added numM: 1Added stringTime: 50.68Edited By KIDLAT#22026-03-07 17:17:43.683 - 2026-03-07 17:18:07.020Edited a few seconds after.ARRAYAdded Reason for Edit Stage editedEdited By KIDLAT#2
+Spears, Charles (1)
+2026-03-07 16:49:48.520 - 2026-03-07 22:14:15.678Edited 5 hours after.Edited rawpts was: 42 now: 112Edited poph was: 0 now: 14Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 35Added numCharlies: 2Added numDeltas: 1Added stringTime: 23.87Edited By KIDLAT#1
+O'Flaherty, James “JimO” (1)
+2026-03-07 16:54:30.794 - 2026-03-07 22:14:15.679Edited 5 hours after.Edited rawpts was: 42 now: 112Edited poph was: 0 now: 14Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 35Added numCharlies: 2Added numDeltas: 1Added stringTime: 27.97Edited By KIDLAT#1
+Khokhorin, Gennady (1)
+2026-03-07 16:39:24.459 - 2026-03-07 22:14:15.680Edited 6 hours after.Edited rawpts was: 40 now: 110Edited poph was: 0 now: 14Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 34Added numCharlies: 3Added numDeltas: 1Added stringTime: 29.71Edited By KIDLAT#1
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

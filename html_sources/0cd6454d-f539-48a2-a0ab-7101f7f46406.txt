@@ -1,0 +1,165 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday May 19th USPSA 2024-05-19Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Cory Klemashevich	100.00%	687.4338	86.30	98.20%	PCC	G		MINOR	L5150	93	42	5			1		
+2-Christopher Boatcallie	79.90%	549.2932	107.27	78.47%	PCC	B		MINOR	A104118	101	33	5	1		2		
+3-Taylor Snodgrass 2	79.45%	546.1359	107.77	78.02%	Open	U		MINOR	A159149	96	37	6	1		1		
+4-Travis Ritter 1	78.80%	541.6701	110.62	77.38%	PCC	C		MINOR	TY63232	97	39	4			2	1	
+5-Juliann milks	73.62%	506.0666	115.11	72.30%	PCC	B	Lady	MINOR		88	44	7	1				
+6-AJ Jackson	73.28%	503.7365	112.46	71.96%	Limited Optics	A		MINOR	TY81745	87	45	6	2				
+7-Richard Elms	72.16%	496.0298	159.79	70.86%	PCC	U	Super Senior	MINOR	A46313	112	26	1	1				
+8-Michael Kellett	66.16%	454.7754	144.11	64.97%	PCC	U		MINOR	A-84094	106	31	3					
+9-Jason Wilson	65.47%	450.0929	134.26	64.30%	Single Stack	M		MAJOR		97	39	2	2		4		
+10-Phyl Santos	65.08%	447.3820	127.92	63.91%	Carry Optics	D		MINOR	a155981	91	43	3	3				
+11-gerrit milks	64.00%	439.9484	133.26	62.85%	PCC	A	Super Senior	MINOR		98	37	3	2		1		
+12-Dean Harnboonzong	63.77%	438.3558	142.40	62.62%	Carry Optics	U		MINOR	A157835	105	31	4			1		
+13-Bill Corcoran	62.65%	430.6827	146.46	61.53%	Carry Optics	U		MINOR		112	23	4	1				
+14-Thomas McCool	58.90%	404.9197	131.09	57.85%	Open	X		MINOR		102	31	3	4			2	
+15-Joshua Blume	56.83%	390.6969	122.93	55.81%	Carry Optics	C		MINOR	A148746	88	30	14	8				
+16-Jennifer Kleiber-Boatcallie	56.69%	389.7100	149.80	55.67%	PCC	C	Lady	MINOR	A142192	101	27	9	3				
+17-Kyle Corcoran	54.00%	371.2455	131.71	53.04%	Limited	U		MINOR		86	38	11	5		3		
+18-Saunders Arnold 1	50.88%	349.7898	154.39	49.97%	Carry Optics	C		MINOR	L5609	97	36	4	3		5		
+19-Richard Caples	48.84%	335.7364	173.51	47.96%	PCC	U		MINOR	TY157799	109	24	6	1		5		
+20-Brian Post 2	47.56%	326.9439	178.81	46.71%	Carry Optics	X		MINOR		104	31	4	1		4		
+21-Casey Miller 1	47.33%	325.3823	185.70	46.48%	PCC	U		MINOR		104	31	1	4		1		
+22-Jeff Wisnoski	42.58%	292.7326	133.29	41.82%	Limited Optics	U		MINOR	A158277	89	31	9	11		3	2	
+23-Daniel Claybaugh 2	42.12%	289.5719	168.03	41.37%	Limited	U		MINOR		80	45	11	4		1	2	
+24-Justin Walworth	39.71%	272.9735	152.52	39.00%	Production	U		MINOR		76	38	18	8		3		
+25-Sydney Holland	39.10%	268.7896	186.55	38.40%	Open	U	Lady	MINOR	000000	83	47	5	5			2	
+26-Jacob Saenz	13.83%	95.0496	186.83	13.58%	Limited	X		MINOR		64	34	21	21		4	4	
+Name
+1-Cory Klemashevich
+2-Christopher Boatcallie
+3-Taylor Snodgrass 2
+4-Travis Ritter 1
+5-Juliann milks
+6-AJ Jackson
+7-Richard Elms
+8-Michael Kellett
+9-Jason Wilson
+10-Phyl Santos
+11-gerrit milks
+12-Dean Harnboonzong
+13-Bill Corcoran
+14-Thomas McCool
+15-Joshua Blume
+16-Jennifer Kleiber-Boatcallie
+17-Kyle Corcoran
+18-Saunders Arnold 1
+19-Richard Caples
+20-Brian Post 2
+21-Casey Miller 1
+22-Jeff Wisnoski
+23-Daniel Claybaugh 2
+24-Justin Walworth
+25-Sydney Holland
+26-Jacob Saenz
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Calm Before the Storm
+Ritter, Travis (1)
+2024-05-19 14:31:31.353 - 2024-05-19 14:31:52.951Edited a few seconds after.Edited proc was: 2 now: 1ARRAYAdded details: [object Object]Added numAlphas: 9Added numCharlies: 7Added numProc: 1Added stringTime: 8.34Edited By Android Device
+Stage 2
+Claybaugh, Daniel (1)
+2024-05-19 15:28:11.652 - 2024-05-19 15:30:21.761Edited 2 minutes after.Edited rawpts was: 15 now: 27Edited str,0 was: 13.55 now: 12.6
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Added aprv: trueAdded details: [object Object]Added numAlphas: 7Added numCharlies: 2Added numDeltas: 1Added numM: 2Added stringTime: 12.6Edited By Android Device
+Snodgrass, Taylor (2)
+2024-05-19 15:03:00.568 - 2024-05-19 15:25:32.386Edited 23 minutes after.Edited rawpts was: 15 now: 43Edited str,0 was: 0 now: 8.5
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Corcoran, Bill (CO/Min)Added aprv: trueAdded details: [object Object]Added numAlphas: 11Added numCharlies: 1Added stringTime: 8.5Edited By Android Device2024-05-19 15:02:19.056 - 2024-05-19 15:03:00.568Edited a few seconds after.Edited rawpts was: 39 now: 15Edited str,0 was: 11.03 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Corcoran, Bill (CO/Min)Edited By Android Device
+Stage 4
+Post, Brian (1)
+2024-05-19 15:27:33.570 - 2024-05-19 15:27:58.977Edited a few seconds after.Edited rawpts was: 108 now: 106
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 19Added numCharlies: 7Added numNS: 1Added stringTime: 33.87Edited By Android Device
+Claybaugh, Daniel (1)
+2024-05-19 16:23:44.591 - 2024-05-19 16:24:04.338Edited a few seconds after.Edited rawpts was: 84 now: 82
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 13Added numCharlies: 7Added numDeltas: 6Added stringTime: 32.2Edited By Android Device
+Stage 5
+Post, Brian (1)
+2024-05-19 16:05:49.540 - 2024-05-19 16:06:22.909Edited a few seconds after.Edited rawpts was: 128 now: 126
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 24Added numCharlies: 8Added numDeltas: 2Added numNS: 1Added stringTime: 38.49Edited By Android Device
+Stage 6
+Miller, Casey (1)
+2024-05-19 16:32:56.028 - 2024-05-19 16:33:47.514Edited a minute after.Edited str,0 was: 73.88 now: 49.78Added details: [object Object]Added numAlphas: 31Added numNS: 1Added numM: 1Added stringTime: 49.78Edited By Android Device
+Arnold, Saunders (1)
+2024-05-19 16:45:40.718 - 2024-05-19 16:46:03.271Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	1	0	1	0	0
+Added details: [object Object]Added numAlphas: 20Added numCharlies: 10Added numDeltas: 1Added numNS: 4Added numM: 1Added stringTime: 35.51Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

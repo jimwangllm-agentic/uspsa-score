@@ -1,0 +1,87 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+SPCGC Hosts Kidlat Shooters 02/02/23 USPSA 2023-02-03Spring Pistol Caliber Gun Club
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Raul Sotelo	100.00%	249.3819	35.08	95.92%	Open	A		MAJOR	ty41489	39	13						
+2-Chad Folger	93.20%	232.4292	34.17	89.40%	Limited	M		MAJOR	L3031	33	17	1	1				
+3-Fredi Loke	92.25%	230.0506	33.24	88.48%	PCC	B	Super Senior	MINOR	A130588	32	18	2					
+4-Phil Truong	90.00%	224.4453	35.89	86.33%	Carry Optics	B		MINOR	FY128600	40	11	1			1		
+5-Gennady Khokhorin	76.96%	191.9157	44.90	73.81%	Production	C	Super Senior	MINOR	A123884	44	8						
+6-Robert Bui	72.82%	181.5898	36.09	69.84%	Carry Optics	B		MINOR	A103016	28	21	2	1		1		
+7-Audry Folger	69.84%	174.1803	44.69	66.99%	Limited	C	Lady	MAJOR	A125117	29	20	2	1				
+8-Eric Horn	69.65%	173.6988	40.92	66.81%	Open	U		MINOR		24	27	1					
+9-Rudy Widiaman	68.14%	169.9320	51.26	65.36%	Carry Optics	U		MINOR		41	10	1					
+10-Kirk Skinner	64.26%	160.2476	47.02	61.63%	Limited	U		MINOR		32	16	4					
+11-GLENN McKinney	63.49%	158.3352	50.77	60.90%	Limited	C	Super Senior	MAJOR	FY8311	31	19	1	1				
+12-Olayemi Bakare	62.99%	157.0953	25.46	60.42%	PCC	U		MINOR		24	11	3					
+13-Vox Esguerra	60.49%	150.8534	37.40	58.02%	Limited	U		MAJOR		14	25	10	3				
+14-Virak Meas	59.90%	149.3902	50.70	57.46%	Limited	U		MAJOR	01	38	12		2		1		
+15-Garrett Henning	59.74%	148.9796	51.52	57.30%	Limited	U		MINOR		37	13	1	1		1		
+16-Nic Blades	56.04%	139.7654	58.87	53.76%	Single Stack	C		MINOR	A83339	38	13	1					
+17-Matthew Davis	46.78%	116.6524	69.21	44.87%	Limited	U		MAJOR	TY133791	24	26	2					
+18-Duey Tran	40.95%	102.1119	66.67	39.27%	Limited	U	Law Enforcement	MINOR		30	15	7			1		
+19-Kwan Yul	25.48%	63.5453	49.04	24.44%	Limited 10	U		MAJOR		21	9	2					
+Name
+1-Raul Sotelo
+2-Chad Folger
+3-Fredi Loke
+4-Phil Truong
+5-Gennady Khokhorin
+6-Robert Bui
+7-Audry Folger
+8-Eric Horn
+9-Rudy Widiaman
+10-Kirk Skinner
+11-GLENN McKinney
+12-Olayemi Bakare
+13-Vox Esguerra
+14-Virak Meas
+15-Garrett Henning
+16-Nic Blades
+17-Matthew Davis
+18-Duey Tran
+19-Kwan Yul
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Cross Road Blues
+Pausicles, Kevin (1)
+2023-02-03 00:50:17.194 - 2023-02-03 00:50:41.350Edited a few seconds after.Removed rawpts: 46Edited str,0 was: 10.63 now: 0Removed aprv: trueAdded Reason for Edit Moved to Shooter Horn, Eric (O/Min)Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

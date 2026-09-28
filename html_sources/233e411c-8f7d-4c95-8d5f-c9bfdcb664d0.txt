@@ -1,0 +1,83 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Apr 14 USPSA 2022-04-14Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Aj Jackson	100.00%	231.1400	42.75	92.46%	Open	B		MINOR	A81745	29	18	3					
+2-Ray Fishel	93.22%	215.4620	46.54	86.18%	PCC	B	Senior	MINOR	A92443	33	16		1				
+3-Kenedy Nguyen	84.54%	195.4133	47.30	78.17%	Carry Optics	C		MINOR	A83862	24	21	5					
+4-Aaron Gillory	82.49%	190.6728	49.26	76.27%	Carry Optics	U	Law Enforcement	MINOR		32	16	1	1		1		
+5-Pete Kirchner 1	78.47%	181.3643	43.90	72.55%	Carry Optics	A		MINOR	TY105743	37	8	2	3			1	
+6-Mark Hopmann	73.36%	169.5632	60.22	67.83%	Carry Optics	B	Senior	MINOR	TY134553	43	6		1		1		
+7-Joseph Reyes	73.21%	169.2272	56.18	67.69%	PCC	B	Super Senior	MINOR	TY127665	39	9	1	1			2	
+8-Ronald Gillory	72.42%	167.3903	71.40	66.96%	PCC	B		MINOR	TY83291	36	14						
+9-Charles Bradbury	70.89%	163.8518	54.83	65.54%	PCC	C		MINOR	A107489	28	19	2	1		1		
+10-Daniel Dinh	70.89%	163.8464	62.08	65.54%	Carry Optics	C		MINOR	A135920	31	17	2					
+11-Mark Lutzel	65.96%	152.4518	61.74	60.98%	Carry Optics	C	Senior	MINOR	FY101009	38	10		2		1		
+12-Blaine Newlin	50.39%	116.4762	61.92	46.59%	Limited 10	B		MINOR	TY103350	32	10	2	6			4	
+13-Lisa Nguyen	47.72%	110.3091	63.89	44.12%	Open	D	Lady	MAJOR	A135827	25	18	3	4			1	
+14-David Hruzek	43.17%	99.7732	76.96	39.91%	Carry Optics	C	Senior	MINOR	A100909	25	18	4	3				
+15-Peter Hoang	38.93%	89.9733	77.86	35.99%	Carry Optics	U		MINOR		27	19	2	2		3		
+16-Byron j Frank	27.87%	64.4096	97.78	25.76%	Carry Optics	U		MINOR	A139338	16	27	5	2		1		
+17-Rob Stauber	4.55%	10.5087	17.50	4.20%	Limited 10	U		MAJOR		6	2	3	3				
+Name
+1-Aj Jackson
+2-Ray Fishel
+3-Kenedy Nguyen
+4-Aaron Gillory
+5-Pete Kirchner 1
+6-Mark Hopmann
+7-Joseph Reyes
+8-Ronald Gillory
+9-Charles Bradbury
+10-Daniel Dinh
+11-Mark Lutzel
+12-Blaine Newlin
+13-Lisa Nguyen
+14-David Hruzek
+15-Peter Hoang
+16-Byron j Frank
+17-Rob Stauber
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Kirchner, Pete (1)
+2022-04-15 00:26:56.834 - 2022-04-15 00:27:25.342Edited a few seconds after.Added proc: 1Added details: [object Object]Added numAlphas: 9Added numCharlies: 1Added numM: 2Added numProc: 1Added stringTime: 9.64Edited By BCPS KINDLE FIRE #2
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

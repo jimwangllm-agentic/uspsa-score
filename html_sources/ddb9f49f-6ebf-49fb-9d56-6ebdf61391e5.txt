@@ -1,0 +1,178 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros April 30 2016--USPSA USPSA/IPSC 2016-04-30Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	P
+1-Cory L Klemashevich 2	100.00%	437.2496	67.06	99.37%	Limited	B		MINOR	a87214	51	22	2	5		2	
+2-Bill Corcoran 4	59.92%	262.0015	76.10	59.55%	Limited	U		MINOR		46	24	3	13		3	
+3-Jessica Wright	45.89%	200.6702	102.50	45.61%	Limited	U	Lady	MINOR		49	23	4	10		2	
+4-Daniel DuBuisson 2	40.22%	175.8780	132.53	39.97%	Carry Optics	U		MINOR	L3935	46	18	7	7		3	
+5-Chris Salch	19.79%	86.5463	202.49	19.67%	Limited	U		MAJOR		40	20	7	13		3	
+6-James D Klemashevich	14.00%	61.2363	169.80	13.92%	Open	U	Senior	MAJOR		46	22	6	14		8	
+7-James Johnson	4.76%	20.8017	187.56	4.73%	Single Stack	U		MAJOR		19	24	12	31		3	
+8-JW Aguirre	0.00%	0.0000		0.00%	Revolver	C	Preteen	MINOR	A87708							
+9-John Austria	0.00%	0.0000		0.00%	Production	C		MINOR	Ty82746							
+10-John Austria	0.00%	0.0000		0.00%	Production	C		MINOR	Ty82746							
+11-Dave Campbell	0.00%	0.0000		0.00%	Open	M	Super Senior	MAJOR	ty26527							
+12-Eric Castillo	0.00%	0.0000		0.00%	Limited	D		MAJOR	A87497							
+13-Michael Henss	0.00%	0.0000		0.00%	Limited	C		MINOR	A56644							
+14-AJ Jackson	0.00%	0.0000		0.00%	Single Stack	B		MAJOR	A81745							
+15-Lan Nguyen	0.00%	0.0000		0.00%	Limited	A		MINOR	A81359							
+16-Brad Phair	0.00%	0.0000		0.00%	Limited	C	Senior	MINOR								
+17-Joseph Scheffey	0.00%	0.0000		0.00%	Production	X		MINOR								
+18-Shane Simpson	0.00%	0.0000		0.00%	Limited	C		MAJOR	A93426							
+19-Mike Whitesides	0.00%	0.0000		0.00%	Open	A		MAJOR	A81358							
+20-Scott Yarbrough	0.00%	0.0000		0.00%	Production	U		MINOR	A-90871							
+21-waldo samano	0.00%	0.0000		0.00%	Limited	B		MAJOR	A87973							
+Name
+1-Cory L Klemashevich 2
+2-Bill Corcoran 4
+3-Jessica Wright
+4-Daniel DuBuisson 2
+5-Chris Salch
+6-James D Klemashevich
+7-James Johnson
+8-JW Aguirre
+9-John Austria
+10-John Austria
+11-Dave Campbell
+12-Eric Castillo
+13-Michael Henss
+14-AJ Jackson
+15-Lan Nguyen
+16-Brad Phair
+17-Joseph Scheffey
+18-Shane Simpson
+19-Mike Whitesides
+20-Scott Yarbrough
+21-waldo samano
+Old style results
+
+Score Edit History
+Listing Lazily To The Left
+Klemashevich, Cory L (1)
+2016-04-30 14:54:53.510 - 2016-04-30 14:57:10.642Edited 2 minutes after.Edited rawpts was: 88 now: 98
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 11Added numBravos: 3Added numCharlies: 11Added numDeltas: 1Added numNS: 1Added stringTime: 14.43Edited By Android Device
+Get To The Trailer
+Klemashevich, Cory L (1)
+2016-04-30 16:13:38.559 - 2016-04-30 16:14:18.468Edited a few seconds after.Edited rawpts was: 65 now: 70
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	1	1	0
+Current	2	0	0	0	1	0	0
+Added details: [object Object]Added numAlphas: 11Added numBravos: 2Added numCharlies: 3Added numNS: 1Added stringTime: 15.4Edited By Android Device
+DuBuisson, Daniel (2)
+2016-04-30 16:23:31.622 - 2016-04-30 16:27:07.382Edited 4 minutes after.Edited str,0 was: 0 now: 21.76
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	1	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added rawpts: 66Added details: [object Object]Added numAlphas: 9Added numBravos: 2Added numCharlies: 5Added stringTime: 21.76Edited By Android Device2016-04-30 16:15:57.838 - 2016-04-30 16:23:31.622Edited 8 minutes after.Removed rawpts: 49Edited str,0 was: 16.42 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	1	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited By Android Device
+Corcoran, Bill (4)
+2016-04-30 16:19:05.438 - 2016-04-30 16:19:17.416Edited a few seconds after.Edited str,0 was: 0 now: 16.42Added details: [object Object]Added numAlphas: 7Added numCharlies: 4Added numNS: 1Added numM: 5Added stringTime: 16.42Edited By Android Device2016-04-30 16:18:33.738 - 2016-04-30 16:19:05.438Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+Edited By Android Device2016-04-30 16:18:13.021 - 2016-04-30 16:18:33.738Edited a few seconds after.Edited rawpts was: 37 now: 47
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited By Android Device2016-04-30 16:17:41.948 - 2016-04-30 16:18:13.021Edited a few seconds after.Edited rawpts was: 42 now: 37
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	0	0	0	0
+Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

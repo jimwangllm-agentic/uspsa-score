@@ -1,0 +1,81 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+SPCGC Hosts Kidlat Shooters USPSA 09-07-23 USPSA 2023-09-07Spring Pistol Caliber Gun Club
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Jake Mansfield	100.00%	230.0000	19.55	95.83%	Carry Optics	A		MINOR	FY101123	38	9	1					
+2-Chad Folger	81.49%	187.4343	22.81	78.10%	Limited	M		MAJOR	L3031	22	20	5					
+3-Christian Canizales 1	80.18%	184.4180	23.78	76.84%	Carry Optics	C		MINOR	TY150265	31	15	1					
+4-Phil Truong	77.08%	177.2861	21.05	73.87%	Limited Optics	U		MINOR	FY128600	29	17	2				2	
+5-Raul Sotelo	73.77%	169.6824	21.86	70.70%	Limited Optics	U		MINOR	Ty41489	27	19	2				2	
+6-Rudy Widiaman	71.46%	164.3516	27.35	68.48%	Limited Optics			MINOR		31	15	2					
+7-GLENN McKinney	61.89%	142.3437	32.79	59.31%	Limited	C	Super Senior	MAJOR	FY8311	23	21	2					
+8-Audry Folger	61.03%	140.3575	30.42	58.48%	Limited	C	Lady	MAJOR	A125117	23	19	2			1		
+9-Virak Meas	58.74%	135.0996	27.31	56.29%	Limited Optics	U	Senior	MINOR	O	23	17	4	1				
+10-Kirk Skinner	55.06%	126.6465	30.19	52.77%	Open	U		MINOR		28	17	1	2				
+11-Gennady Khokhorin	51.44%	118.3190	28.88	49.30%	Production	B	Super Senior	MINOR	A123884	22	16	5	1				
+12-Chadrick Smith	48.60%	111.7825	28.76	46.58%	Carry Optics	D		MINOR	A141153	23	15	5	1		1		
+13-Keishaun Smith	40.73%	93.6892	35.84	39.04%	Limited	U	Junior	MINOR	A153220	21	20	3	1		2		
+14-Matthew Davis	26.55%	61.0598	56.46	25.44%	Limited	U		MAJOR	TY133791	17	18	3	2		1		
+Name
+1-Jake Mansfield
+2-Chad Folger
+3-Christian Canizales 1
+4-Phil Truong
+5-Raul Sotelo
+6-Rudy Widiaman
+7-GLENN McKinney
+8-Audry Folger
+9-Virak Meas
+10-Kirk Skinner
+11-Gennady Khokhorin
+12-Chadrick Smith
+13-Keishaun Smith
+14-Matthew Davis
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Canizales, Christian (1)
+2023-09-08 00:03:51.231 - 2023-09-08 00:04:17.622Edited a few seconds after.Edited rawpts was: 86 now: 84
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 12Added numCharlies: 8Added stringTime: 14.46Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

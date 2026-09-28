@@ -1,0 +1,85 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+SPCGC USPSA Hosts Kidlat shooters 01-04-24 USPSA 2024-01-05Spring Pistol Caliber Gun Club
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Christian Canizales	100.00%	320.6706	42.91	89.08%	Carry Optics	B		MINOR	TY150265	50	14	7	1				
+2-Phil Truong 1	97.93%	314.0326	41.46	87.23%	Open	C		MINOR	FY128600	49	19	2	2			1	
+3-Raul Sotelo	97.31%	312.0369	49.99	86.68%	Open	M		MAJOR	ty41489	50	21	1			1		
+4-Clinton Shawhan	91.77%	294.2641	45.69	81.74%	Limited Optics	U		MINOR	A106964	46	23	2	1		1		
+5-Gennady Khokhorin	81.55%	261.5177	56.15	72.64%	Production	B	Super Senior	MINOR	A123884	57	11	3	1				
+6-Michael Martin	79.67%	255.4724	53.67	70.96%	Limited Optics	B		MINOR	TY147450	50	20		2				
+7-Virak Meas	78.09%	250.4164	54.29	69.56%	Open	U	Senior	MINOR	O	38	30	4					
+8-Fredi Loke	75.99%	243.6925	50.27	67.69%	Open	C	Super Senior	MINOR	A130588	31	31	10					
+9-Jesse Harrington	72.90%	233.7604	49.83	64.93%	Limited Optics	C		MINOR	A153046	49	19		4		1		
+10-GLENN McKinney	69.53%	222.9647	64.77	61.93%	Open	C	Super Senior	MAJOR	FY8311	45	19	7	1				
+11-Kevin Pessetto	65.45%	209.8916	64.15	58.30%	Carry Optics	U		MINOR	A149226	47	20	3	2				
+12-Kirk Skinner	62.67%	200.9685	60.12	55.82%	Limited	U		MINOR		40	27	3	2		1		
+13-Nic Blades	61.89%	198.4786	69.19	55.13%	Single Stack	C		MINOR	A83339	58	11	2	1		1	2	
+14-Estalilla Sean	57.41%	184.0983	68.29	51.14%	Limited Optics	U		MINOR		46	20	4	2		1		
+15-vox Esguerra	45.16%	144.8120	81.01	40.23%	Single Stack	U		MAJOR	A79097	34	28	6	4		1		
+16-Chris Trevino	43.31%	138.8890	96.14	38.58%	Limited Optics	U		MINOR		49	18	3	2				
+17-Eric Esico	43.02%	137.9589	73.01	38.32%	Single Stack	C		MINOR	TY150782	35	24	7	6				
+18-Yul Kwan	34.67%	111.1657	122.20	30.88%	Single Stack	U	Senior	MINOR	0	48	19	3	2				
+Name
+1-Christian Canizales
+2-Phil Truong 1
+3-Raul Sotelo
+4-Clinton Shawhan
+5-Gennady Khokhorin
+6-Michael Martin
+7-Virak Meas
+8-Fredi Loke
+9-Jesse Harrington
+10-GLENN McKinney
+11-Kevin Pessetto
+12-Kirk Skinner
+13-Nic Blades
+14-Estalilla Sean
+15-vox Esguerra
+16-Chris Trevino
+17-Eric Esico
+18-Yul Kwan
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Truong, Phil (1)
+2024-01-05 00:40:26.668 - 2024-01-05 00:40:39.835Edited a few seconds after.Added proc: 1Added details: [object Object]Added numAlphas: 21Added numCharlies: 5Added numM: 2Added numProc: 1Added stringTime: 17.58Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

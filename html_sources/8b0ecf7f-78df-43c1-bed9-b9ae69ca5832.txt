@@ -1,0 +1,338 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA Oct 21, 2018 USPSA 2018-10-21
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Wade Whetstone 2	100.00%	652.8125	58.05	96.71%	Open	G		MAJOR	A82591	99	29	4	3				
+2-Jason Yu	87.32%	570.0554	68.50	84.45%	Open	B		MAJOR		87	39	7	1		1		
+3-Brian Levy 2	77.95%	508.8844	78.78	75.39%	Carry Optics	A		MINOR	TY84373	117	11	1	3				
+4-Holdon Perez	77.84%	508.1434	82.79	75.28%	PCC	U	Junior	MINOR	TY87515	115	12	4			1		
+5-Ben Gilman	75.38%	492.0993	84.60	72.90%	Limited	M		MINOR	A78421	115	12	4	1				
+6-Randy Goodney	74.34%	485.2981	84.24	71.90%	Open	A		MAJOR	A94852	99	25	9	1				
+7-gerrit milks	73.64%	480.7549	89.20	71.22%	PCC	B	Senior	MINOR	A67608	120	4	3	1				
+8-Robert Franks	69.85%	456.0057	93.70	67.56%	Single Stack	A		MAJOR	l3464	106	20	5	1				
+9-Jonathan Foo 1	68.00%	443.9376	90.71	65.77%	Limited			MINOR		108	21	3	2			2	
+10-Bradley Phair	65.98%	430.6991	96.72	63.81%	PCC	C	Senior	MINOR		108	21	1	1				
+11-aaron writtenberry	65.89%	430.1139	93.44	63.72%	Open	U		MINOR	A107568	104	20	5	2				
+12-Rolan Ocampo	65.64%	428.5093	92.26	63.48%	Production	A		MINOR		107	21	3	3				
+13-Daniel DuBuisson	65.02%	424.4869	96.74	62.89%	PCC	C		MINOR	L3935	114	17	2	1		1		
+14-Eric Mccampbell	63.56%	414.9012	107.82	61.47%	Limited	C	Senior	MAJOR	A14332	108	21	3	2				
+15-Jeff Rockwell	62.95%	410.9148	99.63	60.88%	Limited	B		MINOR	A99506	110	19	5	1		1		
+16-Paul Felker	62.02%	404.8911	88.17	59.98%	Carry Optics	B		MINOR	A107123	102	19	7	4		1		
+17-William Conlan 1	61.63%	402.3269	85.06	59.60%	Limited	A		MINOR	A45421	101	15	11	5		1		
+18-Tommy Teas	59.53%	388.5894	98.96	57.57%	Limited	B	Senior	MINOR	TY2227	90	34	8	1		1		
+19-Marco Arias	58.93%	384.7018	112.16	56.99%	Limited	U		MINOR		107	23	3	2				
+20-John Castleberry	58.08%	379.1306	117.21	56.17%	PCC			MINOR		111	20	1	1		1		
+21-David Duffy	55.50%	362.3181	103.55	53.68%	Carry Optics	U		MINOR	A106456	106	20	3	4		2		
+22-Steven Bartlett	54.63%	356.6132	113.37	52.83%	Production	U	Military	MINOR		110	10	6	3				
+23-nick milks	54.10%	353.1417	111.93	52.32%	Limited	D		MINOR	A109961	101	20	7	1				
+24-Raul Gonzalez	53.65%	350.2041	107.16	51.88%	Limited	U		MINOR		98	20	8	3				
+25-Dale Hamm	50.80%	331.6031	124.28	49.13%	PCC	C	Senior	MINOR	TY97196	101	21	6	2				
+26-Jay Hafemeister	49.55%	323.4941	128.46	47.93%	Production	B		MINOR	TY87794	111	11	5	3				
+27-Mary DuBuisson	48.43%	316.1891	116.99	46.84%	PCC	C	Lady	MINOR	FY77442	99	27	4	3			2	
+28-Grant Grabowski	45.90%	299.6321	123.72	44.39%	Production	U		MINOR		108	9	5	9		1		
+29-Gary Brisco	45.06%	294.1705	125.56	43.58%	Carry Optics	C	Senior	MINOR	FY73704	93	27	10	2			2	
+30-Carl Rugg	44.51%	290.5419	163.03	43.04%	PCC	D	Super Senior	MINOR	A98356	115	12	3					
+31-Kevin Baker 2	43.77%	285.7568	129.53	42.33%	Production	C		MINOR	A95439	93	22	12	4				
+32-Chris correa	43.42%	283.4716	121.63	42.00%	Production	C		MINOR	A108149	91	23	4	5		1		
+33-Matt Costenbader	42.74%	279.0176	138.95	41.34%	Open			MAJOR		93	24	7	4		2		
+34-Daniel Beal	42.51%	277.5012	139.16	41.11%	Limited	X		MINOR		95	23	10	1		1		
+35-Mark Lutzel	42.32%	276.2383	132.02	40.92%	Limited	C	Senior	MAJOR	TY101009	96	17	13	6		1		
+36-Robert Bui	42.01%	274.2770	122.27	40.63%	Production	C		MINOR	A103016	95	17	12	6		2		
+37-Don Same	41.71%	272.3069	132.13	40.34%	PCC	D	Senior	MINOR		106	17	2	7		2	4	
+38-Robert Bass	39.94%	260.7439	147.00	38.63%	Production	U	Junior	MINOR		91	27	12	1				
+39-Juliann milks	39.68%	259.0244	151.16	38.37%	Limited	U	Lady, Junior	MINOR	A110188	92	31	4	2				
+40-John Barnes	39.51%	257.9021	166.09	38.21%	Single Stack	D		MINOR		109	12	8	1				
+41-Stephen Pearce	39.14%	255.4814	152.78	37.85%	Limited	U	Super Senior	MAJOR		93	27	6	2		1	1	
+42-John Castleberry 1	30.69%	200.3465	160.67	29.68%	Limited			MINOR		92	19	5	10		3	1	
+43-greg thoede	29.78%	194.4400	173.34	28.81%	Production	C	Super Senior	MINOR	FY16969	93	20	5	5		1		
+44-Kevin Fontenot	25.73%	167.9975	172.89	24.89%	Production	U	Senior	MINOR	A112054	87	16	6	19		1		
+45-Brett McCully 1	24.23%	158.1509	160.48	23.43%	Production	U	Senior	MINOR		80	25	9	10		3		
+46-jim johnson	20.44%	133.4295	281.05	19.77%	Single Stack	U	Super Senior	MAJOR		83	26	9	9		1		
+47-Mike Kilgore	16.75%	109.3439	243.87	16.20%	Limited			MINOR		84	17	11	13		1		
+DQ-Homer Guidry	0.00%	0.0000		0.00%	Open	U		MINOR									
+Name
+1-Wade Whetstone 2
+2-Jason Yu
+3-Brian Levy 2
+4-Holdon Perez
+5-Ben Gilman
+6-Randy Goodney
+7-gerrit milks
+8-Robert Franks
+9-Jonathan Foo 1
+10-Bradley Phair
+11-aaron writtenberry
+12-Rolan Ocampo
+13-Daniel DuBuisson
+14-Eric Mccampbell
+15-Jeff Rockwell
+16-Paul Felker
+17-William Conlan 1
+18-Tommy Teas
+19-Marco Arias
+20-John Castleberry
+21-David Duffy
+22-Steven Bartlett
+23-nick milks
+24-Raul Gonzalez
+25-Dale Hamm
+26-Jay Hafemeister
+27-Mary DuBuisson
+28-Grant Grabowski
+29-Gary Brisco
+30-Carl Rugg
+31-Kevin Baker 2
+32-Chris correa
+33-Matt Costenbader
+34-Daniel Beal
+35-Mark Lutzel
+36-Robert Bui
+37-Don Same
+38-Robert Bass
+39-Juliann milks
+40-John Barnes
+41-Stephen Pearce
+42-John Castleberry 1
+43-greg thoede
+44-Kevin Fontenot
+45-Brett McCully 1
+46-jim johnson
+47-Mike Kilgore
+DQ-Homer Guidry
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1-Get To The Trailer
+Foo, Jonathan (1)
+2018-10-21 15:56:44.857 - 2018-10-21 16:04:06.717Edited 7 minutes after.Edited str,0 was: 15.48 now: 18.82
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added rawpts: 108Added details: [object Object]Added numAlphas: 18Added numCharlies: 6Added numProc: 2Added stringTime: 18.82Edited By Android Device
+Stage 2-Pantera
+Levy, Brian (2)
+2018-10-21 16:47:35.115 - 2018-10-21 16:50:39.758Edited 3 minutes after.Edited rawpts was: 40 now: 120Edited str,0 was: 0 now: 17.25
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded details: [object Object]Added numAlphas: 32Added stringTime: 17.25Edited By Android Device2018-10-21 16:46:32.774 - 2018-10-21 16:47:35.115Edited a minute after.Edited popm was: 1 now: 0Edited poph was: 7 now: 8Edited rawpts was: 113 now: 40Edited str,0 was: 17.15 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit ReshootEdited By Android Device
+Stage3-Lightning And Thunder
+Whetstone, Wade (2)
+2018-10-21 17:12:19.199 - 2018-10-21 17:14:33.691Edited 2 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	4	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	3	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	1	1	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 79Added details: [object Object]Added numAlphas: 9Added numCharlies: 8Added numDeltas: 1Edited By Android Device2018-10-21 17:06:03.376 - 2018-10-21 17:12:19.199Edited 6 minutes after.Removed rawpts: 83
+A	B	C	D	NS	M	NPM
+Previous	4	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	4	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	3	0	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit ReshootEdited By Android Device
+Castleberry, John (1)
+2018-10-21 15:44:08.993 - 2018-10-21 15:44:56.701Edited a minute after.Removed ots: 2Added details: [object Object]Added numAlphas: 5Added numBravos: 1Added numCharlies: 5Added numDeltas: 1Added numNPM: 6Edited By Android Device
+Stage 4-Gather In Close Now
+McCully, Brett (1)
+2018-10-21 15:51:19.023 - 2018-10-21 15:52:27.875Edited a minute after.Edited rawpts was: 101 now: 104
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	1	1	0
+Current	1	1	0	0	1	0	0
+Added details: [object Object]Added numAlphas: 29Added numBravos: 1Added numCharlies: 2Added numNS: 1Added numM: 2Added stringTime: 38.84Edited By Android Device
+Stage 6-Fun Tickets
+Baker, Kevin (2)
+2018-10-21 15:52:54.220 - 2018-10-21 15:54:03.187Edited a minute after.Edited rawpts was: 10 now: 94Edited str,0 was: 0 now: 19.24
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded details: [object Object]Added numAlphas: 17Added numCharlies: 6Added numDeltas: 1Added stringTime: 19.24Edited By Android Device2018-10-21 15:48:58.760 - 2018-10-21 15:52:54.220Edited 4 minutes after.Edited popm was: 1 now: 0Edited poph was: 1 now: 2Edited rawpts was: 79 now: 10Edited str,0 was: 21.67 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit ReshootEdited By Android Device
+Conlan, William (1)
+2018-10-21 15:14:05.573 - 2018-10-21 15:15:01.075Edited a minute after.Edited rawpts was: 105 now: 100
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Added details: [object Object]Added numAlphas: 22Added numM: 2Added stringTime: 13.89Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

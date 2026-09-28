@@ -1,0 +1,167 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday March 10th USPSA 2024-03-10Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Travis Ritter 1	100.00%	570.0132	99.95	87.02%	PCC	U		MINOR	TY63232	95	33	2	1				
+2-Cory Klemashevich 3	94.28%	537.3842	92.53	82.04%	PCC	G		MINOR	L5150	78	45	7	1		3		
+3-Thomas Rodriguez 1	93.95%	535.5121	91.35	81.76%	Limited	A		MINOR		83	39	6	3		2		
+4-Cory Klemashevich 1	92.90%	529.5390	89.63	80.85%	Limited	G		MINOR	L5150	82	39	6	4		2		
+5-Kyle Post 1	88.15%	502.4707	94.43	76.71%	Production	M	Law Enforcement	MINOR	A74846	78	39	11	3		1		
+6-Zach Smith 1	88.09%	502.1435	114.26	76.66%	Carry Optics	C		MINOR	A152801	95	33	2	1				
+7-William Conlan 1	81.57%	464.9624	111.06	70.99%	Limited Optics	B		MINOR	A45421	87	36	5	3		1		
+8-Jeff Ort 1	76.45%	435.7606	101.41	66.53%	Open	M		MAJOR		68	45	9	9			1	
+9-gerrit milks	72.41%	412.7249	136.94	63.01%	PCC	A	Super Senior	MINOR	A67608	96	29	5	1				
+10-Nick milks	71.88%	409.7101	140.41	62.55%	PCC	U		MINOR		89	39	3			1		
+11-Juliann milks	71.81%	409.3451	123.11	62.50%	PCC	U	Lady	MINOR		79	43	6	3				
+12-Michael Kellett 1	71.16%	405.6036	140.77	61.92%	PCC	U		MINOR		94	33	4			1		
+13-Jason Poindexter 1	66.84%	381.0153	141.01	58.17%	Limited Optics	U	Senior	MINOR	A157207	83	40	8					
+14-Tommy Teas	63.54%	362.2029	146.95	55.30%	Limited	B	Senior	MINOR	TY2227	93	32	4	2		2		
+15-Jason Wilson 1	55.77%	317.9108	174.37	48.54%	Revolver	G		MAJOR	A94696	94	29	4	4				
+16-Tara Smith 1	53.40%	304.4083	169.20	46.47%	Limited Optics	U	Lady	MINOR	A157724	92	34	4	1		2	2	
+17-Taylor Latham	52.00%	296.3986	188.53	45.25%	Single Stack	B	Senior	MINOR	TY39841	96	31	1	3		1		
+18-John Vrablec 1	49.12%	279.9911	162.95	42.75%	PCC	C		MINOR		82	39	5	5		5		
+19-Dale Hamm	43.55%	248.2272	171.88	37.90%	Limited Optics	U	Senior	MINOR	TY97196	74	43	8	6		1		
+20-Bryce Fry 1	43.14%	245.9103	130.42	37.54%	Limited	U		MINOR		66	44	9	12		4	2	
+21-Richard Caples 1	37.95%	216.3118	215.95	33.02%	Open	U		MINOR		99	20	5	7		3		
+22-Jesse Gurrola	22.98%	131.0021	185.57	20.00%	Limited	X	Junior	MINOR		64	33	12	22		2		
+23-Richard Caples 2	19.12%	109.0034	304.26	16.64%	Single Stack	U		MAJOR	TY157799	84	24	11	12		6	3	
+24-Sarah Salo	6.40%	36.4766	367.94	5.57%	Limited	X	Lady	MINOR		51	37	15	28		6		
+DQ-Saunders Arnold	0.00%	0.0000		0.00%	Carry Optics	C		MINOR	L5609								
+Name
+1-Travis Ritter 1
+2-Cory Klemashevich 3
+3-Thomas Rodriguez 1
+4-Cory Klemashevich 1
+5-Kyle Post 1
+6-Zach Smith 1
+7-William Conlan 1
+8-Jeff Ort 1
+9-gerrit milks
+10-Nick milks
+11-Juliann milks
+12-Michael Kellett 1
+13-Jason Poindexter 1
+14-Tommy Teas
+15-Jason Wilson 1
+16-Tara Smith 1
+17-Taylor Latham
+18-John Vrablec 1
+19-Dale Hamm
+20-Bryce Fry 1
+21-Richard Caples 1
+22-Jesse Gurrola
+23-Richard Caples 2
+24-Sarah Salo
+DQ-Saunders Arnold
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 4
+Caples, Richard (1)
+2024-03-10 14:34:49.793 - 2024-03-10 14:35:22.275Edited a few seconds after.Added proc: 1Added details: [object Object]Added numAlphas: 10Added numCharlies: 4Added numDeltas: 3Added numNS: 1Added numM: 1Added numProc: 1Added stringTime: 43.88Edited By Android Device
+Stage 5
+Klemashevich, Cory (2)
+2024-03-10 16:24:11.704 - 2024-03-10 16:25:40.957Edited a minute after.Edited rawpts was: 10 now: 52Edited str,0 was: 0 now: 6.4
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Klemashevich, Cory (L/Min)Added aprv: trueAdded details: [object Object]Added numAlphas: 10Added numCharlies: 4Added stringTime: 6.4Edited By Android Device2024-03-10 16:22:36.627 - 2024-03-10 16:24:11.704Edited 2 minutes after.Edited rawpts was: 52 now: 10Edited str,0 was: 6.85 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Klemashevich, Cory (L/Min)Edited By Android Device
+Stage 7
+Wilson, Jason (1)
+2024-03-10 16:03:37.455 - 2024-03-10 19:50:43.779Edited 4 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 24Added numCharlies: 2Added stringTime: 24.31Edited By Android Device
+Conlan, William (1)
+2024-03-10 16:42:55.385 - 2024-03-10 19:50:31.897Edited 3 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 25Added numNS: 1Added numM: 1Added stringTime: 15.04Edited By Android Device
+Caples, Richard (1)
+2024-03-10 15:49:26.607 - 2024-03-10 19:50:43.778Edited 4 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 20Added numCharlies: 2Added numNS: 1Added numM: 4Added numProc: 2Added stringTime: 45.99Edited By Android Device
+Poindexter, Jason (1)
+2024-03-10 16:05:52.107 - 2024-03-10 19:50:43.779Edited 4 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 17Added numCharlies: 9Added stringTime: 20.84Edited By Android Device
+Post, Kyle (1)
+2024-03-10 16:31:08.847 - 2024-03-10 19:50:31.895Edited 3 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 14Added numCharlies: 10Added numDeltas: 2Added stringTime: 12.87Edited By Android Device
+Caples, Richard (1)
+2024-03-10 15:58:12.668 - 2024-03-10 19:50:43.778Edited 4 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 17Added numCharlies: 7Added numDeltas: 1Added numM: 1Added stringTime: 29.99Edited By Android Device
+Smith, Zach (1)
+2024-03-10 15:54:12.894 - 2024-03-10 19:50:43.780Edited 4 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 23Added numCharlies: 3Added stringTime: 15.83Edited By Android Device
+Klemashevich, Cory (1)
+2024-03-10 16:23:45.448 - 2024-03-10 19:50:31.895Edited 3 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 18Added numCharlies: 8Added stringTime: 12.77Edited By Android Device
+Rodriguez, Thomas (1)
+2024-03-10 16:35:12.443 - 2024-03-10 19:50:31.896Edited 3 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 19Added numCharlies: 6Added numM: 1Added stringTime: 13.09Edited By Android Device
+Vrablec, John (1)
+2024-03-10 16:38:54.695 - 2024-03-10 19:50:31.896Edited 3 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 21Added numCharlies: 5Added numNS: 1Added stringTime: 24.92Edited By Android Device
+Kellett, Michael (1)
+2024-03-10 15:55:43.914 - 2024-03-10 19:50:43.779Edited 4 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 20Added numCharlies: 6Added stringTime: 17.34Edited By Android Device
+Ort, Jeff (1)
+2024-03-10 16:50:08.733 - 2024-03-10 19:50:31.897Edited 3 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 14Added numCharlies: 7Added numDeltas: 3Added numM: 2Added stringTime: 19.47Edited By Android Device
+Fry, Bryce (1)
+2024-03-10 16:47:18.141 - 2024-03-10 19:50:31.897Edited 3 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 11Added numCharlies: 13Added numDeltas: 2Added stringTime: 19.49Edited By Android Device
+Smith, Tara (1)
+2024-03-10 15:52:17.935 - 2024-03-10 19:50:43.780Edited 4 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 24Added numCharlies: 2Added numNS: 1Added stringTime: 27.13Edited By Android Device
+Ritter, Travis (1)
+2024-03-10 16:01:07.064 - 2024-03-10 19:50:43.778Edited 4 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 20Added numCharlies: 5Added numDeltas: 1Added stringTime: 19.53Edited By Android Device
+Klemashevich, Cory (1)
+2024-03-10 16:26:54.413 - 2024-03-10 19:50:31.896Edited 3 hours after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 14Added numCharlies: 12Added stringTime: 11.74Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

@@ -1,0 +1,175 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly May 12 USPSA 2022-05-12Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Aaron Gillory 1	100.00%	252.0077	53.54	86.90%	Carry Optics	U	Law Enforcement	MINOR		40	17		1				
+2-Pete Kirchner	96.45%	243.0644	51.09	83.82%	Carry Optics	A		MINOR	TY105743	39	15	1	1			1	
+3-Blaine Newlin	87.43%	220.3183	56.62	75.97%	Limited 10	B	Foreign	MINOR	TY103350	43	12		3				
+4-Ronald Gillory jr.	78.92%	198.8751	67.58	68.58%	PCC	B		MINOR	TY83291	31	26						
+5-Aj Jackson 1	78.75%	198.4622	51.35	68.44%	Open	B		MINOR	A81745	32	22		4				
+6-Ray Fishel	75.10%	189.2652	52.71	65.26%	PCC	B	Senior	MINOR	A92443	36	18		4		2		
+7-Mark Lutzel 2	69.95%	176.2871	58.87	60.79%	Carry Optics	C	Senior	MINOR	FY101009	33	21		3		1		
+8-Joseph Reyes	64.90%	163.5617	58.50	56.40%	PCC	B	Super Senior	MINOR	TY127665	27	26	2	3		1		
+9-Mark Hopmann	62.62%	157.8030	66.49	54.41%	Open	C	Senior	MINOR	TY134553	35	19		4		1		
+10-David Hruzek	54.25%	136.7028	78.05	47.14%	Carry Optics	C	Senior	MINOR	A100909	26	29	1	2		1		
+11-Charles Bradbury	47.22%	118.9972	60.05	41.03%	PCC	C		MINOR	A107489	24	27	1	6		1	1	
+12-John Del toro 1	43.08%	108.5661	101.89	37.44%	Limited 10	C	Super Senior	MINOR	A107511	30	25	1	2		1		
+13-Lauren Christenson	43.01%	108.3796	89.76	37.37%	Carry Optics	U	Lady	MINOR		31	17	4	4		1		
+14-Santiago Fields 1	37.90%	95.5042	77.36	32.93%	Limited	D		MINOR	TY128653	29	21	1	5		3		
+15-Donald Fishel 1	24.27%	61.1698	102.15	21.09%	Production	U		MINOR		30	18	2	8		1		
+16-Roche Diarmaid	22.29%	56.1640	95.89	19.37%	Limited	U	Foreign	MINOR		25	18	6	9		1		
+17-Matt Baum 1	17.59%	44.3352	69.32	15.29%	Limited	U		MINOR	A141110	18	18	9	12		2		
+18-Jess Johnson 1	15.17%	38.2360	68.83	13.18%	Production	C		MINOR	A81332	19	15	4	8		2		
+19-Paul Parker	0.00%	0.0000		0.00%	Limited	A	Senior	MAJOR									
+Name
+1-Aaron Gillory 1
+2-Pete Kirchner
+3-Blaine Newlin
+4-Ronald Gillory jr.
+5-Aj Jackson 1
+6-Ray Fishel
+7-Mark Lutzel 2
+8-Joseph Reyes
+9-Mark Hopmann
+10-David Hruzek
+11-Charles Bradbury
+12-John Del toro 1
+13-Lauren Christenson
+14-Santiago Fields 1
+15-Donald Fishel 1
+16-Roche Diarmaid
+17-Matt Baum 1
+18-Jess Johnson 1
+19-Paul Parker
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+STAGE 1
+Johnson, Jess (1)
+2022-05-13 00:41:19.561 - 2022-05-13 00:42:03.191Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+Added details: [object Object]Added numAlphas: 5Added numCharlies: 4Added numDeltas: 2Added numNS: 1Added numM: 5Added stringTime: 24.02Edited By BCPS KINDLE FIRE #3
+Del toro, John (1)
+2022-05-13 00:01:14.642 - 2022-05-13 00:01:57.625Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+Added details: [object Object]Added numAlphas: 9Added numCharlies: 6Added numNS: 1Added numM: 1Added stringTime: 29.57Edited By BCPS KINDLE FIRE #2
+STAGE 2
+Lutzel, Mark (1)
+2022-05-13 00:43:48.012 - 2022-05-13 00:44:30.205Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+Added details: [object Object]Added numAlphas: 8Added numCharlies: 11Added numNS: 1Added numM: 1Added stringTime: 18.64Edited By BCPS KINDLE FIRE #2
+Baum, Matt (1)
+2022-05-13 00:02:39.138 - 2022-05-13 00:03:33.546Edited a minute after.Edited rawpts was: 7 now: 35
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	1	0	1	0
+Current	0	0	0	1	1	1	0
+Added aprv: trueAdded details: [object Object]Added numAlphas: 3Added numCharlies: 7Added numDeltas: 4Added numNS: 1Added numM: 6Added stringTime: 25.84Edited By BCPS KINDLE FIRE #3
+STAGE 4
+Fields, Santiago (1)
+2022-05-13 01:28:58.286 - 2022-05-13 01:29:37.461Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	1	0	1
+Current	0	0	0	0	1	0	2
+Added aprv: trueAdded details: [object Object]Added numAlphas: 5Added numCharlies: 3Added numNS: 1Added numM: 2Added numNPM: 2Added stringTime: 15.27Edited By BCPS KINDLE FIRE #2
+Lutzel, Mark (1)
+2022-05-13 01:17:34.118 - 2022-05-13 01:19:42.175Edited 2 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	1	0	0	0	1
+Added details: [object Object]Added numAlphas: 5Added numCharlies: 6Added numNPM: 1Added stringTime: 9.64Edited By BCPS KINDLE FIRE #2
+Fishel, Donald (1)
+2022-05-13 01:10:17.748 - 2022-05-13 01:10:59.347Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	0	0	1	1	0
+Added details: [object Object]Added numAlphas: 6Added numCharlies: 3Added numDeltas: 1Added numNS: 1Added numM: 2Added stringTime: 17.5Edited By BCPS KINDLE FIRE #2
+Tight Squeeze
+Jackson, Aj (1)
+2022-05-13 02:10:50.901 - 2022-05-13 01:09:51.033Edited an hour after.Edited str,0 was: 0 now: 7.95
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	2	0	0	0	0
+Edited aprv was: false now: trueAdded rawpts: 47Added details: [object Object]Added numAlphas: 7Added numCharlies: 4Added numM: 1Added stringTime: 7.95Edited By WayFastWhitey
+Gillory, Aaron (1)
+2022-05-13 02:12:07.647 - 2022-05-13 01:01:05.719Edited an hour after.Edited str,0 was: 0 now: 9.21
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+Edited aprv was: false now: trueAdded rawpts: 56Added details: [object Object]Added numAlphas: 10Added numCharlies: 2Added stringTime: 9.21Edited By WayFastWhitey
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

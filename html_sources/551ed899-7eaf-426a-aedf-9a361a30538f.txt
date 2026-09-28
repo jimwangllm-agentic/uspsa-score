@@ -1,0 +1,508 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA April 20th Pre-Easter Match USPSA 2019-04-20
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Cory Klemashevich	100.00%	636.0287	80.03	96.37%	PCC	G		MINOR	A87214	97	33	2					
+2-Cory Klemashevich	92.40%	587.7074	86.17	89.05%	Limited	G		MAJOR	A87214	92	33	5	2				
+3-Athena Lee	92.17%	586.2012	86.67	88.82%	Open	M	Lady	MAJOR	A45104	98	26	3	3				
+4-Thomas Rodriguez	88.60%	563.5138	94.64	85.38%	PCC	U		MINOR	A59184	116	15		1				
+5-William Conlan	83.02%	528.0042	96.44	80.00%	PCC	X		MINOR	A45421	102	24	5	1				
+6-Matt Hawes	80.40%	511.3465	87.81	77.48%	PCC	X		MINOR	A81983	91	33	2	6				
+7-Eric Mccampbell	77.19%	490.9709	108.75	74.39%	Limited	C	Senior	MAJOR	A14332	111	16	3	2				
+8-Larry George 1	73.00%	464.2798	106.23	70.35%	PCC	X		MINOR		93	24	10					
+9-Janice Pacleb 1	71.50%	454.7407	101.61	68.90%	Open	B	Lady	MAJOR	Ty75597	84	35	8	5				
+10-Kelton Casey	69.07%	439.2870	109.37	66.56%	Open	A		MAJOR	TY42440	87	33	8	4				
+11-Tom Hemker 2	65.50%	416.5815	107.13	63.12%	Open	U	Law Enforcement	MINOR	AA55248	92	27	6	5				
+12-Bill Corcoran	64.17%	408.1438	124.46	61.84%	Limited	U		MAJOR		89	32	8	2				
+13-Taylor Latham	62.54%	397.7456	128.85	60.26%	Single Stack	U	Senior	MAJOR		93	32	4	1		1		
+14-Bradley Phair	59.24%	376.7934	119.75	57.09%	PCC	U	Senior	MINOR		98	30		4		3		
+15-Dale Hamm	58.24%	370.4184	132.88	56.12%	PCC	C	Senior	MINOR	TY97196	98	30	3	1		1		
+16-Tommy Teas	57.33%	364.6393	132.06	55.25%	Single Stack	B	Senior	MAJOR	TY2227	82	40	6	3		1		
+17-William Conlan	55.40%	352.3534	102.24	53.39%	Limited	A		MINOR	A45421	88	28	5	11		3		
+18-daniel dubuisson 2	55.25%	351.4142	154.23	53.24%	Carry Optics	C		MINOR	L3935	120	4	3	1				
+19-Mary DuBuisson 2	50.39%	320.4685	170.50	48.56%	PCC	C	Lady	MINOR	FY77442	116	13				1		
+20-Larry George 3	48.35%	307.5114	134.50	46.59%	Open	X		MINOR		85	29	9	6				
+21-Robert Bass	45.11%	286.8812	170.50	43.47%	Production	U		MINOR	A114878	103	23	2	1		2		
+22-Don Same 2	44.99%	286.1757	150.74	43.36%	PCC	C	Super Senior	MINOR	A105098	115	7		8		2		
+23-Stephen Pearce	42.88%	272.7453	183.26	41.33%	Limited	U	Super Senior	MAJOR		104	21	3	2		2		
+24-Jonathan Backof	42.12%	267.9069	186.95	40.59%	Production	U		MINOR	A116878	103	21	5	1		2		
+25-Tommy Dowdy 2	41.35%	262.9937	153.54	39.85%	Limited	U	Junior	MINOR	TY-98907	73	34	18	3		1		
+26-Bryson McDougall	40.90%	260.1449	203.80	39.42%	Limited	U		MINOR	A117041	107	18	3	1		1		
+27-Ian Stephenson	39.99%	254.3593	174.46	38.54%	Single Stack	U		MAJOR	A113816	89	29	7	7				
+28-Jay Yin	37.82%	240.5155	235.23	36.44%	Limited	U		MINOR		127	3						
+29-TOM DOWDY 4	35.76%	227.4563	221.01	34.46%	Limited 10	D		MAJOR	A90259	118	9		3		3		
+30-greg thoede 1	33.81%	215.0121	164.82	32.58%	Carry Optics	U	Super Senior	MINOR	fy16969	82	25	15	9		2		
+31-Tommy Krzysiak	29.81%	189.6118	281.46	28.73%	PCC	U		MINOR		114	8	5	4		3		
+32-Kameron Rougeou	26.26%	167.0398	210.17	25.31%	Limited	U		MINOR		83	30	5	14		1		
+33-Zackery Murphy	24.96%	158.7399	267.59	24.05%	Limited	U		MAJOR	A118963	91	30	4	7		2	1	
+34-jim johnson	18.16%	115.4821	314.93	17.50%	Production	U	Super Senior	MINOR		83	29	5	10		2		
+35-Jeff Dyer	9.30%	59.1811	288.79	8.97%	Single Stack	U		MINOR		56	43	5	28				
+36-Michael Rougeou	3.26%	20.7163	382.44	3.14%	Limited	U		MINOR		57	21	12	42		7		
+DQ-Mark Lutzel	0.00%	0.0000		0.00%	Limited	C	Senior	MINOR									
+DQ-Joseph Stephenson 2	0.00%	0.0000		0.00%	Limited	U		MINOR									
+Name
+1-Cory Klemashevich
+2-Cory Klemashevich
+3-Athena Lee
+4-Thomas Rodriguez
+5-William Conlan
+6-Matt Hawes
+7-Eric Mccampbell
+8-Larry George 1
+9-Janice Pacleb 1
+10-Kelton Casey
+11-Tom Hemker 2
+12-Bill Corcoran
+13-Taylor Latham
+14-Bradley Phair
+15-Dale Hamm
+16-Tommy Teas
+17-William Conlan
+18-daniel dubuisson 2
+19-Mary DuBuisson 2
+20-Larry George 3
+21-Robert Bass
+22-Don Same 2
+23-Stephen Pearce
+24-Jonathan Backof
+25-Tommy Dowdy 2
+26-Bryson McDougall
+27-Ian Stephenson
+28-Jay Yin
+29-TOM DOWDY 4
+30-greg thoede 1
+31-Tommy Krzysiak
+32-Kameron Rougeou
+33-Zackery Murphy
+34-jim johnson
+35-Jeff Dyer
+36-Michael Rougeou
+DQ-Mark Lutzel
+DQ-Joseph Stephenson 2
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1-Egg Hunt
+George, Larry (2)
+2019-04-20 14:30:18.087 - 2019-04-20 14:30:43.627Edited a few seconds after.Removed Reason for Edit Stage editedAdded aprv: trueAdded details: [object Object]Added numAlphas: 24Added numCharlies: 5Added numDeltas: 1Added stringTime: 34.22Edited By Android Device2019-04-20 14:29:59.895 - 2019-04-20 14:30:18.087Edited a few seconds after.Added Reason for Edit Stage editedEdited By Android Device
+Stage 2-Weiberfastnacht
+George, Larry (1)
+2019-04-20 15:23:06.463 - 2019-04-20 15:23:42.592Edited a few seconds after.Edited rawpts was: 92 now: 87
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	1	0	0	1	0
+Added details: [object Object]Added numAlphas: 15Added numCharlies: 7Added numDeltas: 1Added numM: 1Added stringTime: 19.53Edited By Android Device
+Stage 3-What Is With You People
+Pacleb, Janice (1)
+2019-04-20 17:15:06.648 - 2019-04-20 17:28:07.379Edited 13 minutes after.Edited str,0 was: 0 now: 10.57
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added rawpts: 47Added details: [object Object]Added numAlphas: 5Added numCharlies: 4Added numDeltas: 3Added stringTime: 10.57Edited By Android Device
+dubuisson, daniel (2)
+2019-04-20 15:20:58.914 - 2019-04-20 15:22:32.046Edited 2 minutes after.Edited str,0 was: 0 now: 15.29
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	2	0	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 39Added aprv: trueAdded details: [object Object]Added numAlphas: 5Added numBravos: 4Added numDeltas: 2Added numM: 1Added stringTime: 15.29Edited By Android Device2019-04-20 15:02:28.553 - 2019-04-20 15:20:58.914Edited 19 minutes after.Removed rawpts: 48Edited str,0 was: 13.83 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	2	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Android Device
+Stephenson, Joseph -DQ (1)
+2019-04-20 16:48:29.166 - 2019-04-20 16:48:41.404Edited a few seconds after.Edited rawpts was: 17 now: 18
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	1	0	1	0
+Added numAlphas: 1Added numCharlies: 4Added numDeltas: 1Added numM: 6Added stringTime: 15.69Edited By Android Device
+Dowdy, Tommy (2)
+2019-04-20 15:23:09.868 - 2019-04-20 15:24:59.901Edited 2 minutes after.Edited str,0 was: 0 now: 16.96
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	2	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 38Added aprv: trueAdded details: [object Object]Added numAlphas: 5Added numBravos: 4Added numDeltas: 1Added numM: 2Added stringTime: 16.96Edited By Android Device2019-04-20 15:04:52.318 - 2019-04-20 15:23:09.868Edited 18 minutes after.Removed rawpts: 28Edited str,0 was: 21.95 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	1	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	2	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	2	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Android Device
+DuBuisson, Mary (2)
+2019-04-20 15:18:32.242 - 2019-04-20 15:20:20.967Edited 2 minutes after.Edited str,0 was: 0 now: 19.03
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 50Added aprv: trueAdded details: [object Object]Added numAlphas: 7Added numBravos: 3Added numCharlies: 2Added stringTime: 19.03Edited By Android Device2019-04-20 15:00:11.263 - 2019-04-20 15:18:32.242Edited 18 minutes after.Removed rawpts: 52Edited str,0 was: 22.35 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	2	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Android Device
+Same, Don (2)
+2019-04-20 15:16:36.752 - 2019-04-20 15:18:13.358Edited 2 minutes after.Edited str,0 was: 0 now: 16.13
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	2	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 56Added aprv: trueAdded details: [object Object]Added numAlphas: 10Added numBravos: 2Added stringTime: 16.13Edited By Android Device2019-04-20 15:06:41.117 - 2019-04-20 15:16:36.752Edited 10 minutes after.Removed rawpts: 44Edited str,0 was: 13.47 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Android Device
+Stage 4-D'hard Forever
+Stephenson, Joseph -DQ (1)
+2019-04-20 17:08:35.319 - 2019-04-20 17:08:52.369Edited a few seconds after.Added dqs: 6kQPC1Added aprv: trueAdded stagedq_details: Stage 4-D'hard ForeverAdded numAlphas: 7Added numCharlies: 2Added numDeltas: 1Added numNS: 1Edited By Android Device
+thoede, greg (1)
+2019-04-20 14:26:46.387 - 2019-04-20 14:31:21.685Edited 5 minutes after.Edited rawpts was: 101 now: 111Edited str,0 was: 20.94 now: 26.53
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	0	0	0	1	0
+Added details: [object Object]Added numAlphas: 25Added numCharlies: 5Added numDeltas: 1Added numM: 1Added stringTime: 26.53Edited By Android Device
+Hemker, Tom (2)
+2019-04-20 14:28:35.546 - 2019-04-20 14:29:16.529Edited a few seconds after.Edited rawpts was: 30 now: 112
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added aprv: trueAdded details: [object Object]Added numAlphas: 27Added numCharlies: 2Added numDeltas: 1Added numM: 2Added stringTime: 20.94Edited By Android Device2019-04-20 14:28:22.016 - 2019-04-20 14:28:35.546Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+Edited By Android Device
+Stage 5-Everything Burns
+DOWDY, TOM (2)
+2019-04-20 16:05:59.508 - 2019-04-20 16:16:26.003Edited 10 minutes after.Edited rawpts was: 40 now: 137Edited str,0 was: 0 now: 41.36
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Removed Reason for Edit Moved to Shooter Dowdy, Tommy (L/Min)Added aprv: trueAdded details: [object Object]Added numAlphas: 33Added numCharlies: 3Added stringTime: 41.36Edited By Android Device2019-04-20 16:04:22.369 - 2019-04-20 16:05:59.508Edited 2 minutes after.Edited rawpts was: 130 now: 40Edited str,0 was: 30.02 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Dowdy, Tommy (L/Min)Edited By Android Device
+George, Larry (1)
+2019-04-20 17:03:05.004 - 2019-04-20 17:03:49.526Edited a minute after.Edited rawpts was: 126 now: 128
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	1	0	0	1	0	0	0
+Added details: [object Object]Added numAlphas: 32Added numCharlies: 2Added numDeltas: 2Added stringTime: 18.93Edited By Android Device
+Stage 6-Let's Get Queso
+DOWDY, TOM (2)
+2019-04-20 16:36:09.801 - 2019-04-20 16:44:46.439Edited 9 minutes after.Edited rawpts was: 20 now: 95Edited str,0 was: 0 now: 29.06
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Dowdy, Tommy (L/Min)Added aprv: trueAdded details: [object Object]Added numAlphas: 23Added numM: 1Added stringTime: 29.06Edited By Android Device2019-04-20 16:35:38.190 - 2019-04-20 16:36:09.801Edited a few seconds after.Edited rawpts was: 79 now: 20Edited str,0 was: 23.45 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Dowdy, Tommy (L/Min)Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

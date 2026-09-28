@@ -12,22 +12,22 @@ from pathlib import Path
 
 INPUT_FILE = Path("all_scores.xlsx")
 
-# OUTPUT_FILE = Path("example_coder.xlsx")
+OUTPUT_FILE = Path("example_coder.xlsx")
 
 
-# # Names to search for
-# SHOOTER_NAMES = [
-#     "jingyan",
-#     "coder",
-#     "jim wang",
-# ]
+# Names to search for
+SHOOTER_NAMES = [
+    "jingyan",
+    "coder",
+    "jim wang",
+]
 
 
-# # Member numbers to search for
-# MEMBER_NUMBERS = [
-#     "A178525",
-#     "A170259",
-# ]
+# Member numbers to search for
+MEMBER_NUMBERS = [
+    "A178525",
+    "A170259",
+]
 
 
 # OUTPUT_FILE = Path("example_david.xlsx")
@@ -63,19 +63,19 @@ INPUT_FILE = Path("all_scores.xlsx")
 # ]
 
 
-OUTPUT_FILE = Path("example_harlan.xlsx")
+# OUTPUT_FILE = Path("example_harlan.xlsx")
 
-# Names to search for
-SHOOTER_NAMES = [
-    "harlan chen",
-    "chen harlan",
-]
+# # Names to search for
+# SHOOTER_NAMES = [
+#     "harlan chen",
+#     "chen harlan",
+# ]
 
 
-# Member numbers to search for
-MEMBER_NUMBERS = [
-    "A163292",
-]
+# # Member numbers to search for
+# MEMBER_NUMBERS = [
+#     "A163292",
+# ]
 
 
 

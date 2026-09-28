@@ -1,0 +1,157 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Dec 15 USPSA 2022-12-16Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Kenedy Nguyen 2	100.00%	374.9560	44.45	98.67%	Open	C		MAJOR	A83862	50	25	1					
+2-Desmond Jackson	82.57%	309.6078	49.14	81.48%	Carry Optics	B		MINOR	TY89242	47	27	2					
+3-Ray Fishel	81.62%	306.0412	49.82	80.54%	PCC	B	Senior	MINOR	A92443	47	28	1					
+4-Aaron Gillory	80.31%	301.1304	46.15	79.24%	Carry Optics	U	Law Enforcement	MINOR		48	24	2	2				
+5-Ronald Gillory Jr.	69.99%	262.4349	66.37	69.06%	PCC	B		MINOR	TY83291	66	10						
+6-Joaquin Corrales	64.69%	242.5649	43.04	63.83%	Open	C		MINOR	A143001	45	24	5	2			6	
+7-Joseph Reyes 2	64.42%	241.5566	58.01	63.57%	Limited	C	Super Senior	MINOR	A127665	52	20	1	3				
+8-Placido Cavazos	61.30%	229.8592	62.02	60.49%	Open	U		MINOR		62	10		4				
+9-Christian Corsi	60.16%	225.5782	53.22	59.36%	Carry Optics	U		MINOR		45	20	7	4				
+10-Lauren Christenson	56.71%	212.6233	69.35	55.95%	Carry Optics	U	Lady	MINOR		48	22	6					
+11-Blaine Newlin	49.64%	186.1367	73.63	48.98%	Limited	B	Foreign, Military	MINOR	A103350	49	20	5	2				
+12-John Westphal	47.08%	176.5109	86.57	46.45%	Carry Optics	U		MINOR		57	16	1	2				
+13-Don Same	46.52%	174.4468	83.54	45.91%	Carry Optics	U	Super Senior	MINOR		46	27	2	1				
+14-John Del Toro	43.33%	162.4714	98.62	42.76%	Limited	C	Super Senior	MAJOR	A107511	52	21	2	1				
+15-Fulbert DelMundo	38.73%	145.2230	98.44	38.22%	Carry Optics	U		MINOR	Ty143383	45	27	3	1				
+16-Abe Valdez	37.97%	142.3686	61.92	37.47%	Carry Optics	U		MINOR		49	17	1	9			4	
+17-Miguel Morfin	32.18%	120.6462	88.20	31.75%	Carry Optics	U		MINOR		44	20	6	6				
+18-Lou Lerma	27.65%	103.6747	59.31	27.28%	Carry Optics	U		MINOR		28	26	9	13				
+19-Kenneth Carden	7.98%	29.9379	416.53	7.88%	Revolver	U	Super Senior	MINOR	FY145364	42	28	3	3				
+20-Cody Cotten	0.00%	0.0000		0.00%	Carry Optics	U		MINOR									
+DQ-Lisa Nguyen	0.00%	0.0000		0.00%	Open	D	Lady	MAJOR	A135827								
+Name
+1-Kenedy Nguyen 2
+2-Desmond Jackson
+3-Ray Fishel
+4-Aaron Gillory
+5-Ronald Gillory Jr.
+6-Joaquin Corrales
+7-Joseph Reyes 2
+8-Placido Cavazos
+9-Christian Corsi
+10-Lauren Christenson
+11-Blaine Newlin
+12-John Westphal
+13-Don Same
+14-John Del Toro
+15-Fulbert DelMundo
+16-Abe Valdez
+17-Miguel Morfin
+18-Lou Lerma
+19-Kenneth Carden
+20-Cody Cotten
+DQ-Lisa Nguyen
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 4
+Nguyen, Kenedy (2)
+2022-12-16 01:59:28.176 - 2022-12-16 02:04:00.511Edited 5 minutes after.Edited str,0 was: 0 now: 8.38
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	3	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	5	0	1	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 93Added aprv: trueAdded details: [object Object]Added numAlphas: 13Added numCharlies: 7Added stringTime: 8.38Edited By BCPS KINDLE FIRE #42022-12-16 01:59:28.174 - 2022-12-16 01:59:28.176Edited a few seconds after.Removed rawpts: 70Edited str,0 was: 8.34 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By BCPS KINDLE FIRE #4
+Reyes, Joseph (2)
+2022-12-16 01:57:50.884 - 2022-12-16 02:09:21.046Edited 12 minutes after.Edited str,0 was: 0 now: 10.2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	5	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	5	0	1	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 92Added aprv: trueAdded details: [object Object]Added numAlphas: 16Added numCharlies: 4Added stringTime: 10.2Edited By BCPS KINDLE FIRE #42022-12-16 01:57:50.881 - 2022-12-16 01:57:50.884Edited a few seconds after.Removed rawpts: 87Edited str,0 was: 10.87 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	6	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By BCPS KINDLE FIRE #4
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

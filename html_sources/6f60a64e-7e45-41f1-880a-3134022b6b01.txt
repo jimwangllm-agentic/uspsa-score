@@ -1,0 +1,644 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+KIdlat Shooters July Club Match USPSA 2018-07-07
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Wade Pruetz 1	100.00%	961.2880	114.07	97.59%	PCC	M		MINOR	TY79055	165	31						
+2-August Balagtas	93.50%	898.8405	119.91	91.25%	Open	M		MAJOR	L3674	141	44	12					
+3-Parker Henss	83.41%	801.8554	135.56	81.41%	Limited	U		MINOR	A79936	172	21	3	1				
+4-Raul Sotelo	81.96%	787.8990	135.96	79.99%	Open	M		MAJOR	ty41489	142	49	3	3		1		
+5-Brandon Foss	81.89%	787.1800	128.33	79.92%	carry optics	B		MINOR	FY92765	161	30	2	4				
+6-Randy Goodney	81.55%	783.8948	130.98	79.58%	Open	A		MAJOR	A94852	142	46	5	4				
+7-Gil Yolo	80.89%	777.6257	126.65	78.95%	PCC	U		MINOR	A100714	149	36	7	5				
+8-Albert Atmosfera	79.47%	763.9632	136.13	77.56%	Open	C		MAJOR	A68938	131	51	11	4				
+9-Eddie Jimenea	77.76%	747.4661	150.47	75.88%	Open	M	Senior	MAJOR	A14869	161	34	2					
+10-Albert Calderon 2	77.52%	745.2277	148.27	75.66%	Open	B		MAJOR	A74721	152	39	6					
+11-Roman Gwiscz	77.13%	741.4029	142.75	75.27%	Limited	B		MAJOR	A56629	139	44	13	1				
+12-Dave Campbell 7	77.01%	740.3000	143.21	75.16%	Open	M	Super Senior	MAJOR	TY26527	133	55	8	1				
+13-Garry Newton	74.87%	719.7261	145.61	73.07%	PCC	B	Super Senior	MINOR	TY79434	167	18	9	2				
+14-Kyle Post 2	73.47%	706.2543	137.39	71.70%	Production	A		MINOR	A74846	125	62	8	2				
+15-Brian Whelihan	73.23%	703.9036	164.75	71.46%	Open	A	Senior	MAJOR	TY40226	164	31	2					
+16-Paul Felker	73.16%	703.3225	148.13	71.40%	carry optics	B		MINOR	A107123	143	52	2					
+17-Gary Wu	72.41%	696.0493	149.65	70.66%	Limited	B		MINOR	L2998	151	39	3	2				
+18-Waldo Samano	71.66%	688.8662	148.42	69.94%	Production	A		MINOR	TY87973	151	35	10	1			1	
+19-Timothy Sander	70.68%	679.3998	154.42	68.97%	Production	B		MINOR	A105891	154	30	13					
+20-Pete Kirchner	70.67%	679.3753	153.54	68.97%	carry optics	B		MINOR	A105743	153	39	4	1				
+21-Ricky Wiley	70.39%	676.6845	163.63	68.70%	Production	B		MINOR	A91320	168	26	3					
+22-John Austria	69.80%	671.0074	150.00	68.12%	Limited	C		MINOR	FY82746	149	35	6	3			1	
+23-NeaL NaNdiN	68.96%	662.9063	157.98	67.30%	Open	C		MAJOR	FY71894	135	52	8	2		1		
+24-Janice Pacleb	67.59%	649.7427	146.63	65.96%	Open	B	Lady	MAJOR	TY75597	123	52	15	7				
+25-Carlos Escandon	67.19%	645.8432	165.18	65.57%	Limited	B		MAJOR	L2590	140	44	11	2		1		
+26-David Chow	65.96%	634.0384	144.53	64.37%	Limited	C		MINOR	A100573	124	59	10	4				
+27-Manny Nerona 1	65.18%	626.5997	168.89	63.61%	Production	B		MINOR	FY69445	153	38	3	2				
+28-Adriel Taylor	64.86%	623.5051	170.58	63.30%	carry optics	U		MINOR	A104321	147	42	8					
+29-Eric Mccampbell	64.59%	620.8556	179.81	63.03%	Limited	C		MAJOR	A14332	154	39	4					
+30-John Chi 1	64.37%	618.7885	177.17	62.82%	Production	C		MINOR	A108397	134	50	13					
+31-Jan Pacleb	63.77%	613.0006	173.62	62.23%	Limited	A		MAJOR	A79326	128	52	9	8				
+32-Michael Henss	63.62%	611.6058	178.35	62.09%	Limited	C		MINOR	A56644	168	24	3	1				
+33-Vitan Gotsev	61.28%	589.0368	177.30	59.80%	Production	B		MINOR	TY72560	156	25	14	2				
+34-Joseph Giron	58.68%	564.0469	157.30	57.26%	Limited	C		MAJOR	A83387	131	44	12	10			1	
+35-Raimon Alfonso	56.90%	547.0015	195.34	55.53%	Production	B		MINOR	A37103	146	46	4	1				
+36-Jeffrey Polk	55.14%	530.0318	193.49	53.81%	Production	C		MINOR	A104167	152	37	5	3				
+37-Bill Kinstley	54.73%	526.1073	201.34	53.41%	Limited	C		MAJOR	A104836	155	35	4	3				
+38-Allan Padlan	54.33%	522.2493	208.64	53.02%	Open	B		MAJOR	A1114	140	41	10	6				
+39-Jing Bedro	54.01%	519.2253	195.44	52.71%	Limited	C	Senior	MAJOR	A98263	145	40	6	4		1		
+40-Pat Byrne	53.60%	515.2282	203.90	52.31%	Production	B	Super Senior	MINOR	FY93921	159	31	6	1				
+41-Marlon Poralan	53.49%	514.2009	198.87	52.20%	carry optics	D		MINOR	A76630	154	32	8	3				
+42-Robert Bui	52.32%	502.9211	174.33	51.06%	Production	C		MINOR	A103016	122	58	11	6				
+43-Rick Emde	51.93%	499.1933	159.01	50.68%	Open	B		MAJOR	A69327	137	32	9	17			8	
+44-Bobby Padlan	49.07%	471.6944	161.00	47.89%	Open	B	Senior	MAJOR	A1113	131	40	10	16			2	
+45-Fred Ermac 1	48.84%	469.4547	198.43	47.66%	Limited	U		MINOR	A106437	133	49	9	6				
+46-Renato Malapitan	47.91%	460.5963	249.14	46.76%	Open	C	Super Senior	MAJOR	A27564	142	45	10					
+47-Richard Dillow 1	44.23%	425.1331	248.48	43.16%	Limited	C	Super Senior	MAJOR	FY57446	150	37	7	3				
+48-Steven McNamara	44.12%	424.1569	263.60	43.06%	Limited	C		MAJOR	A75212	160	25	9	3				
+49-Adam Post	43.25%	415.7888	229.63	42.21%	Single Stack	C		MINOR	A83655	146	43	3	5				
+50-Ridong Wen	42.48%	408.3108	232.05	41.45%	Production	C		MINOR	A99651	143	44	5	5				
+51-David Duffy	41.25%	396.4922	259.28	40.25%	Single Stack	B		MAJOR	A106456	145	39	8	5				
+52-Dale Hamm	41.21%	396.1759	276.10	40.22%	PCC	C	Senior	MINOR	TY97196	154	31	9	3				
+53-Jun Wu	40.57%	390.0320	222.76	39.60%	Production	C		MINOR	A104927	138	41	9	9			1	
+54-Isaiah Panganiban	40.42%	388.5874	234.30	39.45%	Single Stack	U	Junior	MINOR	NONE	136	50	6	5		1	3	
+55-Garry Austria	37.77%	363.1239	254.07	36.87%	Open	U		MINOR	TY86300	138	47	5	7			1	
+56-Ramil Villanueva 1	36.43%	350.2419	227.30	35.56%	carry optics	U	Junior	MINOR	A110261	141	24	23	9			2	
+57-Kevin Baker 1	32.01%	307.7040	285.86	31.24%	Production	C		MINOR	A95439	124	45	19	6				
+58-Tristan Kowalik 2	28.03%	269.4412	344.57	27.35%	Production	U		MINOR		120	60	13	4				
+59-Jossph Gajdusek 3	26.55%	255.2430	290.28	25.91%	Limited	U		MINOR		115	54	10	18			1	
+60-Enrique Guinhawa	25.70%	247.0616	301.44	25.08%	Production	U		MINOR	TY112277	126	46	7	16				
+61-Brett Dempsey	23.74%	228.2508	440.85	23.17%	Production	U		MINOR	PENDING	165	20	4	8			2	
+62-Peter Paul Alcazaren	18.43%	177.1538	48.21	17.99%	Open	C		MAJOR	TY69476	36	17	2	1		1		
+63-Nancy Park	14.09%	135.4420	428.45	13.75%	Production	D	Lady	MINOR	A112013	106	50	24	17		1		
+64-Jon Baguio	0.00%	0.0000		0.00%	Single Stack	D		MAJOR	A101117								
+65-Mike Benitez	0.00%	0.0000		0.00%	Single Stack	C		MINOR	A98298								
+66-WILLIAM CHAN	0.00%	0.0000		0.00%	Open	C		MAJOR	TY978								
+67-Eric Castillo	0.00%	0.0000		0.00%	carry optics	M		MINOR	A87497								
+68-Carlo Chavez	0.00%	0.0000		0.00%	Limited	C		MAJOR	A70031								
+69-Carl Cheng	0.00%	0.0000		0.00%	Limited	D		MINOR	A104703								
+70-John Grimm	0.00%	0.0000		0.00%	Open	A	Senior	MAJOR	FY26952								
+71-Scott Taylor	0.00%	0.0000		0.00%	Limited	U		MINOR	TY96791								
+DQ-Michael Pontious	0.00%	0.0000		0.00%	Limited	C	Senior	MAJOR	TY94575								
+Name
+1-Wade Pruetz 1
+2-August Balagtas
+3-Parker Henss
+4-Raul Sotelo
+5-Brandon Foss
+6-Randy Goodney
+7-Gil Yolo
+8-Albert Atmosfera
+9-Eddie Jimenea
+10-Albert Calderon 2
+11-Roman Gwiscz
+12-Dave Campbell 7
+13-Garry Newton
+14-Kyle Post 2
+15-Brian Whelihan
+16-Paul Felker
+17-Gary Wu
+18-Waldo Samano
+19-Timothy Sander
+20-Pete Kirchner
+21-Ricky Wiley
+22-John Austria
+23-NeaL NaNdiN
+24-Janice Pacleb
+25-Carlos Escandon
+26-David Chow
+27-Manny Nerona 1
+28-Adriel Taylor
+29-Eric Mccampbell
+30-John Chi 1
+31-Jan Pacleb
+32-Michael Henss
+33-Vitan Gotsev
+34-Joseph Giron
+35-Raimon Alfonso
+36-Jeffrey Polk
+37-Bill Kinstley
+38-Allan Padlan
+39-Jing Bedro
+40-Pat Byrne
+41-Marlon Poralan
+42-Robert Bui
+43-Rick Emde
+44-Bobby Padlan
+45-Fred Ermac 1
+46-Renato Malapitan
+47-Richard Dillow 1
+48-Steven McNamara
+49-Adam Post
+50-Ridong Wen
+51-David Duffy
+52-Dale Hamm
+53-Jun Wu
+54-Isaiah Panganiban
+55-Garry Austria
+56-Ramil Villanueva 1
+57-Kevin Baker 1
+58-Tristan Kowalik 2
+59-Jossph Gajdusek 3
+60-Enrique Guinhawa
+61-Brett Dempsey
+62-Peter Paul Alcazaren
+63-Nancy Park
+64-Jon Baguio
+65-Mike Benitez
+66-WILLIAM CHAN
+67-Eric Castillo
+68-Carlo Chavez
+69-Carl Cheng
+70-John Grimm
+71-Scott Taylor
+DQ-Michael Pontious
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Gajdusek, Jossph (1)
+2018-07-07 15:16:45.949 - 2018-07-07 15:16:55.520Edited a few seconds after.Edited popm was: 0 now: 1Edited poph was: 3 now: 2Edited rawpts was: 116 now: 111Added details: [object Object]Added numAlphas: 19Added numCharlies: 8Added numDeltas: 2Added numM: 3Added stringTime: 31.77Edited By kidlat#12
+Ermac, Fred (1)
+2018-07-07 15:28:54.531 - 2018-07-07 15:31:28.021Edited 3 minutes after.Edited rawpts was: 86 now: 115Edited str,0 was: 34.37 now: 31.79
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	2	0	0	0
+Added details: [object Object]Added numAlphas: 20Added numCharlies: 9Added numDeltas: 3Added stringTime: 31.79Edited By kidlat#12
+Stage 2
+Pruetz, Wade (1)
+2018-07-07 14:09:12.519 - 2018-07-07 14:10:51.857Edited 2 minutes after.Edited rawpts was: 89 now: 105
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 16Added numCharlies: 10Added stringTime: 18.85Edited By kidlat#2
+Campbell, Dave (4)
+2018-07-07 14:07:37.296 - 2018-07-07 14:13:21.726Edited 6 minutes after.Edited rawpts was: 5 now: 104Edited str,0 was: 0 now: 24.49
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+Added details: [object Object]Added numAlphas: 9Added numCharlies: 15Added numDeltas: 2Added stringTime: 24.49Edited By kidlat#22018-07-07 13:51:19.367 - 2018-07-07 14:07:37.296Edited 16 minutes after.Edited rawpts was: 22 now: 5
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	2	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited By kidlat#22018-07-07 13:46:51.356 - 2018-07-07 13:51:19.367Edited 4 minutes after.Edited rawpts was: 16 now: 22
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	2	2	0	0	0
+Edited By kidlat#22018-07-07 13:46:17.261 - 2018-07-07 13:46:51.356Edited a few seconds after.Edited rawpts was: 14 now: 16
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	0	0
+Current	0	0	1	1	0	0	0
+Edited By kidlat#2
+Calderon, Albert (2)
+2018-07-07 17:20:27.468 - 2018-07-07 17:22:55.391Edited 2 minutes after.Edited rawpts was: 5 now: 103Edited str,0 was: 0 now: 21.44
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+Removed Reason for Edit Moved to Shooter Jimenea, Eddie (O/Maj)Added details: [object Object]Added numAlphas: 12Added numCharlies: 10Added numDeltas: 4Added stringTime: 21.44Edited By kidlat#32018-07-07 17:20:17.183 - 2018-07-07 17:20:27.468Edited a few seconds after.Edited rawpts was: 119 now: 5Edited str,0 was: 24.2 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit Moved to Shooter Jimenea, Eddie (O/Maj)Edited By kidlat#3
+Stage 3
+Campbell, Dave (3)
+2018-07-07 13:47:18.852 - 2018-07-07 14:35:56.494Edited an hour after.Edited rawpts was: 24 now: 163Edited str,0 was: 0 now: 21.14
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 27Added numCharlies: 9Added numDeltas: 1Added numM: 1Added stringTime: 21.14Edited By kidlat#22018-07-07 13:42:40.242 - 2018-07-07 13:47:18.852Edited 5 minutes after.Edited rawpts was: 20 now: 24
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	0	0
+Edited By kidlat#22018-07-07 13:41:54.091 - 2018-07-07 13:42:40.242Edited a minute after.Edited rawpts was: 15 now: 20
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited By kidlat#2
+Stage 4
+Chi, John (1)
+2018-07-07 15:45:16.236 - 2018-07-07 15:46:47.159Edited 2 minutes after.Edited rawpts was: 116 now: 128
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 30Added numCharlies: 6Added stringTime: 19.55Edited By kidlat#1
+Baker, Kevin (1)
+2018-07-07 14:21:12.890 - 2018-07-07 14:22:47.498Edited 2 minutes after.Edited popm was: 0 now: 1Edited poph was: 8 now: 7Edited rawpts was: 124 now: 119Added details: [object Object]Added numAlphas: 27Added numCharlies: 6Added numDeltas: 1Added numM: 2Added stringTime: 53.23Edited By kidlat#3
+Stage 5
+Dillow, Richard (1)
+2018-07-07 14:23:22.163 - 2018-07-07 14:23:22.171Edited a few seconds after.Added details: [object Object]Added numAlphas: 25Added numCharlies: 1Added stringTime: 32.59Edited By kidlat#4
+Post, Kyle (1)
+2018-07-07 16:08:50.802 - 2018-07-07 16:09:24.114Edited a few seconds after.Edited popm was: 1 now: 0Edited poph was: 3 now: 4Edited rawpts was: 91 now: 96Added details: [object Object]Added numAlphas: 19Added numCharlies: 7Added stringTime: 14.87Edited By kidlat#1
+Stage 6
+Nerona, Manny (1)
+2018-07-07 13:56:31.696 - 2018-07-07 13:58:24.818Edited 2 minutes after.Edited rawpts was: 137 now: 134
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	0	0	0	1	0
+Added details: [object Object]Added numAlphas: 32Added numCharlies: 3Added numM: 1Added stringTime: 26.62Edited By kidlat#12
+Villanueva, Ramil (1)
+2018-07-07 17:06:13.626 - 2018-07-07 17:07:19.904Edited a minute after.Edited rawpts was: 96 now: 91
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Added details: [object Object]Added numAlphas: 23Added numCharlies: 1Added numDeltas: 8Added numM: 4Added stringTime: 36.9Edited By kidlat#13
+Kowalik, Tristan (2)
+2018-07-07 16:58:50.458 - 2018-07-07 17:01:52.804Edited 3 minutes after.Edited rawpts was: 35 now: 115Edited str,0 was: 0 now: 80
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Removed Reason for Edit Moved to Shooter Bui, Robert (P/Min)Added details: [object Object]Added numAlphas: 23Added numCharlies: 11Added numDeltas: 2Added stringTime: 80Edited By kidlat#132018-07-07 16:58:25.356 - 2018-07-07 16:58:50.458Edited a few seconds after.Edited rawpts was: 120 now: 35Edited str,0 was: 31.43 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit Moved to Shooter Bui, Robert (P/Min)Edited By kidlat#13
+Stage 7
+Gajdusek, Jossph (2)
+2018-07-07 14:40:32.231 - 2018-07-07 14:41:55.020Edited a minute after.Edited str,0 was: 0 now: 32.15
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added rawpts: 105Added details: [object Object]Added numAlphas: 14Added numCharlies: 11Added numDeltas: 2Added numM: 1Added stringTime: 32.15Edited By kidlat#122018-07-07 14:38:59.134 - 2018-07-07 14:40:32.231Edited 2 minutes after.Removed rawpts: 116Edited str,0 was: 18.55 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited By kidlat#12
+Post, Kyle (1)
+2018-07-07 17:16:49.251 - 2018-07-07 17:37:09.600Edited 20 minutes after.Edited str,0 was: 20.76 now: 17.84Added details: [object Object]Added numAlphas: 15Added numCharlies: 11Added numDeltas: 1Added numM: 1Added stringTime: 17.84Edited By kidlat#1
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

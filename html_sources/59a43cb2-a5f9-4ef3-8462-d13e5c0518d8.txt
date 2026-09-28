@@ -1,0 +1,208 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday December 11th USPSA 2022-12-11Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Cory Klemashevich 2	100.00%	630.5199	72.64	95.53%	PCC	G		MINOR	L5150	108	21	2	1				
+2-William Lindner	85.39%	538.3751	92.70	81.57%	PCC	C	Military	MINOR		126	6						
+3-Cory Klemashevich	72.58%	457.6344	87.93	69.34%	Limited	G		MINOR	L5150	93	32	4	3		1		
+4-Joe Paetzold 1	63.49%	400.3306	109.78	60.66%	Carry Optics	B		MINOR	A135487	99	25	7	1		1		
+5-Josh Rizzo 2	60.12%	379.0417	124.05	57.43%	PCC	U		MINOR		112	18	1	1				
+6-Chris Rhodes	59.67%	376.2539	113.21	57.01%	PCC	U		MINOR	TY126291	119	9		4			2	
+7-Hunter Andras	57.36%	361.6957	119.05	54.80%	Limited	U		MINOR	A140415	108	21	1	2		1	1	
+8-Haydn Brown	56.63%	357.0743	126.09	54.10%	Limited	C		MAJOR	A62956	97	28	4	3				
+9-George Zhou	55.79%	351.7779	143.88	53.30%	PCC	U	Senior	MINOR	A147179	105	18	8	1				
+10-Sheng ONIA	54.44%	343.2416	53.20	52.01%	Carry Optics	B		MINOR	A144100	64	18	2					
+11-Chan Andre	53.38%	336.5949	129.54	51.00%	Carry Optics	U		MINOR	A145503	107	20	2	3		1		
+12-Richard Zhang	51.68%	325.8350	131.43	49.37%	Carry Optics	D	Military	MINOR		99	27	4	2		1		
+13-Veniamin Zelvyanskiy	51.56%	325.0905	128.33	49.26%	Limited	X		MINOR		91	33	7	1				
+14-Jason Wilson 1	51.46%	324.4859	151.66	49.16%	Carry Optics	U		MINOR	A94696	114	14	2	2				
+15-Daniel Claybaugh	34.31%	216.3119	156.70	32.77%	Limited	D		MINOR	A135956	71	41	13	7		1		
+16-Cody Pratt 1	32.82%	206.9519	215.22	31.36%	Limited	U	Junior	MINOR	A144741	100	25	5	2		2		
+17-Waltz Noguerra	32.63%	205.7147	86.19	31.17%	Carry Optics	D	Junior	MINOR	A137731	58	24	2					
+18-George Zhou	31.70%	199.8567	160.01	30.28%	Carry Optics	U	Senior	MINOR	A146179	84	24	14	10		1	2	
+19-matt baum	29.60%	186.6141	180.93	28.27%	Limited	U		MINOR	A141110	89	26	8	9		1	1	
+20-Saunders Arnold	10.47%	66.0104	30.74	10.00%	Carry Optics	C		MINOR	A134823	15	12	1			1		
+Name
+1-Cory Klemashevich 2
+2-William Lindner
+3-Cory Klemashevich
+4-Joe Paetzold 1
+5-Josh Rizzo 2
+6-Chris Rhodes
+7-Hunter Andras
+8-Haydn Brown
+9-George Zhou
+10-Sheng ONIA
+11-Chan Andre
+12-Richard Zhang
+13-Veniamin Zelvyanskiy
+14-Jason Wilson 1
+15-Daniel Claybaugh
+16-Cody Pratt 1
+17-Waltz Noguerra
+18-George Zhou
+19-matt baum
+20-Saunders Arnold
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Pick A Box
+Klemashevich, Cory (1)
+2022-12-11 15:46:30.500 - 2022-12-11 15:52:31.918Edited 6 minutes after.Edited rawpts was: 40 now: 101Edited str,0 was: 0 now: 15.63
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 27Added numCharlies: 2Added numM: 1Added stringTime: 15.63Edited By Android Device
+Front Start
+Klemashevich, Cory (1)
+2022-12-11 16:02:46.365 - 2022-12-11 16:04:50.000Edited 2 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	1	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 29Added numCharlies: 3Added stringTime: 12.91Edited By Android Device
+Standing Anywhere
+Pratt, Cody (1)
+2022-12-11 16:53:57.536 - 2022-12-11 16:54:36.012Edited a few seconds after.Edited str,0 was: 38.81 now: 36.81Added details: [object Object]Added numAlphas: 13Added numCharlies: 5Added numDeltas: 2Added numNS: 1Added stringTime: 36.81Edited By Android Device
+Start Anywhere
+Rizzo, Josh (2)
+2022-12-11 17:46:49.439 - 2022-12-11 17:48:43.492Edited 2 minutes after.Edited rawpts was: 20 now: 124Edited str,0 was: 0 now: 20.28
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded aprv: trueAdded details: [object Object]Added numAlphas: 27Added numCharlies: 3Added stringTime: 20.28Edited By Android Device2022-12-11 16:02:47.500 - 2022-12-11 17:46:49.439Edited 2 hours after.Edited rawpts was: 109 now: 20Edited str,0 was: 28.3 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Android Device
+Paetzold, Joe (1)
+2022-12-11 17:17:27.510 - 2022-12-11 17:17:47.676Edited a few seconds after.Edited rawpts was: 124 now: 120
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 25Added numCharlies: 5Added stringTime: 16.81Edited By Android Device
+Start Any Spot
+Wilson, Jason (1)
+2022-12-11 15:34:45.469 - 2022-12-11 15:43:06.140Edited 8 minutes after.Edited rawpts was: 118 now: 128
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 26Added numCharlies: 6Added stringTime: 23.47Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

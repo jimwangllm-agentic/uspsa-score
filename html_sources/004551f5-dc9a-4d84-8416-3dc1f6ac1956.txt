@@ -1,0 +1,99 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Mar 24 USPSA 2022-03-24Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Joseph Reyes	100.00%	191.7869	27.98	87.18%	PCC	B	Super Senior	MINOR	TY127665	38	6						
+2-Pete Kirchner	94.84%	181.8998	25.29	82.68%	Carry Optics	A		MINOR	TY105743	32	9	1	2				
+3-Charles Bradbury	94.26%	180.7761	31.57	82.17%	PCC	C		MINOR	A107489	40	4						
+4-Ronald Gillory jr	90.96%	174.4572	32.16	79.30%	PCC	B		MINOR	TY83291	40	4						
+5-Desmond Jackson	86.48%	165.8544	28.99	75.39%	PCC	B		MINOR	TY89242	31	12		1				
+6-Ray Fishel	84.20%	161.4831	24.57	73.40%	PCC	B	Senior	MINOR	A92443	23	18	1	2				
+7-Blaine Newlin	82.13%	157.5058	29.54	71.59%	Open	C		MINOR	TY103350	29	10		5		1		
+8-AJ Jackson	81.90%	157.0815	30.80	71.40%	Open	B		MINOR	A81745	30	13	1					
+9-Mark Hopmann	79.00%	151.5104	35.80	68.87%	Carry Optics	B	Senior	MINOR	TY134553	33	9	2					
+10-Robert Gatewood	76.77%	147.2422	27.26	66.93%	Carry Optics	B	Military	MINOR	A118214	29	13	1	1			2	
+11-Mark Lutzel	71.13%	136.4197	31.29	62.01%	Carry Optics	C	Senior	MINOR	FY101009	31	11	1	1		1		
+12-Kenedy Nguyen	67.27%	129.0069	26.93	58.64%	Open	C		MINOR	A83862	15	20	8	1				
+13-Don Same	66.61%	127.7435	32.10	58.07%	PCC	C	Super Senior	MINOR	TY105098	24	19		1				
+14-James Jackson	51.97%	99.6641	30.10	45.30%	PCC	U		MINOR	A89219	15	22	4	3				
+15-John Del Toro 2	46.66%	89.4854	52.08	40.68%	Limited 10	C	Super Senior	MAJOR	A107511	31	12		1				
+16-Lisa Nguyen	46.05%	88.3197	44.32	40.15%	Open	D	Lady	MAJOR	A135827	30	9		5		2		
+17-Byron Frank	36.68%	70.3399	38.98	31.97%	Carry Optics	U	Military	MINOR	A139338	15	17	7	5				
+Name
+1-Joseph Reyes
+2-Pete Kirchner
+3-Charles Bradbury
+4-Ronald Gillory jr
+5-Desmond Jackson
+6-Ray Fishel
+7-Blaine Newlin
+8-AJ Jackson
+9-Mark Hopmann
+10-Robert Gatewood
+11-Mark Lutzel
+12-Kenedy Nguyen
+13-Don Same
+14-James Jackson
+15-John Del Toro 2
+16-Lisa Nguyen
+17-Byron Frank
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 4
+Del Toro, John (2)
+2022-03-25 00:59:23.155 - 2022-03-25 01:17:34.276Edited 18 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited str,0 was: 0 now: 19.3Removed Reason for Edit ReshootAdded aprv: trueAdded rawpts: 96Added details: [object Object]Added numAlphas: 16Added numCharlies: 4Added stringTime: 19.3Edited By BCPS KINDLE FIRE #42022-03-25 00:59:23.152 - 2022-03-25 00:59:23.155Edited a few seconds after.Edited str,0 was: 16.5 now: 0Added Reason for Edit ReshootEdited By BCPS KINDLE FIRE #4
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

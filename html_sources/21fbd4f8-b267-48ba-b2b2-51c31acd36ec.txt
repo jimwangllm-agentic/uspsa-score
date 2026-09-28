@@ -1,0 +1,246 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday January 8th USPSA 2023-01-08Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Cory Klemashevich	100.00%	665.9009	84.51	95.81%	PCC	G		MINOR	L5150	105	33	1					
+2-Taylor J Latham	94.09%	626.5744	86.40	90.15%	PCC	B		MINOR		120	16	1	2			1	
+3-Taylor J Latham 2	91.26%	607.6687	88.02	87.43%	Open	B		MAJOR		112	22	2	3		1	1	
+4-Larry Thomas	86.45%	575.6766	97.87	82.83%	PCC	B		MINOR		107	31	1					
+5-AJ Jackson	82.88%	551.9260	99.57	79.41%	PCC	A		MINOR	TY81745	107	27	5			1		
+6-Cory Klemashevich	78.76%	524.4855	90.51	75.47%	Limited	G		MINOR	L5150	85	47	4	3		3		
+7-gerrit milks	73.03%	486.3386	107.98	69.98%	PCC	A	Super Senior	MINOR	A67608	111	24	2	2			1	
+8-Jason Wilson	72.53%	482.9696	107.88	69.49%	Limited	M		MAJOR	A94696	105	31		3		2	1	
+9-Nick milks	65.84%	438.4393	111.19	63.08%	PCC	U		MINOR	109961	78	55	5	1				
+10-Thomas Rodriguez 1	62.49%	416.1227	106.60	59.87%	Limited	A		MINOR	A59184	79	45	10	5			1	
+11-Desmond Jackson	62.37%	415.3059	118.14	59.76%	Carry Optics	B		MINOR		94	39	3	3				
+12-Edwin Buchwalter	61.89%	412.1503	116.47	59.30%	Open	B		MINOR	TY102903	80	54	3	2			1	
+13-Eric Mccampbell	57.30%	381.5542	128.11	54.90%	Carry Optics	U	Senior	MINOR	A14332	89	45	4	1			2	
+14-Rafael Delfin	55.78%	371.4541	145.73	53.45%	Limited	U		MINOR		110	27	1	1		1		
+15-Todd Springer 1	51.61%	343.6491	122.44	49.45%	Carry Optics	U		MINOR	A146210	98	29	5	7		1	2	
+16-George Zhou 1	47.00%	312.9492	133.23	45.03%	Carry Optics	D	Senior	MINOR	A146179	89	33	11	6		1	1	
+17-Christopher Whiskin	38.22%	254.5308	200.17	36.62%	Open	U		MINOR		109	26	1	3		1	1	
+18-Saunders Arnold	35.48%	236.2341	168.20	33.99%	Carry Optics	C		MINOR	A134823	76	51	6	6		3	2	
+19-Taylor Latham	34.16%	227.4849	206.74	32.73%	Revolver	U	Senior	MINOR	TY39841	90	41	5	3		1		
+20-Dale Hamm 3	33.16%	220.7818	197.37	31.77%	Limited	C	Senior	MINOR	TY97196	78	45	12	4		2		
+21-Nathaniel Dewsbury	32.07%	213.5795	165.39	30.73%	Limited	U		MINOR		77	39	14	9			2	
+22-Daniel Claybaugh	31.99%	212.9924	163.28	30.65%	Limited	C		MINOR	A135956	70	44	16	9			1	
+23-Tommy Teas	31.95%	212.7768	277.86	30.62%	Revolver	B	Senior	MAJOR	TY2227	113	21	5					
+24-matt baum	26.52%	176.6197	187.42	25.41%	Limited	C		MINOR	A141110	69	42	18	10		2		
+Name
+1-Cory Klemashevich
+2-Taylor J Latham
+3-Taylor J Latham 2
+4-Larry Thomas
+5-AJ Jackson
+6-Cory Klemashevich
+7-gerrit milks
+8-Jason Wilson
+9-Nick milks
+10-Thomas Rodriguez 1
+11-Desmond Jackson
+12-Edwin Buchwalter
+13-Eric Mccampbell
+14-Rafael Delfin
+15-Todd Springer 1
+16-George Zhou 1
+17-Christopher Whiskin
+18-Saunders Arnold
+19-Taylor Latham
+20-Dale Hamm 3
+21-Nathaniel Dewsbury
+22-Daniel Claybaugh
+23-Tommy Teas
+24-matt baum
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Zhou, George (1)
+2023-01-08 15:57:13.667 - 2023-01-08 16:23:29.760Edited 26 minutes after.Edited rawpts was: 62 now: 72Edited str,0 was: 12.57 now: 17.21
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	1	0	1	1	0
+Added aprv: trueAdded details: [object Object]Added numAlphas: 16Added numCharlies: 3Added numDeltas: 3Added numNS: 1Added numM: 2Added stringTime: 17.21Edited By Android Device
+Six Chickens
+Rodriguez, Thomas (1)
+2023-01-08 15:39:15.115 - 2023-01-08 15:41:04.935Edited 2 minutes after.Edited rawpts was: 39 now: 50Edited str,0 was: 14.29 now: 19.4
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	2	0	0	0	0	0	0
+Added aprv: trueAdded details: [object Object]Added numAlphas: 7Added numCharlies: 5Added stringTime: 19.4Edited By Android Device
+Stage 3
+Springer, Todd (1)
+2023-01-08 16:52:08.417 - 2023-01-08 16:52:55.909Edited a minute after.Added proc: 2Added details: [object Object]Added numAlphas: 26Added numCharlies: 1Added numDeltas: 1Added numM: 4Added numProc: 2Added stringTime: 24.06Edited By Android Device
+Latham, Taylor J (2)
+2023-01-08 17:20:05.612 - 2023-01-08 17:31:13.971Edited 11 minutes after.Edited rawpts was: 40 now: 116Edited str,0 was: 0 now: 17.86
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Added aprv: trueAdded details: [object Object]Added numAlphas: 28Added numCharlies: 4Added stringTime: 17.86Edited By Android Device2023-01-08 17:19:25.164 - 2023-01-08 17:20:05.612Edited a few seconds after.Edited rawpts was: 69 now: 40Edited str,0 was: 22.82 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited By Android Device
+Hamm, Dale (2)
+2023-01-08 15:20:47.552 - 2023-01-08 17:27:00.208Edited 2 hours after.Edited rawpts was: 40 now: 100Edited str,0 was: 0 now: 33.41
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Removed Reason for Edit Moved to Stage Stage 3Added aprv: trueAdded details: [object Object]Added numAlphas: 24Added numCharlies: 6Added numDeltas: 2Added stringTime: 33.41Edited By Android Device2023-01-08 15:20:32.443 - 2023-01-08 15:20:47.552Edited a few seconds after.Edited rawpts was: 98 now: 40Edited str,0 was: 50.73 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit Moved to Stage Stage 3Edited By Android Device
+Stage 4
+Hamm, Dale (1)
+2023-01-08 15:20:47.551 - 2023-01-08 15:21:22.005Edited a few seconds after.Edited rawpts was: 93 now: 114
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Removed Reason for Edit From Stage Stage 3Added aprv: trueAdded details: [object Object]Added numAlphas: 24Added numCharlies: 9Added numDeltas: 2Added numM: 1Added stringTime: 50.73Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

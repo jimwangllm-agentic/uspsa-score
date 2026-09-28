@@ -1,0 +1,452 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Kidlat Shooters USPSA 3rd Solidarity Lodge No 1457 Worshipful Master Invitational Cup Shootfest USPSA 2025-06-07Kidlat Shooters
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Jim Havens	100.00%	867.9526	117.60	94.34%	Limited Optics	M	Senior	MINOR	A114636	158	22						
+2-Edwin Garcia	95.04%	824.8644	122.25	89.66%	PCC	M		MINOR	TY38396	159	23	2			1		
+3-Ralph Migrino	94.54%	820.5832	126.61	89.19%	Carry Optics	A		MINOR	A132627	163	20	1					
+4-Leo Garra	93.22%	809.0920	128.85	87.94%	Open	C		MAJOR	A104164	153	26	3			1		
+5-Shaundy Pepito 2	90.54%	785.8245	126.60	85.42%	Open	C		MAJOR	A127710	139	40	3	2				
+6-August Balagtas	84.88%	736.7156	129.78	80.08%	Open	M		MAJOR	L3674	124	49	9	2				
+7-Jose Onia	83.46%	724.4080	114.89	78.74%	Carry Optics	B	Senior	MINOR	A134359	122	52	6	4			2	
+8-Shafter P Williams	80.06%	694.8669	136.10	75.53%	Open	U		MINOR	NA	135	45	3	1				
+9-Jon Baguio 1	79.28%	688.0902	142.27	74.79%	Open	C		MAJOR	X	131	40	13			1		
+10-Pocholo Dimayuga	76.75%	666.1709	146.74	72.41%	Limited Optics	C		MINOR	A106236	145	35	3	1				
+11-Albert Legislador	74.78%	649.0402	149.16	70.55%	PCC	U	Senior	MINOR	TY91787	159	22		3		1		
+12-RAUL SOTELO	74.77%	648.9914	144.08	70.54%	Limited Optics	A	Senior	MINOR	TY41489	138	40	4	2				
+13-Marc Demeza	72.70%	630.9880	155.01	68.59%	Carry Optics	C		MINOR	TY142892	158	23	2	1		2		
+14-Chev Jacot	70.56%	612.4018	163.08	66.57%	Open	B		MAJOR	TY72378	148	34	1	1		2		
+15-Janice Pacleb	70.38%	610.8405	156.87	66.40%	Open	B	Lady	MAJOR	A75597	126	52	3	3				
+16-Angelo Guadalquiver	69.86%	606.3317	149.21	65.91%	Open	B		MAJOR	A145293	119	50	9	6		3		
+17-Ulrick Fong 2	69.78%	605.6932	155.87	65.84%	PCC	U	Senior	MINOR	XXX	151	27	2	3			1	
+18-Michael Yap	67.28%	583.9680	161.93	63.47%	PCC	D		MINOR	PENDING	125	54	5					
+19-Devie Ubas	63.44%	550.6107	157.88	59.85%	Open	U		MAJOR	A69392	129	39	9	7		1		
+20-NeaL NaNDiN	61.92%	537.4262	190.84	58.42%	Limited Optics	C		MINOR	FY71894	150	28	4	2				
+21-Marlon Poralan	61.38%	532.7615	177.08	57.91%	Limited Optics	C		MINOR	TY1234	133	40	8					
+22-Phil Truong	60.65%	526.4396	133.79	57.22%	Limited Optics	B		MINOR	FY128600	105	33	20	1				
+23-Antonio Martinez 2	59.62%	517.4932	138.66	56.25%	Carry Optics	B		MINOR	A160169	122	40	11	11			2	
+24-christopher bulkley	58.45%	507.3510	185.50	55.15%	Carry Optics	C		MINOR	A159469	141	41	1	1		1	1	
+25-Rene Zalamea	58.44%	507.2132	177.06	55.13%	Open	C	Senior	MAJOR	A66891	135	34	9	6		1		
+26-Ian Prete	54.93%	476.7724	170.34	51.82%	Carry Optics	C		MINOR	0	144	28	4	8			3	
+27-Ross "Riff Raff" Pimentel	53.57%	464.9492	162.16	50.54%	Limited Optics	C	Senior	MINOR	A157753	120	45	11	8		1	2	
+28-Charles Scott	51.90%	450.4567	218.47	48.96%	Limited Optics	C		MINOR	A152099	157	17	3	1		2		
+29-Waltz Noguerra	50.56%	438.8441	172.02	47.70%	Carry Optics	C	Senior	MINOR	A137731	128	35	12	9			3	
+30-Joseph Giron	47.93%	415.9832	183.33	45.22%	Limited	C		MAJOR	A83387	105	50	19	10		1		
+31-Christian Sulit	47.06%	408.4697	234.75	44.40%	Carry Optics	U	Senior	MINOR	A169780	153	24	3	2		2		
+32-Emmanuel Alcoseba	46.41%	402.8307	242.68	43.79%	Limited	C	Super Senior	MAJOR	TY67519	131	41	6	2				
+33-Fred Ermac	43.36%	376.3131	216.90	40.90%	Limited Optics	U		MINOR	A106437	130	41	4	9		1	1	
+34-Joe Javelosa	42.64%	370.0706	214.10	40.23%	Production	U		MINOR	A167551	113	55	9	5		4		
+35-Jovohnn Joseph	39.61%	343.7673	229.78	37.37%	Production	U	Junior	MINOR	A169001	140	29	4	10		2		
+36-Wing Kwong 2	38.00%	329.8481	310.17	35.85%	Carry Optics	U		MINOR		160	18	4	2		1		
+37-Sonny Somera	36.80%	319.3636	267.68	34.71%	Carry Optics	D		MINOR	A118611	114	50	17	2				
+38-Lee King	35.31%	306.4627	234.64	33.31%	Carry Optics	C	Super Senior	MINOR	A163654	125	31	1	2				
+39-Dean Tamban	35.08%	304.4634	263.93	33.09%	Limited	U		MINOR		131	42	3	8			2	
+40-Alvin Tuazon	34.13%	296.2530	268.45	32.20%	Production	U		MINOR		132	33	10	9		3		
+41-Hopper Po	32.19%	279.3833	224.88	30.37%	Production	D		MINOR	A132909	102	44	25	13		2		
+42-Timoteo Gonzales 2	29.24%	253.8154	282.26	27.59%	Carry Optics	U	Junior	MINOR	UNK	120	44	6	13		1		
+43-Lalang de la Cruz	26.71%	231.8482	272.41	25.20%	Limited Optics	U	Lady	MINOR	NA	109	49	12	14		7		
+44-Ricardo Tuazon	26.68%	231.5812	280.59	25.17%	Limited Optics	U		MINOR		119	41	8	15		2		
+45-John Anthony Jamandre	26.40%	229.1188	292.63	24.90%	Production	U		MINOR		123	38	9	13		4	3	
+46-Cora Williams	24.47%	212.3886	298.27	23.09%	PCC	U	Lady, Junior	MINOR	NA	95	50	26	11		3		
+47-Ricardo Ramos	23.45%	203.5499	256.01	22.12%	Carry Optics	U		MINOR		111	38	14	21		5		
+48-John mabute	19.21%	166.7413	305.18	18.12%	Production	U		MINOR	A169337	114	30	14	24		2	2	
+49-Jeff Andrew Mabute-Louie	17.72%	153.7976	520.34	16.72%	Production	U		MINOR	a170065	117	48	13	6		4		
+50-Justin Sanchez	14.17%	122.9578	373.25	13.36%	Production	U	Junior	MINOR	UNK	124	34	5	21		6	7	
+51-Noel Ong	11.42%	99.1378	350.31	10.78%	Limited	U		MINOR		99	31	15	39		5		
+52-John Royo	9.71%	84.2541	484.14	9.16%	Limited	U		MAJOR	0	83	38	21	42		7		
+53-Raymond Gonzales	9.33%	80.9673	433.12	8.80%	Carry Optics	U	Junior	MINOR	UNKNOWN	89	45	20	30		3	1	
+54-Greg Julius Abella	5.95%	51.6689	252.38	5.62%	Carry Optics	U		MINOR	A14311	67	40	19	58		3		
+55-Eric Esico	5.81%	50.4340	33.57	5.48%	Limited	U		MAJOR	TY150782	16	7	1					
+56-Nestor Duremdes	4.82%	41.8530	239.24	4.55%	Limited Optics	U	Junior	MINOR	0	48	26	18	17		8		
+57-Nick Bolo	0.19%	1.6708	83.54	0.18%	Carry Optics	C		MINOR	A66852	22	7	3	17				
+58-Will Allen	0.00%	0.0000		0.00%	Limited Optics	U		MINOR	A128231								
+59-Jerry Bedro	0.00%	0.0000		0.00%	PCC	B		MINOR	A98263								
+60-Ignacio Caoagas jr	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	9172888941								
+61-Jhun Caoagas jr	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	9172888941								
+62-AlfredJong Carampatan	0.00%	0.0000		0.00%	Single Stack	U	Junior	MINOR	1459	3							
+63-Chucky Colinares	0.00%	0.0000		0.00%	Open	C		MAJOR	TY130892								
+64-Teddy Elarmo	0.00%	0.0000		0.00%	Limited Optics	C		MINOR	A142885								
+65-Edsel Esquivel	0.00%	0.0000		0.00%	PCC	U		MINOR	A								
+66-AJ Jackson	0.00%	0.0000		0.00%	Limited Optics	B		MINOR	TY81745								
+67-Yul Kwan	0.00%	0.0000		0.00%	Open	C	Senior	MAJOR	A156984								
+68-Regi Manz	0.00%	0.0000		0.00%	Limited	U	Senior	MAJOR	0000								
+69-Virak Meas	0.00%	0.0000		0.00%	Limited Optics	U	Senior	MINOR	O								
+70-Duane Mendoza	0.00%	0.0000		0.00%	Open	B		MAJOR	TY98162								
+71-Terry Mu	0.00%	0.0000		0.00%	Limited	U		MINOR	NA								
+72-Manny Nerona	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	TY69455								
+73-Michael Pontious	0.00%	0.0000		0.00%	Limited Optics	B	Senior	MINOR	A94575								
+74-Abraham Pulia	0.00%	0.0000		0.00%	PCC	U		MINOR	A165076								
+75-Jimmy Romero	0.00%	0.0000		0.00%	Limited	U		MAJOR									
+76-Parish Saculles	0.00%	0.0000		0.00%	PCC	U		MINOR	L5316								
+77-Gerald Santarina	0.00%	0.0000		0.00%	PCC	U	Junior	MINOR	0								
+78-Sonnyboy Somera	0.00%	0.0000		0.00%	Carry Optics	U	Junior	MINOR	00000IFDONTHAVEAUSPSANUMBER								
+79-Hunter Sparkman	0.00%	0.0000		0.00%	Carry Optics	C		MINOR	A165234								
+80-randy callison	0.00%	0.0000		0.00%	PCC	A	Super Senior	MINOR	A14418								
+DQ-JC Aguinaldo	0.00%	0.0000		0.00%	Carry Optics	C		MINOR	0								
+DQ-Wilbert Abcede	0.00%	0.0000		0.00%	Carry Optics	U	Junior	MINOR	0								
+DQ-Albert Culanag	0.00%	0.0000		0.00%	Carry Optics	U	Junior	MINOR	A137938								
+Name
+1-Jim Havens
+2-Edwin Garcia
+3-Ralph Migrino
+4-Leo Garra
+5-Shaundy Pepito 2
+6-August Balagtas
+7-Jose Onia
+8-Shafter P Williams
+9-Jon Baguio 1
+10-Pocholo Dimayuga
+11-Albert Legislador
+12-RAUL SOTELO
+13-Marc Demeza
+14-Chev Jacot
+15-Janice Pacleb
+16-Angelo Guadalquiver
+17-Ulrick Fong 2
+18-Michael Yap
+19-Devie Ubas
+20-NeaL NaNDiN
+21-Marlon Poralan
+22-Phil Truong
+23-Antonio Martinez 2
+24-christopher bulkley
+25-Rene Zalamea
+26-Ian Prete
+27-Ross "Riff Raff" Pimentel
+28-Charles Scott
+29-Waltz Noguerra
+30-Joseph Giron
+31-Christian Sulit
+32-Emmanuel Alcoseba
+33-Fred Ermac
+34-Joe Javelosa
+35-Jovohnn Joseph
+36-Wing Kwong 2
+37-Sonny Somera
+38-Lee King
+39-Dean Tamban
+40-Alvin Tuazon
+41-Hopper Po
+42-Timoteo Gonzales 2
+43-Lalang de la Cruz
+44-Ricardo Tuazon
+45-John Anthony Jamandre
+46-Cora Williams
+47-Ricardo Ramos
+48-John mabute
+49-Jeff Andrew Mabute-Louie
+50-Justin Sanchez
+51-Noel Ong
+52-John Royo
+53-Raymond Gonzales
+54-Greg Julius Abella
+55-Eric Esico
+56-Nestor Duremdes
+57-Nick Bolo
+58-Will Allen
+59-Jerry Bedro
+60-Ignacio Caoagas jr
+61-Jhun Caoagas jr
+62-AlfredJong Carampatan
+63-Chucky Colinares
+64-Teddy Elarmo
+65-Edsel Esquivel
+66-AJ Jackson
+67-Yul Kwan
+68-Regi Manz
+69-Virak Meas
+70-Duane Mendoza
+71-Terry Mu
+72-Manny Nerona
+73-Michael Pontious
+74-Abraham Pulia
+75-Jimmy Romero
+76-Parish Saculles
+77-Gerald Santarina
+78-Sonnyboy Somera
+79-Hunter Sparkman
+80-randy callison
+DQ-JC Aguinaldo
+DQ-Wilbert Abcede
+DQ-Albert Culanag
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Kwong, Wing (2)
+2025-06-07 14:58:30.741 - 2025-06-07 14:59:23.412Edited a minute after.Edited meta,0,k was: from now: string0Edited meta,0,v was: Moved to Shooter Jamandre, John Anthony (P/Min) now: 3.14,11.06,11.87,12.37,15.81,16.19,16.97,17.40,21.18,21.65,22.30,23.00,23.86,24.59,25.80,27.29,31.27;AMG E308Edited meta,0,t was: 2025-06-07 14:58:30.741 now: 2025-06-07 14:59:13.415
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 20 now: 80Edited str,0 was: 0 now: 31.27Added aprv: trueAdded details: [object Object]Added numAlphas: 20Added stringTime: 31.27Edited By Kidlat 82025-06-07 14:57:27.514 - 2025-06-07 14:58:30.741Edited a minute after.Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 3.06,3.34,3.92,4.26,8.43,8.74,9.40,9.73,13.37,14.72,15.47,16.31,17.04,17.55,25.43,26.65,27.04;AMG E308 now: Moved to Shooter Jamandre, John Anthony (P/Min)Edited meta,0,t was: 2025-06-07 14:57:18.170 now: 2025-06-07 14:58:30.741Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	1	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited rawpts was: 61 now: 20Edited str,0 was: 27.04 now: 0Edited By Kidlat 8
+Pepito, Shaundy (1)
+2025-06-07 15:43:08.758 - 2025-06-07 15:43:40.679Edited a few seconds after.Edited str,0 was: 13.7 now: 10.45Added details: [object Object]Added numAlphas: 17Added numCharlies: 3Added stringTime: 10.45Edited By KIDLAT#5
+Stage 4
+Baguio, Jon (1)
+2025-06-07 16:30:42.182 - 2025-06-07 16:56:27.985Edited 26 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+Edited rawpts was: 106 now: 116Added details: [object Object]Added numAlphas: 18Added numCharlies: 5Added numDeltas: 3Added stringTime: 23.16Edited By KIDLAT#6
+Fong, Ulrick (2)
+2025-06-07 16:26:25.325 - 2025-06-07 16:29:29.464Edited 3 minutes after.Removed Reason for Edit Reshoot
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 0 now: 26.18Added aprv: trueAdded rawpts: 128Added details: [object Object]Added numAlphas: 25Added numCharlies: 1Added stringTime: 26.18Edited By Kidlat 82025-06-07 16:08:56.791 - 2025-06-07 16:26:25.325Edited 17 minutes after.Edited meta,0,k was: string0 now: fromEdited meta,0,v was: 1.46,1.63,2.12,2.29,5.17,5.90,6.88,7.19,11.32,11.72,13.24,13.41,13.86,14.06,15.13,15.50,15.70,16.19,16.64,19.71,20.08,21.27,21.55,22.53,22.90,23.45;AMG E308 now: ReshootEdited meta,0,t was: 2025-06-07 16:08:36.517 now: 2025-06-07 16:26:25.329Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed rawpts: 126Edited str,0 was: 23.45 now: 0Edited By Kidlat 8
+Stage 7
+Martinez, Antonio (2)
+2025-06-07 17:11:32.472 - 2025-06-07 17:31:03.589Edited 20 minutes after.Removed Reason for Edit Reshoot
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 10 now: 84Edited str,0 was: 0 now: 14.1Added aprv: trueAdded details: [object Object]Added numAlphas: 16Added numCharlies: 4Added numDeltas: 2Added stringTime: 14.1Edited By KIDLAT#12025-06-07 17:11:32.469 - 2025-06-07 17:11:32.472Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	1	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited rawpts was: 68 now: 10Edited str,0 was: 14.7 now: 0Added Reason for Edit ReshootEdited By KIDLAT#1
+Pepito, Shaundy (1)
+2025-06-07 14:57:28.139 - 2025-06-07 14:57:51.212Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 99 now: 100Added details: [object Object]Added numAlphas: 22Added stringTime: 14.79Edited By KIDLAT#5
+Stage 8
+Gonzales, Timoteo (2)
+2025-06-07 16:24:40.381 - 2025-06-07 16:32:53.002Edited 8 minutes after.Removed Reason for Edit Reshoot
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited str,0 was: 0 now: 36.71Added aprv: trueAdded rawpts: 108Added details: [object Object]Added numAlphas: 18Added numCharlies: 6Added stringTime: 36.71Edited By KIDLAT#32025-06-07 16:24:40.377 - 2025-06-07 16:24:40.381Edited a few seconds after.Edited str,0 was: 0.09 now: 0Added Reason for Edit ReshootEdited By KIDLAT#3
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

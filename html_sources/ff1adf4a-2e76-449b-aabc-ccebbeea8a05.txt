@@ -1,0 +1,67 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Multigun Aug 25 **SPECIAL** USPSAMG 2022-08-25Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	Bon	Pen	Final	% psbl	Div	Class	Cats	Mem #	Clay Bonus	FTN Paper (9.3.2.1)	Complete Miss Paper (9.3....	Clay/Steel Miss < 100 (9....	FTE< 100 (9.3.2.4)	No Shoot (9.3.2.5)	Procedural (9.3.2.6)	Safety
+1-AJ Jackson 1	100.00	258.3448	71.48	0	0	71.48	86.11493333333334	Open			TY81745	0	0	0	0	0	0	0	0
+2-gerrit milks	91.83	237.2461	66.38	5	10	71.38	79.08203333333333	Open		Super Senior	A67608	5	10	0	0	0	0	0	0
+3-Ray Fishel	91.29	235.8471	71.46	0	0	71.46	78.6157	Open		Senior	A92443	0	0	0	0	0	0	0	0
+4-Desmond Jackson	87.33	225.6045	73.05	5	10	78.05	75.2015	Open	U			5	0	10	0	0	0	0	0
+5-Charles Bradbury	83.36	215.3578	78.47	5	5	78.47	71.78593333333333	Open	U			5	5	0	0	0	0	0	0
+6-Blaine Newlin	82.60	213.4043	83.54	5	0	78.54	71.13476666666668	Limited		Foreign	A103350	5	0	0	0	0	0	0	0
+7-Joseph Reyes	71.18	183.8872	82.63	0	15	97.63	61.29573333333334	Limited		Super Senior	TY127665	0	5	10	0	0	0	0	0
+8-David Hruzek	66.58	172.0128	94.15	0	5	99.15	57.3376	Limited		Senior	A100909	0	5	0	0	0	0	0	0
+9-Ronald Gillory	60.07	155.1955	122.20	5	0	117.20	51.731833333333334	Open			TY83291	5	0	0	0	0	0	0	0
+10-Jacob Wernitznig	57.67	148.9865	86.90	0	25	111.90	49.66216666666667	NFS	U			0	15	10	0	0	0	0	0
+Name
+1-AJ Jackson 1
+2-gerrit milks
+3-Ray Fishel
+4-Desmond Jackson
+5-Charles Bradbury
+6-Blaine Newlin
+7-Joseph Reyes
+8-David Hruzek
+9-Ronald Gillory
+10-Jacob Wernitznig
+Old style results
+
+Score Edit History
+Side Arm Only
+Jackson, AJ (1)
+2022-08-25 20:40:46.409 - 2022-08-26 01:10:25.270Edited 4 hours after.Edited str,0 was: 0 now: 12.4Edited udid was: 622cf91b06f742f2b383f07af2e4ffed now: 80146d01-2ea6-4f40-aa0e-25f2394440f3Edited dname was: WayFastWhitey now: BCPS KINDLE FIRE #3Added aprv: trueAdded details: [object Object]Added stringTime: 12.4Edited By WayFastWhitey
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

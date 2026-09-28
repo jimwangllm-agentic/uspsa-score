@@ -1,0 +1,224 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday November 13th USPSA 2022-11-13Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Cory Klemashevich	100.00%	672.7366	78.58	98.21%	PCC	G		MINOR	L5150	105	29	3				2	
+2-Cory Klemashevich 1	73.35%	493.4512	102.50	72.04%	Open	G		MINOR	L5150	95	37	3	2		1	2	
+3-AJ Jackson	71.68%	482.2116	97.18	70.40%	PCC	A		MINOR	TY81745	93	25	11	4				
+4-Josh Gillispie 1	64.30%	432.5604	115.26	63.15%	Carry Optics	B		MINOR	A140875	107	24	5	1			3	
+5-Jason Wilson 1	60.58%	407.5396	136.48	59.49%	Revolver	G		MINOR	a94696	104	24	2					
+6-Desmond Jackson	60.45%	406.6605	109.59	59.37%	Carry Optics	B		MINOR	TY89242	83	31	15	4				
+7-William Conlan 1	57.27%	385.3087	120.74	56.25%	PCC	B	Lady, Foreign, Preteen	MINOR	A45421	79	44	8	5		2	1	
+8-Christopher Boatcallie	56.89%	382.7347	131.63	55.87%	Carry Optics	U		MINOR	A104118	98	29	5	3		1		
+9-Joe Paetzold	54.87%	369.1541	125.65	53.89%	Carry Optics	B		MINOR	A135487	83	38	12	4			1	
+10-Joshua Blume	50.44%	339.3180	158.03	49.54%	Carry Optics	U		MINOR		91	38	5	2				
+11-ANDREI CHAN	48.84%	328.5632	125.33	47.97%	Carry Optics	U		MINOR	A145503	99	22	3	6		2	2	
+12-William Lindner	48.31%	324.9881	175.48	47.44%	PCC	B	Military	MINOR		107	21	5	1		1		
+13-Kelton Casey	47.27%	317.9771	143.35	46.42%	Carry Optics	U	Senior	MINOR	ty42440	98	23	5	7			1	
+14-Anthony Boatcallie	46.29%	311.4080	193.38	45.46%	Carry Optics	U		MINOR	A143613	115	16	1					
+15-Detlef Hohl	46.20%	310.7794	160.46	45.37%	Production	A	Senior	MINOR	L3462	78	44	10	1			1	
+16-George Zhou 2	40.45%	272.1448	153.40	39.73%	Carry Optics	U	Senior	MINOR	A146179	86	32	9	4			2	
+17-Gary Brisco	37.99%	255.5862	186.42	37.31%	Open	D	Super Senior	MINOR	FY73704	93	31	4	3		2	1	
+18-Tommy Teas	36.57%	246.0048	226.03	35.91%	Single Stack	B	Senior	MINOR	FY2227	94	26	7	4				
+19-Daniel Claybaugh 1	35.81%	240.9048	146.94	35.17%	Limited	C		MINOR	A135956	71	35	15	10				
+20-Cody Pratt	34.13%	229.5730	186.38	33.51%	Limited	U	Junior	MINOR		86	29	13	6		1		
+21-Richard Zhang	32.93%	221.5425	157.98	32.34%	Carry Optics	D	Military	MINOR		73	39	9	9		1	2	
+22-Saunders Arnold 1	32.70%	219.9745	162.06	32.11%	Carry Optics	C		MINOR	A134823	82	28	14	9		1	4	
+23-Dale Hamm	31.99%	215.2253	205.93	31.42%	Limited	C	Senior	MAJOR	TY97196	81	34	6	10			1	
+24-Jennifer Kleiber-Boatcallie	31.75%	213.5831	283.76	31.18%	PCC	U	Lady	MINOR	A142192	102	20	4	4				
+25-Gene Bray	27.75%	186.6746	191.89	27.25%	Production	B	Senior, Super Senior	MINOR		83	27	8	12			4	
+26-Ethan Fogle 2	12.36%	83.1643	209.46	12.14%	Limited	U	Junior	MINOR		57	20	20	34		3		
+27-Gene Bray	11.07%	74.4551	132.42	10.87%	Carry Optics	U	Senior, Super Senior	MINOR		33	9	1	3				
+DQ-Todd Springer	0.00%	0.0000		0.00%	Carry Optics	U		MINOR									
+Name
+1-Cory Klemashevich
+2-Cory Klemashevich 1
+3-AJ Jackson
+4-Josh Gillispie 1
+5-Jason Wilson 1
+6-Desmond Jackson
+7-William Conlan 1
+8-Christopher Boatcallie
+9-Joe Paetzold
+10-Joshua Blume
+11-ANDREI CHAN
+12-William Lindner
+13-Kelton Casey
+14-Anthony Boatcallie
+15-Detlef Hohl
+16-George Zhou 2
+17-Gary Brisco
+18-Tommy Teas
+19-Daniel Claybaugh 1
+20-Cody Pratt
+21-Richard Zhang
+22-Saunders Arnold 1
+23-Dale Hamm
+24-Jennifer Kleiber-Boatcallie
+25-Gene Bray
+26-Ethan Fogle 2
+27-Gene Bray
+DQ-Todd Springer
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Zhou, George (2)
+2022-11-13 16:50:05.296 - 2022-11-13 16:56:19.572Edited 6 minutes after.Edited rawpts was: 15 now: 41Edited str,0 was: 0 now: 13.33
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	1	0
+Removed Reason for Edit Moved to Shooter CHAN, ANDREI (CO/Min)Added aprv: trueAdded details: [object Object]Added numAlphas: 11Added numDeltas: 1Added numM: 2Added stringTime: 13.33Edited By Android Device2022-11-13 16:49:20.329 - 2022-11-13 16:50:05.296Edited a minute after.Edited rawpts was: 41 now: 15Edited str,0 was: 10.61 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	1	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	1	0	1	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter CHAN, ANDREI (CO/Min)Edited By Android Device
+I Miss That Kind of Clarity
+Klemashevich, Cory (1)
+2022-11-13 15:45:02.913 - 2022-11-13 15:45:38.135Edited a few seconds after.Added proc: 1Added details: [object Object]Added numAlphas: 19Added numCharlies: 5Added numProc: 1Added stringTime: 14.36Edited By Android Device
+Stage 3 Fixed Time
+Gillispie, Josh (1)
+2022-11-13 16:38:35.665 - 2022-11-13 16:43:14.517Edited 5 minutes after.Removed Reason for Edit From Shooter Fogle, Ethan (L/Min/J)Added proc: 3Added details: [object Object]Added numAlphas: 7Added numCharlies: 5Added numProc: 3Edited By Android Device
+Arnold, Saunders (1)
+2022-11-13 15:58:22.047 - 2022-11-13 16:38:56.117Edited 41 minutes after.Edited proc was: 1 now: 2ARRAYAdded details: [object Object]Added numAlphas: 5Added numCharlies: 1Added numDeltas: 2Added numProc: 2Added numNPM: 4Edited By Android Device
+Fogle, Ethan (2)
+2022-11-13 16:38:35.666 - 2022-11-13 16:54:02.866Edited 15 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	0	1
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	0	1
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	0	2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	0	2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Gillispie, Josh (CO/Min)Added rawpts: 18Added aprv: trueAdded details: [object Object]Added numAlphas: 2Added numCharlies: 2Added numDeltas: 2Added numNPM: 6Edited By Android Device2022-11-13 16:36:44.132 - 2022-11-13 16:38:35.666Edited 2 minutes after.Removed ots: 3Removed rawpts: 50
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Gillispie, Josh (CO/Min)Edited By Android Device
+Claybaugh, Daniel (1)
+2022-11-13 16:07:09.967 - 2022-11-13 16:07:40.579Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	1
+Current	0	0	0	0	0	0	2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	1
+Current	0	0	0	0	0	0	2
+Added aprv: trueAdded details: [object Object]Added numAlphas: 3Added numCharlies: 3Added numNPM: 6Edited By Android Device
+Stage 4
+Wilson, Jason (1)
+2022-11-13 17:37:19.782 - 2022-11-13 18:01:49.557Edited 24 minutes after.Edited rawpts was: 20 now: 104Edited str,0 was: 0 now: 28.65
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 21Added numCharlies: 6Added numDeltas: 1Added stringTime: 28.65Edited By Android Device
+Conlan, William (1)
+2022-11-13 16:29:08.634 - 2022-11-13 16:29:55.689Edited a minute after.Edited str,0 was: 0 now: 19.62Added details: [object Object]Added numAlphas: 18Added numCharlies: 7Added numDeltas: 3Added stringTime: 19.62Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

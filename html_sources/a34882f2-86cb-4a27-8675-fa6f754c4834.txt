@@ -1,0 +1,126 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Mar 3 USPSA 2022-03-04Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Meir Marcus	100.00%	309.0288	57.43	95.09%	Carry Optics	U		MINOR	A136904	50	15						
+2-Pete Kirchner	97.27%	300.5885	52.99	92.49%	Carry Optics	A		MINOR	TY105743	40	24		1				
+3-Kenedy Nguyen	95.93%	296.4424	54.25	91.21%	Open	C		MAJOR	A83862	24	38	2	1				
+4-Blaine Newlin	90.36%	279.2415	48.08	85.92%	Open	C		MINOR	TY103350	31	29	2	3				
+5-Desmond Jackson	89.76%	277.3981	56.32	85.35%	Carry Optics	B		MINOR	TY89242	36	28		1				
+6-Ray Fishel	84.07%	259.7874	54.32	79.93%	PCC	B	Senior	MINOR	A92443	33	30		2				
+7-Aaron Gillory	82.64%	255.3679	58.66	78.57%	PCC	U	Law Enforcement	MINOR		36	26	1	2				
+8-AJ Jackson	78.40%	242.2797	62.45	74.55%	Open	B		MINOR	A81745	30	32	2	1				
+9-Mark Lutzel	77.82%	240.4920	70.60	74.00%	Carry Optics	C	Senior	MINOR	FY-101009	39	24	2					
+10-Charles Bradbury 1	76.96%	237.8236	69.58	73.18%	PCC	U		MINOR	A107489	44	19		2				
+11-Mark Hopmann	74.77%	231.0715	72.82	71.10%	Carry Optics	B	Senior	MINOR	TY134553	44	20		1				
+12-Robert Gatewood	74.70%	230.8539	57.12	71.03%	Carry Optics	B		MINOR	A118214	29	32	2	2			1	
+13-Ronald Gillory Jr.	69.97%	216.2233	72.54	66.53%	PCC	C		MINOR	TY83291	41	23		1		1		
+14-Jackson Kam	67.75%	209.3716	84.47	64.42%	Carry Optics	U	Junior	MINOR		56	8		1				
+15-Don Same 2	65.04%	200.9998	75.45	61.85%	PCC	U	Super Senior	MINOR		34	29	1	1				
+16-Gregory Kam	52.03%	160.7836	72.34	49.47%	Carry Optics	U		MINOR		48	11		6		2		
+17-Lauren Christenson	47.12%	145.6078	96.68	44.80%	Carry Optics	U	Lady	MINOR		32	30		3				
+18-Lisa Nguyen	42.22%	130.4701	105.13	40.14%	Open	D	Lady	MAJOR	A135827	41	18	1	5				
+19-James Jackson	38.57%	119.1980	68.38	36.68%	Limited	U		MINOR	a89219	25	30	4	6		1	1	
+20-Santiago Fields	38.37%	118.5869	90.95	36.49%	Limited	D		MINOR	TY128653	33	25	2	5		1		
+21-LaShaun Jackson	25.06%	77.4315	115.78	23.83%	Carry Optics	U	Lady	MINOR	a89243	31	24	5	5		4		
+DQ-Paul Haydel	0.00%	0.0000		0.00%	Limited	U		MINOR	A140153								
+Name
+1-Meir Marcus
+2-Pete Kirchner
+3-Kenedy Nguyen
+4-Blaine Newlin
+5-Desmond Jackson
+6-Ray Fishel
+7-Aaron Gillory
+8-AJ Jackson
+9-Mark Lutzel
+10-Charles Bradbury 1
+11-Mark Hopmann
+12-Robert Gatewood
+13-Ronald Gillory Jr.
+14-Jackson Kam
+15-Don Same 2
+16-Gregory Kam
+17-Lauren Christenson
+18-Lisa Nguyen
+19-James Jackson
+20-Santiago Fields
+21-LaShaun Jackson
+DQ-Paul Haydel
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Same, Don (2)
+2022-03-04 01:22:37.743 - 2022-03-04 01:24:37.715Edited 2 minutes after.Edited rawpts was: 15 now: 45Edited str,0 was: 0 now: 19.96
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Removed Reason for Edit ReshootAdded aprv: trueAdded details: [object Object]Added numAlphas: 9Added numCharlies: 5Added stringTime: 19.96Edited By BCPS KINDLE FIRE #22022-03-04 01:03:16.207 - 2022-03-04 01:22:37.743Edited 19 minutes after.Edited rawpts was: 38 now: 15Edited str,0 was: 28.37 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By BCPS KINDLE FIRE #2
+Stage 2
+Bradbury, Charles (1)
+2022-03-04 01:20:37.973 - 2022-03-04 01:21:02.814Edited a few seconds after.Edited rawpts was: 92 now: 96
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 12Added numCharlies: 12Added stringTime: 21.7Edited By BCPS KINDLE FIRE #3
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

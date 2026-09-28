@@ -1,0 +1,335 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+KIDLAT SHOOTERS August USPSA Club Match USPSA 2024-08-03Kidlat Shooters
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Michael Kiesewetter	100.00%	802.5002	94.45	96.69%	Carry Optics	M		MINOR	TY118153	133	31	2					
+2-Travis McKenzie 1	95.35%	765.2231	101.14	92.20%	Limited Optics	M		MINOR	L6340	142	24						
+3-Jose Onia 2	92.58%	742.9269	98.93	89.51%	Limited Optics	C	Senior	MINOR	0	132	29	3	1				
+4-Andy Chen	92.24%	740.1970	103.26	89.18%	Open	A		MINOR	A86721	128	38						
+5-Andrew Whitley 1	90.95%	729.8840	105.35	87.94%	Open	A		MAJOR	TY106649	121	39	5					
+6-Shaundy Pepito	87.80%	704.6256	112.20	84.89%	Open	C		MAJOR	A12770	138	27	1					
+7-Chez Chike-Udenze 1	86.61%	695.0600	100.12	83.74%	Open	A		MAJOR	A138598	116	43	3	4		2		
+8-Jim Havens 1	84.73%	679.9874	105.16	81.93%	Limited Optics	M	Senior	MINOR	TY114636	124	37	3	2				
+9-August Balagtas	84.48%	677.9761	109.13	81.68%	Open	M		MAJOR	L3674	127	33	4	2		1		
+10-Anthony Fong	83.60%	670.8780	105.51	80.83%	Limited Optics	M		MINOR	A142224	121	39	6			1		
+11-AJ Jackson	80.45%	645.6387	116.69	77.79%	Carry Optics	U		MAJOR	TY81745	116	43	6			1		
+12-Tyler Kenny	78.81%	632.4236	116.42	76.20%	Limited Optics	B		MINOR	A148691	138	23	3	2				
+13-Qingbang Cai 1	78.66%	631.2653	110.78	76.06%	Carry Optics	M		MINOR	A148273	123	29	4	2				
+14-Alex Goben	78.21%	627.6727	114.53	75.62%	Limited Optics	B		MINOR	L5929	133	22		3				
+15-Angelo Guadalquiver 2	76.95%	617.5120	106.31	74.40%	Open	B		MAJOR	A145293	117	39	2	7		2		
+16-Pocholo Dimayuga 2	75.32%	604.4153	125.88	72.82%	Limited Optics	C		MINOR	0	137	24	4	1				
+17-Janice Pacleb	71.66%	575.1110	128.93	69.29%	Open	B		MAJOR	TY75597	104	55	7			1		
+18-Leo Garra	71.33%	572.4359	123.01	68.97%	Open	C		MAJOR	A104184	126	32	2	5		1		
+19-Phil Truong	67.53%	541.9575	126.20	65.30%	Carry Optics	B		MINOR	FY128600	124	34	6	2		1	1	
+20-Jon Baguio	66.81%	536.1889	132.90	64.60%	Open	C		MAJOR	X	100	55	9	2		1		
+21-Antonio Martinez	65.68%	527.0595	144.35	63.50%	Carry Optics	U		MINOR	A160169	139	21	3	1				
+22-Tony Torms	64.47%	517.3673	130.41	62.33%	Open	C		MAJOR	A111111	103	50	9	4		1		
+23-Amber Chike-Udenze 2	64.47%	517.3567	133.64	62.33%	PCC	U	Lady	MINOR	A138974	123	34	6	3				
+24-Gabriel Falcon	54.90%	440.5593	153.10	53.08%	Carry Optics	B		MINOR	A145264	126	36		2		5		
+25-Rudy Widiaman	54.90%	440.5506	153.84	53.08%	Open	C		MINOR	O	117	41	7	1		2		
+26-Albert Legislador	54.75%	439.3815	189.10	52.94%	PCC	U	Senior	MINOR	TY91787	151	14		1				
+27-Virak Meas	52.79%	423.6692	131.94	51.04%	Limited Optics	U	Senior	MINOR	0	109	43	4	10		1		
+28-Cody Jensen	50.09%	401.9347	163.54	48.43%	Carry Optics	U		MINOR	NA	136	23	3	4		4		
+29-Waltz Noguerra	49.99%	401.2068	167.06	48.34%	Carry Optics	C		MINOR	A137731	131	24	4	6			2	
+30-NeaL NaNDiN	47.11%	378.0341	180.23	45.55%	Single Stack	U		MINOR	FY71894	112	45	6	3		1		
+31-Fred Ermac	42.52%	341.2095	203.72	41.11%	Limited	C		MAJOR	A106437	100	50	11	5		2		
+32-Melvin Medina	40.12%	321.9260	116.30	38.79%	PCC	U	Junior	MINOR	A127775	102	24		40				
+33-Yul Kwan	39.40%	316.2160	198.29	38.10%	Limited	U	Senior	MINOR	7542515412	108	50	3	5		1	1	
+34-Gerry Tsoi	39.40%	316.1803	233.90	38.09%	Limited	U		MINOR	A151481	132	31	2	1				
+35-Alex Nguyen	37.44%	300.4807	147.90	36.20%	Limited Optics	U		MINOR	A151003	81	51	20	12		3		
+36-Mark Yap	33.76%	270.9211	236.63	32.64%	Carry Optics	C		MINOR	A156197	106	36	6	5		1		
+37-Emman Alcoseba	33.66%	270.1430	247.67	32.55%	Single Stack	C	Senior	MINOR	TY67519	127	33	1	5		1	1	
+38-Jacob Vergara	29.47%	236.5106	235.97	28.50%	Open	U	Junior	MAJOR	0	98	45	11	12		2		
+39-Jonathan Vergara	24.42%	195.9392	260.83	23.61%	Open	U	Senior	MINOR	TY151732	110	29	15	12		1		
+40-James Jumawan	18.08%	145.0894	357.42	17.48%	Limited	U	Senior	MINOR	0	93	51	13	9		3		
+41-Joachim Vergara	14.43%	115.7925	461.75	13.95%	Limited	U	Junior	MINOR	0	92	37	7	29		3		
+42-Marlon Poralan	7.62%	61.1512	24.89	7.37%	Open	C		MAJOR	TY1234	30	5	1			1		
+Name
+1-Michael Kiesewetter
+2-Travis McKenzie 1
+3-Jose Onia 2
+4-Andy Chen
+5-Andrew Whitley 1
+6-Shaundy Pepito
+7-Chez Chike-Udenze 1
+8-Jim Havens 1
+9-August Balagtas
+10-Anthony Fong
+11-AJ Jackson
+12-Tyler Kenny
+13-Qingbang Cai 1
+14-Alex Goben
+15-Angelo Guadalquiver 2
+16-Pocholo Dimayuga 2
+17-Janice Pacleb
+18-Leo Garra
+19-Phil Truong
+20-Jon Baguio
+21-Antonio Martinez
+22-Tony Torms
+23-Amber Chike-Udenze 2
+24-Gabriel Falcon
+25-Rudy Widiaman
+26-Albert Legislador
+27-Virak Meas
+28-Cody Jensen
+29-Waltz Noguerra
+30-NeaL NaNDiN
+31-Fred Ermac
+32-Melvin Medina
+33-Yul Kwan
+34-Gerry Tsoi
+35-Alex Nguyen
+36-Mark Yap
+37-Emman Alcoseba
+38-Jacob Vergara
+39-Jonathan Vergara
+40-James Jumawan
+41-Joachim Vergara
+42-Marlon Poralan
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Cai, Qingbang (1)
+2024-08-03 15:54:49.117 - 2024-08-03 15:55:39.187Edited a minute after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	1	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 19Added numCharlies: 6Added numDeltas: 1Added numM: 2Added stringTime: 16.36Edited By KIDLAT#3
+Stage 2
+Chike-Udenze, Chez (1)
+2024-08-03 14:56:59.286 - 2024-08-03 16:17:35.538Edited an hour after.
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 18Added numCharlies: 10Added stringTime: 16.18Edited By KIDLAT#5
+Chike-Udenze, Amber (2)
+2024-08-03 14:54:06.725 - 2024-08-03 15:13:22.396Edited 19 minutes after.Removed Reason for Edit Reshoot
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 0 now: 16.84Added aprv: trueAdded rawpts: 120Added details: [object Object]Added numAlphas: 20Added numCharlies: 6Added numDeltas: 2Added stringTime: 16.84Edited By KIDLAT#52024-08-03 14:54:06.723 - 2024-08-03 14:54:06.725Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	1	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed rawpts: 89Added Reason for Edit ReshootEdited By KIDLAT#5
+McKenzie, Travis (1)
+2024-08-03 15:03:45.696 - 2024-08-03 16:18:01.193Edited an hour after.
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 21Added numCharlies: 7Added stringTime: 14.07Edited By KIDLAT#5
+Stage 4
+Guadalquiver, Angelo (2)
+2024-08-03 15:14:33.407 - 2024-08-03 15:17:07.189Edited 3 minutes after.Removed Reason for Edit Moved to Shooter Balagtas, August (O/Maj)
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited rawpts was: 20 now: 107Edited str,0 was: 0 now: 17.95Added aprv: trueAdded details: [object Object]Added numAlphas: 23Added numCharlies: 3Added numM: 2Added stringTime: 17.95Edited By KIDLAT#12024-08-03 15:13:53.101 - 2024-08-03 15:14:33.407Edited a few seconds after.Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited rawpts was: 120 now: 20Edited str,0 was: 17.39 now: 0Added Reason for Edit Moved to Shooter Balagtas, August (O/Maj)Edited By KIDLAT#1
+Stage 5
+Whitley, Andrew (1)
+2024-08-03 14:34:36.644 - 2024-08-03 16:19:02.294Edited 2 hours after.
+A	B	C	D	NS	M	NPM
+Previous	0	2	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 22Added numCharlies: 6Added stringTime: 18.2Edited By KIDLAT#5
+Stage 6
+Dimayuga, Pocholo (2)
+2024-08-03 13:49:52.390 - 2024-08-03 13:50:24.382Edited a few seconds after.Removed Reason for Edit Stage edited
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 136 now: 146Added details: [object Object]Added numAlphas: 28Added numCharlies: 5Added numDeltas: 1Added stringTime: 20.85Edited By KIDLAT#52024-08-03 13:47:56.057 - 2024-08-03 13:49:52.390Edited 2 minutes after.ARRAYAdded Reason for Edit Stage editedEdited By KIDLAT#5
+Havens, Jim (1)
+2024-08-03 13:59:53.601 - 2024-08-03 16:19:43.821Edited 2 hours after.
+A	B	C	D	NS	M	NPM
+Previous	1	1	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 24Added numCharlies: 9Added numDeltas: 1Added stringTime: 17.7Edited By KIDLAT#5
+Onia, Jose (2)
+2024-08-03 13:49:52.391 - 2024-08-03 13:50:17.926Edited a few seconds after.Removed Reason for Edit Stage edited
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 140 now: 150Added details: [object Object]Added numAlphas: 30Added numCharlies: 3Added numDeltas: 1Added stringTime: 17.31Edited By KIDLAT#52024-08-03 13:45:40.358 - 2024-08-03 13:49:52.391Edited 4 minutes after.ARRAYAdded Reason for Edit Stage editedEdited By KIDLAT#5
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

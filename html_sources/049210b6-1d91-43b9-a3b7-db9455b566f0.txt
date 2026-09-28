@@ -1,0 +1,158 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday December 15 USPSA 2019-12-15Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Cory Klemashevich	100.00%	760.6837	90.88	91.65%	PCC	G	Senior	MINOR	A87214	115	37	10			1		
+2-matt hawes	97.61%	742.5231	100.00	89.46%	PCC	X		MINOR	A81983	132	31	2			1		
+3-Sam Pruett 1	90.12%	685.5326	105.07	82.59%	PCC	B		MINOR	A118075	137	21	6	2				
+4-Garry Newton	87.39%	664.7885	102.43	80.09%	PCC	A	Super Senior	MINOR	Ty79434	130	25	4	4				
+5-Charles Thomason	84.08%	639.5580	113.58	77.06%	PCC	B	Super Senior	MINOR		132	30	3	1		1		
+6-Dale Fike	79.02%	601.0996	126.72	72.42%	Open	C	Senior	MINOR	A113427	140	25	1			1		
+7-William Conlan	75.70%	575.8404	107.95	69.38%	PCC	X		MINOR	A45421	109	42	9	6				
+8-Bill Corcoran	73.64%	560.1331	105.20	67.49%	PCC	U		MINOR		96	57	6	7		1		
+9-Kyle Post	67.86%	516.1651	117.80	62.19%	Production	A		MINOR	A74846	111	40	10	4		2		
+10-randy callison	67.82%	515.9134	129.85	62.16%	PCC	C	Senior	MINOR	A14418	108	46	8	3		4		
+11-Jonathan Foo	67.67%	514.7733	111.22	62.02%	Limited	X	Foreign, Preteen	MINOR		102	49	7	8				
+12-Larry Thomas	65.91%	501.3869	141.87	60.41%	PCC	U		MINOR		133	26	4	3			1	
+13-Tommy Teas	58.13%	442.1742	116.55	53.27%	Single Stack	B	Senior	MAJOR	TY2227	94	38	2					
+14-Danny Dubuisson	55.17%	419.6597	160.03	50.56%	Carry Optics	C		MINOR		117	40	5	4				
+15-Eric Mccampbell	53.92%	410.1788	110.74	49.42%	Limited	B	Senior	MAJOR	A14332	89	26	17	2		1		
+16-Bill Corcoran	52.87%	402.1844	172.78	48.46%	Limited	U		MAJOR		122	37	2	5		1		
+17-greg thoede	51.41%	391.0835	176.76	47.12%	Carry Optics	C	Super Senior	MINOR	Fy16969	111	46	7	2				
+18-Mark Lutzel	51.36%	390.7211	123.71	47.07%	Carry Optics	C	Senior	MINOR	TY-101009	104	23	7			1		
+19-GARY BRISCO	45.76%	348.1207	190.87	41.94%	Carry Optics	C	Senior	MAJOR	FY73704	130	26	3	7				
+20-Billy Boonkrongkiat	45.52%	346.2530	161.34	41.72%	Limited	U		MINOR		105	45	6	10		1	1	
+21-Don Same	43.85%	333.5783	139.46	40.19%	PCC	C	Super Senior	MINOR	A105098	106	23	3	2		2		
+22-Jason Wilson	43.85%	333.5546	151.81	40.19%	Limited	M		MAJOR	A94696	116	13	3	2		1		
+23-Carl Rugg	42.94%	326.6605	221.01	39.36%	PCC	D	Super Senior	MINOR		141	22		3		1		
+24-Adam Jones	40.51%	308.1694	133.32	37.13%	Limited	C		MINOR	A115792	98	25	5	6			1	
+25-Kevin Baker	34.32%	261.0493	168.66	31.45%	Production	C		MINOR		89	49	9	15		2		
+26-Dale Hamm	26.25%	199.6873	174.89	24.06%	Limited	D	Senior	MAJOR	TY97196	70	33	20	11				
+27-Chris Salch	20.76%	157.9465	332.85	19.03%	Limited	U		MAJOR		82	53	18	13		5		
+28-Blaine Newlin	17.01%	129.4196	359.55	15.59%	Revolver	U		MINOR	TY103350	110	19	1	4			1	
+29-jim johnson	16.92%	128.7049	530.80	15.51%	Single Stack	U	Super Senior	MAJOR		107	45	7	7		2		
+DQ-Edwin Buchwalter	0.00%	0.0000		0.00%	PCC	U		MINOR	A102903								
+Name
+1-Cory Klemashevich
+2-matt hawes
+3-Sam Pruett 1
+4-Garry Newton
+5-Charles Thomason
+6-Dale Fike
+7-William Conlan
+8-Bill Corcoran
+9-Kyle Post
+10-randy callison
+11-Jonathan Foo
+12-Larry Thomas
+13-Tommy Teas
+14-Danny Dubuisson
+15-Eric Mccampbell
+16-Bill Corcoran
+17-greg thoede
+18-Mark Lutzel
+19-GARY BRISCO
+20-Billy Boonkrongkiat
+21-Don Same
+22-Jason Wilson
+23-Carl Rugg
+24-Adam Jones
+25-Kevin Baker
+26-Dale Hamm
+27-Chris Salch
+28-Blaine Newlin
+29-jim johnson
+DQ-Edwin Buchwalter
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 5
+Pruett, Sam (1)
+2019-12-15 15:39:58.411 - 2019-12-15 15:47:08.066Edited 7 minutes after.Edited str,0 was: 0 now: 18.67
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added rawpts: 142Added details: [object Object]Added numAlphas: 25Added numCharlies: 5Added numDeltas: 2Added stringTime: 18.67Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

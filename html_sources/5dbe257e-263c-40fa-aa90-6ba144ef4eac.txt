@@ -1,0 +1,91 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+SPCGC Hosts Kidlat Shooters USPSA 05-05-22 USPSA 2022-05-05Spring Pistol Caliber Gun Club
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Raul Sotelo	100.00%	480.0000	55.44	100.00%	Open	M		MAJOR	Ty41489	58	36	2					
+2-Jake Mansfield	80.49%	386.3720	66.91	80.49%	Carry Optics	A		MINOR	A101123	85	10		1		2		
+3-Fredi Loke	79.06%	379.4915	65.43	79.06%	PCC	B	Super Senior	MINOR	A130588	73	17	5	1				
+4-Edwin Garcia	74.79%	358.9682	54.51	74.79%	Carry Optics	U		MINOR	ty38396	53	34	6	3		2		
+5-Brandon Truong	70.70%	339.3587	72.72	70.70%	Carry Optics			MINOR	TY111128	60	35	1					
+6-Phil Truong 1	62.24%	298.7371	81.41	62.24%	Carry Optics	B		MINOR	FY128600	62	27	7					
+7-Greg Kam	58.39%	280.2843	86.27	58.39%	Limited	U	Junior	MINOR		71	21	3	1		1		
+8-Nic Blades	58.32%	279.9296	93.29	58.32%	Single Stack	C		MINOR	A83339	77	18	1			1		
+9-Jackson Kam	54.70%	262.5401	107.53	54.70%	Limited	U	Junior	MINOR		87	9						
+10-Ernest Lee	52.74%	253.1440	90.97	52.74%	Revolver	B	Senior	MINOR	A91499	70	18	6	2		1		
+11-Garrett Henning 1	51.22%	245.8396	101.22	51.22%	Limited	U		MINOR		71	23	1	1		1		
+12-Rudy Widiaman	49.59%	238.0269	103.60	49.59%	Carry Optics	U		MINOR		75	17	3	1		1	2	
+13-Dale Hamm	40.77%	195.7066	83.78	40.77%	Single Stack	C	Senior	MAJOR	TY97196	47	25	5	3				
+Name
+1-Raul Sotelo
+2-Jake Mansfield
+3-Fredi Loke
+4-Edwin Garcia
+5-Brandon Truong
+6-Phil Truong 1
+7-Greg Kam
+8-Nic Blades
+9-Jackson Kam
+10-Ernest Lee
+11-Garrett Henning 1
+12-Rudy Widiaman
+13-Dale Hamm
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Truong, Phil (1)
+2022-05-05 23:18:16.288 - 2022-05-05 23:19:11.237Edited a minute after.Edited rawpts was: 117 now: 124
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 21Added numCharlies: 6Added numDeltas: 1Added stringTime: 24.25Edited By Android Device
+Henning, Garrett (1)
+2022-05-05 23:25:07.085 - 2022-05-05 23:25:49.402Edited a few seconds after.Edited rawpts was: 130 now: 132
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 24Added numCharlies: 4Added numNS: 1Added stringTime: 37.11Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

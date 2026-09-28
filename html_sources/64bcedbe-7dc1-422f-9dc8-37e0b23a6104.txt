@@ -1,0 +1,146 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday June 14th USPSA 2020-06-14Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Chris Snow	100.00%	738.4656	110.38	92.31%	Open	U		MINOR	TY107262	144	14	1	1		1		
+2-Cory Klemashevich	99.79%	736.9504	93.47	92.12%	PCC	G		MINOR	A87214	108	44	5	3		2		
+3-Jonathan Foo	96.41%	711.9470	103.35	88.99%	Carry Optics	U		MINOR		120	32	7	1		1	1	
+4-Larry Thomas 1	83.65%	617.7290	118.51	77.22%	PCC	U		MINOR	A115204	128	28	1	3		2	1	
+5-Rolan Ocampo 1	77.08%	569.1805	131.69	71.15%	Limited	A		MAJOR		115	33	10	2		2		
+6-William Conlan 1	74.83%	552.5914	112.85	69.07%	Carry Optics	U		MINOR		103	43	10	4		3		
+7-Preston Sidwell 2	73.45%	542.4314	155.01	67.80%	Carry Optics	U		MINOR		144	14	2					
+8-Nic Bolin	70.59%	521.2578	153.87	65.16%	Carry Optics	C		MINOR	A120226	130	30				1		
+9-Bradley Phair 1	66.41%	490.4109	159.28	61.30%	PCC	U	Senior	MINOR		125	33	2			2		
+10-Sam Pruett	64.05%	472.9864	140.95	59.12%	Open	C		MAJOR		102	50	3	5		2	3	
+11-Tommy Teas	62.97%	465.0164	135.99	58.13%	Limited	B	Senior	MINOR	TY2227	99	46	11	4		2		
+12-John Simmons 2	57.54%	424.9231	180.40	53.12%	Limited	C	Super Senior	MAJOR	A78475	121	33	3	3		3		
+13-Josh Rizzo 2	55.26%	408.0604	171.72	51.01%	Open	X		MAJOR		111	40	4	5		4		
+14-Mark Lutzel	52.93%	390.8557	153.86	48.86%	Carry Optics	C	Senior	MINOR	FY101009	110	39	5	6		6		
+15-Edwin Buchwalter	51.44%	379.8540	155.77	47.48%	PCC	C		MINOR	A102903	97	42	16	5		4		
+16-Jeffrey Polk	50.63%	373.8570	135.44	46.73%	Carry Optics	C		MINOR	A104167	107	39	6	8		8	1	
+17-Gary Brisco 1	43.45%	320.8990	197.01	40.11%	PCC	U	Senior	MINOR	FY73704	115	33	5	7		1	1	
+18-Chad Kuboviak	42.93%	317.0005	201.56	39.63%	Limited	U		MAJOR		99	44	12	5		7		
+19-Mickey Gallaway	41.71%	308.0189	217.58	38.50%	Limited	B	Super Senior	MAJOR	FY-556	110	40	3	7		4		
+20-Bradford Davis Jr	38.73%	285.9972	216.32	35.75%	Carry Optics	X	Law Enforcement	MINOR		109	32	14	5		3		
+21-Dale Hamm	38.38%	283.4413	222.10	35.43%	Limited	D	Senior	MAJOR	TY97196	90	48	16	6		3		
+22-greg thoede	34.08%	251.6961	202.56	31.46%	Carry Optics	C	Super Senior	MINOR	Fy16969	109	33	9	9		7	1	
+23-William Cooper	17.15%	126.6126	229.29	15.83%	Production	X		MINOR		69	46	22	23		9		
+24-jim johnson	8.58%	63.3444	509.53	7.92%	Single Stack	U	Super Senior	MAJOR		84	37	14	25		12		
+Name
+1-Chris Snow
+2-Cory Klemashevich
+3-Jonathan Foo
+4-Larry Thomas 1
+5-Rolan Ocampo 1
+6-William Conlan 1
+7-Preston Sidwell 2
+8-Nic Bolin
+9-Bradley Phair 1
+10-Sam Pruett
+11-Tommy Teas
+12-John Simmons 2
+13-Josh Rizzo 2
+14-Mark Lutzel
+15-Edwin Buchwalter
+16-Jeffrey Polk
+17-Gary Brisco 1
+18-Chad Kuboviak
+19-Mickey Gallaway
+20-Bradford Davis Jr
+21-Dale Hamm
+22-greg thoede
+23-William Cooper
+24-jim johnson
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+HI'er Love
+Brisco, Gary (1)
+2020-06-14 17:04:42.405 - 2020-06-14 17:06:13.474Edited 2 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	2	2	0
+Current	0	0	0	0	0	2	0
+Added details: [object Object]Added numAlphas: 8Added numM: 4Added stringTime: 11.53Edited By Android Device
+Stage 4
+Thomas, Larry (1)
+2020-06-14 15:33:41.371 - 2020-06-14 15:33:59.935Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	1	0	1	0	0
+Added details: [object Object]Added numAlphas: 32Added numCharlies: 1Added numDeltas: 1Added numNS: 1Added stringTime: 21.38Edited By Android Device
+Ocampo, Rolan (1)
+2020-06-14 15:37:57.656 - 2020-06-14 15:38:37.581Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	1	0	1	0	0
+Added details: [object Object]Added numAlphas: 29Added numCharlies: 5Added numNS: 1Added stringTime: 22.47Edited By Android Device
+Stage 5
+Conlan, William (1)
+2020-06-14 16:06:55.791 - 2020-06-14 16:07:26.218Edited a few seconds after.Edited rawpts was: 116 now: 113
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	1	0	0	1	0
+Added details: [object Object]Added numAlphas: 26Added numCharlies: 3Added numDeltas: 4Added numM: 1Added stringTime: 20.38Edited By Android Device
+Stage 6
+Simmons, John (2)
+2020-06-14 15:21:06.062 - 2020-06-14 15:21:38.058Edited a few seconds after.Edited rawpts was: 142 now: 151
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Removed Reason for Edit Stage editedAdded aprv: trueAdded details: [object Object]Added numAlphas: 33Added numCharlies: 6Added numDeltas: 1Added stringTime: 51.02Edited By Android Device2020-06-14 15:20:39.181 - 2020-06-14 15:21:06.062Edited a few seconds after.Added Reason for Edit Stage editedEdited By Android Device
+Rizzo, Josh (2)
+2020-06-14 15:21:06.062 - 2020-06-14 15:21:21.916Edited a few seconds after.Edited rawpts was: 140 now: 148
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 30Added numCharlies: 9Added numDeltas: 1Added stringTime: 35.48Edited By Android Device2020-06-14 15:13:36.498 - 2020-06-14 15:21:06.062Edited 7 minutes after.Added Reason for Edit Stage editedEdited By Android Device
+Sidwell, Preston (2)
+2020-06-14 15:21:06.062 - 2020-06-14 15:21:31.898Edited a few seconds after.Edited rawpts was: 146 now: 156
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 38Added numCharlies: 2Added stringTime: 28.96Edited By Android Device2020-06-14 15:16:47.300 - 2020-06-14 15:21:06.062Edited 4 minutes after.Added Reason for Edit Stage editedEdited By Android Device
+Phair, Bradley (1)
+2020-06-14 15:49:38.710 - 2020-06-14 15:50:12.030Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+Added details: [object Object]Added numAlphas: 35Added numCharlies: 5Added numNS: 1Added stringTime: 36.58Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

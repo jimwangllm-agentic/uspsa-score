@@ -1,0 +1,97 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+SPCGC Hosts Kidlat Shooters USPSA 02-01-24 USPSA 2024-02-02Spring Pistol Caliber Gun Club
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Angelo Guadalquiver	100.00%	256.5768	37.90	91.63%	Open	C		MAJOR	A145293	39	15	1	1				
+2-Phil Truong	99.13%	254.3382	37.26	90.84%	Open	B		MINOR	FY128600	38	18						
+3-Shaundy Pepito	98.28%	252.1736	39.86	90.06%	Open	C		MAJOR	A12771	37	18	1					
+4-Christian Canizales	97.90%	251.1976	37.93	89.71%	Carry Optics	B		MINOR	TY150265	44	11	1			1		
+5-Fredi Loke	90.50%	232.1902	37.58	82.93%	PCC	X	Super Senior	MINOR	Xxx	36	17	3			1		
+6-Ryan Jaw 1	90.42%	231.9998	40.54	82.86%	Limited Optics	C		MINOR	TY142907	45	9	1	1				
+7-Rudy Widiaman	83.63%	214.5877	43.91	76.64%	Limited Optics	U		MINOR		44	11		1				
+8-Sean Estalilla	79.15%	203.0854	43.89	72.53%	Limited Optics	U		MINOR		31	25						
+9-Albert Legislador	74.51%	191.1723	51.61	68.28%	Carry Optics	C		MINOR	TY91787	41	15						
+10-Gennady Khokhorin	73.94%	189.7226	45.28	67.76%	Production	U	Super Senior	MINOR	A123884	32	19	5					
+11-Nic Blades	73.91%	189.6444	56.86	67.73%	Single Stack	C		MINOR	A83339	52	4						
+12-Jay-R delos-Santos	72.16%	185.1455	50.88	66.12%	PCC	B	Senior	MINOR	A70297	37	17	1	1		1		
+13-Nathan Bridges	63.61%	163.1962	44.31	58.28%	Carry Optics	C		MINOR	A139264	31	19	3	3				
+14-Virak Meas	62.99%	161.6295	48.71	57.72%	Limited Optics	U	Senior	MINOR	O	35	14	5	2				
+15-Chris Trevino	60.79%	155.9667	49.85	55.70%	Limited Optics	U		MINOR		30	21	3	2				
+16-Kirk Skinner	57.30%	147.0083	46.13	52.50%	Limited Optics	U		MINOR		34	14	5	3		1		
+17-vox Esguerra	52.31%	134.2193	55.76	47.94%	Single Stack	C		MAJOR	A79097	25	24	4	3		1		
+18-Yul Kwan	47.16%	120.9925	53.09	43.21%	Open	U	Senior	MINOR	0	26	22	4	4				
+19-Elliott Garlinger	43.02%	110.3825	74.10	39.42%	Limited	U		MINOR		31	19	5	1				
+20-Chad Folger	39.90%	102.3690	18.00	36.56%	Limited	M		MAJOR	L3031	15	7	2					
+21-Eric Esico	35.61%	91.3582	38.14	32.63%	Limited	U		MINOR	TY150782	20	17	5	4		1		
+22-Audry Folger	24.79%	63.6147	23.01	22.72%	Limited	C	Lady	MAJOR	A125117	13	10		1		1		
+Name
+1-Angelo Guadalquiver
+2-Phil Truong
+3-Shaundy Pepito
+4-Christian Canizales
+5-Fredi Loke
+6-Ryan Jaw 1
+7-Rudy Widiaman
+8-Sean Estalilla
+9-Albert Legislador
+10-Gennady Khokhorin
+11-Nic Blades
+12-Jay-R delos-Santos
+13-Nathan Bridges
+14-Virak Meas
+15-Chris Trevino
+16-Kirk Skinner
+17-vox Esguerra
+18-Yul Kwan
+19-Elliott Garlinger
+20-Chad Folger
+21-Eric Esico
+22-Audry Folger
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Jaw, Ryan (1)
+2024-02-02 01:19:12.801 - 2024-02-02 01:19:31.743Edited a few seconds after.Edited rawpts was: 95 now: 97
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 17Added numCharlies: 4Added numM: 1Added stringTime: 15.26Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

@@ -1,0 +1,248 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Feb 17 USPSA 2022-02-18Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Khoa Nguyen 1	100.00%	296.6987	51.69	87.26%	PCC	A	Law Enforcement	MINOR	A117224	49	17		2				
+2-AJ Jackson	88.12%	261.4439	52.57	76.90%	PCC	A		MINOR	A81745	40	23	3	2				
+3-James Jackson	87.17%	258.6256	59.12	76.07%	PCC	X		MINOR	a89219	38	28	2					
+4-Pete Kirchner 4	83.62%	248.0878	56.87	72.97%	Carry Optics	A		MINOR	TY105743	43	20	3	2				
+5-Desmond Jackson 4	76.65%	227.4080	72.58	66.88%	PCC	B		MINOR	TY89242	49	18	1					
+6-Ray Fishel 1	76.25%	226.2408	65.18	66.54%	PCC	B	Senior	MINOR	A92443	44	21	2	1		1		
+7-Charles Bradbury	72.11%	213.9511	72.90	62.93%	PCC	X		MINOR	A107489	48	19		1				
+8-Mark Hopmann	60.59%	179.7614	88.17	52.87%	Carry Optics	B	Senior	MINOR	TY134553	51	16		1		1		
+9-Ronald Gillory Jr.	57.20%	169.7091	95.48	49.91%	PCC	B		MINOR	TY83291	52	15		1				
+10-Mark Lutzel 3	56.49%	167.6153	84.17	49.30%	Carry Optics	C	Senior	MINOR	FY-101009	46	14	6	2				
+11-Blaine Newlin	55.03%	163.2868	88.25	48.03%	Limited 10	B		MINOR	TY103350	52	12	2	2		1		
+12-Joseph Tran	52.70%	156.3516	96.73	45.99%	Open	U	Senior	MINOR	A129933	55	10	1	2		1		
+13-Kenedy Nguyen	48.98%	145.3267	87.96	42.74%	Open	C		MAJOR	A83862	32	27	4	5				
+14-Lauren Christenson	38.88%	115.3521	105.50	33.93%	Carry Optics		Lady	MINOR		38	22	3	5			1	
+15-Lisa Nguyen	32.97%	97.8300	128.18	28.77%	Open	D	Lady	MAJOR	A135827	42	17		9				
+16-Santiago Fields	26.40%	78.3376	87.32	23.04%	Limited	D		MINOR	TY128653	35	19	3	11				
+17-John Del Toro 1	11.45%	33.9743	126.84	9.99%	Limited 10	C	Super Senior	MINOR	A107511	30	27	1	10		4	1	
+DQ-Les Bolden	0.00%	0.0000		0.00%	Open	U		MINOR	A139316								
+Name
+1-Khoa Nguyen 1
+2-AJ Jackson
+3-James Jackson
+4-Pete Kirchner 4
+5-Desmond Jackson 4
+6-Ray Fishel 1
+7-Charles Bradbury
+8-Mark Hopmann
+9-Ronald Gillory Jr.
+10-Mark Lutzel 3
+11-Blaine Newlin
+12-Joseph Tran
+13-Kenedy Nguyen
+14-Lauren Christenson
+15-Lisa Nguyen
+16-Santiago Fields
+17-John Del Toro 1
+DQ-Les Bolden
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+STAGE 1
+Del Toro, John (1)
+2022-02-18 01:31:48.387 - 2022-02-18 01:32:28.862Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	0	0	1	1	0
+Added aprv: trueAdded details: [object Object]Added numAlphas: 9Added numNS: 1Added numM: 5Added stringTime: 23.05Edited By BCPS KINDLE FIRE #2
+Nguyen, Khoa (1)
+2022-02-18 01:24:55.607 - 2022-02-18 01:25:50.444Edited a minute after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Added rawpts: 58Added aprv: trueAdded details: [object Object]Added numAlphas: 8Added numCharlies: 6Added stringTime: 8.19Edited By BCPS KINDLE FIRE #2
+Jackson, Desmond (2)
+2022-02-18 01:56:44.812 - 2022-02-18 02:09:55.058Edited 13 minutes after.Edited rawpts was: 5 now: 56Edited str,0 was: 0 now: 12.4
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Added aprv: trueAdded details: [object Object]Added numAlphas: 8Added numCharlies: 5Added numDeltas: 1Added stringTime: 12.4Edited By BCPS KINDLE FIRE #32022-02-18 01:26:40.681 - 2022-02-18 01:56:44.812Edited 30 minutes after.Edited str,0 was: 24.79 now: 0Edited By BCPS KINDLE FIRE #3
+STAGE 2
+Lutzel, Mark (3)
+2022-02-18 01:59:31.202 - 2022-02-18 01:59:51.241Edited a few seconds after.Edited rawpts was: 62 now: 75
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+Removed Reason for Edit Stage editedAdded aprv: trueAdded details: [object Object]Added numAlphas: 12Added numCharlies: 5Added numM: 1Added stringTime: 26.29Edited By BCPS KINDLE FIRE #22022-02-18 01:58:43.318 - 2022-02-18 01:59:31.202Edited a minute after.Added Reason for Edit Stage editedEdited By BCPS KINDLE FIRE #22022-02-18 01:57:10.771 - 2022-02-18 01:58:43.318Edited 2 minutes after.Edited rawpts was: 13 now: 62
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+Edited By BCPS KINDLE FIRE #2
+Fishel, Ray (1)
+2022-02-18 02:02:18.848 - 2022-02-18 02:06:47.969Edited 4 minutes after.Edited str,0 was: 21.99 now: 21.59Added details: [object Object]Added numAlphas: 13Added numCharlies: 4Added numM: 1Added stringTime: 21.59Edited By BCPS KINDLE FIRE #2
+Kirchner, Pete (2)
+2022-02-18 01:38:18.953 - 2022-02-18 01:39:32.061Edited a minute after.Edited str,0 was: 0 now: 18.82
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Bradbury, Charles (PCC/Min)Added rawpts: 79Added aprv: trueAdded details: [object Object]Added numAlphas: 14Added numCharlies: 3Added numM: 1Added stringTime: 18.82Edited By BCPS KINDLE FIRE #32022-02-18 01:37:32.026 - 2022-02-18 01:38:18.953Edited a minute after.Removed rawpts: 75Edited str,0 was: 24.61 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Bradbury, Charles (PCC/Min)Edited By BCPS KINDLE FIRE #3
+Jackson, Desmond (2)
+2022-02-18 01:27:50.090 - 2022-02-18 01:28:06.750Edited a few seconds after.Edited rawpts was: 62 now: 82
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 14Added numCharlies: 4Added stringTime: 24.79Edited By BCPS KINDLE FIRE #32022-02-18 01:27:36.644 - 2022-02-18 01:27:50.090Edited a few seconds after.Added Reason for Edit Stage editedEdited By BCPS KINDLE FIRE #3
+STAGE 4
+Kirchner, Pete (2)
+2022-02-18 03:05:36.495 - 2022-02-18 03:05:56.927Edited a few seconds after.Edited rawpts was: 54 now: 70
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Removed Reason for Edit Stage editedAdded aprv: trueAdded details: [object Object]Added numAlphas: 8Added numCharlies: 10Added stringTime: 11.79Edited By BCPS KINDLE FIRE #32022-02-18 03:05:06.574 - 2022-02-18 03:05:36.495Edited a few seconds after.Added Reason for Edit Stage editedEdited By BCPS KINDLE FIRE #3
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

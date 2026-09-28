@@ -1,0 +1,108 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday April 13th (Fixed) USPSA 2025-04-13
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Zach Smith	100.00%	566.9852	94.89	92.19%	Carry Optics	A		MINOR	A152801	101	20	2					
+2-Mack McLaughlin	99.75%	565.5938	100.29	91.97%	Limited Optics	B		MINOR	L4211	113	10						
+3-Clinton Shawhan	95.37%	540.7415	93.89	87.93%	Limited Optics	B		MINOR	A106964	91	27	5					
+4-William Conlan	82.72%	469.0040	103.67	76.26%	Open	B		MINOR	A45421	84	34	4	1				
+5-Canyon Krueger	82.58%	468.2338	107.07	76.14%	Carry Optics	B	Law Enforcement	MINOR	A164453	94	26	2	1		2		
+6-Grady Mulkerin	78.92%	447.4683	110.48	72.76%	Carry Optics	B		MINOR	A159000	82	40	1			1		
+7-Hunter Sparkman	77.64%	440.1971	105.26	71.58%	Carry Optics	C	Law Enforcement	MINOR	A165234	89	28	5	1		4		
+8-Joshua Blume	74.94%	424.9222	113.76	69.09%	Carry Optics	B		MINOR	A148746	88	30	3	2		1		
+9-Daniel Claybaugh	71.78%	406.9791	116.09	66.18%	PCC	C		MINOR	A135956	85	33	5			1	2	
+10-Tommy Teas	68.02%	385.6822	119.34	62.71%	Limited	B	Senior	MINOR	FY2227	72	44	5	2				
+11-Josh Rizzo	66.25%	375.6252	115.64	61.08%	Limited Optics	B		MINOR		91	27	3	2		2	4	
+12-Chris Flores	64.83%	367.5484	132.86	59.76%	Limited Optics	C		MINOR	A154697	90	29	4			2		
+13-Saunders Arnold	64.69%	366.7910	136.70	59.64%	Carry Optics	C		MINOR	L5609	94	25	2	2		2		
+14-Dale Hamm	59.33%	336.3992	134.10	54.70%	PCC	C	Senior	MINOR	TY97196	79	33	10	1		1		
+15-Eric Mccampbell	58.29%	330.4877	147.73	53.74%	Limited Optics	U	Senior	MINOR	A14332	83	33	7			2		
+16-Gene Bray	54.13%	306.9092	123.69	49.90%	PCC	B	Super Senior	MINOR	L4490	84	31	5	3		4	6	
+17-D’Artagnan Logsdon	51.86%	294.0113	163.89	47.81%	Limited Optics	U		MINOR		90	25	6	2		1		
+18-Rob Schmitt 1	46.17%	261.7637	167.28	42.56%	Open	X		MINOR		95	19	5	4		4	1	
+19-Brian Prindle	43.84%	248.5898	189.31	40.42%	Limited Optics	U		MINOR	A167460	98	14	8	3		1	1	
+20-Justin Miller	41.41%	234.7911	207.72	38.18%	Carry Optics	U		MINOR		98	21	2	2		4		
+21-Justin Krus	40.97%	232.3099	197.70	37.77%	Production	U		MINOR		91	24	3	5			1	
+22-Sam Brauer	31.62%	179.2903	170.81	29.15%	Production	D		MINOR		80	19	14	10		5		
+23-Hanghang Wang	7.47%	42.3692	660.59	6.89%	Carry Optics	U	Lady	MINOR		68	26	12	17		8		
+Name
+1-Zach Smith
+2-Mack McLaughlin
+3-Clinton Shawhan
+4-William Conlan
+5-Canyon Krueger
+6-Grady Mulkerin
+7-Hunter Sparkman
+8-Joshua Blume
+9-Daniel Claybaugh
+10-Tommy Teas
+11-Josh Rizzo
+12-Chris Flores
+13-Saunders Arnold
+14-Dale Hamm
+15-Eric Mccampbell
+16-Gene Bray
+17-D’Artagnan Logsdon
+18-Rob Schmitt 1
+19-Brian Prindle
+20-Justin Miller
+21-Justin Krus
+22-Sam Brauer
+23-Hanghang Wang
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Can you Strong And Weak Hand?
+Schmitt, Rob (1)
+2025-04-13 16:23:21.580 - 2025-04-13 16:24:12.977Edited a minute after.Edited str,1 was: 0 now: 11.63
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	6	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	1	1	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	1	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	6	0	0	0	0	0	0
+Added proc: 1Added rawpts: 107Added details: [object Object]Added numAlphas: 20Added numCharlies: 2Added numDeltas: 1Added numNS: 2Added numM: 1Added numProc: 1Added stringTime: 22.810000000000002Edited By Amazon KFMUWI 089dd8da
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

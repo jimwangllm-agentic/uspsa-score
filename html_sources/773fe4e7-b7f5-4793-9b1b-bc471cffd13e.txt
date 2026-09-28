@@ -1,0 +1,89 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+SPCGC Hosts the Kidlat Shooters USPSA 8/19/21 USPSA 2021-08-19Spring Pistol Caliber Gun Club
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Olayemi Bakare	100.00%	300.0000	35.95	100.00%	Limited	A		MAJOR		46	14						
+2-Chad Folger	89.10%	267.2963	39.23	89.10%	Limited	M		MAJOR	L3031	42	16	2					
+3-Phil Truong	82.91%	248.7233	38.26	82.91%	Open	C		MAJOR	FY128600	34	20	6			1		
+4-Todd Ritz	79.96%	239.8828	42.49	79.96%	Limited	B	Law Enforcement	MINOR	A-92868	42	18						
+5-Raul Sotelo 1	72.66%	217.9708	42.82	72.66%	Limited	A		MAJOR	Ty41489	44	14		2		1		
+6-GLENN McKinney	61.63%	184.8876	52.30	61.63%	Limited	C	Senior	MAJOR	FY8311	38	17	3	2				
+7-Nic Blades	60.46%	181.3749	60.30	60.46%	Single Stack	C		MINOR	A83339	53	7						
+8-Dale Hamm	56.51%	169.5268	63.05	56.51%	Limited	C	Senior	MAJOR	TY97196	39	21						
+9-Brandon Truong	56.16%	168.4816	49.91	56.16%	Open	X		MAJOR	TY111128	30	27	1	2		2		
+10-Fredi Loke	54.28%	162.8491	55.21	54.28%	Carry Optics	U	Super Senior	MINOR	A130588	40	17	1	2				
+11-samuel bharksuwan	49.52%	148.5600	44.86	49.52%	Carry Optics	U		MINOR	B51	37	8	3					
+12-Ernest Lee	47.72%	143.1558	66.48	47.72%	Revolver	C	Senior	MINOR	A91499	42	17		1				
+13-Long Nguyen	47.28%	141.8265	68.33	47.28%	Carry Optics			MINOR		37	23						
+14-Audry Folger	40.90%	122.6870	70.15	40.90%	Limited	C	Lady	MAJOR	A125117	34	19	3	4				
+15-Matthew Davis 1	37.88%	113.6350	76.91	37.88%	Limited	U	Foreign	MAJOR	A133791	40	14	3	3		1		
+Name
+1-Olayemi Bakare
+2-Chad Folger
+3-Phil Truong
+4-Todd Ritz
+5-Raul Sotelo 1
+6-GLENN McKinney
+7-Nic Blades
+8-Dale Hamm
+9-Brandon Truong
+10-Fredi Loke
+11-samuel bharksuwan
+12-Ernest Lee
+13-Long Nguyen
+14-Audry Folger
+15-Matthew Davis 1
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Davis, Matthew (1)
+2021-08-20 00:09:50.362 - 2021-08-20 00:10:15.978Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	0	1	1	0	0
+Added details: [object Object]Added numAlphas: 20Added numCharlies: 3Added numDeltas: 3Added numNS: 1Added stringTime: 30.29Edited By Android Device
+Sotelo, Raul (1)
+2021-08-20 00:06:27.644 - 2021-08-20 00:07:11.300Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	2	0	1	0	0
+Added details: [object Object]Added numAlphas: 18Added numCharlies: 8Added numNS: 1Added stringTime: 18.08Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

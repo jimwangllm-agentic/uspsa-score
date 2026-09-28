@@ -1,0 +1,260 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA Nov 19, 2017 USPSA/IPSC 2017-11-19
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	P
+1-Matt Hawes	100.00%	660.3499	84.59	85.76%	PCC	M		MINOR	A81983	143	11				1	
+2-Cory Klemashevich	99.56%	657.4151	75.76	85.38%	PCC	M		MINOR	A87214	121	30	2	1		1	1
+3-Michael Kellett	91.10%	601.5819	90.99	78.13%	PCC	U		MINOR		128	25	1				
+4-Scott York	89.98%	594.2004	86.23	77.17%	PCC	A		MINOR	A2369	117	36	1				
+5-Bill Murray	87.50%	577.7787	87.22	75.04%	PCC	M	Super Senior	MINOR	TY3880	120	28	4	1		1	
+6-Charles Thomason	84.18%	555.8794	92.73	72.19%	PCC			MINOR		125	25	2	1			
+7-Randy Goodney	80.24%	529.8623	98.54	68.81%	Open	A		MAJOR	A94852	118	32		2			
+8-Tom Echols	73.03%	482.2462	113.14	62.63%	PCC	U		MINOR	A87414	136	18					
+9-Vadim Berezanskiy	70.07%	462.6946	120.40	60.09%	Open	U		MINOR	A95979	146	8					
+10-gerrit milks	67.68%	446.9368	114.02	58.04%	PCC	C	Senior	MINOR	A67608	121	27	3	3			
+11-William Conlan	64.97%	429.0178	90.85	55.72%	Limited	B		MINOR	A45421	100	38	8	7		3	
+12-Scott York	64.07%	423.0881	109.96	54.95%	Limited	B		MAJOR	A2369	108	29	6	9		1	
+13-Q Nguyen	63.16%	417.0504	114.50	54.16%	PCC	U		MINOR	A99688	107	39	4	2			1
+14-John Voss	61.05%	403.1567	126.79	52.36%	Production	U		MINOR	A105318	104	41	3	2			
+15-Kyle Post	60.86%	401.9219	117.57	52.20%	Production	A		MINOR	A74846	114	31	5	3		3	
+16-David Chow	59.43%	392.4443	114.74	50.97%	Production	C		MINOR	A100573	104	37	8	4			1
+17-Taylor Latham 1	59.30%	391.5651	153.68	50.85%	Single Stack	U	Senior	MAJOR		127	25				1	
+18-AJ Jackson 1	55.49%	366.4035	124.08	47.58%	Single Stack	B		MAJOR	A81745	107	30	5	8			
+19-nick milks	55.08%	363.6996	132.65	47.23%	Limited	U		MINOR	PENDING	105	40	4	1			
+20-Aaron Vezorak	54.44%	359.5156	138.53	46.69%	Limited	B		MINOR	A65587	112	28	11	2		1	
+21-Clement Gregoire	53.81%	355.3030	142.29	46.14%	Limited	U	Law Enforcement	MINOR		119	28	6	1			
+22-Alex York	53.21%	351.3466	143.39	45.63%	PCC	D	Preteen, Junior	MINOR	3493841	118	27	2	1			
+23-Christopher Hoog	52.43%	346.2419	144.03	44.97%	Production	U		MINOR		117	28	4	2		1	
+24-Chris Hernandez 1	50.87%	335.9111	149.05	43.62%	Production	U		MINOR		126	24	1	3		1	
+25-Mary DuBuisson 1	49.99%	330.1291	159.25	42.87%	PCC	C	Lady	MINOR	A77442	132	17	3	2			
+26-Daniel DuBuisson	49.83%	329.0682	160.41	42.74%	PCC	C		MINOR	L3935	134	17	2	1		3	
+27-Jason Wilson	49.63%	327.6998	162.91	42.56%	Revolver	M		MINOR	A94696	142	10		2			
+28-Kelton Casey	49.05%	323.9325	138.89	42.07%	Limited	B		MAJOR	TY42440	93	34	9	8			
+29-David Duffy	47.97%	316.7798	138.13	41.14%	Single Stack	U		MINOR	A106456	118	28	3	5		2	
+30-Mark Lutzel	47.29%	312.2831	136.66	40.56%	Limited	U	Senior	MINOR	TY101009	104	37	5	6			1
+31-John Gossett	45.79%	302.3754	153.97	39.27%	Limited	U		MINOR		143	5	1	5		3	
+32-Greg Thoede	44.86%	296.2371	156.44	38.47%	Limited	B	Super Senior	MAJOR	FY16969	96	46	7	5		1	
+33-Kevin Baker	44.26%	292.2941	142.47	37.96%	Production	C		MINOR	A95439	101	35	9	5		1	
+34-Stephen Pearce	41.55%	274.3917	182.89	35.64%	Limited	U	Super Senior	MAJOR	A98771	121	26	3	4		1	
+35-Edwin Buchwalter	38.94%	257.1212	163.91	33.39%	Limited	C		MAJOR	A102903	106	33	9	6		4	
+36-Thomas Doering 1	38.38%	253.4713	194.63	32.92%	Production	U		MINOR		135	16		3		2	
+37-Maegan Wilson	35.05%	231.4662	157.25	30.06%	Limited	U	Lady	MINOR		91	35	6	12			
+38-Don Same	28.61%	188.8970	190.29	24.53%	Limited	U	Senior	MINOR	A105098	99	30	11	11		3	
+39-Douglas Campbell	23.14%	152.8292	269.01	19.85%	Production	U	Senior	MINOR		107	34	6	7		1	
+40-chris Salch	21.90%	144.6289	361.83	18.78%	Limited	U		MAJOR		133	15	3	3		2	
+41-Max Loeffler	19.72%	130.2533	193.58	16.92%	Production			MINOR		82	44	15	13		8	
+42-Jim johnson	18.32%	120.9755	322.73	15.71%	Single Stack	U	Super Senior	MAJOR		103	30	7	13		4	
+43-Robert Bombardiere 1	17.68%	116.7542	248.45	15.16%	Production	U		MINOR		97	24	13	17		3	
+44-AJ Jackson	2.11%	13.9574	7.87	1.81%	PCC	C		MINOR	A81745	8	1	1	2		1	
+45-Robert Bui	0.00%	0.0000		0.00%	Production	C		MINOR	A103016							
+46-Jay Hafemeister	0.00%	0.0000		0.00%	Production	B		MINOR	TY87794							
+47-Ty Kasper	0.00%	0.0000		0.00%	Production	U		MINOR	A103976							
+48-Bruce Meuth	0.00%	0.0000		0.00%	Limited	C		MAJOR	TY87524							
+49-Alexander Rihovsky	0.00%	0.0000		0.00%	Production	B		MINOR	A104390							
+50-Waldo Samano	0.00%	0.0000		0.00%	Production	B		MINOR	TY87973							
+51-Joseph stephenson	0.00%	0.0000		0.00%	Limited	U		MINOR	A102823							
+DQ-Chris Cochran	0.00%	0.0000		0.00%	Production	U	Junior	MINOR	A103159							
+DQ-Jake Philpott	0.00%	0.0000		0.00%	Production	U	Junior	MINOR								
+Name
+1-Matt Hawes
+2-Cory Klemashevich
+3-Michael Kellett
+4-Scott York
+5-Bill Murray
+6-Charles Thomason
+7-Randy Goodney
+8-Tom Echols
+9-Vadim Berezanskiy
+10-gerrit milks
+11-William Conlan
+12-Scott York
+13-Q Nguyen
+14-John Voss
+15-Kyle Post
+16-David Chow
+17-Taylor Latham 1
+18-AJ Jackson 1
+19-nick milks
+20-Aaron Vezorak
+21-Clement Gregoire
+22-Alex York
+23-Christopher Hoog
+24-Chris Hernandez 1
+25-Mary DuBuisson 1
+26-Daniel DuBuisson
+27-Jason Wilson
+28-Kelton Casey
+29-David Duffy
+30-Mark Lutzel
+31-John Gossett
+32-Greg Thoede
+33-Kevin Baker
+34-Stephen Pearce
+35-Edwin Buchwalter
+36-Thomas Doering 1
+37-Maegan Wilson
+38-Don Same
+39-Douglas Campbell
+40-chris Salch
+41-Max Loeffler
+42-Jim johnson
+43-Robert Bombardiere 1
+44-AJ Jackson
+45-Robert Bui
+46-Jay Hafemeister
+47-Ty Kasper
+48-Bruce Meuth
+49-Alexander Rihovsky
+50-Waldo Samano
+51-Joseph stephenson
+DQ-Chris Cochran
+DQ-Jake Philpott
+Old style results
+
+Score Edit History
+Stage 1-Failure Drill
+Doering, Thomas (1)
+2017-11-19 15:54:46.240 - 2017-11-19 16:03:20.494Edited 9 minutes after.Edited rawpts was: 45 now: 116Edited str,0 was: 0.11 now: 35.14
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Added details: [object Object]Added numAlphas: 28Added numCharlies: 7Added numM: 1Added stringTime: 35.14Edited By Android Device
+Stage 2-Ace Of Base
+Bombardiere, Robert (1)
+2017-11-19 16:57:42.769 - 2017-11-19 16:58:31.278Edited a minute after.Edited rawpts was: 115 now: 120
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	1	1	0
+Current	1	0	1	0	1	0	0
+Added details: [object Object]Added numAlphas: 25Added numCharlies: 5Added numNS: 1Added numM: 4Added stringTime: 61.27Edited By Android Device
+Stage 3-Nuevo El Presidente
+Jackson, AJ (1)
+2017-11-19 16:25:00.407 - 2017-11-19 18:42:12.309Edited 2 hours after.Edited rawpts was: 48 now: 50
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	1	0
+Current	3	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	1	0
+Current	3	0	0	0	0	1	0
+Added details: [object Object]Added numAlphas: 10Added numM: 2Added stringTime: 8.59Edited By Android Device
+DuBuisson, Mary (1)
+2017-11-19 16:54:25.309 - 2017-11-19 17:07:58.017Edited 14 minutes after.Edited rawpts was: 47 now: 54Edited str,0 was: 11.04 now: 12.81
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	1	1	0
+Current	4	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	4	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 9Added numCharlies: 3Added stringTime: 12.81Edited By Android Device
+Stage 4-Get Ready For Turtle Targets
+Hernandez, Chris (1)
+2017-11-19 17:40:13.070 - 2017-11-19 17:40:26.793Edited a few seconds after.Edited rawpts was: 122 now: 127
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 30Added numCharlies: 4Added stringTime: 29.48Edited By Android Device
+Stage 6-Penalty Blossom
+Latham, Taylor (1)
+2017-11-19 16:26:06.349 - 2017-11-19 16:26:59.494Edited a minute after.Edited rawpts was: 10 now: 147
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 29Added numCharlies: 3Added stringTime: 23Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

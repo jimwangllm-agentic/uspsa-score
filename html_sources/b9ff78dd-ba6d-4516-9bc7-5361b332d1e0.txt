@@ -1,0 +1,104 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Jan 13 USPSA 2022-01-14Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Pete Kirchner	100.00%	225.7958	42.09	82.11%	Carry Optics	A		MINOR	TY105743	29	23	2	1				
+2-Charles Bradbury	99.56%	224.7928	42.52	81.74%	PCC	X		MINOR	A107489	31	21	2	1				
+3-Kenedy Nguyen	95.44%	215.4944	50.79	78.36%	Open	C		MAJOR	A83862	21	32	2					
+4-Ray Fishel	92.30%	208.3988	45.89	75.78%	PCC	B	Senior	MINOR	A92443	25	29		1				
+5-AJ Jackson	87.21%	196.9276	31.67	71.61%	PCC	A		MINOR	A81745	21	22	8	4				
+6-Ronald Gillory jr	86.39%	195.0561	51.56	70.93%	PCC	C		MINOR	TY83291	32	21	2					
+7-Robert Gatewood	73.37%	165.6668	42.99	60.24%	Carry Optics	B	Military	MINOR	A118214	24	24	5	2			2	
+8-Lisa Nguyen	61.14%	138.0517	75.48	50.20%	Open	U	Lady	MAJOR	A135827	32	20	2	1				
+9-Mark Lutzel	59.96%	135.3799	54.15	49.23%	Carry Optics	C	Senior	MINOR	FY101009	22	28	2	3				
+10-Joseph Reyes	59.59%	134.5434	57.63	48.92%	Limited		Super Senior	MINOR	A127665	17	35	1	2				
+11-Mark Hopmann	56.54%	127.6714	62.14	46.43%	Open	C	Senior	MINOR	TY134553	38	12	1	4				
+12-John Del Toro	39.19%	88.4930	109.76	32.18%	Single Stack	X	Super Senior	MAJOR	A107511	32	20		3				
+13-Stephanie Marie	23.03%	52.0054	76.34	18.91%	Carry Optics	U	Lady	MINOR	A139099	13	32	3	7				
+Name
+1-Pete Kirchner
+2-Charles Bradbury
+3-Kenedy Nguyen
+4-Ray Fishel
+5-AJ Jackson
+6-Ronald Gillory jr
+7-Robert Gatewood
+8-Lisa Nguyen
+9-Mark Lutzel
+10-Joseph Reyes
+11-Mark Hopmann
+12-John Del Toro
+13-Stephanie Marie
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Jones, Yetta (7)
+2022-01-14 01:21:15.140 - 2022-01-14 01:22:34.522Edited a minute after.Edited rawpts was: 5 now: 11Edited str,0 was: 0 now: 18.88
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+Removed Reason for Edit UNDQAdded numAlphas: 2Added numDeltas: 1Added numM: 6Added stringTime: 18.88Edited By BCPS KINDLE FIRE #42022-01-14 01:21:02.402 - 2022-01-14 01:21:15.140Edited a few seconds after.Removed stagedq_details: Stage 2Added Reason for Edit UNDQEdited By BCPS KINDLE FIRE #42022-01-14 01:20:45.598 - 2022-01-14 01:21:02.402Edited a few seconds after.Edited By BCPS KINDLE FIRE #42022-01-14 01:20:20.101 - 2022-01-14 01:20:45.598Edited a few seconds after.Edited By BCPS KINDLE FIRE #42022-01-14 01:20:13.461 - 2022-01-14 01:20:20.101Edited a few seconds after.Edited By BCPS KINDLE FIRE #42022-01-14 01:20:05.732 - 2022-01-14 01:20:13.461Edited a few seconds after.Edited By BCPS KINDLE FIRE #42022-01-14 01:19:49.549 - 2022-01-14 01:20:05.732Edited a few seconds after.Edited By BCPS KINDLE FIRE #4
+Stage 3
+Wake, Alan (1)
+2022-01-14 02:33:56.148 - 2022-01-14 02:36:03.198Edited 2 minutes after.Added proc: 1Added numAlphas: 3Added numCharlies: 7Added numDeltas: 1Added numM: 5Added numProc: 1Added stringTime: 22.19Edited By BCPS KINDLE FIRE #2
+Front Sight
+Francis, Robert (1)
+2022-01-14 02:45:30.965 - 2022-01-14 02:46:14.790Edited a few seconds after.Edited str,1 was: 0 now: 6.7
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	3	0	0	0	0
+Added rawpts: 46Added aprv: trueAdded numAlphas: 5Added numCharlies: 7Added stringTime: 12.9Edited By BCPS KINDLE FIRE #4
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

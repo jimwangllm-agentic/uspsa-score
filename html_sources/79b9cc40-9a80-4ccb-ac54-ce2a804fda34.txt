@@ -1,0 +1,86 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+SPCGC USPSA Hosts Kidlat shooters 10/07/21 USPSA 2021-10-07Spring Pistol Caliber Gun Club
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Raul Sotelo	100.00%	269.0640	30.86	99.65%	Open	M		MAJOR	Ty41489	40	13	1					
+2-Olayemi Bakare	89.50%	240.7998	34.28	89.19%	Limited	A		MAJOR		36	17	1					
+3-Chad Folger	81.76%	219.9972	32.27	81.48%	Limited	M		MAJOR	L3031	38	13	1	2		2		
+4-Jake Mansfield	77.37%	208.1682	39.28	77.10%	Carry Optics	U		MINOR	A-101123	45	8	1					
+5-Fredi Loke	73.18%	196.9066	38.10	72.93%	PCC	B	Super Senior	MINOR	A130588	37	17					1	
+6-JOSE ONIA	72.59%	195.3237	38.10	72.34%	Carry Optics	U	Senior	MINOR	A134359	40	12	1	1				
+7-Brandon Truong	67.20%	180.8143	38.67	66.97%	Carry Optics	X		MINOR	TY111128	31	18	5					
+8-Jay-R delos-Santos	65.73%	176.8659	42.56	65.51%	Limited 10	U	Senior	MAJOR	A70297	40	12	1	1		1		
+9-Nic Blades	61.17%	164.5822	51.69	60.96%	Single Stack	C		MINOR	A83339	49	5						
+10-Phil Truong	59.98%	161.3768	33.79	59.77%	Open	C		MAJOR	FY128600	36	12	2	4		3		
+11-Manny Nerona	58.14%	156.4401	40.79	57.94%	Single Stack	C		MINOR	FY69445	34	17	1	2		2		
+12-Marlon Poralan	57.59%	154.9414	41.42	57.39%	Open	D	Law Enforcement	MINOR	12345	33	18	1	2		1		
+13-GLENN McKinney	53.90%	145.0166	42.70	53.71%	Limited	C	Senior	MAJOR	FY8311	31	17	2	4		1		
+14-Gennady Khokhorin	51.76%	139.2576	53.87	51.58%	Production	C	Senior	MINOR	A123884	40	13		1				
+15-Audry Folger	51.08%	137.4474	43.84	50.91%	Limited	C	Lady	MAJOR	A125117	27	19	7	1		3		
+16-Fred Ermac	50.24%	135.1709	56.13	50.06%	Limited	C		MINOR	A106437	45	8		1		1		
+17-Long Nguyen	49.53%	133.2719	49.39	49.36%	Carry Optics			MINOR		33	18	1	2				
+18-Richard Elms	45.83%	123.3203	52.40	45.67%	Revolver	U	Senior	MAJOR	A46313	39	11	1	3		2		
+19-Hopper Po	36.38%	97.8731	65.57	36.25%	Carry Optics	D		MINOR		33	18	2	1			2	
+20-Rudy Widiaman	28.36%	76.3041	73.78	28.26%	Limited	U		MINOR		36	13	2	3		2		
+Name
+1-Raul Sotelo
+2-Olayemi Bakare
+3-Chad Folger
+4-Jake Mansfield
+5-Fredi Loke
+6-JOSE ONIA
+7-Brandon Truong
+8-Jay-R delos-Santos
+9-Nic Blades
+10-Phil Truong
+11-Manny Nerona
+12-Marlon Poralan
+13-GLENN McKinney
+14-Gennady Khokhorin
+15-Audry Folger
+16-Fred Ermac
+17-Long Nguyen
+18-Richard Elms
+19-Hopper Po
+20-Rudy Widiaman
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

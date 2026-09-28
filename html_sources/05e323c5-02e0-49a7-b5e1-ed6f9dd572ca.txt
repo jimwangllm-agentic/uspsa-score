@@ -1,0 +1,169 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Nov 17 USPSA 2022-11-18Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Aj Jackson	100.00%	230.2829	35.07	95.95%	PCC	A		MINOR	TY81745	20	27	1					
+2-Pete Kirchner 1	88.63%	204.0951	40.17	85.04%	Carry Optics	A		MINOR	TY105743	18	27	2					
+3-Ray Fishel	80.52%	185.4335	41.55	77.26%	PCC	B	Senior	MINOR	A92443	21	26		1				
+4-Ronald Gillory jr.	80.40%	185.1484	48.69	77.15%	PCC	B		MINOR	TY83291	23	25						
+5-Chris Snow	79.17%	182.3220	32.77	75.97%	Open	M		MAJOR	TY107262	8	29	8	3			1	
+6-Kenedy Nguyen	76.97%	177.2472	46.32	73.85%	Open	C		MAJOR	A83862	20	26		2				
+7-Christopher Boatcallie	72.18%	166.2069	48.31	69.25%	Carry Optics	U		MINOR	A104118	19	29						
+8-Robert Gatewood	61.72%	142.1214	42.20	59.22%	Open	U	Military	MINOR	A118214	27	18		3			2	
+9-Blaine Newlin	52.61%	121.1603	61.17	50.48%	Limited	B	Foreign	MINOR	A103350	24	21	1	2				
+10-Desmond Jackson 3	47.23%	108.7735	49.48	45.32%	Carry Optics	B		MINOR	TY89242	19	24	1	4				
+11-Anthony Boatcallie	46.85%	107.8824	61.35	44.95%	Carry Optics	U		MINOR	A143613	29	18		1			4	
+12-Fulbert Delmundo	43.45%	100.0657	58.28	41.69%	Carry Optics	U		MINOR	TY143383	18	25	1	4				
+13-Don Same 2	41.31%	95.1190	69.16	39.63%	Carry Optics	C	Super Senior	MINOR	TY105098	18	20	9	1				
+14-Jennifer Kleiber-boatcallie	35.84%	82.5317	74.49	34.39%	PCC	U	Lady	MINOR	A142192	26	18		4		2	1	
+15-Lisa Nguyen	31.75%	73.1126	66.76	30.46%	Open	D	Lady	MAJOR	A135827	14	25	2	7				
+16-Michael Green	30.09%	69.2832	62.04	28.87%	Carry Optics	D		MINOR	A145466	15	21	8	4		2		
+17-John Del toro	21.41%	49.3072	85.58	20.54%	Limited	C	Super Senior	MAJOR	A107511	15	24	3	6		2		
+18-Jason Williams	19.85%	45.7182	86.16	19.05%	Open	U		MINOR	A145508	17	22	3	6		1		
+19-James Jackson	16.35%	37.6451	53.38	15.69%	Carry Optics	U		MINOR	A89219	13	16	8	11		5	4	
+20-Dan Brodt	0.00%	0.0000		0.00%	Limited	C		MINOR	A109102								
+21-Mark Lutzel	0.00%	0.0000		0.00%	Carry Optics	C	Super Senior	MINOR	FY101009								
+Name
+1-Aj Jackson
+2-Pete Kirchner 1
+3-Ray Fishel
+4-Ronald Gillory jr.
+5-Chris Snow
+6-Kenedy Nguyen
+7-Christopher Boatcallie
+8-Robert Gatewood
+9-Blaine Newlin
+10-Desmond Jackson 3
+11-Anthony Boatcallie
+12-Fulbert Delmundo
+13-Don Same 2
+14-Jennifer Kleiber-boatcallie
+15-Lisa Nguyen
+16-Michael Green
+17-John Del toro
+18-Jason Williams
+19-James Jackson
+20-Dan Brodt
+21-Mark Lutzel
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Didn't You Send The Mailman
+Kirchner, Pete (1)
+2022-11-18 01:07:40.107 - 2022-11-18 01:08:05.237Edited a few seconds after.Edited rawpts was: 20 now: 22
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 3Added numCharlies: 2Added numDeltas: 1Added stringTime: 8.4Edited By BCPS KINDLE FIRE #4
+Jackson, Desmond (1)
+2022-11-18 01:21:34.244 - 2022-11-18 01:21:56.138Edited a few seconds after.Edited str,0 was: 6.32 now: 6.34Added details: [object Object]Added numAlphas: 5Added numCharlies: 1Added stringTime: 6.34Edited By BCPS KINDLE FIRE #4
+Blue Eyes Crying In The Rain
+Jackson, Desmond (2)
+2022-11-18 01:44:59.709 - 2022-11-18 01:47:51.929Edited 3 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	4	0	0	0	0
+Edited str,0 was: 0 now: 12.25Removed Reason for Edit ReshootAdded aprv: trueAdded rawpts: 50Added details: [object Object]Added numAlphas: 5Added numCharlies: 8Added numDeltas: 1Added stringTime: 12.25Edited By BCPS KINDLE FIRE #42022-11-18 01:44:59.707 - 2022-11-18 01:44:59.709Edited a few seconds after.Edited str,0 was: 11.87 now: 0Added Reason for Edit ReshootEdited By BCPS KINDLE FIRE #4
+I Guess That's Why They Call It The Blues
+Same, Don (2)
+2022-11-18 01:32:17.418 - 2022-11-18 01:50:59.690Edited 19 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 0 now: 22.16Removed Reason for Edit ReshootAdded aprv: trueAdded rawpts: 64Added details: [object Object]Added numAlphas: 8Added numCharlies: 8Added stringTime: 22.16Edited By BCPS KINDLE FIRE #32022-11-18 01:32:17.414 - 2022-11-18 01:32:17.418Edited a few seconds after.Removed rawpts: 57Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 21.2 now: 0Added Reason for Edit ReshootEdited By BCPS KINDLE FIRE #3
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

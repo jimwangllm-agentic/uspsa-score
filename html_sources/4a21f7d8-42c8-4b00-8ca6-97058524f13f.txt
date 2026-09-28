@@ -1,0 +1,222 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA Sep 16, 2018 USPSA 2018-09-16
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Wade Whetstone 1	100.00%	682.1160	49.38	97.45%	Open	M		MAJOR		97	30	8					
+2-Athena Lee	82.03%	559.5502	58.17	79.94%	Open	M		MAJOR		98	27	7	2				
+3-gerrit milks	69.89%	476.7170	75.71	68.10%	PCC	B	Senior	MINOR	A67608	123	12	1	1				
+4-Michael Kellett	69.65%	475.1094	75.70	67.87%	PCC	U		MINOR		126	10	1	2		1		
+5-Daniel DuBuisson	66.85%	456.0162	82.47	65.15%	PCC	C		MINOR	L3935	118	20						
+6-Randy Goodney	65.47%	446.5921	74.81	63.80%	Open	A		MAJOR	A94852	118	12	1	1		2		
+7-Roland Ocampo	63.13%	430.6008	74.18	61.51%	Production	A		MINOR	TY88026	100	30	1			2		
+8-Bill Murray	60.79%	414.6300	75.31	59.23%	PCC	M	Super Senior	MINOR	TY3880	108	28		4		4		
+9-Tommy Teas	53.30%	363.5891	77.41	51.94%	Limited	B	Senior	MINOR	TY2227	90	30	11	3		2		
+10-Dale Hamm	53.22%	363.0022	88.31	51.86%	PCC	C	Senior	MINOR	TY97196	103	24	5	3		1		
+11-Chris correa 1	47.43%	323.5108	97.53	46.22%	Production	C		MINOR	A108149	109	19	2			3		
+12-Chip Clester	46.11%	314.5168	108.35	44.93%	Carry Optics	C	Senior	MINOR	A108767	114	12	1	3		1		
+13-nick milks	45.11%	307.7332	97.07	43.96%	Limited	U		MINOR	A109961	101	20	3	1		2		
+14-Jason Wilson	44.00%	300.1036	108.26	42.87%	Revolver	M		MAJOR	A94696	113	15	2	3		2		
+15-Josh Fojtik	43.96%	299.8795	85.89	42.84%	Production	C		MINOR	A108293	96	23	5	4		4	1	
+16-Carl Rugg	41.75%	284.8160	123.41	40.69%	PCC	U	Super Senior	MINOR	A98356	116	14	1	3				
+17-Stephen Pearce 1	40.48%	276.1523	120.76	39.45%	Limited	U	Super Senior	MAJOR		103	25	1	2			1	
+18-Emmanuel Alcoseba	39.58%	269.9614	93.89	38.57%	Limited	C	Senior	MAJOR		98	20	3	7		5		
+19-Michael Kellett	35.34%	241.0268	122.92	34.43%	Limited	C		MINOR		107	14	2	2		4		
+20-Don Same	34.66%	236.4126	162.86	33.77%	PCC	D	Senior	MINOR		120	10		1		2		
+21-Chris Tomlinson	34.14%	232.8810	89.89	33.27%	Limited	U		MINOR	A109455	85	25	7	9		4		
+22-Benjamin Wall	30.20%	205.9838	131.57	29.43%	Limited	U		MINOR		102	16	3	5		2	1	
+23-Russell Ewell 2	27.70%	188.9296	115.93	26.99%	Limited	U		MINOR		84	29	8	8		9		
+24-Jay Hafemeister	25.78%	175.8375	61.45	25.12%	Production	B		MINOR		72	9	1					
+25-greg thoede	21.12%	144.0455	142.24	20.58%	Production	C	Super Senior	MINOR	FY16969	82	26	5	12		5	2	
+26-jim johnson 1	20.08%	136.9414	202.52	19.56%	Single Stack	U	Super Senior	MAJOR		83	32	5	4		3	2	
+27-Chris Salch	19.25%	131.3282	234.86	18.76%	Limited	U		MAJOR		104	14	4	1		3		
+28-Carl Baggett	17.90%	122.1025	276.82	17.44%	Single Stack	U		MINOR		114	12	2	2		2		
+29-Thomas Fojtik	9.36%	63.8433	358.65	9.12%	Limited	U	Super Senior	MINOR		90	23		9		2		
+Name
+1-Wade Whetstone 1
+2-Athena Lee
+3-gerrit milks
+4-Michael Kellett
+5-Daniel DuBuisson
+6-Randy Goodney
+7-Roland Ocampo
+8-Bill Murray
+9-Tommy Teas
+10-Dale Hamm
+11-Chris correa 1
+12-Chip Clester
+13-nick milks
+14-Jason Wilson
+15-Josh Fojtik
+16-Carl Rugg
+17-Stephen Pearce 1
+18-Emmanuel Alcoseba
+19-Michael Kellett
+20-Don Same
+21-Chris Tomlinson
+22-Benjamin Wall
+23-Russell Ewell 2
+24-Jay Hafemeister
+25-greg thoede
+26-jim johnson 1
+27-Chris Salch
+28-Carl Baggett
+29-Thomas Fojtik
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2-Hard To cover
+Pearce, Stephen (1)
+2018-09-16 14:30:31.427 - 2018-09-16 14:31:33.624Edited a minute after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited rawpts was: 103 now: 102Added details: [object Object]Added numAlphas: 24Added numCharlies: 3Added numM: 1Added stringTime: 23.58Edited By Android Device
+Hoser Heaven
+Whetstone, Wade (1)
+2018-09-16 14:51:37.172 - 2018-09-16 15:12:13.319Edited 21 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	1	0	2
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	0	2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+Added rawpts: 74Added details: [object Object]Added numAlphas: 12Added numCharlies: 3Added numDeltas: 1Added numNPM: 2Edited By Android Device
+correa, Chris (1)
+2018-09-16 16:34:01.466 - 2018-09-16 16:34:28.803Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	1	1	0	2
+Current	1	0	0	0	2	0	2
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	1	0	1
+Current	0	0	0	0	0	0	3
+A	B	C	D	NS	M	NPM
+Previous	0	2	0	0	1	0	1
+Current	2	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	2
+Current	1	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	1
+Current	1	0	0	0	1	0	2
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	1
+Current	0	1	1	0	0	0	1
+Added details: [object Object]Added numAlphas: 5Added numBravos: 2Added numCharlies: 2Added numDeltas: 1Added numNS: 3Added numNPM: 8Edited By Android Device
+Stage 4-Gunpowder Is My Pumpkin Spice
+Ewell, Russell (2)
+2018-09-16 15:40:09.729 - 2018-09-16 15:41:18.943Edited a minute after.Removed Reason for Edit Moved to Shooter Wall, Benjamin (L/Min)
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	1	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 20 now: 103Edited str,0 was: 0 now: 31.97Added details: [object Object]Added numAlphas: 22Added numBravos: 1Added numCharlies: 3Added numDeltas: 1Added numM: 1Added stringTime: 31.97Edited By Android Device2018-09-16 15:36:10.961 - 2018-09-16 15:40:09.729Edited 4 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited rawpts was: 113 now: 20Edited str,0 was: 27.94 now: 0Added Reason for Edit Moved to Shooter Wall, Benjamin (L/Min)Edited By Android Device
+Stage 6-Fun Tickets
+johnson, jim (1)
+2018-09-16 16:48:35.852 - 2018-09-16 16:49:23.059Edited a minute after.Added proc: 2Added details: [object Object]Added numAlphas: 17Added numCharlies: 3Added numM: 4Added numProc: 2Added stringTime: 40.74Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

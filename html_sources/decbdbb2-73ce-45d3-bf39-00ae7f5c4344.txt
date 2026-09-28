@@ -1,0 +1,83 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+SPCGC Hosts Kidlat Shooters USPSA 12-02-21 USPSA 2021-12-03Spring Pistol Caliber Gun Club
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Raul Sotelo 1	100.00%	315.1955	49.96	92.70%	Open	M		MAJOR	Ty41489	47	19	2				1	
+2-Olayemi Bakare	93.12%	293.5221	49.48	86.33%	Limited	A		MAJOR		44	17	6	1		1		
+3-Phil Truong	87.66%	276.3095	50.18	81.27%	Open	C		MAJOR	FY128600	33	31	2	2		1		
+4-Jake Mansfield	86.77%	273.5097	59.08	80.44%	Limited	B		MAJOR	A101123	42	25	1					
+5-Todd Ritz	71.21%	224.4535	54.98	66.02%	Limited	B	Law Enforcement	MINOR	A-92868	46	19	1	2		2		
+6-William Horton	57.52%	181.2878	72.82	53.32%	Open	U		MINOR		38	23	5	2				
+7-Chad Folger	56.23%	177.2487	46.41	52.13%	Limited	M		MAJOR	L3031	36	21	4	7		3		
+8-Brandon Truong	50.34%	158.6819	85.40	46.67%	Carry Optics	U		MINOR	TY111128	36	26	5	1		1		
+9-Rudy Widiaman	50.23%	158.3080	91.36	46.56%	Carry Optics	U		MINOR		53	11	2	2				
+10-Long Nguyen	46.44%	146.3875	78.99	43.06%	Carry Optics	U		MINOR		38	26	1	3		2		
+11-Audry Folger	38.97%	122.8365	85.65	36.13%	Limited	C	Lady	MAJOR	A125117	40	21	2	5		2		
+12-Kirk Skinner	32.40%	102.1232	79.66	30.04%	Limited	U		MINOR		33	22	7	6		4		
+13-GLENN McKinney	30.64%	96.5867	76.48	28.41%	Open	U	Senior	MINOR	FY8311	21	30	14	3		4		
+14-Alexander Lee	18.91%	59.5980	137.94	17.53%	Revolver	U	Military	MINOR		37	24	3	4		4		
+15-Jason Boughter	0.00%	0.0000		0.00%	Limited	U	Law Enforcement	MINOR									
+Name
+1-Raul Sotelo 1
+2-Olayemi Bakare
+3-Phil Truong
+4-Jake Mansfield
+5-Todd Ritz
+6-William Horton
+7-Chad Folger
+8-Brandon Truong
+9-Rudy Widiaman
+10-Long Nguyen
+11-Audry Folger
+12-Kirk Skinner
+13-GLENN McKinney
+14-Alexander Lee
+15-Jason Boughter
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+El Strong & Weak Prez
+Sotelo, Raul (1)
+2021-12-03 02:07:39.367 - 2021-12-03 02:30:04.317Edited 22 minutes after.Edited rawpts was: 116 now: 119
+A	B	C	D	NS	M	NPM
+Previous	5	0	3	0	0	0	0
+Current	8	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 23Added numCharlies: 1Added numProc: 1Added stringTime: 22.39Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

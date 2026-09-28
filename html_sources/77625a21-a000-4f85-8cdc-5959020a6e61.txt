@@ -1,0 +1,179 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday May 11th USPSA 2025-05-11Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Cory Klemashevich	100.00%	612.5244	93.78	93.52%	PCC	GM		MINOR	L5150	101	27	3			1		
+2-Cory Klemashevich 1	87.76%	537.5653	108.99	82.07%	Carry Optics	GM		MINOR	L5150	99	30		2		1		
+3-Aaron Lee	82.88%	507.6354	114.57	77.50%	Limited Optics	U		MINOR	A151738	96	35				1		
+4-Nicholas Kissinger	78.47%	480.6479	112.44	73.38%	PCC	X		MINOR		94	35	1	1		2		
+5-Travis Ritter 1	76.84%	470.6919	134.17	71.86%	PCC	C		MINOR	A63233	111	20						
+6-Kyle Bracken 1	76.05%	465.8150	112.10	71.12%	Carry Optics	U		MINOR	A122734	90	33	6	2		1		
+7-Tyler Milligan	70.89%	434.2208	124.54	66.29%	Carry Optics	U		MINOR		106	20	2	3		2		
+8-Joe Paetzold 2	67.56%	413.7983	118.64	63.18%	Carry Optics	B		MINOR	A135487	92	31	5	3		3		
+9-Blake Shumake	67.19%	411.5389	134.86	62.83%	PCC	U		MINOR	A168437	99	25	6	1				
+10-Joshua Blume	66.93%	409.9607	124.68	62.59%	Carry Optics	B		MINOR	A148746	104	24		3		2	1	
+11-Tommy Teas	64.38%	394.3173	153.21	60.20%	Open	U	Senior	MAJOR	FY2227	89	37	5					
+12-Hunter Sparkman	62.91%	385.3137	135.01	58.83%	Carry Optics	C	Law Enforcement	MINOR	A165234	85	37	7	2		1		
+13-Saunders Arnold	60.89%	372.9679	154.01	56.94%	Carry Optics	C		MINOR	L5609	104	27				2		
+14-Youngjae Kim	58.50%	358.3050	124.49	54.70%	Limited Optics	X		MINOR		74	46	7	4		2		
+15-Blake Shumake	56.19%	344.1768	165.82	52.55%	Carry Optics	U		MINOR	A168437	100	27	4			2		
+16-Joseph Stefanski	54.38%	333.0737	154.09	50.85%	Limited Optics	U		MINOR		95	27	6	3		2		
+17-Hunter Ring	40.28%	246.7177	169.96	37.67%	Limited	U		MINOR	A169126	80	32	10	9				
+18-Dale Hamm	39.09%	239.4260	175.05	36.55%	Open	U	Senior	MAJOR	TY97196	76	31	11	13				
+19-Justin Krus	35.12%	215.1362	217.33	32.85%	Production	U		MINOR	A168992	101	21	4	5		7		
+20-Shawn Iram	15.23%	93.3022	348.01	14.24%	Production	U		MINOR		82	24	11	14		1	1	
+Name
+1-Cory Klemashevich
+2-Cory Klemashevich 1
+3-Aaron Lee
+4-Nicholas Kissinger
+5-Travis Ritter 1
+6-Kyle Bracken 1
+7-Tyler Milligan
+8-Joe Paetzold 2
+9-Blake Shumake
+10-Joshua Blume
+11-Tommy Teas
+12-Hunter Sparkman
+13-Saunders Arnold
+14-Youngjae Kim
+15-Blake Shumake
+16-Joseph Stefanski
+17-Hunter Ring
+18-Dale Hamm
+19-Justin Krus
+20-Shawn Iram
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Bracken, Kyle (1)
+2025-05-11 14:48:39.255 - 2025-05-11 14:51:06.520Edited 2 minutes after.Edited rawpts was: 38 now: 78
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	3	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 15Added numCharlies: 1Added stringTime: 10.48Edited By Amazon KFGIWI 668461ed
+Klemashevich, Cory (1)
+2025-05-11 16:05:09.296 - 2025-05-11 16:05:37.863Edited a few seconds after.Edited rawpts was: 38 now: 78
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	3	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 15Added numCharlies: 1Added stringTime: 7.46Edited By Amazon KFGIWI 065203e4
+Ritter, Travis (1)
+2025-05-11 16:12:04.794 - 2025-05-11 16:13:51.456Edited 2 minutes after.Edited str,0 was: 17.19 now: 11.42
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	4	0	0	0	0
+Added rawpts: 72Added aprv: trueAdded details: [object Object]Added numAlphas: 12Added numCharlies: 4Added stringTime: 11.42Edited By Amazon KFGIWI 065203e4
+Stage 3
+Paetzold, Joe (2)
+2025-05-11 14:22:02.277 - 2025-05-11 14:25:48.368Edited 4 minutes after.Edited rawpts was: 15 now: 73Edited str,0 was: 0 now: 17.56
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded aprv: trueAdded details: [object Object]Added numAlphas: 16Added numCharlies: 2Added numDeltas: 2Added stringTime: 17.56Edited By Amazon KFGIWI 065203e42025-05-11 14:14:36.709 - 2025-05-11 14:22:02.277Edited 7 minutes after.Edited rawpts was: 58 now: 15Edited str,0 was: 14.39 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	1	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	1	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Amazon KFGIWI 065203e4
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

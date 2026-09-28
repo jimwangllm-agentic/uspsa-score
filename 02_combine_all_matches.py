@@ -1,4 +1,4 @@
-# python combine_all_matches.py
+# python 02_combine_all_matches.py
 
 import pandas as pd
 from pathlib import Path

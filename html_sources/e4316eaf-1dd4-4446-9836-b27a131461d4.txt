@@ -1,0 +1,160 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Kidlat shooters November Match USPSA 2019-11-02
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-OGIE DELA ROSA	100.00%	735.6829	90.77	96.80%	Open	A		MAJOR	TY52066	104	40	5	3				
+2-Jerry Bedro	85.51%	629.1171	105.79	82.78%	PCC	C		MINOR	A98263	104	44	3	1				
+3-Corey Slifko	85.33%	627.7264	104.33	82.60%	Limited	A		MAJOR	A82935	102	38	8	4				
+4-Alex Goben	84.75%	623.4656	112.14	82.03%	Carry Optics	A		MINOR	A86498	127	21	3	1				
+5-Olayemi Bakare 1	83.20%	612.0589	120.03	80.53%	Limited	C		MAJOR	A105300	116	30	6					
+6-Steven McNamara	82.06%	603.7204	121.68	79.44%	Open	B	Senior	MAJOR	A75212	109	40	3					
+7-Pete Kirchner	81.19%	597.3042	115.59	78.59%	Carry Optics	A		MINOR	TY105743	118	30	3	1				
+8-Gordon Carrell	79.93%	588.0582	125.59	77.38%	Single Stack	A		MAJOR	TY51332	122	30						
+9-Randy Goodney	78.63%	578.4353	108.14	76.11%	Open	A		MAJOR	A94852	94	44	9	5			1	
+10-D. Scaramanga	75.66%	556.6201	113.48	73.24%	PCC	C		MINOR	TY98162	100	42	7	2				
+11-Waldo Samano 1	75.37%	554.5062	112.08	72.96%	Production	A		MINOR	TY87973	101	44	3	3				
+12-Jon Baguio	73.93%	543.8994	117.35	71.57%	Carry Optics	D		MINOR	A101117	95	50	5			1		
+13-Arnold Gee	71.03%	522.5524	123.20	68.76%	Open	C		MAJOR	TY103519	74	65	12	1		2		
+14-Andrew Whitley	68.81%	506.2129	128.23	66.61%	Limited	C		MAJOR	TY106649	92	48	9	3				
+15-Jay-R delos-Santos	68.62%	504.8057	126.98	66.42%	Open	U		MAJOR	A70297	106	34	5	5		1	1	
+16-Ryan Alicaya	68.07%	500.8084	120.75	65.90%	Carry Optics	C		MINOR	A106356	89	55	6	2				
+17-gary wu	65.12%	479.0771	131.37	63.04%	Production	B		MINOR	l2998	104	39	7	2				
+18-Bill Kinstley	62.21%	457.6903	155.17	60.22%	Limited	C		MAJOR	A104836	115	30	6	1				
+19-Abelardo Nerida	55.94%	411.5610	142.72	54.15%	Production	U	Senior	MINOR	X6969	96	36	14	6				
+20-Robert Bui	53.20%	391.3733	134.62	51.50%	Production	U		MINOR	A103016	86	47	14	5		1		
+21-Travis Edwards	49.78%	366.2251	141.90	48.19%	Limited	C		MAJOR	A107004	76	53	15	8		2	1	
+22-Garrett Phillips	47.25%	347.5946	173.66	45.74%	Production	U		MINOR	A123678	101	38	8	5				
+23-Garrick Gonzalez	38.25%	281.4147	185.58	37.03%	Production	D		MINOR	A119804	92	40	13	7		1		
+24-Matt Gonzalez 1	35.07%	258.0271	203.50	33.95%	Production	G		MINOR		90	45	12	5		1	2	
+25-donald brown	34.65%	254.9394	253.92	33.54%	Carry Optics	U		MINOR		120	28		4		1		
+26-samuel bharksuwan	30.35%	223.3151	93.80	29.38%	Limited	B		MAJOR	B51	56	23	2	1				
+27-Chandler Bassett	0.00%	0.0000		0.00%	Production	C		MINOR	TY112550								
+28-Jason Brinkley	0.00%	0.0000		0.00%	Limited	G		MAJOR	A61861								
+29-Brandon Foss	0.00%	0.0000		0.00%	Carry Optics	A		MINOR	FY92765								
+30-Allan Santiago	0.00%	0.0000		0.00%	Limited	D		MAJOR	A109328								
+31-Herman Waddy	0.00%	0.0000		0.00%	Production	C		MINOR	A101165								
+DQ-Nathaniel Lovan	0.00%	0.0000		0.00%	Limited	D	Senior	MINOR	A118114								
+DQ-mark myers	0.00%	0.0000		0.00%	PCC	B		MINOR	a50232								
+Name
+1-OGIE DELA ROSA
+2-Jerry Bedro
+3-Corey Slifko
+4-Alex Goben
+5-Olayemi Bakare 1
+6-Steven McNamara
+7-Pete Kirchner
+8-Gordon Carrell
+9-Randy Goodney
+10-D. Scaramanga
+11-Waldo Samano 1
+12-Jon Baguio
+13-Arnold Gee
+14-Andrew Whitley
+15-Jay-R delos-Santos
+16-Ryan Alicaya
+17-gary wu
+18-Bill Kinstley
+19-Abelardo Nerida
+20-Robert Bui
+21-Travis Edwards
+22-Garrett Phillips
+23-Garrick Gonzalez
+24-Matt Gonzalez 1
+25-donald brown
+26-samuel bharksuwan
+27-Chandler Bassett
+28-Jason Brinkley
+29-Brandon Foss
+30-Allan Santiago
+31-Herman Waddy
+DQ-Nathaniel Lovan
+DQ-mark myers
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Gonzalez, Matt (1)
+2019-11-02 16:41:40.967 - 2019-11-02 16:59:30.048Edited 18 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	2	0	0
+Current	1	0	0	1	0	0	0
+Edited str,0 was: 0 now: 20.69Added aprv: trueAdded rawpts: 80Added details: [object Object]Added numAlphas: 12Added numCharlies: 6Added numDeltas: 2Added stringTime: 20.69Edited By kidlat#4
+Stage 2
+Bakare, Olayemi (1)
+2019-11-02 15:27:57.210 - 2019-11-02 15:28:39.436Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited rawpts was: 117 now: 118Added details: [object Object]Added numAlphas: 18Added numCharlies: 6Added numDeltas: 2Added stringTime: 18.9Edited By kidlat#1
+Stage 3
+Samano, Waldo (1)
+2019-11-02 14:55:32.211 - 2019-11-02 14:56:09.662Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Edited rawpts was: 108 now: 104Added details: [object Object]Added numAlphas: 16Added numCharlies: 8Added stringTime: 16.4Edited By kidlat#4
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

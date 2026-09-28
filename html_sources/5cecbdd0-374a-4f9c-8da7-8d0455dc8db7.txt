@@ -1,0 +1,126 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros July 17 2016--USPSA USPSA/IPSC 2016-07-17Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	P
+1-Eric Dewberry	100.00%	466.8163	77.75	96.25%	PCC	U		MINOR		89	8					
+2-Matt Bryce	91.10%	425.2713	90.12	87.68%	PCC			MINOR		91	6					
+3-Jason Sartor	58.06%	271.0526	99.85	55.89%	Production	U		MINOR		66	16	7	6			
+4-Kevin Weiss	57.33%	267.6403	83.48	55.18%	Limited	U		MINOR		54	24	9	10			
+5-Jason Wilson 1	52.79%	246.4517	129.19	50.81%	Revolver	B		MINOR	A94696	80	14	2	1		2	
+6-Brad Phair	48.90%	228.2552	116.76	47.06%	Limited	C	Senior	MINOR		55	22	11	7		1	1
+7-Daniel Reetz	47.04%	219.6117	93.66	45.28%	Limited	U		MINOR		52	17	16	12		3	
+8-Alex DuBuisson	41.19%	192.2970	130.80	39.65%	Limited	U	Law Enforcement, Military	MINOR		61	18	4	9			
+9-Greg Thoede	41.16%	192.1480	112.07	39.62%	Limited	B	Senior	MAJOR	FY16969	40	34	8	14			
+10-David Lange	38.48%	179.6507	168.91	37.04%	Limited	X		MINOR		61	25	9	2			
+11-Wyatt Wellmann	35.00%	163.3953	130.84	33.69%	Limited			MINOR		54	23	11	8		2	
+12-Daniel Dubuisson 1	34.60%	161.4955	163.66	33.30%	Carry Optics	U		MINOR		59	18	7	13		1	
+13-Stephen Pearce	33.84%	157.9647	145.07	32.57%	Limited	U	Super Senior	MAJOR		63	15	10	9			
+14-Patrick Sartor	33.69%	157.2738	156.90	32.43%	Limited			MINOR		51	24	9	13		2	
+15-Michael Kellett	28.82%	134.5275	107.92	27.74%	Limited	C		MINOR	A84094	38	25	14	20		1	1
+16-Mary DuBuisson 1	26.21%	122.3605	189.61	25.23%	Limited	U	Lady	MINOR		57	15	9	16			
+17-Chris Salch	21.75%	101.5225	216.71	20.93%	Limited	U		MAJOR		51	16	12	16			
+18-James Johnson	16.83%	78.5884	253.70	16.20%	Single Stack			MAJOR		57	14	12	14		2	
+19-Avery Hallam	16.67%	77.8311	140.49	16.05%	Limited			MINOR		34	20	14	28		1	1
+20-Jason Sartor	0.00%	0.0000		0.00%	Limited			MINOR								
+Name
+1-Eric Dewberry
+2-Matt Bryce
+3-Jason Sartor
+4-Kevin Weiss
+5-Jason Wilson 1
+6-Brad Phair
+7-Daniel Reetz
+8-Alex DuBuisson
+9-Greg Thoede
+10-David Lange
+11-Wyatt Wellmann
+12-Daniel Dubuisson 1
+13-Stephen Pearce
+14-Patrick Sartor
+15-Michael Kellett
+16-Mary DuBuisson 1
+17-Chris Salch
+18-James Johnson
+19-Avery Hallam
+20-Jason Sartor
+Old style results
+
+Score Edit History
+Darn Barrels
+Wilson, Jason (1)
+2016-07-17 14:47:50.982 - 2016-07-17 14:48:16.890Edited a few seconds after.Edited str,0 was: 2517 now: 25.17Added details: [object Object]Added numAlphas: 20Added stringTime: 25.17Edited By Android Device
+Dubuisson, Daniel (1)
+2016-07-17 14:54:01.938 - 2016-07-17 15:09:22.514Edited 15 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 29.47 now: 25.66Added details: [object Object]Added numAlphas: 16Added numCharlies: 4Added stringTime: 25.66Edited By Android Device
+DuBuisson, Mary (1)
+2016-07-17 14:51:35.646 - 2016-07-17 15:07:11.865Edited 16 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 18 now: 87Edited str,0 was: 0 now: 32.59Added details: [object Object]Added numAlphas: 17Added numDeltas: 2Added numM: 1Added stringTime: 32.59Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

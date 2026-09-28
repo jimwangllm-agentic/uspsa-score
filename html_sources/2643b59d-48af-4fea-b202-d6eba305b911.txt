@@ -1,0 +1,157 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Dec 23 USPSA 2021-12-24Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Joseph Reyes	100.00%	400.0000	72.93	100.00%	PCC	B	Super Senior	MINOR	A127665	44	36						
+2-Aaron Gillory 1	90.07%	360.2764	89.96	90.07%	PCC	U	Law Enforcement	MINOR		62	18						
+3-Charles Bradbury	84.33%	337.3272	80.87	84.33%	PCC	U		MINOR	A107489	40	39		1				
+4-Mark Lutzel	76.84%	307.3502	89.90	76.84%	Carry Optics	C	Senior	MINOR	FY101009	36	43	1					
+5-Ronald Gillory Jr.	65.21%	260.8312	110.19	65.21%	Carry Optics	C		MINOR	TY83291	42	38						
+6-Daniel Dinh	65.17%	260.6678	89.03	65.17%	Carry Optics	C		MINOR	A135920	24	54		2				
+7-Desmond Jackson	56.04%	224.1761	114.38	56.04%	Limited	C		MINOR	TY89242	29	50	1			1		
+8-Lauren Christenson	48.85%	195.4013	130.47	48.85%	Carry Optics	U	Lady	MINOR		35	43		2				
+9-John Del Toro	36.25%	144.9901	189.55	36.25%	Revolver	D	Super Senior	MAJOR	A107511	34	42	2	2		1	1	
+10-Blaine Newlin	32.27%	129.0859	126.17	32.27%	Revolver	C		MAJOR	TY103350	38	28	1	13		1		
+11-William Haggerty	23.47%	93.8874	129.62	23.47%	Limited	U	Senior	MAJOR	A130986	34	30	3	13		2		
+12-James Jackson 2	12.27%	49.0692	128.10	12.27%	Limited	U		MINOR	a89219	23	34	3	20		1		
+13-AJ Jackson	11.27%	45.0995	90.44	11.27%	Open	B		MINOR	A81745	19	26	5	14				
+14-Santiago Fields	3.20%	12.7996	134.26	3.20%	Limited	U		MINOR	TY128653	27	25	1	27		3	1	
+15-Dan Brodt	0.00%	0.0000		0.00%	Limited	C		MINOR	A109102								
+16-Emir Carrillo	0.00%	0.0000		0.00%	Limited	A	Junior	MINOR									
+17-Randy Goodney	0.00%	0.0000		0.00%	Open	A	Senior	MAJOR	A94852								
+DQ-Peter Hoang	0.00%	0.0000		0.00%	Carry Optics	U		MINOR									
+Name
+1-Joseph Reyes
+2-Aaron Gillory 1
+3-Charles Bradbury
+4-Mark Lutzel
+5-Ronald Gillory Jr.
+6-Daniel Dinh
+7-Desmond Jackson
+8-Lauren Christenson
+9-John Del Toro
+10-Blaine Newlin
+11-William Haggerty
+12-James Jackson 2
+13-AJ Jackson
+14-Santiago Fields
+15-Dan Brodt
+16-Emir Carrillo
+17-Randy Goodney
+DQ-Peter Hoang
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Jackson, James (2)
+2021-12-24 01:03:03.631 - 2021-12-24 01:56:24.500Edited an hour after.Edited str,0 was: 0 now: 37.99
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added rawpts: 44Added details: [object Object]Added numAlphas: 2Added numCharlies: 11Added numDeltas: 1Added numNS: 1Added numM: 10Added stringTime: 37.99Edited By BCPS KINDLE FIRE #22021-12-24 01:01:54.977 - 2021-12-24 01:03:03.631Edited a minute after.Removed rawpts: 60Edited str,0 was: 29.65 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+Edited By BCPS KINDLE FIRE #2
+Stage 4
+Gillory, Aaron (1)
+2021-12-24 02:44:03.625 - 2021-12-24 02:44:23.704Edited a few seconds after.Edited rawpts was: 74 now: 76
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 14Added numCharlies: 2Added stringTime: 17.16Edited By BCPS KINDLE FIRE #2
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

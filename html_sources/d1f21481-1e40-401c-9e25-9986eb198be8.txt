@@ -1,0 +1,92 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+SPCGC Hosts Kidlat Shooters USPSA 09-05-24 USPSA 2024-09-05Spring Pistol Caliber Gun Club
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Yemi Bakare	100.00%	326.2363	39.45	98.86%	Limited	A		MAJOR	A201066	55	10		1				
+2-Jay-R delos-Santos	98.34%	320.8323	39.30	97.22%	PCC	B	Senior	MINOR	A70297	51	14	1					
+3-Phyl Santos	92.56%	301.9783	38.82	91.51%	Carry Optics	B		MINOR	a155981	42	20	4					
+4-Raul Sotelo	86.42%	281.9250	42.60	85.43%	PCC	A		MINOR	ty41489	50	13	2	1				
+5-Joseph Yoders	85.49%	278.8984	47.72	84.51%	PCC	U		MINOR		56	10						
+6-Vadim Berezanskiy	84.75%	276.4847	45.97	83.78%	Limited Optics	B		MINOR	A95979	49	17						
+7-Rudy Widiaman 1	77.94%	254.2640	47.26	77.05%	Carry Optics	U		MINOR		47	19				1		
+8-GLENN McKinney	77.12%	251.5821	52.14	76.24%	Open	D	Super Senior	MAJOR	FY8311	50	14	2					
+9-Fredi Loke	72.57%	236.7622	48.36	71.75%	Open	C	Super Senior	MAJOR	A130588	34	23	7	2				
+10-Efrain Moreno 1	68.43%	223.2488	56.95	67.65%	Limited			MINOR		56	10					1	
+11-Chris Trevino	66.19%	215.9330	50.52	65.43%	Limited Optics	U		MINOR	A159015	50	13		3				
+12-Nic Blades	63.52%	207.2325	62.66	62.80%	Single Stack	C		MINOR		54	12						
+13-Virak Meas	44.65%	145.6510	56.38	44.14%	Open	D	Senior	MINOR	O	42	13	6	5		1		
+14-Michael Martin	43.85%	143.0395	27.31	43.35%	Limited Optics	B		MINOR	TY147450	35	4		1		1		
+15-Kevin Pausicles	41.61%	135.7333	78.74	41.13%	Open	U	Foreign	MINOR	A146221	53	9	2	2			2	
+16-anand patel	41.07%	133.9791	99.15	40.60%	Carry Optics	U		MAJOR		51	15				1		
+17-Charity Trevino	3.87%	12.6320	91.94	3.83%	Open	U	Lady	MINOR		22	15	14	15		1		
+DQ-chris bulkley	0.00%	0.0000		0.00%	Carry Optics	C		MINOR	A159469								
+Name
+1-Yemi Bakare
+2-Jay-R delos-Santos
+3-Phyl Santos
+4-Raul Sotelo
+5-Joseph Yoders
+6-Vadim Berezanskiy
+7-Rudy Widiaman 1
+8-GLENN McKinney
+9-Fredi Loke
+10-Efrain Moreno 1
+11-Chris Trevino
+12-Nic Blades
+13-Virak Meas
+14-Michael Martin
+15-Kevin Pausicles
+16-anand patel
+17-Charity Trevino
+DQ-chris bulkley
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Moreno, Efrain (1)
+2024-09-05 23:43:32.628 - 2024-09-05 23:44:15.824Edited a few seconds after.Added proc: 1Added details: [object Object]Added numAlphas: 24Added numCharlies: 2Added numProc: 1Added stringTime: 24.72Edited By Android Device
+Primer Screw Up
+Widiaman, Rudy (1)
+2024-09-06 00:51:12.906 - 2024-09-06 00:51:28.812Edited a few seconds after.Edited rawpts was: 76 now: 78
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 12Added numCharlies: 6Added stringTime: 11.46Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

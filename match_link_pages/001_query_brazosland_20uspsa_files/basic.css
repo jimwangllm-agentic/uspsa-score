@@ -1,0 +1,157 @@
+.sponsorImagesSlider {
+    position: relative;
+}
+
+.search-result-list-run-time {
+    color: #929292;
+}
+
+.ais-highlight em, .ais-snippet em {
+    background: #cff53a;
+}
+
+.search-result-list-item {
+    color: #929292;
+}
+
+.ais-pagination span, .pagination span {
+    color: #59616b;
+    display: block;
+    margin: 0 4px;
+}
+
+.ais-pagination a, .pagination a {
+    color: #59616b;
+}
+
+.inbox p {
+    color: #999999;
+}
+
+.nav-tabs-horizontal {
+    background-color: #e3e7f1;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.nav-tabs-horizontal li a {
+    border-color: #929292;
+    border-bottom-color: transparent;
+}
+
+.table-condensed > tbody > tr > th,
+.table-condensed > thead > tr > th {
+    background-color: #ffffff !important;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+}
+
+.table-striped > tbody > tr:nth-of-type(even) {
+    background-color: #ffffff;
+}
+
+.table-striped > thead > tr > th {
+    background-color: #ffffff;
+}
+
+tbody > tr,
+thead > tr {
+    background-color: #ffffff !important;
+}
+
+.btn-info {
+    color: #ffffff;
+    background-color: #75caeb;
+    border-color: #75caeb;
+}
+
+.btn-info:focus,
+.btn-info.focus {
+    color: #ffffff;
+    background-color: #48b9e5;
+    border-color: #1c95c4;
+}
+
+.btn-info:hover {
+    color: #ffffff;
+    background-color: #48b9e5;
+    border-color: #40b5e3;
+}
+
+.btn-info:active,
+.btn-info.active,
+.open > .dropdown-toggle.btn-info {
+    color: #ffffff;
+    background-color: #48b9e5;
+    border-color: #40b5e3;
+}
+
+.btn-info:active:hover,
+.btn-info.active:hover,
+.open > .dropdown-toggle.btn-info:hover,
+.btn-info:active:focus,
+.btn-info.active:focus,
+.open > .dropdown-toggle.btn-info:focus,
+.btn-info:active.focus,
+.btn-info.active.focus,
+.open > .dropdown-toggle.btn-info.focus {
+    color: #ffffff;
+    background-color: #29ade0;
+    border-color: #1c95c4;
+}
+
+.btn-info:active,
+.btn-info.active,
+.open > .dropdown-toggle.btn-info {
+    background-image: none;
+}
+
+.btn-info.disabled:hover,
+.btn-info[disabled]:hover,
+fieldset[disabled] .btn-info:hover,
+.btn-info.disabled:focus,
+.btn-info[disabled]:focus,
+fieldset[disabled] .btn-info:focus,
+.btn-info.disabled.focus,
+.btn-info[disabled].focus,
+fieldset[disabled] .btn-info.focus {
+    background-color: #75caeb;
+    border-color: #75caeb;
+}
+
+.btn-info .badge {
+    color: #75caeb;
+    background-color: #ffffff;
+}
+
+.themeBackgroundFill {
+    background-color: #ffffff;
+    background-color: #fffffff2;
+}
+
+
+::-webkit-scrollbar {
+    -webkit-appearance: none;
+}
+
+::-webkit-scrollbar:vertical {
+    width: 12px;
+}
+
+::-webkit-scrollbar:horizontal {
+    height: 12px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, .5);
+    border-radius: 10px;
+    border: 2px solid #ffffff;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+

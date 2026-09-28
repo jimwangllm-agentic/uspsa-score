@@ -1,0 +1,99 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Jan 19 USPSA 2023-01-20Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Ray Fishel	100.00%	331.1311	49.47	91.98%	PCC	B	Senior	MINOR	A92443	48	21	3					
+2-Kenedy Nguyen 1	90.68%	300.2716	52.74	83.41%	Open	B		MAJOR	A83862	38	26	6	2				
+3-Ronald Gillory jr.	85.76%	283.9691	68.24	78.88%	PCC	B		MINOR	TY83291	67	5						
+4-Placido Cavazos	83.13%	275.2764	60.35	76.47%	Carry Optics	U		MINOR		51	16	5					
+5-Daniel Duong	82.72%	273.9057	59.05	76.08%	Carry Optics	B		MINOR	A112386	44	25	2	1				
+6-Aj Jackson	82.48%	273.1157	72.48	75.87%	PCC	A		MINOR	TY81745	55	15	1	1				
+7-Robert Gatewood	76.10%	251.9867	48.35	70.00%	Open	U		MINOR	A118214	37	20	12	3				
+8-William Hamilton	70.38%	233.0428	78.44	64.73%	Carry Optics	U	Law Enforcement	MINOR	A147128	68	3		1				
+9-Blaine Newlin 1	63.29%	209.5807	66.17	58.22%	Limited	B		MINOR	A103350	44	18	7	3				
+10-Michael Green	52.09%	172.4935	91.12	47.91%	Open	U	Junior	MINOR	A145466	53	14	3	2				
+11-Mark Lutzel	48.07%	159.1852	98.99	44.22%	Open	U	Super Senior	MINOR	FY101009	42	25	4	1				
+12-John Del toro	45.77%	151.5422	126.00	42.10%	Limited	C	Super Senior	MAJOR	A107511	54	14	4					
+13-Justin Walworth	44.97%	148.9135	122.06	41.36%	Limited	C		MAJOR	TY39547	57	12	3					
+14-Justin Nguyen	44.15%	146.2063	87.54	40.61%	Carry Optics	U		MINOR		44	19	5	4			1	
+15-Lisa Nguyen	43.35%	143.5407	100.03	39.87%	Open	D	Lady	MAJOR	A135827	40	23	6	3				
+16-Jason Williams 1	41.52%	137.4912	99.07	38.19%	Open	D		MINOR	A145508	41	23	6	2			1	
+17-Kenneth Carden	0.00%	0.0000		0.00%	Revolver	D	Super Senior	MINOR	FY145364								
+Name
+1-Ray Fishel
+2-Kenedy Nguyen 1
+3-Ronald Gillory jr.
+4-Placido Cavazos
+5-Daniel Duong
+6-Aj Jackson
+7-Robert Gatewood
+8-William Hamilton
+9-Blaine Newlin 1
+10-Michael Green
+11-Mark Lutzel
+12-John Del toro
+13-Justin Walworth
+14-Justin Nguyen
+15-Lisa Nguyen
+16-Jason Williams 1
+17-Kenneth Carden
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Newlin, Blaine (1)
+2023-01-20 01:36:01.941 - 2023-01-20 01:37:27.455Edited a minute after.Edited rawpts was: 46 now: 45
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	0	0	0	1	0
+Added details: [object Object]Added numAlphas: 8Added numCharlies: 1Added numDeltas: 2Added numM: 1Added stringTime: 8.71Edited By BCPS KINDLE FIRE #3
+Williams, Jason (1)
+2023-01-20 01:09:40.172 - 2023-01-20 01:15:43.505Edited 6 minutes after.Edited rawpts was: 52 now: 56
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 16.47 now: 16.53Added details: [object Object]Added numAlphas: 10Added numCharlies: 2Added stringTime: 16.53Edited By BCPS KINDLE FIRE #2
+Riverdale Standards
+Nguyen, Kenedy (1)
+2023-01-20 00:55:59.584 - 2023-01-20 00:55:59.621Edited a few seconds after.Added details: [object Object]Added numAlphas: 11Added numCharlies: 7Added numM: 2Added stringTime: 19.19Edited By BCPS KINDLE FIRE #3
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

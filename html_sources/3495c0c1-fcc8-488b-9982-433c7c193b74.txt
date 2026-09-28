@@ -1,0 +1,497 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday October 15th USPSA 2023-10-15Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Thomas Rodriguez	100.00%	636.0535	115.83	90.22%	PCC	A		MINOR	A59184	107	29	5					
+2-Cory Klemashevich	99.62%	633.6562	108.80	89.88%	Limited Optics	G		MINOR	L5150	102	33	4	2		1		
+3-Cory Klemashevich	98.72%	627.9318	94.04	89.07%	PCC	G		MINOR	L5150	99	28	7	7		1		
+4-Anji Xu 2	80.90%	514.5406	129.84	72.98%	Carry Optics	B		MINOR	FY135340	105	27	5	4				
+5-Travis Ritter	76.24%	484.9100	120.39	68.78%	PCC	U		MINOR	TY63232	100	32	1	8			2	
+6-Jason Wilson	71.91%	457.4027	139.62	64.88%	Limited	M		MINOR		97	36	3	5				
+7-Tanner Dykstra	65.12%	414.2104	152.51	58.75%	Open	U		MINOR	A146499	112	18	3	8				
+8-Guanwu Li	63.36%	402.9889	134.68	57.16%	Carry Optics	B		MINOR	A137005	88	40	4	9			1	
+9-AJ Jackson	61.92%	393.8289	141.25	55.86%	Limited Optics	A		MINOR	TY81745	88	36	9	8				
+10-Runfeng Zhang	61.30%	389.9304	145.97	55.31%	Carry Optics	U		MINOR	FY154067	96	31	5	9				
+11-Wei Zhang	58.72%	373.4797	137.47	52.98%	Carry Optics	C		MINOR		78	44	10	9				
+12-William Conlan	58.36%	371.1769	122.54	52.65%	Limited Optics	U	Senior	MINOR	A45421	79	44	4	14				
+13-Jason Poindexter	53.41%	339.7052	170.55	48.19%	Limited Optics	X	Senior	MINOR		78	51	6	6		1		
+14-Joe Paetzold	49.29%	313.5141	132.95	44.47%	Carry Optics	B		MINOR	A135487	91	27	7	16		1	1	
+15-Justin Walworth	44.62%	283.7952	141.66	40.25%	PCC	B		MINOR	A39547	89	32	4	16			5	
+16-Daniel Claybaugh	37.42%	238.0021	177.25	33.76%	Limited	C		MINOR	A135956	78	41	8	14		2		
+17-TOM DOWDY	35.50%	225.7967	219.13	32.03%	Limited Optics	C		MINOR	TY-90259	92	38	2	9		3	2	
+18-Dale Hamm 2	32.98%	209.7690	256.43	29.75%	Limited Optics	U	Senior	MINOR	TY97196	92	33	5	11				
+19-John Primrose	32.30%	205.4692	240.36	29.14%	Limited	X		MINOR		89	37	3	12		1	1	
+20-Chuxiao Yu 4	32.15%	204.4756	217.74	29.00%	Carry Optics	U		MINOR		88	32	7	14			1	
+21-Tommy Teas	31.29%	199.0511	182.07	28.23%	Limited Optics	B	Senior	MINOR	TY2227	62	54	10	15		1	1	
+22-Gene Bray 2	30.58%	194.5314	188.58	27.59%	Carry Optics	U	Super Senior	MINOR	L4490	76	39	10	16		1	3	
+23-Josh Rizzo	28.52%	181.4177	142.21	25.73%	PCC	B		MINOR	A128367	80	32	4	25			3	
+24-Saunders Arnold	21.87%	139.0769	167.46	19.73%	Carry Optics	C		MINOR	L5609	77	31	7	26		2		
+25-Taylor Latham	20.68%	131.5150	194.68	18.65%	Single Stack	B	Senior	MINOR	TY39841	62	39	14	26		1	1	
+26-William Conlan	14.27%	90.7896	62.99	12.88%	Single Stack	U	Senior	MINOR	A45421	32	17	1	10				
+27-Cody Pratt 1	12.51%	79.6020	174.54	11.29%	Open	U		MINOR		68	30	7	36		2	1	
+28-Ethan Fogle	11.61%	73.8320	225.93	10.47%	Carry Optics	U		MINOR		61	29	19	32			3	
+29-matt baum	7.36%	46.8154	198.17	6.64%	Limited Optics	U		MINOR	A141110	45	33	25	38		4	1	
+Name
+1-Thomas Rodriguez
+2-Cory Klemashevich
+3-Cory Klemashevich
+4-Anji Xu 2
+5-Travis Ritter
+6-Jason Wilson
+7-Tanner Dykstra
+8-Guanwu Li
+9-AJ Jackson
+10-Runfeng Zhang
+11-Wei Zhang
+12-William Conlan
+13-Jason Poindexter
+14-Joe Paetzold
+15-Justin Walworth
+16-Daniel Claybaugh
+17-TOM DOWDY
+18-Dale Hamm 2
+19-John Primrose
+20-Chuxiao Yu 4
+21-Tommy Teas
+22-Gene Bray 2
+23-Josh Rizzo
+24-Saunders Arnold
+25-Taylor Latham
+26-William Conlan
+27-Cody Pratt 1
+28-Ethan Fogle
+29-matt baum
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Pratt, Cody (1)
+2023-10-15 15:24:43.167 - 2023-10-15 15:26:55.050Edited 2 minutes after.Edited rawpts was: 53 now: 71Edited str,0 was: 9.03 now: 21.41
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	0	0	0	1	0
+Edited meta,0,v was: 1.88,2.28,2.74,3.08,3.52,3.86,6.21,6.79,7.47,7.97,8.50,9.03;AMG 1BCE now: 2.45,3.45,4.59,5.16,6.70,7.10,7.36,8.28,8.90,9.57,12.49,16.09,16.51,17.53,18.68,19.17,20.06,20.69,21.41;AMG 1BCEEdited meta,0,t was: 2023-10-15 15:23:36.514 now: 2023-10-15 15:25:57.295Added details: [object Object]Added numAlphas: 15Added numCharlies: 2Added numM: 1Added stringTime: 21.41Edited By Android Device
+Stage 3
+Xu, Anji (2)
+2023-10-15 14:42:12.275 - 2023-10-15 14:43:30.424Edited a minute after.Edited rawpts was: 20 now: 111Edited str,0 was: 0 now: 22.3
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded aprv: trueAdded details: [object Object]Added numAlphas: 25Added numCharlies: 2Added numM: 1Added stringTime: 22.3Edited By Android Device2023-10-15 14:19:58.950 - 2023-10-15 14:42:12.275Edited 22 minutes after.Edited rawpts was: 107 now: 20Edited str,0 was: 25.87 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Android Device
+Yu, Chuxiao (2)
+2023-10-15 14:44:06.533 - 2023-10-15 14:45:54.807Edited 2 minutes after.Edited rawpts was: 20 now: 111Edited str,0 was: 0 now: 32.3
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded aprv: trueAdded details: [object Object]Added numAlphas: 25Added numCharlies: 2Added numM: 1Added stringTime: 32.3Edited By Android Device2023-10-15 14:24:26.068 - 2023-10-15 14:44:06.533Edited 20 minutes after.Removed proc: 2Edited rawpts was: 106 now: 20Edited str,0 was: 49.38 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	1	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Android Device
+Bray, Gene (2)
+2023-10-15 14:46:04.761 - 2023-10-15 14:48:24.266Edited 2 minutes after.Edited rawpts was: 20 now: 92Edited str,0 was: 0 now: 29.35
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Removed Reason for Edit ReshootAdded proc: 1Added aprv: trueAdded details: [object Object]Added numAlphas: 17Added numCharlies: 9Added numM: 2Added numProc: 1Added stringTime: 29.35Edited By Android Device2023-10-15 14:27:05.172 - 2023-10-15 14:46:04.761Edited 19 minutes after.Edited rawpts was: 93 now: 20Edited str,0 was: 39.05 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	1	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Android Device
+Stage 5
+Hamm, Dale (2)
+2023-10-15 14:52:32.394 - 2023-10-15 14:55:32.553Edited 3 minutes after.Edited str,0 was: 0 now: 80.74
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter DOWDY, TOM (LO/Min)Added rawpts: 132Added aprv: trueAdded details: [object Object]Added numAlphas: 24Added numCharlies: 4Added stringTime: 80.74Edited By Android Device2023-10-15 14:52:06.692 - 2023-10-15 14:52:32.394Edited a few seconds after.Removed rawpts: 130Edited str,0 was: 44.59 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter DOWDY, TOM (LO/Min)Edited By Android Device
+Stage 6
+Yu, Chuxiao (2)
+2023-10-15 16:40:31.534 - 2023-10-15 16:42:35.077Edited 2 minutes after.Edited rawpts was: 20 now: 95Edited str,0 was: 0 now: 47.44
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Removed Reason for Edit ReshootAdded proc: 1Added aprv: trueAdded details: [object Object]Added numAlphas: 18Added numCharlies: 8Added numDeltas: 1Added numM: 9Added numProc: 1Added stringTime: 47.44Edited By Android Device2023-10-15 16:32:42.370 - 2023-10-15 16:40:31.534Edited 8 minutes after.Edited str,0 was: 15.83 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

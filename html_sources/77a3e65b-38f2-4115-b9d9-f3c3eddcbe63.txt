@@ -1,0 +1,173 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Feb 24 USPSA 2022-02-25Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Kenedy Nguyen	100.00%	198.4005	35.76	99.20%	Open	C		MAJOR	A83862	21	14	4					
+2-Pete Kirchner	92.87%	184.2523	38.91	92.13%	Carry Optics	A		MINOR	TY105743	27	13						
+3-Charles Bradbury	78.49%	155.7220	47.72	77.86%	PCC	U		MINOR	A107489	29	11						
+4-Robert Gatewood	77.93%	154.6128	40.88	77.31%	Carry Optics	B		MINOR	A118214	18	20	2					
+5-Desmond Jackson 1	77.47%	153.6984	47.92	76.85%	PCC	B		MINOR	TY89242	26	14				1		
+6-Mark Lutzel	64.91%	128.7720	50.85	64.39%	Carry Optics	C	Senior	MINOR	FY-101009	20	20						
+7-Ronald Gillory Jr.	59.08%	117.2215	58.90	58.61%	PCC	C		MINOR	TY83291	28	11		1				
+8-AJ Jackson	57.03%	113.1564	52.49	56.58%	PCC	A		MINOR	A81745	18	17	3	2				
+9-Lauren Christenson	55.21%	109.5331	57.48	54.77%	Carry Optics	U	Lady	MINOR		24	13	2	1				
+10-Blaine Newlin	53.48%	106.1061	51.37	53.05%	Limited 10	B		MAJOR	TY103350	17	19	1	3				
+11-Don Same	45.50%	90.2810	57.47	45.14%	PCC	U	Super Senior	MINOR		13	22	3	2			1	
+12-John Del Toro 2	45.03%	89.3371	77.56	44.67%	Limited 10	C	Super Senior	MINOR	A107511	23	17						
+13-Lisa Nguyen	40.14%	79.6399	71.49	39.82%	Open	D	Lady	MAJOR	A135827	22	14	1	3				
+14-Stephanie Marie 2	35.48%	70.3842	58.65	35.19%	Carry Optics	U	Lady	MINOR	A139099	25	9	1	5				
+15-Santiago Fields	33.03%	65.5381	72.73	32.77%	Limited	D		MINOR	TY128653 bbb	20	16	1	3				
+16-Yetta Jones 1	2.89%	5.7322	55.04	2.87%	Carry Optics	U	Lady	MINOR	A139120	5	15	11	9		2		
+Name
+1-Kenedy Nguyen
+2-Pete Kirchner
+3-Charles Bradbury
+4-Robert Gatewood
+5-Desmond Jackson 1
+6-Mark Lutzel
+7-Ronald Gillory Jr.
+8-AJ Jackson
+9-Lauren Christenson
+10-Blaine Newlin
+11-Don Same
+12-John Del Toro 2
+13-Lisa Nguyen
+14-Stephanie Marie 2
+15-Santiago Fields
+16-Yetta Jones 1
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Jones, Yetta (1)
+2022-02-25 01:31:08.570 - 2022-02-25 01:32:33.529Edited a minute after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	2	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	1	0	1	0
+Added rawpts: 20Added aprv: trueAdded details: [object Object]Added numAlphas: 1Added numCharlies: 4Added numDeltas: 3Added numNS: 2Added numM: 2Added stringTime: 13.13Edited By BCPS KINDLE FIRE #3
+Stage 3
+Jackson, Desmond (1)
+2022-02-25 02:09:36.377 - 2022-02-25 02:10:10.128Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+Added details: [object Object]Added numAlphas: 8Added numCharlies: 2Added numNS: 1Added stringTime: 19.78Edited By BCPS KINDLE FIRE #3
+Stage 4
+Marie, Stephanie (2)
+2022-02-25 02:46:10.881 - 2022-02-25 02:48:10.379Edited 2 minutes after.Edited str,0 was: 0 now: 13.28
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 45Added aprv: trueAdded details: [object Object]Added numAlphas: 9Added numM: 1Added stringTime: 13.28Edited By BCPS KINDLE FIRE #32022-02-25 02:27:42.595 - 2022-02-25 02:46:10.881Edited 18 minutes after.Removed rawpts: 37Edited str,0 was: 18.68 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By BCPS KINDLE FIRE #3
+Del Toro, John (2)
+2022-02-25 02:02:10.895 - 2022-02-25 02:09:09.675Edited 7 minutes after.Edited str,0 was: 0 now: 18.28
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Removed Reason for Edit Moved to Shooter Nguyen, Kenedy (O/Maj)Added rawpts: 38Added aprv: trueAdded details: [object Object]Added numAlphas: 4Added numCharlies: 6Added stringTime: 18.28Edited By BCPS KINDLE FIRE #42022-02-25 02:01:36.502 - 2022-02-25 02:02:10.895Edited a few seconds after.Removed rawpts: 42Edited str,0 was: 8.91 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Nguyen, Kenedy (O/Maj)Edited By BCPS KINDLE FIRE #4
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

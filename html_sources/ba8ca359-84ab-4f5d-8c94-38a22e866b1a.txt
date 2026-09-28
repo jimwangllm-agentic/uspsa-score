@@ -1,0 +1,194 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Jan 12 USPSA 2023-01-13Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Kenedy Nguyen	100.00%	283.4739	48.28	94.49%	Open	B		MAJOR	A83862	38	17	4	1				
+2-Ronald Gillory Jr.	84.89%	240.6428	58.41	80.21%	PCC	B		MINOR	TY83291	49	10		1				
+3-AJ Jackson	73.50%	208.3466	47.62	69.45%	Carry Optics	B		MINOR	TY81745	37	14	5	4				
+4-Mark Lutzel	70.61%	200.1519	66.54	66.72%	Carry Optics	C	Super Senior	MINOR	FY101009	40	17	2	1				
+5-Aaron Gillory 1	67.94%	192.5897	50.10	64.20%	Carry Optics	U	Law Enforcement	MINOR		36	18	2	4		1		
+6-Jason Williams	58.07%	164.5994	74.12	54.87%	Open	D		MINOR	A145508	38	18	3	1				
+7-Panagiotis "Pete" Tsekouras 4	52.17%	147.8804	89.61	49.29%	Carry Optics	U		MINOR		53	5		2				
+8-William Hamilton	46.71%	132.4102	95.20	44.14%	Limited	U	Law Enforcement	MINOR	A147128	51	6		3				
+9-Lauren Christenson	42.34%	120.0314	83.22	40.01%	Carry Optics	U	Lady	MINOR		37	14	5	4				
+10-Blaine Newlin	41.54%	117.7434	71.06	39.25%	Limited	B		MINOR	A103350	32	20	1	7				
+11-John Westphal	40.99%	116.1995	62.71	38.73%	Limited	U		MINOR		30	18	6	6				
+12-John Del Toro 1	34.05%	96.5095	90.50	32.17%	Limited	C	Super Senior	MAJOR	A107511	32	21	5	2		1	6	
+13-Michael Green	27.23%	77.1892	79.82	25.73%	Carry Optics	D	Junior	MINOR	A145466	27	21	5	7		1		
+14-Lisa Nguyen	23.97%	67.9618	78.41	22.65%	Open	D	Lady	MAJOR	A135827	27	16	6	11				
+15-Marcelo Yanez	20.60%	58.3920	77.30	19.46%	Limited	U		MINOR		16	25	10	9		1	1	
+16-Kenneth Carden	7.85%	22.2399	299.09	7.41%	Revolver	U	Super Senior	MINOR	FY145364	29	22	2	7			3	
+Name
+1-Kenedy Nguyen
+2-Ronald Gillory Jr.
+3-AJ Jackson
+4-Mark Lutzel
+5-Aaron Gillory 1
+6-Jason Williams
+7-Panagiotis "Pete" Tsekouras 4
+8-William Hamilton
+9-Lauren Christenson
+10-Blaine Newlin
+11-John Westphal
+12-John Del Toro 1
+13-Michael Green
+14-Lisa Nguyen
+15-Marcelo Yanez
+16-Kenneth Carden
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Tsekouras, Panagiotis "Pete" (2)
+2023-01-13 01:03:10.127 - 2023-01-13 01:17:10.601Edited 14 minutes after.Edited str,0 was: 0 now: 27.07
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	3	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	4	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+Removed Reason for Edit Moved to Shooter Del Toro, John (L/Maj/SS)Added rawpts: 62Added aprv: trueAdded details: [object Object]Added numAlphas: 10Added numCharlies: 4Added numM: 2Added stringTime: 27.07Edited By BCPS KINDLE FIRE #32023-01-13 01:02:31.499 - 2023-01-13 01:03:10.127Edited a few seconds after.Removed rawpts: 47Edited str,0 was: 23.95 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	2	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	4	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	2	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	2	1	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Del Toro, John (L/Maj/SS)Edited By BCPS KINDLE FIRE #3
+Stage 3
+Del Toro, John (1)
+2023-01-13 02:35:51.733 - 2023-01-13 02:36:06.410Edited a few seconds after.Edited rawpts was: 48 now: 50
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	1	1	0	0	0
+Added details: [object Object]Added numAlphas: 8Added numCharlies: 2Added numDeltas: 1Added numM: 1Added stringTime: 22.36Edited By BCPS KINDLE FIRE #3
+Gillory, Aaron (1)
+2023-01-13 02:02:12.626 - 2023-01-13 02:02:47.043Edited a few seconds after.Edited str,1 was: 0 now: 7.36
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added rawpts: 50Added aprv: trueAdded details: [object Object]Added numAlphas: 8Added numCharlies: 3Added numDeltas: 1Added stringTime: 13.21Edited By BCPS KINDLE FIRE #2
+Stage 4
+Tsekouras, Panagiotis "Pete" (2)
+2023-01-13 02:10:37.113 - 2023-01-13 02:11:28.738Edited a minute after.Edited str,0 was: 0 now: 22.81
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Del Toro, John (L/Maj/SS)Added rawpts: 90Added aprv: trueAdded details: [object Object]Added numAlphas: 18Added stringTime: 22.81Edited By BCPS KINDLE FIRE #32023-01-13 02:10:19.779 - 2023-01-13 02:10:37.113Edited a few seconds after.Removed proc: 6Removed rawpts: 80Edited str,0 was: 23.56 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	1	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Del Toro, John (L/Maj/SS)Edited By BCPS KINDLE FIRE #3
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

@@ -1,0 +1,185 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Oct 6 USPSA 2022-10-06Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Ray Fishel	100.00%	212.7659	20.40	92.51%	PCC	B	Senior	MINOR	A92443	32	11	1					
+2-Ronald Gillory jr	79.28%	168.6811	27.70	73.34%	PCC	B		MINOR	TY83291	36	4						
+3-Joseph Reyes	78.46%	166.9439	21.86	72.58%	PCC	B	Super Senior	MINOR	TY127665	21	17	2					
+4-Robert Gatewood	76.14%	161.9961	28.03	70.43%	Open	U	Military	MINOR	A118214	29	13						
+5-Desmond Jackson	71.62%	152.3915	23.32	66.26%	Carry Optics	B		MINOR	TY89242	22	14	3					
+6-James Jackson	71.30%	151.7063	26.84	65.96%	PCC	U		MINOR	A89219	24	16						
+7-Aj Jackson	65.97%	140.3620	25.14	61.03%	Open	B		MINOR	TY81745	26	13	2				2	
+8-Mark Lutzel	57.85%	123.0936	32.68	53.52%	PCC	U	Super Senior	MINOR	FY101009	29	12	2					
+9-Andrew Bradbury	53.76%	114.3879	34.73	49.73%	Open	U		MINOR		27	8	3					
+10-Blaine Newlin 2	53.60%	114.0502	22.36	49.59%	Limited 10	B	Foreign	MINOR	A103350	28	12	3	1			8	
+11-Lauren Christenson	52.31%	111.3069	37.63	48.39%	Carry Optics	U	Lady	MINOR		29	10		1				
+12-Fulbert Delmundo	49.61%	105.5497	35.41	45.89%	Carry Optics	U		MINOR	TY143383	23	15	1	1				
+13-Ian Melchior	38.55%	82.0275	28.31	35.66%	Carry Optics	U		MINOR	A144892	19	12	7	3				
+14-Robert Bui 2	34.57%	73.5523	28.50	31.98%	Limited	U	Foreign	MINOR	A103016	16	13	2	3		1		
+15-David Hruzek	30.71%	65.3351	38.51	28.41%	Carry Optics	C	Senior	MINOR	A100909	19	12	6	1				
+16-Charles Bradbury	16.89%	35.9382	62.32	15.63%	Revolver	U		MINOR	A107489	8	19	9	3				
+DQ-Don Same	0.00%	0.0000		0.00%	PCC	C	Super Senior	MINOR	TY105098								
+Name
+1-Ray Fishel
+2-Ronald Gillory jr
+3-Joseph Reyes
+4-Robert Gatewood
+5-Desmond Jackson
+6-James Jackson
+7-Aj Jackson
+8-Mark Lutzel
+9-Andrew Bradbury
+10-Blaine Newlin 2
+11-Lauren Christenson
+12-Fulbert Delmundo
+13-Ian Melchior
+14-Robert Bui 2
+15-David Hruzek
+16-Charles Bradbury
+DQ-Don Same
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 3
+Bui, Robert (2)
+2022-10-07 00:44:33.743 - 2022-10-07 00:48:44.381Edited 4 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited str,0 was: 0 now: 14.39Removed Reason for Edit Moved to Shooter Gatewood, Robert (O/Min/M)Added aprv: trueAdded rawpts: 46Added details: [object Object]Added numAlphas: 4Added numCharlies: 8Added numDeltas: 2Added numNS: 1Added numM: 2Added stringTime: 14.39Edited By BCPS KINDLE FIRE #22022-10-07 00:42:08.389 - 2022-10-07 00:44:33.743Edited 2 minutes after.Removed rawpts: 72Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 12.43 now: 0Added Reason for Edit Moved to Shooter Gatewood, Robert (O/Min/M)Edited By BCPS KINDLE FIRE #2
+Newlin, Blaine (2)
+2022-10-07 01:07:48.794 - 2022-10-07 01:12:28.571Edited 5 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited str,0 was: 0 now: 9.54Removed Reason for Edit Moved to Shooter Hruzek, David (CO/Min/S)Added proc: 8Added aprv: trueAdded rawpts: 60Added details: [object Object]Added numAlphas: 7Added numCharlies: 8Added numDeltas: 1Added numProc: 8Added stringTime: 9.54Edited By BCPS KINDLE FIRE #32022-10-07 01:07:28.313 - 2022-10-07 01:07:48.794Edited a few seconds after.Removed rawpts: 52Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 17.58 now: 0Added Reason for Edit Moved to Shooter Hruzek, David (CO/Min/S)Edited By BCPS KINDLE FIRE #3
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

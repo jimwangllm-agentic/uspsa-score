@@ -1,0 +1,85 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+SPCGC USPSA Hosts Kidlat Shooters 10-05-23 USPSA 2023-10-05Spring Pistol Caliber Gun Club
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Jake Mansfield	100.00%	356.3668	36.59	96.32%	Carry Optics	M		MINOR	FY101123	60	14						
+2-Olayemi Bakare 1	95.86%	341.6205	38.30	92.33%	Limited Optics	U		MINOR		61	13						
+3-Jay-R delos-Santos	89.69%	319.6186	40.54	86.38%	Open	B	Senior	MAJOR	A70297	57	15	2				1	
+4-Michael Hanover	80.03%	285.1856	42.06	77.08%	Limited Optics	A		MINOR	A146302	52	20	2			1		
+5-Rudy Widiaman	69.46%	247.5377	43.71	66.90%	PCC			MINOR		53	19	2			4		
+6-Caleb Diedrichs	67.58%	240.8278	50.95	65.09%	Carry Optics	A		MINOR	A105669	58	16					2	
+7-Gennady Khokhorin	67.51%	240.5953	52.28	65.03%	Production	B	Super Senior	MINOR	A123884	57	16	1					
+8-Christian Canizales	66.42%	236.7117	46.45	63.98%	Carry Optics	B		MINOR	TY150265	42	29	3			1		
+9-Kevin Pessetto	66.40%	236.6367	53.72	63.96%	Carry Optics	U		MINOR	A149226	56	18						
+10-GLENN McKinney	65.25%	232.5462	50.78	62.85%	Limited	C	Super Senior	MAJOR	FY8311	46	26		2				
+11-Chang Qian	57.04%	203.2566	56.06	54.93%	Production	U		MINOR	A150939	56	16	1	1		1	1	
+12-Joseph Yoders	53.69%	191.3453	61.66	51.71%	Limited Optics			MINOR		52	21		1		1		
+13-Yul Kwan	50.22%	178.9554	57.60	48.37%	Limited	U	Senior	MINOR	0	37	30	6	1				
+14-Fredi Loke	49.83%	177.5656	38.85	47.99%	Open	U	Super Senior	MAJOR	A130588	30	26	8	10				
+15-Matthew Davis	35.92%	127.9956	87.15	34.59%	Limited	U		MAJOR	TY133791	42	28	1	3			1	
+DQ-Virak Meas	0.00%	0.0000		0.00%	Open	U		MINOR	O								
+Name
+1-Jake Mansfield
+2-Olayemi Bakare 1
+3-Jay-R delos-Santos
+4-Michael Hanover
+5-Rudy Widiaman
+6-Caleb Diedrichs
+7-Gennady Khokhorin
+8-Christian Canizales
+9-Kevin Pessetto
+10-GLENN McKinney
+11-Chang Qian
+12-Joseph Yoders
+13-Yul Kwan
+14-Fredi Loke
+15-Matthew Davis
+DQ-Virak Meas
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Bakare, Olayemi (1)
+2023-10-05 23:44:23.805 - 2023-10-05 23:52:29.889Edited 8 minutes after.Edited rawpts was: 115 now: 118
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	2	0	0	0	0
+Added details: [object Object]Added numAlphas: 20Added numCharlies: 6Added stringTime: 16.43Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

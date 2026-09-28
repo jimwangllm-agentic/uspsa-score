@@ -1,0 +1,144 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly June 23 USPSA 2022-06-23Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Aj Jackson	100.00%	260.9548	41.36	93.20%	PCC	A		MINOR	TY81745	46	9		1				
+2-Pete Kirchner	91.47%	238.6963	47.04	85.25%	Carry Optics	A		MINOR	TY105743	49	6		1				
+3-Ray Fishel 2	84.38%	220.1834	49.07	78.64%	PCC	B	Senior	MINOR	A92443	49	6		1		1		
+4-Ronald Gillory jr	76.82%	200.4586	61.67	71.59%	PCC	B		MINOR	TY83291	47	9						
+5-Desmond Jackson	76.53%	199.7164	56.97	71.33%	PCC	B		MINOR	TY89242	48	6	1	1				
+6-Charles Bradbury	69.33%	180.9118	60.94	64.61%	Open	D		MINOR	A107489	45	10	1			1		
+7-Don Same	65.05%	169.7528	65.88	60.63%	PCC	C	Super Senior	MINOR	TY105098	42	13		1				
+8-Blaine Newlin	63.83%	166.5697	82.28	59.49%	Single Stack	B	Foreign	MAJOR	TY103350	44	12						
+9-Kenedy Nguyen	60.14%	156.9457	46.51	56.05%	Open	C		MINOR	A83862	35	19	1	1			11	
+10-James Jackson	57.95%	151.2353	59.00	54.01%	PCC	U		MINOR	A89219	42	11		3				
+11-Dan Brodt 2	57.94%	151.1898	56.97	54.00%	Limited	C		MINOR	A109102	41	13		2		2		
+12-Robert Gatewood	54.68%	142.7020	56.08	50.97%	Limited	U	Military	MINOR	A118214	37	14	1	4				
+13-Diarmaid Roche	46.36%	120.9686	85.72	43.20%	Limited	D	Foreign	MINOR	A141990	38	13	2	3				
+14-John Del toro	40.30%	105.1520	108.51	37.55%	Single Stack	D	Super Senior	MAJOR	A107511	48	6		2				
+15-Laura Rankin	30.75%	80.2554	99.72	28.66%	Limited	U		MINOR		39	11	1	5				
+16-Salil Cheriyan	25.08%	65.4483	117.43	23.37%	Limited	U		MAJOR		34	14	2	6		1		
+17-Jay Rankin 1	24.75%	64.5898	93.23	23.07%	Limited	U		MINOR	A142976	33	13		10		1		
+Name
+1-Aj Jackson
+2-Pete Kirchner
+3-Ray Fishel 2
+4-Ronald Gillory jr
+5-Desmond Jackson
+6-Charles Bradbury
+7-Don Same
+8-Blaine Newlin
+9-Kenedy Nguyen
+10-James Jackson
+11-Dan Brodt 2
+12-Robert Gatewood
+13-Diarmaid Roche
+14-John Del toro
+15-Laura Rankin
+16-Salil Cheriyan
+17-Jay Rankin 1
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Fishel, Ray (2)
+2022-06-24 01:21:12.969 - 2022-06-24 01:22:43.008Edited 2 minutes after.Edited rawpts was: 10 now: 60
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 0 now: 14.25Removed Reason for Edit ReshootAdded aprv: trueAdded details: [object Object]Added numAlphas: 14Added stringTime: 14.25Edited By BCPS KINDLE FIRE #42022-06-24 01:16:24.916 - 2022-06-24 01:21:12.969Edited 5 minutes after.Edited rawpts was: 54 now: 10Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 9.65 now: 0Added Reason for Edit ReshootEdited By BCPS KINDLE FIRE #4
+Rankin, Jay (1)
+2022-06-24 01:03:13.297 - 2022-06-24 01:03:56.940Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+Added details: [object Object]Added numAlphas: 11Added numCharlies: 3Added numNS: 1Added stringTime: 27.94Edited By BCPS KINDLE FIRE #4
+Tight Squeeze
+Brodt, Dan (2)
+2022-06-24 01:29:53.294 - 2022-06-24 01:30:55.648Edited a minute after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	1	0	1	0	0
+Edited str,0 was: 0 now: 11.09Removed Reason for Edit Moved to Shooter Gatewood, Robert (L/Min/M)Added aprv: trueAdded rawpts: 51Added details: [object Object]Added numAlphas: 9Added numCharlies: 2Added numNS: 1Added numM: 1Added stringTime: 11.09Edited By BCPS KINDLE FIRE #22022-06-24 01:29:18.571 - 2022-06-24 01:29:53.294Edited a few seconds after.Removed rawpts: 42Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 10.57 now: 0Added Reason for Edit Moved to Shooter Gatewood, Robert (L/Min/M)Edited By BCPS KINDLE FIRE #2
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

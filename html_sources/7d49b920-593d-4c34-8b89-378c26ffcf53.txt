@@ -1,0 +1,363 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA Feb 18, 2018 USPSA/IPSC 2018-02-18
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	P
+1-AJ Jackson	100.00%	615.4194	110.17	82.61%	PCC	C		MINOR	A81745	89	50	9	1		1	
+2-Michael Kellett	97.65%	600.9703	113.87	80.67%	PCC	C		MINOR		101	42	2	2		1	
+3-Jin Park	96.25%	592.3336	138.92	79.51%	Production	B	Foreign	MINOR	A100094	130	16	2	1			
+4-Eric Dewberry	94.00%	578.4894	136.33	77.65%	Limited	A	Law Enforcement	MINOR	A100519	132	15	1			2	
+5-Bill Murray	91.94%	565.7969	129.04	75.95%	PCC	M	Super Senior	MINOR	TY3880	101	40	3	3		1	1
+6-Wade Ledbetter	91.64%	563.9570	112.69	75.70%	Production	U		MINOR		116	24	1	7		1	2
+7-Kyle Post	90.13%	554.7069	130.16	74.46%	Production	A		MINOR	A74846	103	36	3	5		2	
+8-Albert Calderon	89.02%	547.8651	139.37	73.54%	Open	B		MAJOR	000000	108	35	4	1		1	2
+9-Bradley Phair	82.71%	509.0257	122.70	68.33%	PCC	C	Senior	MINOR		93	47	4	5		2	
+10-Jay Hafemeister	81.19%	499.6710	148.42	67.07%	Production	B		MINOR	TY87794	121	24	2	2		1	
+11-John Voss	80.77%	497.0904	147.05	66.72%	Production	B		MINOR	A105318	113	23	4	5		1	
+12-Christopher Hoog	78.06%	480.4213	170.54	64.49%	Production	U	Military	MINOR		103	38	1	2		2	
+13-Eric McCampbell 1	77.14%	474.7165	158.47	63.72%	Limited	C		MAJOR	A14332	104	39	4	2		1	
+14-Dale Hamm	74.92%	461.0915	170.86	61.89%	PCC	C	Senior	MINOR	TY97196	111	35	2				
+15-Jason Wilson	74.50%	458.4635	152.71	61.54%	Revolver	M		MINOR	A94696	115	25	1	4		1	
+16-Alex DuBuisson	73.14%	450.1400	175.31	60.42%	Limited	U	Law Enforcement	MINOR		118	24	2	2		1	
+17-Daniel DuBuisson	73.12%	449.9885	158.30	60.40%	Carry Optics	C		MINOR	L3935	116	21	5	4			
+18-Richard Elms	72.68%	447.2893	180.94	60.04%	Single Stack	C	Senior	MINOR	A46313	119	24	5				
+19-John Gossett	68.52%	421.6697	160.27	56.60%	Limited	U		MINOR		129	17		1		1	8
+20-Matt Skains	66.17%	407.2507	178.52	54.66%	Production	U		MINOR	A102784	113	25	6	2			
+21-Gary Brisco	64.33%	395.9123	171.66	53.14%	Carry Optics	C	Senior	MINOR	FY73704	94	44	6	3			2
+22-Greg Thoede	62.16%	382.5150	207.47	51.34%	Limited	B	Super Senior	MAJOR	FY16969	95	39	4	8		2	
+23-JAMES BRISCO	59.29%	364.8760	157.86	48.98%	Limited	X		MINOR		96	32	6	9		3	4
+24-Kevin Baker 1	57.77%	355.4971	188.60	47.72%	Production	C		MINOR	A95439	90	43	8	5		1	
+25-Stephen Pearce	54.28%	334.0510	222.53	44.84%	Limited	U	Super Senior	MAJOR		109	33	3	3		1	
+26-Josh Fojtik	50.35%	309.8707	188.69	41.59%	Production	U		MINOR	A108293	90	40	8	9		2	
+27-Chip Clester	48.10%	296.0036	232.36	39.73%	Carry Optics	X		MINOR	A108767	113	27	4	3		3	
+28-Robert Bombardiere	47.13%	290.0603	248.32	38.93%	Production	U		MINOR	A106604	117	22	7	3		1	1
+29-Nathaniel Schwebel	42.72%	262.9170	173.22	35.29%	Production	U		MINOR		71	31	14	5		1	
+30-Stephen Beck	40.45%	248.9079	268.21	33.41%	Single Stack	C		MAJOR	A39021	77	45	9	17		4	
+31-Douglas Campbell	39.13%	240.8418	277.12	32.33%	Production	U	Senior	MINOR		96	37	10	4		1	
+32-Jeff Lynch	37.12%	228.4178	239.66	30.66%	Single Stack	D	Senior	MINOR	TY106340	105	23	8	12		4	
+33-Terry King	34.59%	212.8960	191.08	28.58%	Limited	U		MINOR		93	32	4	19		2	1
+34-Chris Salch	32.09%	197.4970	345.30	26.51%	Limited	U		MAJOR		111	24	6	7		1	
+35-Jeffrey Carouth 1	31.97%	196.7439	334.33	26.41%	Production	U		MINOR	A108447	96	35	5	10		3	
+36-Jim johnson 3	30.89%	190.0849	351.18	25.51%	Single Stack	U	Super Senior	MAJOR		88	42	12	7		5	
+37-Jerry King	24.86%	152.9784	219.92	20.53%	Limited	D		MINOR		82	35	5	25		3	
+38-Arielle Wood 5	18.41%	113.2680	453.83	15.20%	Production	U	Lady	MINOR		81	40	9	18		6	
+DQ-Tommy Teas 1	0.00%	0.0000		0.00%	Limited	B	Senior	MINOR	TY2227							
+DQ-Kelton Casey	0.00%	0.0000		0.00%	Open	A		MAJOR	TY42440							
+Name
+1-AJ Jackson
+2-Michael Kellett
+3-Jin Park
+4-Eric Dewberry
+5-Bill Murray
+6-Wade Ledbetter
+7-Kyle Post
+8-Albert Calderon
+9-Bradley Phair
+10-Jay Hafemeister
+11-John Voss
+12-Christopher Hoog
+13-Eric McCampbell 1
+14-Dale Hamm
+15-Jason Wilson
+16-Alex DuBuisson
+17-Daniel DuBuisson
+18-Richard Elms
+19-John Gossett
+20-Matt Skains
+21-Gary Brisco
+22-Greg Thoede
+23-JAMES BRISCO
+24-Kevin Baker 1
+25-Stephen Pearce
+26-Josh Fojtik
+27-Chip Clester
+28-Robert Bombardiere
+29-Nathaniel Schwebel
+30-Stephen Beck
+31-Douglas Campbell
+32-Jeff Lynch
+33-Terry King
+34-Chris Salch
+35-Jeffrey Carouth 1
+36-Jim johnson 3
+37-Jerry King
+38-Arielle Wood 5
+DQ-Tommy Teas 1
+DQ-Kelton Casey
+Old style results
+
+Score Edit History
+Stage 2-Hahahahaha
+Wood, Arielle (4)
+2018-02-18 18:15:43.813 - 2018-02-18 18:17:33.222Edited 2 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+Edited rawpts was: 56 now: 103Added details: [object Object]Added numAlphas: 16Added numCharlies: 7Added numDeltas: 2Added numNS: 1Added numM: 3Added stringTime: 51.28Edited By Android Device2018-02-18 18:15:20.574 - 2018-02-18 18:15:43.813Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 22 now: 56Edited By Android Device2018-02-18 18:15:06.258 - 2018-02-18 18:15:20.574Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited rawpts was: 11 now: 22Edited By Android Device2018-02-18 18:09:20.173 - 2018-02-18 18:15:06.258Edited 6 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Added rawpts: 11Edited By Android Device
+Teas, Tommy -DQ (1)
+2018-02-18 15:17:26.915 - 2018-02-18 15:28:12.629Edited 11 minutes after.Edited By Android Device
+johnson, Jim (3)
+2018-02-18 18:18:15.258 - 2018-02-18 18:24:23.923Edited 6 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited str,0 was: 0 now: 46.52Added rawpts: 118Added details: [object Object]Added numAlphas: 12Added numCharlies: 14Added numDeltas: 1Added numM: 1Added stringTime: 46.52Edited By Android Device2018-02-18 18:09:36.239 - 2018-02-18 18:18:15.258Edited 9 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	1	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed rawpts: 110Edited By Android Device2018-02-18 18:08:39.717 - 2018-02-18 18:09:36.239Edited a minute after.Edited str,0 was: 51.28 now: 0Edited By Android Device
+Stage 3-Six Chickens All Messed Up
+Carouth, Jeffrey (1)
+2018-02-18 15:25:14.659 - 2018-02-18 15:25:28.716Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	1	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 4Added numBravos: 3Added numNS: 3Added numM: 5Added stringTime: 23.31Edited By Android Device
+Stage 4-hose
+Wood, Arielle (1)
+2018-02-18 18:39:19.232 - 2018-02-18 19:02:30.070Edited 23 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	2	0	0	0	0
+Edited rawpts was: 36 now: 105Edited str,0 was: 0 now: 62.44Added details: [object Object]Added numAlphas: 13Added numCharlies: 12Added numDeltas: 4Added numM: 1Added stringTime: 62.44Edited By Android Device
+Rhodes, Chris (1)
+2018-02-18 18:00:11.044 - 2018-02-18 18:01:45.959Edited 2 minutes after.Added dnf: trueAdded dnfs: R4cPM8Added numAlphas: 17Added numCharlies: 10Added numDeltas: 1Added numM: 2Added stringTime: 26.31Edited By Android Device
+Baker, Kevin (1)
+2018-02-18 15:41:08.912 - 2018-02-18 16:53:10.615Edited an hour after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited str,0 was: 23.29 now: 30.98Added rawpts: 106Added details: [object Object]Added numAlphas: 12Added numCharlies: 14Added numDeltas: 4Added stringTime: 30.98Edited By Android Device
+Stage 6-Jay Pea
+McCampbell, Eric (1)
+2018-02-18 17:19:08.391 - 2018-02-18 17:19:23.098Edited a few seconds after.Edited str,0 was: 41.64 now: 41.61Added details: [object Object]Added numAlphas: 52Added stringTime: 41.61Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

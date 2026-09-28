@@ -1,0 +1,225 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday February 16 USPSA 2020-02-16Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Cory Klemashevich 1	100.00%	630.0000	73.52	100.00%	PCC	G		MINOR	A87214	96	29		1				
+2-Mark Lutzel	61.79%	389.2967	111.05	61.79%	Carry Optics	C	Senior	MINOR	TY-101009	92	29	2	3		1		
+3-Tommy Teas	57.99%	365.3121	103.01	57.99%	Limited	B	Senior	MINOR	TY2227	79	33	10	4		1		
+4-Josh Rizzo	57.12%	359.8317	98.52	57.12%	PCC	U		MINOR		84	30	5	7		1	1	
+5-Jason Wilson	57.08%	359.6055	127.19	57.08%	Limited	M		MAJOR	a94696	105	17	2	2		3		
+6-Kent Leslie	56.94%	358.7305	132.14	56.94%	Single Stack	M	Super Senior	MAJOR	TY1808	89	28	7	2		1		
+7-Don Same	55.72%	351.0132	131.58	55.72%	PCC	C	Super Senior	MINOR	A105098	108	14	1	3		1		
+8-Preston Sidwell 2	52.41%	330.2124	124.55	52.41%	Carry Optics	U		MINOR		103	17	1	5		2		
+9-Danny Dubuisson	50.65%	319.1090	141.99	50.65%	Carry Optics	C		MINOR		103	21		2		1		
+10-Kelton Casey	47.76%	300.9097	135.74	47.76%	Carry Optics	U		MINOR	TY42440	105	15	1	5		4		
+11-Steve Haylow	47.58%	299.7264	148.37	47.58%	Carry Optics	U		MINOR	A123083	96	26	2	2		1		
+12-Carl Rugg	47.21%	297.4222	159.01	47.21%	PCC	D	Super Senior	MINOR	A98356	107	19				2		
+13-Donald Alongi	45.30%	285.4064	163.32	45.30%	Open	D	Senior	MINOR		105	14	6	1		1		
+14-Billy Banks	42.39%	267.0865	148.10	42.39%	Limited	C	Law Enforcement	MAJOR	A49856	93	24	6	3			6	
+15-greg thoede 2	42.21%	265.8954	141.52	42.21%	Carry Optics	C	Super Senior	MINOR		83	30	7	6		2		
+16-GARY BRISCO	36.48%	229.8034	150.65	36.48%	Carry Optics	C	Senior	MINOR	FY73704	76	34	8	8				
+17-Chris Rhodes 2	35.91%	226.2628	120.29	35.91%	Limited	U		MINOR		78	20	5	4		1		
+18-Kevin Baker	31.28%	197.0859	117.38	31.28%	Production	C		MINOR	A95439	66	33	13	14		3		
+19-Brennan Heath	31.09%	195.8769	195.30	31.09%	Carry Optics	U		MINOR		102	14	1	9		3		
+20-Cole Perley	21.55%	135.7635	211.47	21.55%	Limited	X		MINOR		83	23	9	11		4		
+21-Raney Weatherford	19.71%	124.1959	249.69	19.71%	Limited	X		MINOR		77	27	10	12		3	1	
+Name
+1-Cory Klemashevich 1
+2-Mark Lutzel
+3-Tommy Teas
+4-Josh Rizzo
+5-Jason Wilson
+6-Kent Leslie
+7-Don Same
+8-Preston Sidwell 2
+9-Danny Dubuisson
+10-Kelton Casey
+11-Steve Haylow
+12-Carl Rugg
+13-Donald Alongi
+14-Billy Banks
+15-greg thoede 2
+16-GARY BRISCO
+17-Chris Rhodes 2
+18-Kevin Baker
+19-Brennan Heath
+20-Cole Perley
+21-Raney Weatherford
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Rhodes, Chris (1)
+2020-02-16 15:32:30.972 - 2020-02-16 17:01:42.311Edited an hour after.Edited rawpts was: 105 now: 21Edited str,0 was: 26.33 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	1	0	0
+Current	0	0	0	0	0	0	0
+Edited udid was: 48ea634e-ab97-4a87-bfa6-6a20d372fd2c now: e243183c-b844-448c-8541-872ddfd336baAdded details: [object Object]Added numAlphas: 4Added numDeltas: 1Edited By Android Device
+Disaster Factor
+Sidwell, Preston (2)
+2020-02-16 17:12:40.645 - 2020-02-16 17:13:07.698Edited a few seconds after.Edited str,0 was: 0 now: 9.55
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Banks, Billy (L/Maj)Added rawpts: 52Added aprv: trueAdded details: [object Object]Added numAlphas: 8Added numCharlies: 4Added stringTime: 9.55Edited By Android Device2020-02-16 17:10:05.303 - 2020-02-16 17:12:40.645Edited 3 minutes after.Removed proc: 6Removed rawpts: 46Edited str,0 was: 7.06 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Banks, Billy (L/Maj)Edited By Android Device
+Stage 4
+Rhodes, Chris (1)
+2020-02-16 16:45:43.386 - 2020-02-16 16:46:09.478Edited a few seconds after.Edited rawpts was: 87 now: 89
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 20Added numCharlies: 3Added numM: 1Added stringTime: 25.89Edited By Android Device
+thoede, greg (2)
+2020-02-16 16:31:38.255 - 2020-02-16 16:33:55.575Edited 2 minutes after.Edited rawpts was: 20 now: 81Edited str,0 was: 0 now: 23.13
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Removed Reason for Edit Moved to Shooter Wilson, Jason (L/Maj)Added aprv: trueAdded details: [object Object]Added numAlphas: 18Added numCharlies: 3Added numDeltas: 2Added numM: 1Added stringTime: 23.13Edited By Android Device2020-02-16 16:30:42.599 - 2020-02-16 16:31:38.255Edited a minute after.Edited rawpts was: 88 now: 20Edited str,0 was: 21.19 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Wilson, Jason (L/Maj)Edited By Android Device
+Stage 6
+Klemashevich, Cory (1)
+2020-02-16 15:38:24.612 - 2020-02-16 15:38:48.535Edited a few seconds after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 20Added numCharlies: 4Added stringTime: 13.51Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

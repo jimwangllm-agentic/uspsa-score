@@ -1,0 +1,105 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+SPCGC Hosts Kidlat Shooters USPSA 02-09-25 USPSA 2025-01-10Spring Pistol Caliber Gun Club
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Ryan Jaw	100.00%	274.7009	28.83	94.72%	Limited Optics	B		MINOR	TY142907	42	15	1					
+2-VOX ESGUERRA	97.46%	267.7193	29.54	92.32%	Open	C		MAJOR	A79097	36	18	4					
+3-Andrew Yeh	95.03%	261.0498	27.01	90.02%	Limited Optics	X		MINOR	TY128067	36	19	2	1				
+4-Joseph Yoders	87.66%	240.8017	35.52	83.04%	Limited Optics	U		MINOR		47	11						
+5-Phyl Santos	82.22%	225.8517	28.28	77.88%	Carry Optics	B		MINOR	a155981	29	27	1	1		1		
+6-Christian Canizales 1	80.35%	220.7094	27.79	76.11%	Carry Optics	A		MINOR	TY150265	31	21	4	2				
+7-Phil Truong	76.27%	209.5042	36.85	72.24%	Carry Optics	B		MINOR	FY128600	42	16						
+8-Ross "Riff Raff" Pimentel	72.48%	199.1166	38.06	68.66%	Limited Optics	C	Senior	MINOR	A157753	39	17	2					
+9-Charles Spears	70.40%	193.3953	38.98	66.69%	Carry Optics	U		MINOR	A164017	42	14	1	1				
+10-GLENN McKinney	68.57%	188.3501	45.02	64.95%	Limited	D	Super Senior	MAJOR	FY8311	37	21						
+11-Will Allen	66.74%	183.3420	44.38	63.22%	Limited Optics	U		MINOR		43	15						
+12-Clay Young 1	64.90%	178.2750	45.84	61.47%	Carry Optics	U		MINOR		47	11						
+13-Napoleon Lewis	64.38%	176.8552	43.75	60.98%	Carry Optics	U	Military	MINOR	TY154149	40	16	2					
+14-Harlan Chen	62.80%	172.5165	45.62	59.49%	Carry Optics	U		MINOR	A163292	48	9		1				
+15-Nic Blades	62.79%	172.4735	49.34	59.47%	Single Stack	C		MINOR	A83339	52	6						
+16-Gennady Khokhorin	53.43%	146.7654	44.68	50.61%	Production	B	Super Senior	MINOR	A123884	45	10	1	2		2		
+17-Waldo Samano	51.95%	142.7137	70.43	49.21%	Limited Optics	M		MINOR	A87973	36	18	1	3		1		
+18-Byron McGowen	40.27%	110.6290	79.41	38.15%	Carry Optics	D	Junior, Military	MINOR	A159731	56	2				1		
+19-Neil McMullin	38.26%	105.0990	57.30	36.24%	Production	U		MINOR	A162927	31	23	2	2		1		
+20-Fredi Loke	12.59%	34.5979	30.41	11.93%	Open	C	Super Senior	MAJOR	A130588	16	8		18			3	
+21-Kelton Casey	0.00%	0.0000		0.00%	PCC	U	Senior	MINOR	ty42440								
+DQ-Marshall Quigley	0.00%	0.0000		0.00%	Single Stack	D		MAJOR	A162329								
+DQ-Kenedy Nguyen	0.00%	0.0000		0.00%	Open	B		MAJOR	A83862								
+Name
+1-Ryan Jaw
+2-VOX ESGUERRA
+3-Andrew Yeh
+4-Joseph Yoders
+5-Phyl Santos
+6-Christian Canizales 1
+7-Phil Truong
+8-Ross "Riff Raff" Pimentel
+9-Charles Spears
+10-GLENN McKinney
+11-Will Allen
+12-Clay Young 1
+13-Napoleon Lewis
+14-Harlan Chen
+15-Nic Blades
+16-Gennady Khokhorin
+17-Waldo Samano
+18-Byron McGowen
+19-Neil McMullin
+20-Fredi Loke
+21-Kelton Casey
+DQ-Marshall Quigley
+DQ-Kenedy Nguyen
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Young, Clay (1)
+2025-01-10 01:10:15.938 - 2025-01-10 01:10:51.414Edited a few seconds after.Edited rawpts was: 103 now: 108
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 18Added numCharlies: 6Added stringTime: 21.13Edited By Android Device
+Canizales, Christian (1)
+2025-01-10 01:27:46.867 - 2025-01-10 01:28:01.858Edited a few seconds after.Edited rawpts was: 100 now: 102
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 15Added numCharlies: 9Added stringTime: 13.13Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

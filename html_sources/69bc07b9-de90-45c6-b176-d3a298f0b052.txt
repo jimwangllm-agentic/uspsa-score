@@ -1,0 +1,163 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly July 7 USPSA 2022-07-07Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Ray Fishel	100.00%	183.2083	45.88	89.37%	PCC	B	Senior	MINOR	A92443	21	19	1					
+2-AJ Jackson	96.44%	176.6796	40.13	86.19%	Open	B		MINOR	TY81745	17	21	2	1				
+3-Aaron Gillory	96.44%	176.6770	47.29	86.18%	Carry Optics	U	Law Enforcement	MINOR		28	11	1	1				
+4-Desmond Jackson	95.49%	174.9460	50.28	85.34%	Carry Optics	B		MINOR	TY89242	27	12	2					
+5-Joseph Reyes 2	91.32%	167.3069	51.04	81.61%	PCC	B	Super Senior	MINOR	A127665	24	14	3					
+6-Christopher Boatcallie	86.44%	158.3652	55.80	77.25%	Open	U		MINOR	A104118	25	15	1					
+7-Ronald Gillory Jr.	81.89%	150.0229	59.71	73.18%	PCC	B		MINOR	TY83291	27	13	1					
+8-Chuck Bradbury	77.67%	142.2923	60.29	69.41%	Open	U		MINOR		21	19	1					
+9-Kenedy Nguyen	69.96%	128.1689	43.22	62.52%	Open	C		MAJOR	A83862	18	14	5	4				
+10-Don Same	55.27%	101.2527	60.08	49.39%	PCC	U	Super Senior	MINOR		17	21	1	2				
+11-James Jackson	54.45%	99.7568	59.98	48.66%	Limited	U		MINOR	a89219	17	17	5	2				
+12-Sam Honeycutt	53.48%	97.9826	64.13	47.80%	Carry Optics	U		MINOR	A141838	20	15	2	4				
+13-Lisa Nguyen 2	48.00%	87.9360	83.52	42.90%	Open	D	Lady	MAJOR	A135827	23	13	2	3				
+14-Jennifer Kleiber-Boatcallie	45.93%	84.1407	83.78	41.04%	PCC	U		MINOR	A142192	21	17	1	2				
+15-Salil Cheriyan	14.26%	26.1334	113.20	12.75%	Limited	U		MINOR		13	16	6	6			2	
+16-Riley Huebel	1.69%	3.0910	118.61	1.51%	Limited	U		MINOR		12	15	1	13			1	
+17-Allison Hilpert 1	0.00%	0.0000	151.26	0.00%	Production	U		MINOR		7	6	7	21				
+Name
+1-Ray Fishel
+2-AJ Jackson
+3-Aaron Gillory
+4-Desmond Jackson
+5-Joseph Reyes 2
+6-Christopher Boatcallie
+7-Ronald Gillory Jr.
+8-Chuck Bradbury
+9-Kenedy Nguyen
+10-Don Same
+11-James Jackson
+12-Sam Honeycutt
+13-Lisa Nguyen 2
+14-Jennifer Kleiber-Boatcallie
+15-Salil Cheriyan
+16-Riley Huebel
+17-Allison Hilpert 1
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Hilpert, Allison (1)
+2022-07-08 00:35:21.418 - 2022-07-08 00:35:39.695Edited a few seconds after.Edited rawpts was: 19 now: 20
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	1	0	1	0
+Current	0	0	0	2	0	0	0
+Added details: [object Object]Added numAlphas: 5Added numCharlies: 1Added numDeltas: 2Added numM: 6Added stringTime: 25.39Edited By BCPS KINDLE FIRE #2
+Roche, Diarmaid (1)
+2022-07-08 00:05:08.959 - 2022-07-08 00:06:03.283Edited a minute after.Edited rawpts was: 34 now: 10Edited str,0 was: 49.4 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Huebel, Riley (L/Min)Added numAlphas: 2Edited By BCPS KINDLE FIRE #4
+Stage 2
+Nguyen, Lisa (2)
+2022-07-08 00:34:53.020 - 2022-07-08 00:36:12.904Edited a minute after.Edited rawpts was: 5 now: 37Edited str,0 was: 0 now: 17.82
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	1	0	0	0
+Removed Reason for Edit ReshootAdded aprv: trueAdded details: [object Object]Added numAlphas: 8Added numDeltas: 1Added numM: 1Added stringTime: 17.82Edited By BCPS KINDLE FIRE #42022-07-08 00:28:24.537 - 2022-07-08 00:34:53.020Edited 6 minutes after.Edited popm was: 1 now: 0Edited poph was: 0 now: 1Removed proc: 2Edited rawpts was: 30 now: 5Edited str,0 was: 15.19 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By BCPS KINDLE FIRE #4
+Stage 4
+Reyes, Joseph (2)
+2022-07-08 01:01:58.428 - 2022-07-08 01:03:34.010Edited 2 minutes after.Edited str,0 was: 0 now: 13.24
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 36Added aprv: trueAdded details: [object Object]Added numAlphas: 6Added numCharlies: 2Added stringTime: 13.24Edited By BCPS KINDLE FIRE #42022-07-08 01:01:58.425 - 2022-07-08 01:01:58.428Edited a few seconds after.Removed rawpts: 32Edited str,0 was: 0.01 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Added Reason for Edit ReshootEdited By BCPS KINDLE FIRE #4
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

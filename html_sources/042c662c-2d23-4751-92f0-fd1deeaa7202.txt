@@ -1,0 +1,236 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA Jul 15, 2018 USPSA 2018-07-15
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Cory Klemashevich	100.00%	664.9985	73.04	93.01%	PCC	GM		MINOR	A87214	115	26	2					
+2-Michael Kellett	87.13%	579.4331	79.93	81.04%	PCC	U		MINOR		124	12	2	5			1	
+3-Charles Thomason	85.72%	570.0547	88.15	79.73%	PCC	C	Super Senior	MINOR	A10536	132	8	1	1				
+4-Kelton Casey	82.57%	549.0948	80.60	76.80%	PCC	B		MINOR	TY42440	107	30	2	3		2		
+5-Cory Klemashevich	80.01%	532.0917	91.96	74.42%	Limited	GM		MAJOR	A87214	117	18	4	1				
+6-Taylor Latham	66.50%	442.2025	106.19	61.85%	Limited	U	Senior	MINOR		108	33	2			1		
+7-Chris Correa	64.81%	430.9699	105.86	60.28%	PCC	U		MINOR	A108149	106	36		1		1	1	
+8-Tommy Teas	63.51%	422.3444	91.30	59.07%	Limited	B	Senior	MINOR	TY2227	81	47	12	3		2		
+9-Danny Reetz	56.62%	376.5134	114.75	52.66%	Limited	U	Military	MINOR		110	23		3			1	
+10-Matthew Busch	56.28%	374.2752	125.20	52.35%	Carry Optics	C		MINOR	A106300	109	26	3				1	
+11-William Conlan 2	56.21%	373.8175	112.57	52.28%	Limited	A		MINOR	A45421	93	39	10	1		3		
+12-Desmond Jackson 1	54.64%	363.3850	121.42	50.82%	Production	B		MINOR	A89242	108	27	2	3				
+13-AJ Jackson	52.75%	350.8138	114.73	49.06%	Limited	B		MAJOR	A81745	83	42	13	5		2	1	
+14-Daniel DuBuisson	52.49%	349.0718	149.67	48.82%	Carry Optics	C		MINOR	L3935	135	6						
+15-Jason Wilson	52.48%	348.9970	129.63	48.81%	PCC	M		MINOR	A94696	120	16	2	2			2	
+16-Chris Correa	51.08%	339.6946	129.43	47.51%	Production	U	Preteen	MINOR	A108149	114	21	2	4		1		1
+17-Mary DuBuisson	50.52%	335.9891	146.12	46.99%	PCC	C	Lady	MINOR	FY77442	127	15		1			1	
+18-Greg White	46.36%	308.3020	140.76	43.12%	Production	C		MINOR	A61565	114	18	4	3			1	
+19-Steven Stanley	46.24%	307.4860	159.72	43.01%	Carry Optics	U		MINOR	A112514	122	19		1			2	
+20-Alex Dubuisson	45.03%	299.4765	135.24	41.88%	Limited	U	Law Enforcement	MINOR		98	33	4	4		1		
+21-Doug Holm	44.40%	295.2328	163.79	41.29%	Open	U	Super Senior	MINOR		117	23	1	1				
+22-Mark Lutzel	44.36%	295.0196	141.86	41.26%	Limited	C	Senior	MINOR	TY101009	90	40	9	2		1		
+23-GARY BRISCO	43.90%	291.9159	136.32	40.83%	Carry Optics	C	Senior	MINOR	FY73704	99	27	9	6		1		
+24-Tom Dowdy	43.17%	287.0752	164.64	40.15%	Limited			MINOR		113	24	5			1		
+25-Joseph Stephenson	42.29%	281.1993	148.61	39.33%	Limited	X		MINOR		97	35	7	4				
+26-Minh Nguyen	41.18%	273.8537	118.17	38.30%	PCC	U		MINOR	A111200	108	5		2		2		
+27-William Tomlinson	41.08%	273.1822	137.74	38.21%	Limited	U		MINOR	A109455	98	32	5	7		5		
+28-Stephen Pearce	40.31%	268.0488	162.18	37.49%	Limited	U	Super Senior	MAJOR		104	29	5	4			1	
+29-Savannah Butters 2	39.63%	263.5617	161.50	36.86%	Production	U	Lady	MINOR		111	24	6	2		4		
+30-John Henrichsen	38.84%	258.2963	166.56	36.13%	Single Stack	C		MINOR	TY92592	106	33	2	2		2		
+31-Edwin Buchwalter	37.20%	247.3780	160.96	34.60%	Carry Optics	C		MINOR	A102903	101	33	5	4		1	1	
+32-Michael Kellett-pistol	34.41%	228.8501	155.62	32.01%	Carry Optics	C		MINOR		109	25	2	6		3	2	
+33-Ian Stephenson	34.31%	228.1870	175.05	31.91%	Limited	X		MINOR		102	25	6	5		1		
+34-Grant Meschewitz	34.02%	226.2323	187.69	31.64%	Limited			MINOR	Ty97826	103	27	5	5		1		
+35-Don Same	33.25%	221.1268	171.72	30.93%	Carry Optics	D	Senior	MINOR	A105098	93	35	9	5				
+36-Tommy DOWDY	30.95%	205.8263	164.94	28.79%	Limited			MINOR		64	57	17	4		1		
+37-Mark Gehrke	30.55%	203.1877	240.44	28.42%	Open	D		MINOR		115	24		4		2	11	1
+38-Morrell Munyon	28.03%	186.3893	231.68	26.07%	Single Stack	X	Law Enforcement	MAJOR		101	28	5	6				
+39-Douglas Campbell	26.01%	172.9699	231.62	24.19%	Production	U	Senior	MINOR		105	25	8	3		4		
+40-greg thoede	24.76%	164.6484	172.91	23.03%	Limited	B	Super Senior	MAJOR	FY16969	78	39	9	16		4		
+41-CHRISTOPHE SALCH	23.26%	154.6990	314.25	21.64%	Limited	U		MAJOR		104	24	4	2		1		
+42-jim johnson	19.71%	131.0569	285.04	18.33%	Single Stack	U	Super Senior	MAJOR		90	32	8	13				
+43-Russell Ewell	15.81%	105.1494	196.76	14.71%	Limited	U		MINOR		82	31	4	23		1		20
+Name
+1-Cory Klemashevich
+2-Michael Kellett
+3-Charles Thomason
+4-Kelton Casey
+5-Cory Klemashevich
+6-Taylor Latham
+7-Chris Correa
+8-Tommy Teas
+9-Danny Reetz
+10-Matthew Busch
+11-William Conlan 2
+12-Desmond Jackson 1
+13-AJ Jackson
+14-Daniel DuBuisson
+15-Jason Wilson
+16-Chris Correa
+17-Mary DuBuisson
+18-Greg White
+19-Steven Stanley
+20-Alex Dubuisson
+21-Doug Holm
+22-Mark Lutzel
+23-GARY BRISCO
+24-Tom Dowdy
+25-Joseph Stephenson
+26-Minh Nguyen
+27-William Tomlinson
+28-Stephen Pearce
+29-Savannah Butters 2
+30-John Henrichsen
+31-Edwin Buchwalter
+32-Michael Kellett-pistol
+33-Ian Stephenson
+34-Grant Meschewitz
+35-Don Same
+36-Tommy DOWDY
+37-Mark Gehrke
+38-Morrell Munyon
+39-Douglas Campbell
+40-greg thoede
+41-CHRISTOPHE SALCH
+42-jim johnson
+43-Russell Ewell
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2-John Wick Is Best Wick
+Jackson, Desmond (1)
+2018-07-15 15:08:50.256 - 2018-07-15 15:09:48.613Edited a minute after.Edited rawpts was: 119 now: 114
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Added details: [object Object]Added numAlphas: 26Added numBravos: 1Added numCharlies: 2Added numM: 1Added stringTime: 20.19Edited By Android Device
+Stage 5-The Wheel Goes Round
+Conlan, William (2)
+2018-07-15 17:30:10.178 - 2018-07-15 17:30:52.242Edited a few seconds after.Edited rawpts was: 106 now: 98
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	2	0	0	0
+Added details: [object Object]Added numAlphas: 23Added numCharlies: 3Added numDeltas: 4Added stringTime: 27.27Edited By Android Device2018-07-15 17:22:33.222 - 2018-07-15 17:30:10.178Edited 8 minutes after.Edited rawpts was: 93 now: 106
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	2	0	0	0	0	0	0
+Edited By Android Device
+Stage 6-Fairy Dust Whistle
+Butters, Savannah (2)
+2018-07-15 15:34:13.235 - 2018-07-15 15:35:57.866Edited 2 minutes after.Edited rawpts was: 10 now: 120
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 0 now: 32.54Removed Reason for Edit ReshootAdded details: [object Object]Added numAlphas: 21Added numCharlies: 8Added numDeltas: 1Added stringTime: 32.54Edited By Android Device2018-07-15 15:10:58.923 - 2018-07-15 15:34:13.235Edited 23 minutes after.Edited rawpts was: 128 now: 10
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 36.29 now: 0Added Reason for Edit ReshootEdited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

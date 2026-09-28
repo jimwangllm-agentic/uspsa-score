@@ -1,0 +1,362 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday December 10th USPSA 2023-12-10Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Cory Klemashevich 2	100.00%	702.9059	90.39	99.00%	PCC	G		MINOR	L5150	93	44	4	1		1		
+2-Cory Klemashevich	90.50%	636.1340	99.04	89.60%	Limited Optics	G		MINOR	L5150	95	41	4	2				
+3-Jason Wilson 2	76.75%	539.5097	127.37	75.99%	Limited Optics	U		MINOR		112	27	2	1				
+4-Anji Xu	70.39%	494.7644	140.09	69.69%	Carry Optics	B		MINOR	FY135340	116	23	2	1		1		
+5-Joe Paetzold	67.35%	473.4295	139.05	66.68%	Carry Optics	B		MINOR	A135487	99	38	4	1				
+6-Eric Dewberry	66.30%	466.0174	138.16	65.64%	PCC	U	Law Enforcement	MINOR		98	28	2	14		1		
+7-Tommy Teas	65.21%	458.3524	132.11	64.56%	Limited	B	Senior	MINOR	TY2227	90	38	11	3		1		
+8-Eric Dewberry	60.48%	425.1202	148.98	59.88%	Carry Optics	U	Law Enforcement	MINOR		97	42	1	2		1		
+9-Ian Johnston	58.54%	411.4600	151.97	57.95%	Limited	A		MINOR	TY135959	102	32	4	4				
+10-Todd Springer	53.02%	372.6695	135.27	52.49%	Carry Optics	U		MINOR	A146210	95	37	1	9		3	1	
+11-Jeff Ort	49.29%	346.4646	136.13	48.80%	Limited Optics	A	Senior	MINOR		88	41	5	8		4		
+12-Saunders Arnold	48.58%	341.4656	196.58	48.09%	Carry Optics	C		MINOR	L5609	105	31	3	3				
+13-Tyler Denmon	46.72%	328.3735	147.11	46.25%	Open	X	Military	MINOR		81	44	7	10		2		
+14-Gene Bray	45.20%	317.6810	159.13	44.74%	PCC	B	Super Senior	MINOR	L4490	82	45	8	7		2		
+15-Chuxiao Yu	43.35%	304.7165	214.36	42.92%	Carry Optics	U	Foreign	MINOR		116	22	1	3			1	
+16-Dale Hamm	40.74%	286.3986	190.02	40.34%	Limited Optics	U	Senior	MINOR	TY97196	82	43	13	4		1		
+17-Anderson Charles	40.71%	286.1477	162.01	40.30%	Limited	G	Lady, Junior, Senior, Super Senior, Foreign, Law Enforcement, Military, Preteen	MINOR		67	59	10	6		3	1	
+18-John Primrose	32.72%	229.9570	200.57	32.39%	Limited	X		MINOR		97	28	5	12		2		
+19-Andrew Fowler 3	30.06%	211.2585	222.39	29.75%	Limited	U		MINOR	A151674	78	44	12	8		1	2	
+20-Gary Brisco	29.08%	204.4119	244.19	28.79%	Open	D	Super Senior	MINOR	FY73704	72	46	16	8			2	
+21-Daniel Claybaugh	24.42%	171.6720	298.62	24.18%	Revolver	U		MINOR		103	21	8	10			1	
+22-Tyler Patty	22.85%	160.6255	171.04	22.62%	Limited	C		MINOR		70	43	8	21		1	2	
+23-Austin Hunt 2	16.35%	114.9233	269.71	16.19%	Limited Optics	U	Junior	MINOR		72	34	17	19		4	1	
+DQ-Guanwu Li	0.00%	0.0000		0.00%	Open	U		MINOR									
+Name
+1-Cory Klemashevich 2
+2-Cory Klemashevich
+3-Jason Wilson 2
+4-Anji Xu
+5-Joe Paetzold
+6-Eric Dewberry
+7-Tommy Teas
+8-Eric Dewberry
+9-Ian Johnston
+10-Todd Springer
+11-Jeff Ort
+12-Saunders Arnold
+13-Tyler Denmon
+14-Gene Bray
+15-Chuxiao Yu
+16-Dale Hamm
+17-Anderson Charles
+18-John Primrose
+19-Andrew Fowler 3
+20-Gary Brisco
+21-Daniel Claybaugh
+22-Tyler Patty
+23-Austin Hunt 2
+DQ-Guanwu Li
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+HI'er Love
+Fowler, Andrew (1)
+2023-12-10 15:44:40.869 - 2023-12-10 15:45:26.545Edited a minute after.Edited str,0 was: 0 now: 15.2Added details: [object Object]Added numAlphas: 8Added numCharlies: 2Added numDeltas: 2Added stringTime: 15.2Edited By Android Device
+Stage 2
+Hunt, Austin (2)
+2023-12-10 18:14:24.970 - 2023-12-10 18:15:36.928Edited a minute after.Edited rawpts was: 10 now: 70Edited str,0 was: 0 now: 37.12
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Stage Stage 2Added aprv: trueAdded details: [object Object]Added numAlphas: 14Added numCharlies: 3Added numDeltas: 1Added stringTime: 37.12Edited By Android Device2023-12-10 18:13:51.902 - 2023-12-10 18:14:24.970Edited a few seconds after.Edited rawpts was: 55 now: 10Edited str,0 was: 16.43 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	2	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	2	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	1	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Stage Stage 2Edited By Android Device
+Fowler, Andrew (2)
+2023-12-10 15:45:39.150 - 2023-12-10 15:46:37.233Edited a minute after.Edited rawpts was: 10 now: 58Edited str,0 was: 0 now: 36.44
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Removed Reason for Edit ReshootAdded proc: 1Added aprv: trueAdded details: [object Object]Added numAlphas: 11Added numCharlies: 4Added numDeltas: 1Added numM: 2Added numProc: 1Added stringTime: 36.44Edited By Android Device2023-12-10 15:43:45.138 - 2023-12-10 15:45:39.150Edited 2 minutes after.Edited rawpts was: 64 now: 10Edited str,0 was: 15.2 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Android Device
+Stage 5
+Wilson, Jason (2)
+2023-12-10 18:37:06.374 - 2023-12-10 18:39:08.260Edited 2 minutes after.Edited rawpts was: 5 now: 121Edited str,0 was: 0 now: 21.99
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Patty, Tyler (L/Min)Added aprv: trueAdded details: [object Object]Added numAlphas: 18Added numCharlies: 12Added stringTime: 21.99Edited By Android Device2023-12-10 18:36:42.053 - 2023-12-10 18:37:06.374Edited a few seconds after.Edited rawpts was: 104 now: 5Edited str,0 was: 26.24 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Patty, Tyler (L/Min)Edited By Android Device
+Stage 6
+Klemashevich, Cory (2)
+2023-12-10 17:45:19.211 - 2023-12-10 17:47:25.985Edited 2 minutes after.Edited rawpts was: 15 now: 125Edited str,0 was: 0 now: 21.32
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Removed Reason for Edit Moved to Shooter Klemashevich, Cory (LO/Min)Added aprv: trueAdded details: [object Object]Added numAlphas: 22Added numCharlies: 10Added stringTime: 21.32Edited By Android Device2023-12-10 17:44:46.394 - 2023-12-10 17:45:19.211Edited a few seconds after.Edited rawpts was: 121 now: 15Edited str,0 was: 21.25 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Klemashevich, Cory (LO/Min)Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

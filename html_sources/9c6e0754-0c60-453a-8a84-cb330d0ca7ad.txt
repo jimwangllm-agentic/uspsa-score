@@ -1,0 +1,135 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+SPCGC Hosts Kidlat Shooters USPSA 12-11-25 USPSA 2025-12-12Spring Pistol Caliber Gun Club
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Jackson Kam	100.00%	241.0351	23.22	96.41%	Open	B		MAJOR		31	16	3					
+2-Phyl “laser beams” Santos	85.55%	206.1971	23.43	82.48%	PCC	D		MINOR	A155981	26	18	6					
+3-Joseph Yoders	84.42%	203.4831	27.53	81.39%	Carry Optics	U		MINOR		36	14						
+4-Gregory Kam	80.83%	194.8264	26.63	77.93%	PCC	U		MINOR		31	17	2					
+5-Fredi Loke	77.49%	186.7755	30.84	74.71%	Open	U	Distinguished Senior	MAJOR	1234	32	14	4					
+6-Charles Spears	75.56%	182.1278	27.40	72.85%	Carry Optics	B		MINOR	A164017	29	19	1	1				
+7-Byron "BigBDaShooter" McGowen	73.91%	178.1534	33.20	71.26%	Limited Optics	C	Junior, Military	MINOR	A159731	43	7						
+8-Ross "Riff Raff" Pimentel	70.84%	170.7525	29.54	68.30%	PCC	C	Senior	MINOR	A157753	28	20	2					
+9-Ulrick Fong	69.85%	168.3695	22.34	67.35%	PCC	B	Senior	MINOR		31	14	1	4			1	
+10-Napoleon (Im going to Mike it up) Lewis	69.62%	167.7990	34.83	67.12%	Limited Optics	C	Senior, Military	MINOR	A154149	38	12						
+11-Ryan Jaw	65.54%	157.9777	61.41	63.19%	Limited Optics	U		MINOR	TY142907	35	13		2				
+12-Devin Perry	64.64%	155.8157	29.20	62.33%	Production	C		MINOR	A168031	25	21	3	1				
+13-Marshall Quigley	63.52%	153.1164	33.33	61.25%	Limited	U		MAJOR	A162329	25	20	4	1				
+14-Kirk Skinner	63.40%	152.8129	33.78	61.13%	Limited Optics	U		MINOR	A157600	32	14	4					
+15-John Geib	63.05%	151.9758	35.17	60.79%	Limited	U		MINOR	A174288	35	13	2					
+16-chris bulkley	60.67%	146.2261	33.72	58.49%	Carry Optics	B		MINOR	A159469	29	15	6					
+17-Quintin Davis 2	59.73%	143.9601	31.78	57.58%	Carry Optics	U		MINOR	A171308	26	19	4	1				
+18-Ethan Blackwelder	54.74%	131.9359	33.11	52.77%	Production	X		MINOR		27	17	4	2				
+19-Raul "BigGlockamoleDaShooter" Rios	51.63%	124.4424	29.80	49.78%	Carry Optics	D		MINOR	A171634	23	19	6	2			1	
+20-Nic Blades	45.61%	109.9375	45.14	43.97%	Single Stack	C		MINOR	A83339	32	15	2	1				
+21-Anthony Pham	44.62%	107.5391	39.37	43.02%	Single Stack	U		MINOR	A174852	24	22	2	2				
+22-Alex Tran	38.97%	93.9225	33.26	37.57%	Limited	U	Junior	MINOR		24	16	5	5				
+23-Zachary Thornton	38.80%	93.5166	36.20	37.41%	Carry Optics	U		MINOR		20	20	7	3				
+24-GLENN McKinney	19.76%	47.6298	16.47	19.05%	Limited	C	Super Senior	MAJOR	FY8311	14	3	1					
+Name
+1-Jackson Kam
+2-Phyl “laser beams” Santos
+3-Joseph Yoders
+4-Gregory Kam
+5-Fredi Loke
+6-Charles Spears
+7-Byron "BigBDaShooter" McGowen
+8-Ross "Riff Raff" Pimentel
+9-Ulrick Fong
+10-Napoleon (Im going to Mike it up) Lewis
+11-Ryan Jaw
+12-Devin Perry
+13-Marshall Quigley
+14-Kirk Skinner
+15-John Geib
+16-chris bulkley
+17-Quintin Davis 2
+18-Ethan Blackwelder
+19-Raul "BigGlockamoleDaShooter" Rios
+20-Nic Blades
+21-Anthony Pham
+22-Alex Tran
+23-Zachary Thornton
+24-GLENN McKinney
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Tres Cajas
+Davis, Quintin (2)
+2025-12-12 00:42:15.160 - 2025-12-12 00:43:08.842Edited a minute after.Edited str,0 was: 0 now: 12.87
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	3	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 76Added aprv: trueAdded details: [object Object]Added numAlphas: 12Added numCharlies: 5Added numDeltas: 1Added stringTime: 12.87Edited By Android Device2025-12-12 00:02:34.068 - 2025-12-12 00:42:15.160Edited 40 minutes after.Removed proc: 1Removed rawpts: 67Edited str,0 was: 12.52 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	3	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	3	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

@@ -1,0 +1,125 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly June 16 USPSA 2022-06-16Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Aj Jackson	100.00%	341.7270	50.08	94.92%	PCC	A		MINOR	TY81745	34	35	2	1				
+2-Pete Kirchner	92.84%	317.2725	65.69	88.13%	Carry Optics	A		MINOR	TY105743	57	15						
+3-Desmond Jackson	85.17%	291.0551	60.85	80.85%	PCC	B		MINOR	TY89242	31	39	1	1				
+4-Aaron Gillory	78.52%	268.3342	69.97	74.54%	Carry Optics	U	Law Enforcement	MINOR		48	22		2				
+5-Ronald Gillory jr. 2	71.25%	243.4658	89.72	67.63%	PCC	B		MINOR	TY83291	47	25						
+6-Ray Fishel	68.41%	233.7675	52.11	64.94%	PCC	B	Senior	MINOR	A92443	32	37		3			6	
+7-Blaine Newlin	66.52%	227.3041	85.41	63.14%	Single Stack	B	Foreign	MAJOR	TY103350	35	31	5	1				
+8-Robert Bui	65.45%	223.6515	67.50	62.13%	Carry Optics	B	Foreign	MINOR	A103016	35	31	4	2		1		
+9-Charles Bradbury	59.07%	201.8557	91.77	56.07%	Carry Optics	U		MINOR	A107489	38	30	4					
+10-Kenedy Nguyen	58.38%	199.5153	66.84	55.42%	Open	C		MINOR	A83862	34	31	4	3		1		
+11-Mark Hopmann	50.05%	171.0248	78.70	47.51%	Open	C	Senior	MINOR	TY134553	46	24		2			7	
+12-Mark Lutzel	49.74%	169.9908	83.75	47.22%	Open	U	Senior	MINOR	FY101009	32	35	1	4				
+13-Don Same	48.51%	165.7679	85.90	46.05%	PCC	C	Super Senior	MINOR	TY105098	29	38	3	2		1		
+14-Diarmaid Roche	48.40%	165.3895	91.94	45.94%	Limited	U	Foreign	MINOR	A141990	38	31	1	2			1	
+15-Joseph Reyes	40.06%	136.9027	83.91	38.03%	Limited	C	Super Senior	MINOR	TY127665	25	39	4	4			3	
+16-Lauren Christenson	39.24%	134.0907	127.71	37.25%	Carry Optics	U	Lady	MINOR		43	26	2	1			1	
+17-John Del toro	39.23%	134.0591	139.29	37.24%	Single Stack	D	Super Senior	MAJOR	A107511	46	23	1	2				
+18-Lisa Nguyen	30.86%	105.4659	107.59	29.30%	Open	D	Lady	MAJOR	A135827	35	24	3	10				
+19-Matt Baum	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	A141110								
+Name
+1-Aj Jackson
+2-Pete Kirchner
+3-Desmond Jackson
+4-Aaron Gillory
+5-Ronald Gillory jr. 2
+6-Ray Fishel
+7-Blaine Newlin
+8-Robert Bui
+9-Charles Bradbury
+10-Kenedy Nguyen
+11-Mark Hopmann
+12-Mark Lutzel
+13-Don Same
+14-Diarmaid Roche
+15-Joseph Reyes
+16-Lauren Christenson
+17-John Del toro
+18-Lisa Nguyen
+19-Matt Baum
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Gillory jr., Ronald (2)
+2022-06-17 00:27:45.717 - 2022-06-17 00:28:05.117Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	3	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	3	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	3	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	1	0	0	0	0
+Edited str,0 was: 0 now: 18.28Removed Reason for Edit ReshootAdded aprv: trueAdded rawpts: 66Added details: [object Object]Added numAlphas: 6Added numCharlies: 12Added stringTime: 18.28Edited By BCPS KINDLE FIRE #22022-06-17 00:09:55.718 - 2022-06-17 00:27:45.717Edited 18 minutes after.Removed rawpts: 42Removed aprv: trueRemoved dnf: true
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	1	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 15.16 now: 0Added Reason for Edit ReshootEdited By BCPS KINDLE FIRE #2
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

@@ -1,0 +1,152 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday September 11th USPSA 2022-09-11Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Ray Fishael	100.00%	422.4215	76.70	88.93%	PCC	G		MINOR	A92443	72	20	1	2		1		
+2-Drake Taylor	97.70%	412.7149	81.87	86.89%	Open	C		MINOR	A131290	66	25	4					
+3-Hunter Andras	95.57%	403.7271	87.88	85.00%	Limited	U	Law Enforcement	MINOR	A140415	74	20	1					
+4-AJ Jackson	92.18%	389.3914	84.00	81.98%	Open	B		MINOR	TY81745	68	22	4	1				
+5-Chris Rhodes	89.35%	377.4269	91.78	79.46%	PCC	C		MINOR	TY126291	78	13	2	2				
+6-Hunter Andras	88.04%	371.8954	82.17	78.29%	Limited	U	Law Enforcement	MINOR	A140415	66	26	2	1		3		
+7-Joe Paetzold 1	86.45%	365.2002	78.03	76.88%	Carry Optics	B		MINOR	A135487	62	24	6	3		1		
+8-Ronald Gillory	86.11%	363.7403	93.45	76.58%	PCC	C		MINOR	TY-83291	80	12	1	2			1	
+9-Desmond Jackson	86.06%	363.5437	90.22	76.54%	Carry Optics	B		MINOR	TY89242	70	21	3	1		1		
+10-James Jackson	84.12%	355.3482	96.33	74.81%	PCC	U		MINOR		71	22	2			1		
+11-Josh Rizzo	82.39%	348.0287	87.39	73.27%	PCC	U		MINOR	A128367	67	21	4	3		1		
+12-William Lindner	81.57%	344.5727	94.47	72.54%	Open	B	Military	MAJOR		70	21	1	3		1		
+13-Jason Wilson	70.25%	296.7425	113.15	62.47%	Revolver	G		MAJOR	A94696	75	15	3	2		1		
+14-Tyler Denmon	68.50%	289.3602	100.10	60.92%	Open	X	Military	MINOR		68	23	2	2			7	
+15-Gary Brisco	60.44%	255.3018	113.22	53.75%	Open	D	Super Senior	MINOR	FY73704	67	20	5	3		1	1	
+16-Saunders Arnold 2	58.76%	248.2268	110.40	52.26%	Carry Optics	C		MINOR	A134823	65	21	5	4		2		
+17-Gene Bray	54.42%	229.8881	144.73	48.40%	Single Stack	B	Senior, Super Senior	MINOR	L4490	63	27	5					
+18-Daniel Claybaugh	49.52%	209.1935	111.11	44.04%	Limited	D		MINOR	A135956	56	28	6	5		4		
+19-matt baum	43.46%	183.5648	126.39	38.65%	Limited	U		MINOR	A141110	53	28	6	8		2		
+20-Chris Rhodes	42.27%	178.5647	130.72	37.59%	Limited	C	Senior	MINOR	TY126291	59	26	4	6		4		
+21-Kevin Baker	40.54%	171.2288	101.97	36.05%	Production	B		MINOR	A95439	54	23	9	9		4		
+22-Wei Zhang	39.93%	168.6884	82.68	35.51%	Carry Optics	U	Senior	MINOR	FY140383	46	33	6	10		2	4	
+23-Tommy Teas	39.76%	167.9666	212.53	35.36%	Revolver	B	Senior	MAJOR	FY2227	58	31	6					
+24-Richard Zhang	39.31%	166.0365	121.53	34.96%	Carry Optics	U		MINOR		61	16	10	8		4		
+25-John Vrablec	37.09%	156.6588	139.35	32.98%	Limited	U		MINOR	A144249	55	27	6	7		3		
+26-Cody Pratt	28.52%	120.4700	143.88	25.36%	Limited	U	Junior	MINOR	A144741	55	24	5	11		9		
+27-Joseph Nguyen	21.41%	90.4508	177.20	19.04%	Production	U		MINOR	A137664	52	25	8	10		7		
+28-Trevin Hernandez	9.78%	41.3043	166.20	8.70%	Limited	U		MINOR		36	34	6	19		2		
+Name
+1-Ray Fishael
+2-Drake Taylor
+3-Hunter Andras
+4-AJ Jackson
+5-Chris Rhodes
+6-Hunter Andras
+7-Joe Paetzold 1
+8-Ronald Gillory
+9-Desmond Jackson
+10-James Jackson
+11-Josh Rizzo
+12-William Lindner
+13-Jason Wilson
+14-Tyler Denmon
+15-Gary Brisco
+16-Saunders Arnold 2
+17-Gene Bray
+18-Daniel Claybaugh
+19-matt baum
+20-Chris Rhodes
+21-Kevin Baker
+22-Wei Zhang
+23-Tommy Teas
+24-Richard Zhang
+25-John Vrablec
+26-Cody Pratt
+27-Joseph Nguyen
+28-Trevin Hernandez
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Creative Painting
+Arnold, Saunders (2)
+2022-09-11 16:51:10.477 - 2022-09-11 16:55:01.300Edited 4 minutes after.Edited rawpts was: 20 now: 69Edited str,0 was: 0 now: 16.25
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added aprv: trueAdded details: [object Object]Added numAlphas: 14Added numCharlies: 3Added numM: 1Added stringTime: 16.25Edited By Android Device2022-09-11 14:25:34.748 - 2022-09-11 16:51:10.477Edited 2 hours after.Edited rawpts was: 69 now: 20Edited str,0 was: 16.25 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueEdited udid was: e64654d7-9af5-4b05-baf0-f75aab215467 now: 2f345ec1-71ea-4113-8254-ce9935e23811Edited By Android Device
+Six Chickens
+Paetzold, Joe (1)
+2022-09-11 15:06:02.066 - 2022-09-11 15:07:08.771Edited a minute after.Edited str,0 was: 3.6 now: 9.36Added details: [object Object]Added numAlphas: 6Added numCharlies: 6Added stringTime: 9.36Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

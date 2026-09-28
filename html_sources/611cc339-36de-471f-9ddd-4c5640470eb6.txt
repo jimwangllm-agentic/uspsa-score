@@ -1,0 +1,110 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+SPCGC Hosts Kidlat Shooters USPSA 09-11-25 USPSA 2025-09-11Spring Pistol Caliber Gun Club
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Jackson Kam 2	100.00%	260.0000	26.89	100.00%	Open	C		MAJOR	A149761	39	13						
+2-Kenedy Nguyen	78.64%	204.4678	30.94	78.64%	Open	B		MAJOR	A83862	22	27	3					
+3-Gregory Kam	74.74%	194.3110	33.70	74.74%	PCC	U	Senior	MINOR	A149762	37	15						
+4-Ulrick Fong	73.53%	191.1678	30.15	73.53%	PCC	U	Senior	MINOR		27	24	1			1		
+5-Jovohnn Joseph	72.47%	188.4307	34.67	72.47%	Limited Optics	U		MINOR	A169001	37	15						
+6-Phyl Santos	71.49%	185.8821	31.01	71.49%	Carry Optics	U		MINOR		28	20	4					
+7-Devin Perry	67.71%	176.0505	32.10	67.71%	Production	C		MINOR	A168031	28	23		1				
+8-Napoleon Lewis(BigLew)	61.49%	159.8670	37.95	61.49%	Open	U	Senior	MAJOR	A154149	23	27	1	1				
+9-vox esguerra	60.05%	156.1232	36.83	60.05%	Limited Optics	U		MINOR	A79097	30	20	2			1		
+10-Jacob Carter	55.44%	144.1516	44.31	55.44%	Carry Optics	U		MINOR		38	13		1				
+11-Andre Wijaya	53.96%	140.2949	40.44	53.96%	Carry Optics	U		MINOR	A172696	27	20	5					
+12-Byron "GhostDeadeye" McGowen	53.74%	139.7246	49.62	53.74%	Open	U	Military	MAJOR	A159731	35	16	1					
+13-Eric Esico	50.79%	132.0526	49.03	50.79%	Single Stack	C		MAJOR	TY150782	23	28	1					
+14-Nic Blades	48.09%	125.0354	45.39	48.09%	Single Stack	C		MINOR	A83339	35	15	1	1		1		
+15-Yul Kwan	46.34%	120.4744	42.11	46.34%	Open	C	Senior	MAJOR	A156984	21	24	4	3				
+16-Rudy Widiaman 1	45.76%	118.9752	34.97	45.76%	Limited Optics	X		MINOR	X	25	18	7	2		1	1	
+17-Jay-R delos-Santos	44.73%	116.2922	124.54	44.73%	PCC	B	Senior	MINOR	A70297	24	14	2	12				
+18-Marshall Quigley	40.15%	104.3808	59.21	40.15%	Single Stack	D		MAJOR	A162329	26	18	7	1				
+19-Ross "Riff Raff" Pimentel	39.83%	103.5583	43.66	39.83%	Limited Optics	C	Senior	MINOR	A157753	28	19	3	2		2		
+20-Michael Bailey	39.09%	101.6380	55.94	39.09%	PCC		Military	MINOR		34	15	2	1		1		
+21-John Geib	37.86%	98.4336	62.01	37.86%	Limited	U		MINOR		32	18	2					
+22-Lil Marshall Quigley	31.34%	81.4762	66.69	31.34%	Single Stack	U	Junior	MAJOR		29	19	2	2		1		
+23-Neil McMullin	26.61%	69.1779	78.11	26.61%	Limited	U		MINOR	A162927	29	23				3		
+24-Greg Nix	12.27%	31.9001	84.29	12.27%	Production	U	Super Senior	MINOR		20	22	2	8				
+25-Claire McMullin	9.07%	23.5925	196.48	9.07%	Open			MAJOR		23	23	6			6		
+Name
+1-Jackson Kam 2
+2-Kenedy Nguyen
+3-Gregory Kam
+4-Ulrick Fong
+5-Jovohnn Joseph
+6-Phyl Santos
+7-Devin Perry
+8-Napoleon Lewis(BigLew)
+9-vox esguerra
+10-Jacob Carter
+11-Andre Wijaya
+12-Byron "GhostDeadeye" McGowen
+13-Eric Esico
+14-Nic Blades
+15-Yul Kwan
+16-Rudy Widiaman 1
+17-Jay-R delos-Santos
+18-Marshall Quigley
+19-Ross "Riff Raff" Pimentel
+20-Michael Bailey
+21-John Geib
+22-Lil Marshall Quigley
+23-Neil McMullin
+24-Greg Nix
+25-Claire McMullin
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Widiaman, Rudy (1)
+2025-09-11 23:14:05.966 - 2025-09-11 23:16:38.035Edited 3 minutes after.Added proc: 1Added details: [object Object]Added numAlphas: 9Added numCharlies: 11Added numDeltas: 3Added numM: 1Added numProc: 1Added stringTime: 17.4Edited By Android Device
+Stage 2
+Kam, Jackson (2)
+2025-09-12 00:18:38.961 - 2025-09-12 00:19:03.588Edited a few seconds after.Edited rawpts was: 74 now: 75
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 11Added numCharlies: 5Added stringTime: 9.11Edited By Android Device2025-09-12 00:16:17.923 - 2025-09-12 00:18:38.961Edited 2 minutes after.Edited rawpts was: 70 now: 74
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	0	0	1	0
+Current	0	0	2	0	0	0	0
+Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

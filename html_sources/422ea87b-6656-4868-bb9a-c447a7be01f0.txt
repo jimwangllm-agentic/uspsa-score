@@ -1,0 +1,223 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Feb 2 USPSA 2023-02-03Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Ray Fishel 3	100.00%	380.8185	46.31	97.65%	PCC	B	Senior	MINOR	A92443	58	19	1					
+2-Placido Cavazos	81.16%	309.0647	56.19	79.25%	Carry Optics	U		MINOR	A147822	60	15	2	1				
+3-Aaron Gillory	80.66%	307.1814	57.53	78.76%	Carry Optics	C	Law Enforcement	MINOR	TY144826	57	20	1					
+4-Ronald Gillory jr.	78.73%	299.8011	64.09	76.87%	PCC	B		MINOR	TY83291	70	8						
+5-Aj Jackson	72.79%	277.1871	58.81	71.07%	Open	B		MINOR	TY81745	59	13	4	2				
+6-Desmond Jackson 1	71.49%	272.2290	62.08	69.80%	Carry Optics	B		MINOR	TY89242	53	22	3					
+7-Kenedy Nguyen	68.06%	259.1965	55.93	66.46%	Open	B		MAJOR	A83862	37	30	8	3		1		
+8-William Hamilton	68.05%	259.1579	71.89	66.45%	Carry Optics	C	Law Enforcement	MINOR	A147128	67	11						
+9-Mark Lutzel	61.11%	232.7204	65.46	59.67%	Open	D	Super Senior	MINOR	FY101009	43	30	4	1				
+10-Abe Valdez 1	58.88%	224.2264	63.41	57.49%	Carry Optics	U		MINOR		51	23	2	2		1	2	
+11-James Jackson	51.06%	194.4515	71.46	49.86%	Carry Optics	U		MINOR	A89219	37	35	5	1		1		
+12-Lauren Christenson	48.18%	183.4736	95.00	47.04%	Carry Optics	U	Lady	MINOR		52	17	7	2				
+13-Blaine Newlin	47.02%	179.0755	74.17	45.92%	Limited	B		MINOR	A103350	42	26	5	5				
+14-Jason Williams	46.20%	175.9330	84.67	45.11%	Open	D		MINOR	A145508	46	28	2	2				
+15-Lisa Nguyen	45.95%	174.9810	81.98	44.87%	Open	D	Lady	MAJOR	A135827	39	29	6	4				
+16-Michael Green	39.96%	152.1899	90.63	39.02%	Open	U		MINOR	A145466	42	27	7	2				
+17-John Del toro	37.32%	142.1285	111.55	36.44%	Limited	C	Super Senior	MAJOR	A107511	54	18	3	3		1		
+18-John Westphal 2	30.89%	117.6268	73.49	30.16%	Carry Optics	U		MINOR		31	32	5	10				
+19-John Connor	30.32%	115.4557	102.85	29.60%	Carry Optics	U		MINOR		50	24	1	3			5	
+20-Kenneth Carden	2.15%	8.1863	365.81	2.10%	Revolver	D	Super Senior	MINOR	FY145364	23	28	7	20		2		
+Name
+1-Ray Fishel 3
+2-Placido Cavazos
+3-Aaron Gillory
+4-Ronald Gillory jr.
+5-Aj Jackson
+6-Desmond Jackson 1
+7-Kenedy Nguyen
+8-William Hamilton
+9-Mark Lutzel
+10-Abe Valdez 1
+11-James Jackson
+12-Lauren Christenson
+13-Blaine Newlin
+14-Jason Williams
+15-Lisa Nguyen
+16-Michael Green
+17-John Del toro
+18-John Westphal 2
+19-John Connor
+20-Kenneth Carden
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Golden Bullet Standards
+Valdez, Abe (1)
+2023-02-03 01:09:14.572 - 2023-02-03 01:09:45.923Edited a few seconds after.Edited rawpts was: 94 now: 99
+A	B	C	D	NS	M	NPM
+Previous	2	0	1	0	0	1	0
+Current	3	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 17Added numCharlies: 4Added numDeltas: 2Added numM: 1Added stringTime: 24.33Edited By BCPS KINDLE FIRE #3
+Stage 3
+Fishel, Ray (1)
+2023-02-03 02:05:06.705 - 2023-02-03 02:55:34.971Edited an hour after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Edited str,0 was: 11.83 now: 11.08Added aprv: trueAdded rawpts: 78Added details: [object Object]Added numAlphas: 12Added numCharlies: 6Added stringTime: 11.08Edited By BCPS KINDLE FIRE #3
+Jackson, Desmond (1)
+2023-02-03 02:20:14.622 - 2023-02-03 02:20:40.154Edited a few seconds after.Edited rawpts was: 72 now: 74
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 11Added numCharlies: 6Added numDeltas: 1Added stringTime: 13.95Edited By BCPS KINDLE FIRE #2
+Stage 4
+Westphal, John (2)
+2023-02-03 02:26:46.260 - 2023-02-03 02:28:25.003Edited 2 minutes after.Edited rawpts was: 20 now: 72
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Edited str,0 was: 0 now: 17.03Removed Reason for Edit Moved to Shooter Valdez, Abe (CO/Min)Added aprv: trueAdded details: [object Object]Added numAlphas: 13Added numCharlies: 9Added stringTime: 17.03Edited By BCPS KINDLE FIRE #32023-02-03 02:26:30.224 - 2023-02-03 02:26:46.260Edited a few seconds after.Edited rawpts was: 80 now: 20Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 13.37 now: 0Added Reason for Edit Moved to Shooter Valdez, Abe (CO/Min)Edited By BCPS KINDLE FIRE #3
+Fishel, Ray (2)
+2023-02-03 02:11:25.226 - 2023-02-03 02:13:56.882Edited 3 minutes after.Edited rawpts was: 20 now: 78
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited str,0 was: 0 now: 11.41Removed Reason for Edit Moved to Shooter Hamilton, William (CO/Min/LE)Added aprv: trueAdded details: [object Object]Added numAlphas: 16Added numCharlies: 6Added stringTime: 11.41Edited By BCPS KINDLE FIRE #32023-02-03 02:11:03.934 - 2023-02-03 02:11:25.226Edited a few seconds after.Edited rawpts was: 88 now: 20Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited str,0 was: 17.64 now: 0Added Reason for Edit Moved to Shooter Hamilton, William (CO/Min/LE)Edited By BCPS KINDLE FIRE #3
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

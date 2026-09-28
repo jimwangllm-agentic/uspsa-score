@@ -1,0 +1,143 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros November 20 2016--USPSA USPSA/IPSC 2016-11-20Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	P
+1-Kyle Post 1	100.00%	538.8555	82.99	92.91%	Production	B		MINOR	A74846	96	17	1	1			
+2-Matt Hawes 2	98.93%	533.0919	85.05	91.91%	Limited	B		MINOR		92	22	2				
+3-Nicholas Mrak	96.93%	522.3041	87.64	90.05%	Production	U		MINOR		97	13	2				
+4-Karl Rehn	94.71%	510.3535	88.34	87.99%	Limited	M		MAJOR	L3259	97	13	1	2			
+5-Steven Bartlett	94.28%	508.0145	93.06	87.59%	Production	U		MINOR		105	10	1				
+6-John Voss	90.61%	488.2457	90.12	84.18%	Production	U		MINOR		102	11	1	2			1
+7-Justin Moore	85.36%	459.9710	100.65	79.31%	Limited	U	Foreign	MINOR		95	18	1				
+8-samuel slichter	85.08%	458.4677	101.88	79.05%	Production	X		MINOR		106	8	1	1			
+9-Greg Thoede	83.70%	451.0122	108.05	77.76%	Limited	B	Senior	MAJOR	FY16969	78	31	6				
+10-Jason Wilson	78.49%	422.9512	110.56	72.92%	Limited	U		MAJOR	A94696	106	5	1	1			1
+11-Kevin Jimmerson	77.75%	418.9470	103.96	72.23%	Limited	U		MINOR		94	18	1	2			
+12-Seth Abbott	72.78%	392.1722	119.77	67.62%	Production	U		MINOR		98	16	2				
+13-Jason Sartor	72.22%	389.1477	103.21	67.09%	Production	B		MINOR	A78681	96	15	4				6
+14-Daniel DuBuisson 2	67.49%	363.6943	128.79	62.71%	Carry Optics	D		MINOR	L3935	100	13	1				
+15-Brendan Gould	66.46%	358.1261	129.98	61.75%	Production	U		MINOR		103	11	1	1			
+16-Christopher Hernandez	65.50%	352.9744	114.23	60.86%	Production	U		MINOR		86	21	7	2			
+17-Michael Kellett	65.35%	352.1601	109.87	60.72%	Limited			MINOR		87	16	7	4			1
+18-Nick Milks	61.04%	328.9363	101.93	56.71%	Limited	U		MINOR	PENDING	75	24	11	5			
+19-Clement Gregoire 1	59.73%	321.8641	122.63	55.49%	Limited	U	Military	MINOR		84	23	4	4			
+20-Brad Phair	56.83%	306.2170	137.70	52.80%	Limited	C	Senior	MINOR		82	29	4	1			
+21-Mary DuBuisson	54.18%	291.9623	151.38	50.34%	Limited	D	Lady	MINOR	A77442	97	15	3	1			
+22-Stephen Pearce	44.17%	238.0348	186.76	41.04%	Limited	U	Senior	MAJOR	A98771	87	20	8	1			1
+23-Chris Salch	31.89%	171.8665	222.97	29.63%	Limited	U		MAJOR		88	16	7	5			
+24-Quang Nguyen	31.29%	168.6309	189.52	29.07%	Limited	U		MINOR	A99688	79	15	9	9			
+25-Jim Johnson	30.21%	162.8004	282.93	28.07%	Single Stack	U	Super Senior	MAJOR		81	23	3	8			1
+DQ-Alex Rihovsky	0.00%	0.0000		0.00%	Limited			MINOR								
+Name
+1-Kyle Post 1
+2-Matt Hawes 2
+3-Nicholas Mrak
+4-Karl Rehn
+5-Steven Bartlett
+6-John Voss
+7-Justin Moore
+8-samuel slichter
+9-Greg Thoede
+10-Jason Wilson
+11-Kevin Jimmerson
+12-Seth Abbott
+13-Jason Sartor
+14-Daniel DuBuisson 2
+15-Brendan Gould
+16-Christopher Hernandez
+17-Michael Kellett
+18-Nick Milks
+19-Clement Gregoire 1
+20-Brad Phair
+21-Mary DuBuisson
+22-Stephen Pearce
+23-Chris Salch
+24-Quang Nguyen
+25-Jim Johnson
+DQ-Alex Rihovsky
+Old style results
+
+Score Edit History
+No Name
+Gregoire, Clement (1)
+2016-11-20 17:58:29.626 - 2016-11-20 18:02:24.357Edited 4 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 15 now: 118Edited str,0 was: 0 now: 24.78Added details: [object Object]Added numAlphas: 23Added numCharlies: 4Added numDeltas: 1Added stringTime: 24.78Edited By Android Device
+Steel Trap
+Hawes, Matt (2)
+2016-11-20 16:28:21.239 - 2016-11-20 16:29:55.732Edited 2 minutes after.Edited str,0 was: 0 now: 9.86Added details: [object Object]Added numAlphas: 24Added stringTime: 9.86Edited By Android Device2016-11-20 16:28:09.032 - 2016-11-20 16:28:21.239Edited a few seconds after.Edited str,0 was: 12 now: 0Edited By Android Device
+Post, Kyle (1)
+2016-11-20 16:15:11.465 - 2016-11-20 16:15:53.488Edited a few seconds after.Edited popm was: 1 now: 0Edited rawpts was: 55 now: 60Edited poph was: 11 now: 12Added details: [object Object]Added numAlphas: 24Added stringTime: 9.51Edited By Android Device
+DuBuisson, Daniel (2)
+2016-11-20 17:25:13.373 - 2016-11-20 17:25:41.516Edited a few seconds after.Edited str,0 was: 0 now: 13.01Added details: [object Object]Added numAlphas: 24Added stringTime: 13.01Edited By Android Device2016-11-20 17:24:37.999 - 2016-11-20 17:25:13.373Edited a few seconds after.Removed proc: 1Edited str,0 was: 14.94 now: 0Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

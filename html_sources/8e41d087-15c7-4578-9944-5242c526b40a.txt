@@ -1,0 +1,108 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Kidlat Shooters November Club Match USPSA 2022-11-05Kidlat Shooters
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Raul Sotelo	100.00%	641.3562	101.76	90.97%	carry optics	A		MINOR	TY41489	122	18	1					
+2-Janice Pacleb	99.00%	634.9380	96.38	90.06%	Open	B	Lady	MAJOR	TY75597	97	35	7	2				
+3-AJ Jackson	96.69%	620.1305	100.01	87.96%	carry optics	U		MINOR	TY81745	114	20	6	1				
+4-Adriel Taylor	94.60%	606.6954	109.52	86.06%	Open	B		MAJOR	A104321	109	29	3					
+5-Pocholo Dimayuga	86.76%	556.4651	117.44	78.93%	Limited	C		MAJOR	A106236	107	29	5					
+6-Kenedy Nguyen	84.45%	541.5996	102.47	76.82%	Open	C		MAJOR	A83862	88	39	8	6			1	
+7-Garrick Gonzalez	82.22%	527.3279	134.84	74.80%	carry optics	B		MINOR	A119804	121	19	1					
+8-Devie Ubas	77.68%	498.1768	102.15	70.66%	Open	C		MAJOR	A69394	83	38	12	8				
+9-Desmond Jackson 1	75.23%	482.5064	132.07	68.44%	carry optics	B		MINOR	TY89242	119	17	3	2				
+10-Haydn Brown	74.71%	479.1367	135.19	67.96%	Limited	C		MINOR	A62956	123	14	3	1				
+11-Karl Robin Doloroso	61.08%	391.7484	168.85	55.57%	carry optics	U		MINOR	A144004	123	17	1					
+12-John Hanna	55.17%	353.8354	168.33	50.19%	carry optics	C	Senior	MINOR	A138989	108	26	4	3				
+13-Gary Brisco 1	52.92%	339.4168	178.39	48.14%	Open	D	Super Senior	MINOR	FY73704	103	31	5	1				
+14-Carlos De la Torre	52.20%	334.7851	190.03	47.49%	carry optics	U	Junior	MINOR	0	116	22	3					
+15-James jackson	49.39%	316.7694	174.66	44.93%	Open	U		MINOR	A89219	100	32	5	4			1	
+16-Lisa Nguyen	49.00%	314.2680	198.55	44.58%	Open	D	Lady	MAJOR	A135827	114	19	5	3				
+17-Weison Tiu	46.15%	296.0143	168.10	41.99%	carry optics	U	Senior	MINOR	A142807	93	37	5	6			2	
+18-Dale Hamm	44.43%	284.9530	205.37	40.42%	Limited	C	Senior	MAJOR	TY97196	98	28	12	3				
+19-Lanz Doreza	43.39%	278.3142	186.04	39.48%	Production	U		MINOR	L5321	96	31	9	5			1	
+20-Emman Alcoseba	29.48%	189.0915	92.63	26.82%	Limited	C	Senior	MAJOR	TY67519	67	14	6	2				
+21-LaShaun Jackson 1	19.63%	125.9034	477.84	17.86%	carry optics	D	Lady	MINOR	A89243	92	39	9	1			1	
+DQ-George Zhou	0.00%	0.0000		0.00%	carry optics	U	Senior	MINOR	0								
+DQ-Wei Zhang	0.00%	0.0000		0.00%	carry optics	D		MINOR	FY140383								
+Name
+1-Raul Sotelo
+2-Janice Pacleb
+3-AJ Jackson
+4-Adriel Taylor
+5-Pocholo Dimayuga
+6-Kenedy Nguyen
+7-Garrick Gonzalez
+8-Devie Ubas
+9-Desmond Jackson 1
+10-Haydn Brown
+11-Karl Robin Doloroso
+12-John Hanna
+13-Gary Brisco 1
+14-Carlos De la Torre
+15-James jackson
+16-Lisa Nguyen
+17-Weison Tiu
+18-Dale Hamm
+19-Lanz Doreza
+20-Emman Alcoseba
+21-LaShaun Jackson 1
+DQ-George Zhou
+DQ-Wei Zhang
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 5
+Brisco, Gary (1)
+2022-11-05 14:26:41.552 - 2022-11-05 14:27:23.530Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	2	0	0	0
+Edited rawpts was: 128 now: 126Added details: [object Object]Added numAlphas: 33Added numCharlies: 1Added numDeltas: 3Added stringTime: 33.67Edited By Android Device
+Jackson, LaShaun (1)
+2022-11-05 14:35:41.485 - 2022-11-05 14:36:09.613Edited a few seconds after.Added proc: 1Added details: [object Object]Added numAlphas: 30Added numCharlies: 5Added numDeltas: 1Added numM: 1Added numProc: 1Added stringTime: 69.26Edited By Android Device
+Stage 6
+Jackson, Desmond (1)
+2022-11-05 14:46:57.829 - 2022-11-05 14:48:17.712Edited a minute after.
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	0	0	0	1	0
+Edited rawpts was: 106 now: 101Added details: [object Object]Added numAlphas: 24Added numDeltas: 1Added numM: 1Added stringTime: 28.6Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

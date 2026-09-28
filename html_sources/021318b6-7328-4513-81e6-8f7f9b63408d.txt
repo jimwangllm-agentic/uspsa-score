@@ -1,0 +1,339 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday September 13th USPSA 2020-09-13Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Wade Whetstone	100.00%	675.7819	100.57	92.57%	Open	G		MAJOR	82591	82	50	11	3				
+2-Cory Klemashevich	93.53%	632.0796	118.48	86.59%	PCC	G		MINOR	A87214	108	36	2			2		
+3-Thomas Rodriguez 1	89.48%	604.7193	118.49	82.84%	PCC	A		MINOR	A59184	107	37	2			1		
+4-juliann milks	87.61%	592.0623	112.05	81.10%	PCC	B	Lady	MINOR	a110188	102	37	4	3				
+5-William Conlan 2	85.67%	578.9419	119.55	79.31%	Carry Optics	A		MINOR	A45421	110	32	2	2				
+6-Larry Thomas	84.61%	571.7862	119.45	78.33%	PCC	B		MINOR	A115204	102	37	7			1		
+7-Taylor Latham	81.68%	551.9873	134.66	75.61%	Open	C		MAJOR	A128035	120	21	3	2		1		
+8-Holdon Perez	71.34%	482.1197	150.55	66.04%	Carry Optics	C		MINOR	Ty87515	122	21	2	1		1		
+9-nick milks	65.84%	444.9148	148.24	60.95%	PCC	U		MINOR	a109961	85	53	8					
+10-gerrit milks	60.71%	410.2748	166.26	56.20%	Open	B	Super Senior	MAJOR	a67608	114	23	5	4		1	1	
+11-Taylor Latham	59.17%	399.8456	158.88	54.77%	Limited	B	Senior	MINOR	TY39841	95	42	6	3				
+12-Eric Mccampbell 2	59.01%	398.7631	166.23	54.63%	Limited	B	Senior	MAJOR	A14332	98	35	9	4		1		
+13-james rogers 1	57.18%	386.3836	165.24	52.93%	Open	U	Law Enforcement	MINOR	A101402	110	28	4	4		1	1	
+14-Preston Sidwell	55.38%	374.2775	177.65	51.27%	Limited	U		MINOR	a130485	104	35	6	1		2		
+15-Carl Rugg	46.90%	316.9362	243.08	43.42%	PCC	D	Super Senior	MINOR	A98356	132	12	1	1				
+16-Bryson McDougall	45.59%	308.0827	201.41	42.20%	Limited	U		MINOR	A117041	92	40	11	3		1		
+17-Tommy Teas	42.87%	289.7226	246.29	39.69%	Revolver	C	Senior	MINOR	FY2227	104	40	2					
+18-Josh Rizzo	41.44%	280.0402	217.70	38.36%	PCC	U		MINOR	A128367	94	41	3	8		2		
+19-Kevin Baker	36.17%	244.4552	178.11	33.49%	Production	C		MINOR	A95439	77	49	9	11		4	1	
+20-Gary Brisco	35.54%	240.1464	256.52	32.90%	PCC	D	Senior	MINOR	FY73704	114	19	6	7				
+21-Mickey Gallaway	28.97%	195.7720	299.57	26.82%	Limited	B	Super Senior	MINOR	FY-556	92	33	15	6				
+22-Dale Hamm	27.98%	189.0514	247.64	25.90%	Limited	C	Senior	MAJOR	TY97196	67	41	23	15		2		
+23-greg thoede	24.84%	167.8758	236.08	23.00%	Carry Optics	C	Super Senior	MINOR		81	43	10	12		8	1	
+24-Matthew Michna 2	17.58%	118.7920	441.21	16.27%	Limited	U	Junior	MINOR	A128405	88	31	15	12		5		
+25-Peter Walsh	15.54%	105.0472	397.23	14.39%	Production	B		MINOR		72	44	20	10		3		
+DQ-Michael Fink	0.00%	0.0000		0.00%	Limited	U		MINOR	A129067								
+Name
+1-Wade Whetstone
+2-Cory Klemashevich
+3-Thomas Rodriguez 1
+4-juliann milks
+5-William Conlan 2
+6-Larry Thomas
+7-Taylor Latham
+8-Holdon Perez
+9-nick milks
+10-gerrit milks
+11-Taylor Latham
+12-Eric Mccampbell 2
+13-james rogers 1
+14-Preston Sidwell
+15-Carl Rugg
+16-Bryson McDougall
+17-Tommy Teas
+18-Josh Rizzo
+19-Kevin Baker
+20-Gary Brisco
+21-Mickey Gallaway
+22-Dale Hamm
+23-greg thoede
+24-Matthew Michna 2
+25-Peter Walsh
+DQ-Michael Fink
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Rodriguez, Thomas (1)
+2020-09-13 14:16:11.323 - 2020-09-13 14:16:29.216Edited a few seconds after.Edited rawpts was: 40 now: 72
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added aprv: trueAdded details: [object Object]Added numAlphas: 20Added numCharlies: 4Added stringTime: 8.44Edited By Android Device
+rogers, james (1)
+2020-09-13 15:19:00.313 - 2020-09-13 15:19:39.048Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	2	0	1	0	0
+Added details: [object Object]Added numAlphas: 19Added numCharlies: 5Added numNS: 1Added stringTime: 17.02Edited By Android Device
+Conlan, William (2)
+2020-09-13 14:19:41.354 - 2020-09-13 14:20:39.285Edited a minute after.Edited rawpts was: 40 now: 74Edited str,0 was: 0 now: 10.78
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded aprv: trueAdded details: [object Object]Added numAlphas: 21Added numCharlies: 3Added stringTime: 10.78Edited By Android Device2020-09-13 14:12:13.420 - 2020-09-13 14:19:41.354Edited 7 minutes after.Edited rawpts was: 72 now: 40Edited str,0 was: 8.44 now: 0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Android Device
+Stage 4
+Mccampbell, Eric (2)
+2020-09-13 14:46:21.769 - 2020-09-13 14:47:11.614Edited a minute after.Edited str,0 was: 0 now: 27.71
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 143Added aprv: trueAdded details: [object Object]Added numAlphas: 23Added numCharlies: 7Added stringTime: 27.71Edited By Android Device2020-09-13 14:40:02.277 - 2020-09-13 14:46:21.769Edited 6 minutes after.Removed rawpts: 134Edited str,0 was: 27.41 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Android Device
+Stage 5
+Michna, Matthew (2)
+2020-09-13 14:25:03.508 - 2020-09-13 14:27:14.971Edited 2 minutes after.Edited rawpts was: 20 now: 112Edited str,0 was: 0 now: 42.5
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit Moved to Shooter Rizzo, Josh (PCC/Min)Added aprv: trueAdded details: [object Object]Added numAlphas: 24Added numCharlies: 4Added stringTime: 42.5Edited By Android Device2020-09-13 14:24:43.061 - 2020-09-13 14:25:03.508Edited a few seconds after.Edited rawpts was: 107 now: 20Edited str,0 was: 66.46 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Rizzo, Josh (PCC/Min)Edited By Android Device
+Stage 6
+Wilson, Jason (1)
+2020-09-13 15:35:54.302 - 2020-09-13 15:36:57.035Edited a minute after.Edited rawpts was: 96 now: 20Edited str,0 was: 34.69 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit Moved to Shooter Brisco, Gary (PCC/Min)Added numAlphas: 4Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

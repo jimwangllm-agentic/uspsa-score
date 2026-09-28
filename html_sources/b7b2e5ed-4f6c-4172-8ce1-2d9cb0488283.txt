@@ -1,0 +1,89 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros March 20 2016--USPSA Carbine Side Match--Corrected USPSA/IPSC 2016-03-20
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	P
+1-John Burton	100.00%	130.0000	34.29	100.00%	Production	U		MINOR		22	2					
+2-Bryan Bonnette	69.25%	90.0233	41.40	69.25%	Production	U		MINOR		23	1	1			2	
+3-Kyle Post	67.49%	87.7433	49.97	67.49%	Production	B		MINOR	A74846	21	5					
+4-John Voss	66.37%	86.2745	38.54	66.37%	Production	D		MINOR		18	5		1		1	
+5-Daniel DuBuisson	60.78%	79.0107	52.72	60.78%	Carry Optics	U		MINOR	L3935	23	2				1	
+6-Charles Thomason	59.08%	76.8001	47.10	59.08%	Single Stack	U	Super Senior	MINOR	A10536	22	2		1		1	
+7-Joshua Rizzo	56.31%	73.1974	42.43	56.31%	Open	U		MINOR		16	8	1	1		1	
+8-Zach Williams	55.31%	71.8966	48.28	55.31%	Production	U		MINOR		20	5		1		1	
+9-Michael Kellett 1	53.13%	69.0686	48.14	53.13%	Limited	C		MINOR	A84094	20	3	2	1		1	
+10-Nathaniel Schwebel	48.14%	62.5830	70.06	48.14%	Open	C		MINOR		21	5					
+11-Joseph Stephenson	42.67%	55.4690	76.41	42.67%	Limited	C	Foreign	MINOR		19	7					
+12-Luke Morgan	33.75%	43.8717	75.79	33.75%	Open	X	Senior	MINOR		18	7		1		1	
+13-Chris Salch	32.67%	42.4759	103.23	32.67%	Limited	U		MINOR		21	4					
+14-Mary DuBuisson	32.65%	42.4467	92.97	32.65%	Limited	D	Lady	MINOR	A77442	15	10					
+15-Savannah Butters	28.48%	37.0207	108.57	28.48%	Production	U	Lady	MINOR		16	6					
+16-James Johnson	27.34%	35.5409	111.03	27.34%	Limited			MINOR		15	8					
+17-Tom Echols	0.00%	0.0000	49.90	0.00%	Production	C		MINOR	A87414	13	7	1	5		5	
+18-Bailey Lawson	0.00%	0.0000		0.00%	Production	U		MINOR		10						
+DQ-Alex DuBuisson	0.00%	0.0000		0.00%	Limited			MINOR								
+Name
+1-John Burton
+2-Bryan Bonnette
+3-Kyle Post
+4-John Voss
+5-Daniel DuBuisson
+6-Charles Thomason
+7-Joshua Rizzo
+8-Zach Williams
+9-Michael Kellett 1
+10-Nathaniel Schwebel
+11-Joseph Stephenson
+12-Luke Morgan
+13-Chris Salch
+14-Mary DuBuisson
+15-Savannah Butters
+16-James Johnson
+17-Tom Echols
+18-Bailey Lawson
+DQ-Alex DuBuisson
+Old style results
+
+Score Edit History
+Rifle Stage
+Kellett, Michael (1)
+2016-03-20 19:24:04.432 - 2016-03-20 19:24:38.007Edited a few seconds after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	1	0	0	0
+Current	1	0	0	1	1	0	0
+Added details: [object Object]Added numAlphas: 30Added numCharlies: 3Added numDeltas: 2Added numNS: 1Added numM: 1Added stringTime: 48.14Edited By MaryIpad3
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

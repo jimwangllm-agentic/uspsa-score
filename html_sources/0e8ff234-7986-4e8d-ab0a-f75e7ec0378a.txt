@@ -1,0 +1,129 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday January 14th USPSA 2024-01-14Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Cory Klemashevich	100.00%	775.0000	93.30	100.00%	PCC	G		MINOR	L5150	109	41	4	1		1		
+2-Cory Klemashevich	81.36%	630.5160	116.10	81.36%	Limited	G		MINOR	L5150	110	38	5	2				
+3-Christian Canizales	75.26%	583.2987	119.65	75.26%	Carry Optics	B		MINOR		96	50	9					
+4-Qingbang Cai	74.68%	578.7987	113.79	74.68%	Carry Optics	A		MINOR	A148273	113	27	11	4			1	
+5-Joe Paetzold	71.76%	556.1088	135.67	71.76%	Carry Optics	B		MINOR	A135487	111	39	5					
+6-William Conlan	69.75%	540.5738	147.63	69.75%	PCC	A		MINOR	A45421	107	40	6	2		2	1	
+7-Kinsey Skillen	69.35%	537.4983	121.60	69.35%	Carry Optics	U		MINOR	TY56105	85	57	11	2				
+8-Justin Walworth 1	59.67%	462.4069	139.18	59.67%	PCC	B		MINOR	A39547	99	42	9	5			2	
+9-Esteban Naranjo	59.42%	460.5330	143.45	59.42%	Open	G		MINOR	A153395	94	50	9	2		2		
+10-Josh Rizzo	56.37%	436.8435	159.71	56.37%	Open	B		MINOR		107	41	5	2			1	
+11-Jeff Ort 1	56.11%	434.8888	88.08	56.11%	Open	M	Senior	MAJOR		76	38	4	5		1	1	
+12-Todd Springer	52.93%	410.2310	137.28	52.93%	Carry Optics	U		MINOR	A146210	95	49	2	9			1	
+13-Kacie Tapanila	52.27%	405.1309	189.24	52.27%	Carry Optics	C	Lady	MINOR	A135389	125	25	3	2			1	
+14-Jason Wilson	43.69%	338.5994	164.98	43.69%	Single Stack	M		MAJOR		85	41	20	9		2		
+15-Gene Bray 1	42.46%	329.0361	156.62	42.46%	PCC	B	Super Senior	MINOR		80	56	10	9		2		
+16-Slade Walding	42.06%	325.9267	167.55	42.06%	Limited Optics	U	Senior	MINOR		90	45	13	7		2		
+17-Saunders Arnold	38.29%	296.7786	199.87	38.29%	Carry Optics	C		MINOR	L5609	95	45	8	7		2		
+18-matt baum	31.68%	245.5095	243.17	31.68%	Carry Optics	U		MINOR	A141110	87	52	9	7			1	
+19-Gage Caples	27.20%	210.8089	246.66	27.20%	Limited	X	Junior	MINOR		98	32	15	10		1		
+20-Brian Post	21.57%	167.1385	270.96	21.57%	Open	D		MAJOR		67	58	17	13		4		
+21-Daniel Claybaugh	21.23%	164.5508	356.03	21.23%	Revolver	U		MINOR		98	27	10	20		2	9	
+22-Gerry Tsoi	19.54%	151.4532	238.29	19.54%	Limited	U		MINOR	a151481	84	37	14	20		5		
+23-Richard Caples	18.34%	142.1436	374.80	18.34%	Single Stack	X		MAJOR	N/A	90	47	7	11		3	2	
+DQ-Caylen Dalrymple	0.00%	0.0000		0.00%	Limited	D		MINOR									
+Name
+1-Cory Klemashevich
+2-Cory Klemashevich
+3-Christian Canizales
+4-Qingbang Cai
+5-Joe Paetzold
+6-William Conlan
+7-Kinsey Skillen
+8-Justin Walworth 1
+9-Esteban Naranjo
+10-Josh Rizzo
+11-Jeff Ort 1
+12-Todd Springer
+13-Kacie Tapanila
+14-Jason Wilson
+15-Gene Bray 1
+16-Slade Walding
+17-Saunders Arnold
+18-matt baum
+19-Gage Caples
+20-Brian Post
+21-Daniel Claybaugh
+22-Gerry Tsoi
+23-Richard Caples
+DQ-Caylen Dalrymple
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+8x3 Trigger Freeze-ish
+Bray, Gene (1)
+2024-01-14 15:21:33.641 - 2024-01-14 15:35:46.275Edited 14 minutes after.Edited str,0 was: 15.91 now: 11.91Added details: [object Object]Added numAlphas: 10Added numCharlies: 10Added numDeltas: 2Added numM: 2Added stringTime: 11.91Edited By Android Device
+Ort, Jeff (1)
+2024-01-14 15:29:42.852 - 2024-01-14 15:31:10.910Edited a minute after.Edited rawpts was: 43 now: 113Edited str,0 was: 12.86 now: 9.65
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added aprv: trueAdded details: [object Object]Added numAlphas: 17Added numCharlies: 7Added stringTime: 9.65Edited By Android Device
+Walworth, Justin (1)
+2024-01-14 16:16:49.169 - 2024-01-14 23:39:50.004Edited 7 hours after.Edited str,0 was: 6.93 now: 8.93Edited udid was: aa14d442-f76d-4bf9-b837-3a126b105a77 now: b34013bf-4c19-42fd-a053-bd0da5e103f1Edited dname was: Android Device now: BDPAdded details: [object Object]Added numAlphas: 18Added numCharlies: 6Added stringTime: 8.93Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

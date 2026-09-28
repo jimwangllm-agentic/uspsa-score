@@ -1,0 +1,451 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+KIDLAT SHOOTERS September USPSA Club Match USPSA 2023-09-02Kidlat Shooters
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-August Balagtas	100.00%	699.0548	104.61	90.79%	Open	M		MAJOR	L3674	106	45	3					
+2-Alex Goben	94.52%	660.7725	110.87	85.81%	Carry Optics	A		MINOR	L5929	129	22	1					
+3-Travis McKenzie	93.86%	656.1520	106.53	85.21%	Carry Optics	M		MINOR	TY139201	114	38	1	1				
+4-Chad Folger	92.60%	647.3411	113.18	84.07%	Limited	M		MAJOR	L3031	119	28	6	1				
+5-Wade Pruetz	91.51%	639.6830	109.95	83.08%	Open	A	Senior	MAJOR	TY79055	105	42	5	2				
+6-Olayemi Bakare 3	91.00%	636.1147	112.50	82.61%	Limited Optics	U		MINOR	A105300	119	33	1	1		1		
+7-Duane Mendoza	90.63%	633.5823	109.36	82.28%	Limited Optics	B		MINOR	X	113	37	4					
+8-Angelo Guadalquiver	89.92%	628.6103	111.70	81.64%	Open	C		MAJOR	A145293	127	21	3	3		1		
+9-Chev Jacot	89.13%	623.0880	110.04	80.92%	Open	B		MAJOR	TY72378	108	39	4	3				
+10-Jay-R delos-Santos	85.42%	597.1525	118.91	77.55%	Open	B	Senior	MAJOR	A70297	109	34	8	1				
+11-Phil Truong	85.18%	595.4689	117.02	77.33%	Limited Optics	U		MINOR	FY128600	116	32	6					
+12-Arnold Gee	84.14%	588.2040	122.40	76.39%	Open	B	Senior	MAJOR	TY103519	108	37	8	1				
+13-Leo Garra 4	83.58%	584.2683	107.28	75.88%	Open	D		MAJOR	A104164	102	42	4	6		1	1	
+14-Roman Gwiscz	81.23%	567.8584	130.16	73.75%	Open	B		MAJOR	L4670	113	35	4	2				
+15-Jose Onia 1	80.58%	563.2778	85.76	73.15%	Carry Optics	D	Senior	MINOR	0	98	25	5	1				
+16-JC Aguinaldo	79.98%	559.0884	116.17	72.61%	Limited Optics	U		MINOR	0	113	32	7	2		1		
+17-Pete Kirchner	79.93%	558.7240	124.18	72.56%	Carry Optics	A		MINOR	TY105743	121	29	1	2				
+18-Robert Bui	77.69%	543.0773	129.21	70.53%	Carry Optics	B		MINOR	A103016	120	30	2	1				
+19-Chez Chike-Udenze 1	77.31%	540.4676	113.17	70.19%	Open	A		MAJOR	A138598	109	33	3	8		1	2	
+20-Janice Pacleb	76.03%	531.4583	119.88	69.02%	Open	B		MAJOR	A75597	96	44	9	5				
+21-Jackson Kam	75.86%	530.2986	130.72	68.87%	Limited	U	Junior	MAJOR	A149761	120	28	3	3		1		
+22-Cholo De Dios	75.86%	530.2800	129.68	68.87%	Limited Optics	U		MINOR	0	112	36	6					
+23-Pat Byrne	75.31%	526.4560	128.37	68.37%	Carry Optics	B	Super Senior	MINOR	FY93921	112	34	7	1				
+24-Jerry Bedro	75.30%	526.4030	129.95	68.36%	Limited Optics	U		MINOR	A1	111	38	2	1				
+25-Manny Nerona	75.20%	525.6721	137.73	68.27%	Limited Optics	U		MINOR	A69445	122	29						
+26-Rene Zalamea 3	72.90%	509.6025	139.75	66.18%	Open	C	Senior	MAJOR	A66891	126	22	4	2		1		
+27-Gregory Kam 1	71.97%	503.1230	137.04	65.34%	Limited	U		MINOR	A151972	131	16	3	3				
+28-Marlon Poralan	70.88%	495.4788	137.47	64.35%	Open	C		MAJOR	TY1234	101	44	5	2		1	1	
+29-Albert Legislador	68.06%	475.7676	144.67	61.79%	Open	D		MAJOR	TY91787	118	29	4	3			1	
+30-Amber Chike-Udenze	65.81%	460.0378	147.78	59.75%	Carry Optics	C	Lady	MINOR	A138974	104	46	4					
+31-Adriel Taylor	64.97%	454.2049	142.51	58.99%	Limited	U		MAJOR	A104321	101	38	9	5				
+32-Tom Donahue	62.68%	438.1713	165.35	56.91%	PCC	B	Super Senior	MINOR	TY69009	118	33	2	1				
+33-Virak Meas	60.57%	423.3883	151.82	54.99%	Limited Optics	U	Senior	MINOR	O	111	37	4	2		1	1	
+34-Taylor Latham	59.99%	419.3649	170.72	54.46%	Single Stack	B	Senior	MAJOR	TY39841	118	29	7			2		
+35-Edsel Esquivel	56.38%	394.1088	136.02	51.18%	Limited Optics	U		MINOR	A137879	112	31	3	8		2	3	
+36-Audry Folger	55.29%	386.5069	170.00	50.20%	Limited	C	Lady	MAJOR	A125117	97	46	8	3			1	
+37-Karl Doloroso 1	52.48%	366.8412	196.97	47.64%	Limited Optics	U		MINOR	L5864	123	27	4					
+38-Devie Ubas	51.58%	360.5619	143.54	46.83%	Carry Optics	U		MINOR	A69392	86	52	10	6		2		
+39-Jeff Maxwell, Jr.	49.95%	349.1926	181.47	45.35%	Carry Optics	C	Senior	MINOR	L4489	122	24	3	5		1	1	
+40-Zach Hudson	47.23%	330.1777	194.55	42.88%	Carry Optics	U		MINOR	A154012	133	11	2	8			2	
+41-Teddy Elarmo	46.45%	324.6971	196.56	42.17%	Carry Optics	U		MINOR	A142885	111	29	5	6				
+42-Marchoni Aquino	40.59%	283.7768	164.20	36.85%	Limited	D		MINOR	A124540	82	40	11					
+43-Jacob Vergara 2	30.37%	212.2820	226.09	27.57%	Production	U	Junior	MINOR	01	92	42	10	10		2	2	
+44-Dale Hamm	29.79%	208.2303	243.62	27.04%	Limited Optics	U	Senior	MINOR	TY97196	88	42	16	8		2		
+45-Bobby Losin	27.87%	194.8011	252.35	25.30%	Carry Optics	U	Senior	MINOR	0	98	25	10	15		1		
+46-Danilo Opada	16.39%	114.6073	320.48	14.88%	Carry Optics	U	Junior	MINOR	01	81	38	14	21		1		
+47-Jonathan Vergara	11.84%	82.7579	248.90	10.75%	Open	U	Senior	MINOR	TY151732	77	29	19	29		2		
+48-jerry palacio	2.67%	18.6899	432.84	2.43%	Carry Optics	U		MINOR		38	50	30	36				
+49-Peter Paul Alcazaren	0.00%	0.0000		0.00%	Carry Optics	D		MINOR	TY69476	4							
+50-Jon Baguio	0.00%	0.0000		0.00%	Open	C		MAJOR	X	8							
+51-Gary Brisco	0.00%	0.0000		0.00%	Open	D	Super Senior	MINOR	FY73704								
+52-Fred Ermac	0.00%	0.0000		0.00%	Limited	C		MAJOR	A106437								
+53-Joseph Giron	0.00%	0.0000		0.00%	Limited	C		MAJOR	A83387								
+54-Jonathan Gutierrez	0.00%	0.0000		0.00%	Limited Optics	U		MINOR	A108668	14							
+55-Detlef Hohl	0.00%	0.0000		0.00%	Production	A	Senior	MINOR	L3462								
+56-AJ Jackson	0.00%	0.0000		0.00%	Limited Optics	U		MINOR	TY81745								
+57-Cody Jensen	0.00%	0.0000		0.00%	Carry Optics	U		MINOR	NA	14							
+58-Ralph Migrino	0.00%	0.0000		0.00%	Carry Optics	A		MINOR	A1326127	8							
+59-Norman Oducado	0.00%	0.0000		0.00%	Limited	C		MINOR	A103491	4							
+60-Michael Pontious	0.00%	0.0000		0.00%	Carry Optics	B	Senior	MINOR	FY94575								
+61-Gary Wu	0.00%	0.0000		0.00%	Open	B	Senior	MAJOR	L2998								
+Name
+1-August Balagtas
+2-Alex Goben
+3-Travis McKenzie
+4-Chad Folger
+5-Wade Pruetz
+6-Olayemi Bakare 3
+7-Duane Mendoza
+8-Angelo Guadalquiver
+9-Chev Jacot
+10-Jay-R delos-Santos
+11-Phil Truong
+12-Arnold Gee
+13-Leo Garra 4
+14-Roman Gwiscz
+15-Jose Onia 1
+16-JC Aguinaldo
+17-Pete Kirchner
+18-Robert Bui
+19-Chez Chike-Udenze 1
+20-Janice Pacleb
+21-Jackson Kam
+22-Cholo De Dios
+23-Pat Byrne
+24-Jerry Bedro
+25-Manny Nerona
+26-Rene Zalamea 3
+27-Gregory Kam 1
+28-Marlon Poralan
+29-Albert Legislador
+30-Amber Chike-Udenze
+31-Adriel Taylor
+32-Tom Donahue
+33-Virak Meas
+34-Taylor Latham
+35-Edsel Esquivel
+36-Audry Folger
+37-Karl Doloroso 1
+38-Devie Ubas
+39-Jeff Maxwell, Jr.
+40-Zach Hudson
+41-Teddy Elarmo
+42-Marchoni Aquino
+43-Jacob Vergara 2
+44-Dale Hamm
+45-Bobby Losin
+46-Danilo Opada
+47-Jonathan Vergara
+48-jerry palacio
+49-Peter Paul Alcazaren
+50-Jon Baguio
+51-Gary Brisco
+52-Fred Ermac
+53-Joseph Giron
+54-Jonathan Gutierrez
+55-Detlef Hohl
+56-AJ Jackson
+57-Cody Jensen
+58-Ralph Migrino
+59-Norman Oducado
+60-Michael Pontious
+61-Gary Wu
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Bakare, Olayemi (2)
+2023-09-02 14:46:51.561 - 2023-09-02 15:33:15.664Edited an hour after.Removed Reason for Edit Moved to Stage Stage 1
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited rawpts was: 10 now: 104Edited str,0 was: 0 now: 16.1Added aprv: trueAdded details: [object Object]Added numAlphas: 19Added numCharlies: 6Added numDeltas: 1Added stringTime: 16.1Edited By KIDLAT#52023-09-02 14:40:44.525 - 2023-09-02 14:46:51.561Edited 6 minutes after.Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited rawpts was: 114 now: 10Edited str,0 was: 15.89 now: 0Added Reason for Edit Moved to Stage Stage 1Edited By KIDLAT#5
+Garra, Leo (3)
+2023-09-02 15:14:22.865 - 2023-09-02 15:14:55.728Edited a few seconds after.Edited proc_cnts,0,Bbu6AL was: 2 now: 1Edited proc was: 2 now: 1Added details: [object Object]Added numAlphas: 15Added numCharlies: 7Added numM: 4Added numProc: 1Added stringTime: 20.5Edited By KIDLAT#52023-09-02 14:47:13.112 - 2023-09-02 15:14:22.865Edited 27 minutes after.Removed Reason for Edit Moved to Stage Stage 1Edited popm was: 0 now: 2
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Edited rawpts was: 10 now: 103Edited str,0 was: 0 now: 20.5Edited poph was: 2 now: 0Added aprv: trueAdded proc: 2Edited By KIDLAT#52023-09-02 14:45:54.039 - 2023-09-02 14:47:13.112Edited a minute after.Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	2	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	1	1	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited rawpts was: 107 now: 10Edited str,0 was: 18.14 now: 0Added Reason for Edit Moved to Stage Stage 1Edited By KIDLAT#5
+Zalamea, Rene (2)
+2023-09-02 14:47:02.501 - 2023-09-02 15:12:14.943Edited 25 minutes after.Removed Reason for Edit Moved to Stage Stage 1
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	0	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 10 now: 109Edited str,0 was: 0 now: 23.15Added aprv: trueAdded details: [object Object]Added numAlphas: 21Added numCharlies: 3Added numDeltas: 1Added numNS: 1Added numM: 1Added stringTime: 23.15Edited By KIDLAT#52023-09-02 14:43:18.639 - 2023-09-02 14:47:02.501Edited 4 minutes after.Removed aprv: true
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Edited rawpts was: 110 now: 10Edited str,0 was: 24.03 now: 0Added Reason for Edit Moved to Stage Stage 1Edited By KIDLAT#5
+Doloroso, Karl (1)
+2023-09-02 03:20:02.735 - 2023-09-02 16:31:03.153Edited 13 hours after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 10 now: 106Edited str,0 was: 0 now: 30.25Edited udid was: c80dd42c6add4a869388c2aa4e22a4f6 now: 2b405fb9-0e5e-4879-8259-e13917b95b84Edited dname was: raul's iPad-Olive now: KIDLAT#6Added aprv: trueAdded details: [object Object]Added numAlphas: 20Added numCharlies: 5Added numDeltas: 1Added stringTime: 30.25Edited By raul's iPad-Olive
+Stage 2
+Bakare, Olayemi (1)
+2023-09-02 14:46:51.560 - 2023-09-02 14:50:02.808Edited 3 minutes after.Removed Reason for Edit From Stage Stage 1
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 124 now: 134Added details: [object Object]Added numAlphas: 29Added numCharlies: 3Added stringTime: 15.89Edited By KIDLAT#5
+Garra, Leo (1)
+2023-09-02 14:47:13.112 - 2023-09-02 14:49:48.747Edited 3 minutes after.Removed Reason for Edit From Stage Stage 1
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 117 now: 127Added details: [object Object]Added numAlphas: 25Added numCharlies: 4Added numDeltas: 3Added stringTime: 18.14Edited By KIDLAT#5
+Zalamea, Rene (1)
+2023-09-02 14:47:02.500 - 2023-09-02 14:49:54.492Edited 3 minutes after.Removed Reason for Edit From Stage Stage 1
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited rawpts was: 120 now: 130Added details: [object Object]Added numAlphas: 26Added numCharlies: 5Added numM: 1Added stringTime: 24.03Edited By KIDLAT#5
+Chike-Udenze, Chez (1)
+2023-09-02 15:13:35.756 - 2023-09-02 15:14:10.941Edited a few seconds after.Added proc: 2Added details: [object Object]Added numAlphas: 23Added numCharlies: 5Added numM: 4Added numProc: 2Added stringTime: 14.78Edited By KIDLAT#2
+Stage 3
+Onia, Jose (1)
+2023-09-02 14:36:04.057 - 2023-09-02 14:41:13.125Edited 5 minutes after.Edited str,0 was: 1744 now: 17.44Added details: [object Object]Added numAlphas: 27Added numBravos: 5Added stringTime: 17.44Edited By KIDLAT#4
+Stage 4
+Vergara, Jacob (1)
+2023-09-02 14:40:43.165 - 2023-09-02 14:43:44.961Edited 3 minutes after.
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	1	2	0
+Current	0	0	0	0	0	2	0
+Added details: [object Object]Added numAlphas: 17Added numCharlies: 9Added numDeltas: 1Added numM: 5Added stringTime: 52.38Edited By KIDLAT#6
+Stage 6
+Vergara, Jacob (1)
+2023-09-02 15:13:11.616 - 2023-09-02 15:13:43.853Edited a few seconds after.Added proc: 2Added details: [object Object]Added numAlphas: 13Added numCharlies: 9Added numDeltas: 1Added numNS: 1Added numM: 1Added numProc: 2Added stringTime: 26.93Edited By KIDLAT#6
+Kam, Gregory (1)
+2023-09-02 16:16:35.047 - 2023-09-02 16:17:28.724Edited a minute after.Removed proc: 1Added details: [object Object]Added numAlphas: 17Added numCharlies: 4Added numDeltas: 1Added numM: 2Added stringTime: 18.64Edited By KIDLAT#3
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

@@ -1,0 +1,180 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday October 13th USPSA 2024-10-13Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Cory Klemashevich 3	100.00%	638.9863	85.61	94.66%	PCC	G		MINOR	L5150	108	22	5			1		
+2-Cory Klemashevich	92.76%	592.7390	92.70	87.81%	Carry Optics	G		MINOR	L5150	103	31	1					
+3-Travis Ritter	67.63%	432.1263	178.44	64.02%	PCC	C		MINOR	TY63232	103	30	2					
+4-Mack McLaughlin	66.05%	422.0599	119.71	62.53%	Limited Optics	B		MINOR	L4211	90	39	6			1		
+5-Zach Smith	59.47%	380.0200	121.98	56.30%	Carry Optics	A		MINOR	A152801	92	28	7	8		3		
+6-Joshua Blume	56.49%	360.9552	143.26	53.47%	Carry Optics	C		MINOR	A148746	98	30	7			2		
+7-Jason Wilson	53.10%	339.3282	165.86	50.27%	Limited 10	U		MAJOR	A94696	105	28	1	1		1		
+8-Chris Flores	45.89%	293.2349	167.77	43.44%	Limited Optics	C		MINOR	A154697	113	14	6	2		2	6	
+9-Jesse Newman 1	41.69%	266.4109	144.63	39.47%	Carry Optics	U		MINOR	A161791	105	22	3	5		3	10	
+10-Jason Wilson	37.70%	240.9146	161.07	35.69%	Revolver	G		MAJOR	A94696	83	30	5	17		2	6	
+11-Taylor Latham	37.39%	238.9304	185.39	35.40%	Single Stack	B		MAJOR	TY39841	77	32	20	6		5		
+12-Saunders Arnold	34.74%	221.9800	190.77	32.89%	Carry Optics	C		MINOR	L5609	92	31	7	5		4	2	
+13-Pranav Kamath	32.61%	208.3470	161.22	30.87%	Carry Optics	B		MINOR	A163187	71	40	16	8		3		
+14-Dale Hamm	32.00%	204.4914	177.98	30.30%	PCC	C	Senior	MINOR	TY97196	94	29	5	7		1	9	
+15-John Primrose	30.75%	196.4566	202.27	29.10%	Limited	X		MINOR		87	32	10	6		5		
+16-Gene Bray	20.60%	131.6071	194.62	19.50%	Production	B	Super Senior	MINOR	L4490	73	38	11	13		3	5	
+17-Sam Brauer	9.79%	62.5780	278.60	9.27%	Carry Optics	U		MINOR		67	33	19	16		9	6	
+18-Shawn Iram	3.34%	21.3695	377.67	3.17%	Production	U		MINOR		53	39	11	32		6	4	
+19-Brent Becker	1.36%	8.7170	231.72	1.29%	Production	U		MINOR		41	37	17	40		12		
+DQ-Tyler Denmon 1	0.00%	0.0000		0.00%	Limited Optics	U		MINOR	A156054								
+Name
+1-Cory Klemashevich 3
+2-Cory Klemashevich
+3-Travis Ritter
+4-Mack McLaughlin
+5-Zach Smith
+6-Joshua Blume
+7-Jason Wilson
+8-Chris Flores
+9-Jesse Newman 1
+10-Jason Wilson
+11-Taylor Latham
+12-Saunders Arnold
+13-Pranav Kamath
+14-Dale Hamm
+15-John Primrose
+16-Gene Bray
+17-Sam Brauer
+18-Shawn Iram
+19-Brent Becker
+DQ-Tyler Denmon 1
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Newman, Jesse (1)
+2024-10-13 14:45:09.792 - 2024-10-13 14:47:21.863Edited 2 minutes after.Removed apen: 6Added proc: 6Added details: [object Object]Added numAlphas: 17Added numCharlies: 2Added numNS: 1Added numM: 1Added numProc: 6Added stringTime: 18.78Edited By Android Device
+Denmon, Tyler -DQ (1)
+2024-10-13 14:26:05.154 - 2024-10-13 14:26:20.879Edited a few seconds after.Added dqs: 56XenPAdded aprv: trueAdded numAlphas: 3Added stringTime: 12.91Edited By Android Device
+Klemashevich, Cory (1)
+2024-10-13 14:38:03.500 - 2024-10-13 14:39:33.606Edited 2 minutes after.Edited rawpts was: 15 now: 81
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added aprv: trueAdded details: [object Object]Added numAlphas: 18Added numCharlies: 2Added stringTime: 10.31Edited By Android Device
+Stage 4
+Klemashevich, Cory (2)
+2024-10-13 15:29:40.538 - 2024-10-13 15:31:28.715Edited 2 minutes after.Edited rawpts was: 10 now: 106Edited str,0 was: 0 now: 13.47
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded aprv: trueAdded details: [object Object]Added numAlphas: 22Added numCharlies: 2Added numNS: 1Added stringTime: 13.47Edited By Android Device2024-10-13 15:26:19.799 - 2024-10-13 15:29:40.538Edited 3 minutes after.Edited rawpts was: 97 now: 10Edited str,0 was: 12.5 now: 0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	1	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueAdded Reason for Edit ReshootEdited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

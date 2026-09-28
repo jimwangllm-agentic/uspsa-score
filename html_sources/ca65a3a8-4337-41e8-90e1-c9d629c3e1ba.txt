@@ -1,0 +1,73 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Apr 28 USPSA 2022-04-28Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Aj Jackson	100.00%	397.5117	55.62	94.65%	PCC	A		MINOR	A81745	57	24	2	1				
+2-Ray Fishel 1	92.26%	366.7449	63.36	87.32%	PCC	B	Senior	MINOR	A92443	53	29	2					
+3-Pete Kirchner	84.05%	334.0992	67.35	79.55%	Carry Optics	A		MINOR	TY105743	60	19	4	1		1		
+4-Desmond Jackson	81.08%	322.3153	69.30	76.74%	Carry Optics	B		MINOR	TY89242	50	32	2					
+5-Mark Lutzel	74.12%	294.6365	84.90	70.15%	Carry Optics	C	Senior	MINOR	FY101009	69	15						
+6-James Jackson	72.59%	288.5550	76.95	68.70%	PCC	U		MINOR	A89219	46	32	6					
+7-Blaine Newlin	68.95%	274.0650	75.60	65.25%	Limited 10	B		MINOR	TY103350	47	35	1	1		1		
+8-Charles Bradbury	63.90%	253.9947	87.45	60.47%	Open	D		MINOR	A107489	60	20	3	1		1		
+9-Joseph Reyes	46.09%	183.2143	83.05	43.62%	Limited	C	Super Senior	MINOR	TY127665	45	28	5	6		2		
+10-John Del toro	37.35%	148.4679	123.46	35.35%	Limited	C	Super Senior	MAJOR	A107511	61	17	1	5		4		
+Name
+1-Aj Jackson
+2-Ray Fishel 1
+3-Pete Kirchner
+4-Desmond Jackson
+5-Mark Lutzel
+6-James Jackson
+7-Blaine Newlin
+8-Charles Bradbury
+9-Joseph Reyes
+10-John Del toro
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+El Strong & Weak Prez
+Fishel, Ray (1)
+2022-04-29 00:28:16.792 - 2022-04-29 00:28:57.056Edited a few seconds after.Edited rawpts was: 87 now: 90
+A	B	C	D	NS	M	NPM
+Previous	2	0	5	0	0	1	0
+Current	2	0	6	0	0	0	0
+Added details: [object Object]Added numAlphas: 11Added numCharlies: 11Added numDeltas: 2Added stringTime: 22.8Edited By BCPS KINDLE FIRE #4
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

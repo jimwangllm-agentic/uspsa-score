@@ -1,0 +1,99 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Sep 29 USPSA 2022-09-29Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Ray Fishel	100.00%	267.9003	62.34	89.30%	PCC	B	Senior	MINOR	A92443	47	11	1	1				
+2-Kenedy Nguyen	94.67%	253.6146	69.03	84.54%	Open	C		MAJOR	A83862	32	25	3					
+3-Ronald Gillory jr	93.80%	251.2976	71.92	83.77%	PCC	C		MINOR	TY83291	51	9						
+4-Joseph Reyes	91.17%	244.2513	65.54	81.42%	PCC	B	Super Senior	MINOR	A127665	41	19				1		
+5-Aaron Gillory	80.15%	214.7140	71.68	71.57%	Carry Optics	U	Law Enforcement	MINOR		44	14		2		1		
+6-Don Same	75.98%	203.5599	74.05	67.85%	PCC	U	Super Senior	MINOR		31	28	1					
+7-James jackson	75.65%	202.6794	77.39	67.56%	PCC	U		MINOR	A89219	36	23	1			1		
+8-Desmond Jackson	71.30%	191.0008	68.87	63.67%	Carry Optics	B		MINOR	TY89242	26	32	1	1			1	
+9-Mark Lutzel	67.31%	180.3165	83.00	60.11%	Carry Optics	C	Super Senior	MINOR	FY101009	46	12		2		1		
+10-Blaine Newlin	60.71%	162.6547	80.94	54.22%	Limited 10	B	Foreign	MINOR	A103350	34	19	4	3		1		
+11-Kelly Kennedy	58.11%	155.6689	80.60	51.89%	PCC	U	Senior	MINOR	A138768	43	14	1	2		3	1	
+12-Lauren Christenson	55.08%	147.5660	94.62	49.19%	Carry Optics	U	Lady	MINOR		30	23	5	2				
+13-Hugh Fullerton	44.77%	119.9335	85.34	39.98%	Limited	C		MAJOR	A140572	25	26	2	7		1		
+14-John Del Toro	43.40%	116.2701	113.06	38.76%	Limited 10	C	Super Senior	MINOR	A107511	32	23	2	3				
+15-Jonathan Gutierrez	39.99%	107.1405	76.40	35.71%	Open	C		MINOR	A108668	26	20	5	9		1	1	
+16-Ian Melchior	38.43%	102.9628	73.71	34.32%	Carry Optics	U		MINOR	A144892	21	25	7	7			1	
+17-Matthew Givens 3	37.47%	100.3758	99.46	33.46%	PCC	U		MINOR	ty137686	37	11	1	11		1	1	
+18-Charles Bradbury	28.82%	77.1957	96.33	25.73%	Carry Optics	U		MINOR	A107489	25	19	5	11		1	2	
+19-Lisa Nguyen	24.35%	65.2344	118.18	21.74%	Open	D	Lady	MAJOR	A135827	31	13	4	12		2		
+20-Fulbert DelMundo	10.70%	28.6670	106.26	9.56%	Carry Optics	U		MINOR	TY143383	19	21	5	15		6	8	
+Name
+1-Ray Fishel
+2-Kenedy Nguyen
+3-Ronald Gillory jr
+4-Joseph Reyes
+5-Aaron Gillory
+6-Don Same
+7-James jackson
+8-Desmond Jackson
+9-Mark Lutzel
+10-Blaine Newlin
+11-Kelly Kennedy
+12-Lauren Christenson
+13-Hugh Fullerton
+14-John Del Toro
+15-Jonathan Gutierrez
+16-Ian Melchior
+17-Matthew Givens 3
+18-Charles Bradbury
+19-Lisa Nguyen
+20-Fulbert DelMundo
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 3
+Givens, Matthew (3)
+2022-09-30 01:21:07.294 - 2022-09-30 01:21:47.783Edited a few seconds after.ARRAYEdited str,0 was: 0 now: 6.44
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	2	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	2	0
+Removed Reason for Edit Stage editedAdded rawpts: 24Added aprv: trueAdded details: [object Object]Added numAlphas: 3Added numCharlies: 3Added numM: 6Added stringTime: 15.530000000000001Edited By BCPS KINDLE FIRE #32022-09-30 01:20:35.704 - 2022-09-30 01:21:07.294Edited a few seconds after.Edited meta,0,v was: Reshoot now: Stage editedEdited meta,0,t was: 2022-09-30 01:20:35.710 now: 2022-09-30 01:21:07.293Edited By BCPS KINDLE FIRE #32022-09-30 01:20:35.702 - 2022-09-30 01:20:35.704Edited a few seconds after.Edited str,0 was: 6.44 now: 0Added Reason for Edit ReshootEdited By BCPS KINDLE FIRE #3
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

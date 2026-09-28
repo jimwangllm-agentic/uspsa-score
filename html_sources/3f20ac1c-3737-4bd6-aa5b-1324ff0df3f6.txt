@@ -1,0 +1,107 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+SPCGC Hosts Kidlat Shooters USPSA 07-06-23 USPSA 2023-07-06Spring Pistol Caliber Gun Club
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Chad Folger	100.00%	207.6371	26.89	90.28%	Limited	M		MAJOR	L3031	35	11						
+2-Jay-R delos-Santos	96.24%	199.8271	27.25	86.88%	Open	C	Senior	MAJOR	A70297	32	14						
+3-Fredi Loke	91.19%	189.3477	25.41	82.33%	Open	U	Super Senior	MAJOR	A130588	29	12	4	1				
+4-Phil Truong	89.35%	185.5256	26.12	80.66%	Open	B		MINOR	FY128600	29	15	2					
+5-Jake Mansfied	88.06%	182.8397	23.80	79.50%	Carry Optics	U		MINOR	A101123	34	11		1		2		
+6-Chandler Bassett	87.22%	181.1091	23.25	78.74%	Carry Optics	A		MINOR	Ty112550	27	12	6	1				
+7-Michael Hanover	84.46%	175.3624	27.69	76.24%	Limited Optics	U		MINOR	A146302	27	19						
+8-William Horton	83.06%	172.4540	28.13	74.98%	Open			MINOR	A151263	26	20						
+9-GLENN McKinney	79.73%	165.5467	32.54	71.98%	Limited	C	Super Senior	MAJOR	FY8311	31	14	1					
+10-Gennady Khokhorin	79.60%	165.2741	30.74	71.86%	Production	C	Super Senior	MINOR	A123884	31	15						
+11-Raul Sotelo	74.58%	154.8505	30.81	67.33%	Limited Optics	A		MINOR	ty41489	24	19	3					
+12-Cody Jensen	73.22%	152.0241	34.02	66.10%	Carry Optics	U	Law Enforcement	MINOR		32	14						
+13-Gregory Kam	66.47%	138.0214	28.55	60.01%	Open	U		MINOR	A151972	32	12		2		2		
+14-Ronald Gillory	66.11%	137.2606	41.57	59.68%	PCC	B		MINOR	TY-83291	34	12						
+15-Nic Blades	65.48%	135.9506	40.60	59.11%	Single Stack	C		MINOR	A83339	40	6						
+16-Joseph Yoders	65.42%	135.8316	39.79	59.06%	Carry Optics	U		MINOR		38	7	1					
+17-Rudy Widiaman 1	63.64%	132.1310	36.46	57.45%	Limited Optics	U		MINOR		34	12				2		
+18-Audry Folger	61.34%	127.3543	35.36	55.37%	Limited	C	Lady	MAJOR	A125117	20	17	8	1				
+19-Brandon Hunt	59.76%	124.0744	40.11	53.95%	Carry Optics	U		MINOR	A150701	32	12	2					
+20-Gregg McHenry	57.87%	120.1573	38.19	52.24%	Single Stack	C	Senior	MINOR	TY79973	37	8		1		2		
+21-Brandon Truong	54.28%	112.6969	31.62	49.00%	Limited Optics	X		MINOR	TY111128	20	21	3	2		1		
+22-Virak Meas	53.99%	112.1110	33.16	48.74%	Limited Optics	U		MINOR	As	19	22	4	1		1		
+23-Bobby Lim	46.14%	95.8011	39.42	41.65%	Limited Optics	U		MINOR	A59158	17	27		2		1		
+24-Yul Kwan	43.98%	91.3145	44.26	39.70%	Limited	U	Senior	MINOR	0	25	19		2		1		
+25-Eric Esico	41.54%	86.2604	51.02	37.50%	Single Stack	U		MAJOR	TY150782	30	13	1	2		1		
+26-Wei Zhang	38.92%	80.8223	30.92	35.14%	Carry Optics	C		MINOR	FY140383	18	18	6	4		1		
+27-Jacob Powell	32.36%	67.1972	45.15	29.22%	Limited Optics	U		MINOR		27	13	2	4		3		
+Name
+1-Chad Folger
+2-Jay-R delos-Santos
+3-Fredi Loke
+4-Phil Truong
+5-Jake Mansfied
+6-Chandler Bassett
+7-Michael Hanover
+8-William Horton
+9-GLENN McKinney
+10-Gennady Khokhorin
+11-Raul Sotelo
+12-Cody Jensen
+13-Gregory Kam
+14-Ronald Gillory
+15-Nic Blades
+16-Joseph Yoders
+17-Rudy Widiaman 1
+18-Audry Folger
+19-Brandon Hunt
+20-Gregg McHenry
+21-Brandon Truong
+22-Virak Meas
+23-Bobby Lim
+24-Yul Kwan
+25-Eric Esico
+26-Wei Zhang
+27-Jacob Powell
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+Widiaman, Rudy (1)
+2023-07-06 23:20:42.955 - 2023-07-06 23:21:47.744Edited a minute after.Edited rawpts was: 102 now: 104
+A	B	C	D	NS	M	NPM
+Previous	0	0	2	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 19Added numCharlies: 3Added numNS: 1Added stringTime: 21.52Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

@@ -1,0 +1,282 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday August 18 USPSA 2019-08-18Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Cory Klemashevich 1	100.00%	529.6701	81.06	92.92%	PCC	G		MINOR	A87214	98	15	1					
+2-AJ Jackson 2	90.39%	478.7913	73.39	84.00%	PCC	B		MINOR	A81745	80	23	9	2				
+3-Cory Klemashevich 1	84.98%	450.0894	82.83	78.96%	Limited	G		MINOR	A87214	83	24	6	1				
+4-Kyle Post 1	77.59%	410.9939	89.68	72.10%	Production	U		MINOR		77	29	7	1				
+5-Charles Thomason 2	73.37%	388.6248	97.41	68.18%	PCC	C	Super Senior	MINOR	A10536	92	16	6				4	
+6-Tommy Teas 1	69.64%	368.8511	96.43	64.71%	Single Stack	B	Senior	MAJOR	TY2227	65	36	11	2		1		
+7-Desmond Jackson 2	68.48%	362.7187	110.52	63.63%	Production	B		MINOR	A89242	89	22	3					
+8-Taylor Latham 1	67.88%	359.5428	105.46	63.08%	Single Stack	B	Senior	MAJOR		75	33	4	2		1		
+9-Kelton Casey 3	66.55%	352.4968	97.49	61.84%	Open	A		MAJOR	TY42440	74	29	6	5		1		
+10-Pat Byrne 2	65.15%	345.0988	108.23	60.54%	Limited	B	Super Senior	MAJOR	fy93921	81	23		4				
+11-Josh Rizzo 3	63.23%	334.8840	109.80	58.75%	PCC	X		MINOR		82	28	3			2		
+12-Don Same 2	63.01%	333.7529	111.66	58.55%	PCC	C	Super Senior	MINOR		94	15	2	3				
+13-Blaine Newlin 1	62.71%	332.1384	109.39	58.27%	Production	C		MINOR	TY103350	75	31	8					
+14-Eric Mccampbell 1	61.84%	327.5218	114.95	57.46%	Limited	B	Senior	MAJOR	A14332	80	27	4	3				
+15-Jason Wilson 2	57.81%	306.1856	119.89	53.72%	Revolver	G		MINOR	A94696	89	16	6	3				
+16-Robert Bui 3	56.15%	297.3895	119.23	52.17%	Production	B		MINOR	A103016	83	23	6	2		2		
+17-Bradford Davis Jr 2	51.44%	272.4487	142.09	47.80%	Carry Optics	X		MINOR		96	15	2	1		1		
+18-James Jackson 2	50.45%	267.1958	123.64	46.88%	PCC	U		MINOR		76	28	7	3		1		
+19-Billy Banks 1	50.41%	267.0133	137.23	46.84%	Limited	U		MAJOR	A49856	83	24	3	4		1		
+20-Stephen Pearce 1	50.34%	266.6113	156.66	46.77%	Limited	U	Super Senior	MAJOR		91	18	5					
+21-Mark Lutzel 3	49.06%	259.8768	127.29	45.59%	Limited	C	Senior	MAJOR	TY-101009	64	37	10	3		2		
+22-kevin baker 6	45.56%	241.3183	86.82	42.34%	Production	C		MINOR	A95439	57	25	7	5		3		
+23-Dale Hamm 3	34.18%	181.0219	169.25	31.76%	Limited	D	Senior	MAJOR	Ty97196	59	36	15	4		3		
+24-Josh Johnson 1	28.78%	152.4230	222.37	26.74%	Limited	D		MINOR		77	30	4	3				
+25-Chris Salch 2	27.11%	143.5718	258.52	25.19%	Limited	U		MAJOR		73	35	4	2		2		
+26-jim johnson 1	21.83%	115.6380	272.50	20.29%	Single Stack	U	Super Senior	MAJOR		63	31	12	8				
+Name
+1-Cory Klemashevich 1
+2-AJ Jackson 2
+3-Cory Klemashevich 1
+4-Kyle Post 1
+5-Charles Thomason 2
+6-Tommy Teas 1
+7-Desmond Jackson 2
+8-Taylor Latham 1
+9-Kelton Casey 3
+10-Pat Byrne 2
+11-Josh Rizzo 3
+12-Don Same 2
+13-Blaine Newlin 1
+14-Eric Mccampbell 1
+15-Jason Wilson 2
+16-Robert Bui 3
+17-Bradford Davis Jr 2
+18-James Jackson 2
+19-Billy Banks 1
+20-Stephen Pearce 1
+21-Mark Lutzel 3
+22-kevin baker 6
+23-Dale Hamm 3
+24-Josh Johnson 1
+25-Chris Salch 2
+26-jim johnson 1
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+JP Night Match
+baker, kevin (2)
+2019-08-18 15:57:15.198 - 2019-08-18 18:21:27.152Edited 2 hours after.Removed dnf: trueEdited str,0 was: 0 now: 38.59Edited udid was: 9039fdee-15f6-46b1-ba08-989d249a5895 now: 87043a8e-11f8-4c1b-8351-244b9f4ae71fAdded aprv: trueAdded details: [object Object]Added numAlphas: 20Added stringTime: 38.59Edited By Android Device2019-08-18 14:12:41.223 - 2019-08-18 15:57:15.198Edited 2 hours after.Edited popm was: 1 now: 0Edited poph was: 19 now: 20Edited rawpts was: 95 now: 100Edited str,0 was: 38.59 now: 0Removed aprv: trueEdited udid was: 48ea634e-ab97-4a87-bfa6-6a20d372fd2c now: 9039fdee-15f6-46b1-ba08-989d249a5895Added dnf: trueAdded dnfs: R4cPM8Edited By Android Device
+El Presidente
+Salch, Chris (1)
+2019-08-18 16:19:40.732 - 2019-08-19 15:29:29.361Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 3Added numCharlies: 8Added numDeltas: 1Added stringTime: 14.95Edited By Android Device
+Banks, Billy (1)
+2019-08-18 15:18:32.371 - 2019-08-19 15:29:29.361Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 4Added numCharlies: 5Added numDeltas: 2Added numM: 1Added stringTime: 8.66Edited By Android Device
+Jackson, James (1)
+2019-08-18 15:49:42.890 - 2019-08-19 15:29:29.361Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 7Added numCharlies: 4Added numDeltas: 1Added stringTime: 10.71Edited By Android Device
+Newlin, Blaine (1)
+2019-08-18 15:20:26.210 - 2019-08-19 15:29:29.361Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 4Added numCharlies: 6Added numDeltas: 2Added stringTime: 7.86Edited By Android Device
+Johnson, Josh (1)
+2019-08-18 14:40:40.358 - 2019-08-19 15:29:29.361Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 9Added numCharlies: 3Added stringTime: 25.84Edited By Android Device
+Bui, Robert (1)
+2019-08-18 15:54:40.169 - 2019-08-19 15:29:29.361Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 10Added numCharlies: 1Added numDeltas: 1Added stringTime: 8.71Edited By Android Device
+Klemashevich, Cory (1)
+2019-08-18 14:34:39.176 - 2019-08-19 15:29:29.361Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 7Added numCharlies: 4Added numDeltas: 1Added stringTime: 5.55Edited By Android Device
+Pearce, Stephen (1)
+2019-08-18 16:18:16.589 - 2019-08-19 15:29:29.361Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 10Added numDeltas: 2Added stringTime: 12.3Edited By Android Device
+Teas, Tommy (1)
+2019-08-18 16:21:07.295 - 2019-08-19 15:29:29.361Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 6Added numCharlies: 3Added numDeltas: 3Added stringTime: 6.85Edited By Android Device
+Klemashevich, Cory (1)
+2019-08-18 14:33:17.591 - 2019-08-19 15:29:29.361Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 3Added numCharlies: 7Added numDeltas: 2Added stringTime: 5.47Edited By Android Device
+Lutzel, Mark (1)
+2019-08-18 15:51:31.388 - 2019-08-19 15:29:29.361Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 4Added numCharlies: 5Added numDeltas: 2Added numM: 1Added stringTime: 9.49Edited By Android Device
+Jackson, AJ (1)
+2019-08-18 15:58:08.716 - 2019-08-19 15:29:29.361Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 9Added numCharlies: 3Added stringTime: 5.63Edited By Android Device
+Hamm, Dale (1)
+2019-08-18 16:27:01.102 - 2019-08-19 15:29:29.361Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 6Added numCharlies: 3Added numDeltas: 2Added numM: 1Added stringTime: 11.89Edited By Android Device
+Casey, Kelton (1)
+2019-08-18 15:56:28.148 - 2019-08-19 15:29:29.361Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 7Added numCharlies: 3Added numDeltas: 1Added numM: 1Added stringTime: 6.35Edited By Android Device
+Koerner, Blake (1)
+2019-08-18 15:17:21.760 - 2019-08-19 15:29:29.362Edited a day after.Added Reason for Edit Stage editedEdited By Android Device
+Mccampbell, Eric (1)
+2019-08-18 16:34:00.661 - 2019-08-19 15:29:29.362Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 5Added numCharlies: 3Added numDeltas: 3Added numM: 1Added stringTime: 6.99Edited By Android Device
+Same, Don (1)
+2019-08-18 15:52:46.800 - 2019-08-19 15:29:29.362Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 10Added numCharlies: 2Added stringTime: 9.15Edited By Android Device
+Wilson, Jason (1)
+2019-08-18 15:14:36.011 - 2019-08-19 15:29:29.362Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 7Added numCharlies: 2Added numDeltas: 3Added stringTime: 7.67Edited By Android Device
+Polk, Jeffrey (1)
+2019-08-18 16:18:24.370 - 2019-08-19 15:29:29.362Edited a day after.Added Reason for Edit Stage editedEdited By Android Device
+Davis Jr, Bradford (1)
+2019-08-18 15:22:19.045 - 2019-08-19 15:29:29.362Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 6Added numCharlies: 4Added numDeltas: 2Added stringTime: 10.04Edited By Android Device
+Jackson, Desmond (1)
+2019-08-18 15:59:40.488 - 2019-08-19 15:29:29.362Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 8Added numCharlies: 4Added stringTime: 7.29Edited By Android Device
+Latham, Taylor (1)
+2019-08-18 16:30:31.194 - 2019-08-19 15:29:29.362Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 7Added numCharlies: 4Added numM: 1Added stringTime: 6.57Edited By Android Device
+Bedro, Jerry (1)
+2019-08-18 15:17:14.655 - 2019-08-19 15:29:29.362Edited a day after.Added Reason for Edit Stage editedEdited By Android Device
+Rizzo, Josh (1)
+2019-08-18 15:17:00.790 - 2019-08-19 15:29:29.362Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 9Added numBravos: 1Added numCharlies: 2Added stringTime: 8.95Edited By Android Device
+johnson, jim (1)
+2019-08-18 16:28:39.775 - 2019-08-19 15:29:29.362Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 3Added numCharlies: 8Added numDeltas: 1Added stringTime: 14.9Edited By Android Device
+Thomason, Charles (1)
+2019-08-18 14:37:21.828 - 2019-08-19 15:29:29.363Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 9Added numCharlies: 3Added stringTime: 6.79Edited By Android Device
+Post, Kyle (1)
+2019-08-18 14:39:10.968 - 2019-08-19 15:29:29.363Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 5Added numCharlies: 2Added numDeltas: 4Added numM: 1Added stringTime: 4.58Edited By Android Device
+Byrne, Pat (1)
+2019-08-18 16:25:06.473 - 2019-08-19 15:29:29.363Edited a day after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 6Added numCharlies: 5Added numM: 1Added stringTime: 6.54Edited By Android Device
+baker, kevin (3)
+2019-08-18 18:22:10.808 - 2019-08-19 15:29:29.363Edited 21 hours after.Edited meta,0,v was: Restored from 2019-08-18 09:36 now: Stage editedEdited meta,0,t was: 2019-08-18 18:22:10.808 now: 2019-08-19 15:29:29.363Added details: [object Object]Added numAlphas: 5Added numCharlies: 3Added numDeltas: 3Added numM: 1Added stringTime: 7.5Edited By Android Device2019-08-18 16:18:29.411 - 2019-08-18 18:22:10.808Edited 2 hours after.Removed dnf: trueEdited str,0 was: 0 now: 7.5
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	1	0	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	2	0	0	0
+Edited udid was: 9039fdee-15f6-46b1-ba08-989d249a5895 now: 87043a8e-11f8-4c1b-8351-244b9f4ae71fAdded rawpts: 37Added Reason for Edit Restored from 2019-08-18 09:36Added aprv: trueEdited By Android Device2019-08-18 14:36:09.896 - 2019-08-18 16:18:29.411Edited 2 hours after.Removed rawpts: 37Edited str,0 was: 7.5 now: 0
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	1	0	1	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	2	0	2	0	0	0	0
+Current	0	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	2	0	0	0
+Current	0	0	0	0	0	0	0
+Removed aprv: trueEdited udid was: 48ea634e-ab97-4a87-bfa6-6a20d372fd2c now: 9039fdee-15f6-46b1-ba08-989d249a5895Added dnf: trueAdded dnfs: R4cPM8Edited By Android Device
+No More Bending Over
+Hamm, Dale (2)
+2019-08-18 14:15:29.791 - 2019-08-18 14:16:32.367Edited a minute after.
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	1	0	1	0	1	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 14Added numCharlies: 9Added numDeltas: 1Added numNS: 1Added stringTime: 36.45Edited By Android Device2019-08-18 14:15:05.847 - 2019-08-18 14:15:29.791Edited a few seconds after.Added Reason for Edit Stage editedEdited By Android Device
+Thomason, Charles (1)
+2019-08-18 14:56:18.567 - 2019-08-18 14:56:35.161Edited a few seconds after.Added proc: 4Added details: [object Object]Added numAlphas: 18Added numCharlies: 5Added numDeltas: 1Added numProc: 4Added stringTime: 26.52Edited By Android Device
+Byrne, Pat (1)
+2019-08-18 14:09:25.138 - 2019-08-18 14:15:29.791Edited 6 minutes after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 15Added numBravos: 6Added numCharlies: 3Added stringTime: 20.73Edited By Android Device
+Mills Lane
+Jackson, James (1)
+2019-08-18 14:21:41.344 - 2019-08-18 14:24:53.599Edited 3 minutes after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 7Added numCharlies: 8Added numDeltas: 1Added stringTime: 23.25Edited By Android Device
+Bui, Robert (2)
+2019-08-18 14:24:53.598 - 2019-08-18 14:25:28.430Edited a few seconds after.Removed proc: 1
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	2	0	0	0	1	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 9Added numCharlies: 7Added numNS: 1Added stringTime: 16.95Edited By Android Device2019-08-18 14:12:46.591 - 2019-08-18 14:24:53.598Edited 12 minutes after.Added Reason for Edit Stage editedEdited By Android Device
+Lutzel, Mark (2)
+2019-08-18 14:24:53.598 - 2019-08-18 14:25:44.095Edited a minute after.Removed proc: 1
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	1	0	0	0	1	1	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 3Added numCharlies: 12Added numNS: 1Added numM: 1Added stringTime: 16.05Edited By Android Device2019-08-18 14:22:53.853 - 2019-08-18 14:24:53.598Edited 2 minutes after.Added Reason for Edit Stage editedEdited By Android Device
+Jackson, AJ (1)
+2019-08-18 14:17:01.489 - 2019-08-18 14:24:53.597Edited 8 minutes after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 8Added numCharlies: 6Added numDeltas: 1Added numM: 1Added stringTime: 12.29Edited By Android Device
+Casey, Kelton (1)
+2019-08-18 14:14:47.289 - 2019-08-18 14:24:53.598Edited 10 minutes after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 9Added numCharlies: 6Added numM: 1Added stringTime: 15.52Edited By Android Device
+Same, Don (1)
+2019-08-18 14:24:25.791 - 2019-08-18 14:24:53.599Edited a few seconds after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 12Added numCharlies: 4Added stringTime: 18.27Edited By Android Device
+Jackson, Desmond (1)
+2019-08-18 14:18:37.101 - 2019-08-18 14:24:53.597Edited 6 minutes after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 11Added numCharlies: 4Added numDeltas: 1Added stringTime: 14.69Edited By Android Device
+Get Hosey
+Salch, Chris (1)
+2019-08-18 15:10:03.935 - 2019-08-18 15:10:23.249Edited a few seconds after.Edited rawpts was: 106 now: 105
+A	B	C	D	NS	M	NPM
+Previous	2	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+Added details: [object Object]Added numAlphas: 13Added numCharlies: 10Added numNS: 2Added numM: 1Added stringTime: 41.26Edited By Android Device
+Wilson, Jason (1)
+2019-08-18 14:11:29.957 - 2019-08-18 14:20:07.183Edited 9 minutes after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 17Added numCharlies: 6Added numM: 1Added stringTime: 22.64Edited By Android Device
+Davis Jr, Bradford (1)
+2019-08-18 14:14:48.657 - 2019-08-18 14:20:07.184Edited 5 minutes after.Added Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 21Added numCharlies: 2Added numM: 1Added stringTime: 28Edited By Android Device
+Bedro, Jerry (1)
+2019-08-18 14:15:57.756 - 2019-08-18 14:20:07.183Edited 4 minutes after.Added Reason for Edit Stage editedEdited By Android Device
+Rizzo, Josh (2)
+2019-08-18 14:20:07.183 - 2019-08-18 14:21:09.748Edited a minute after.Edited rawpts was: 100 now: 110
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	2	0	0	0	1	0	0
+A	B	C	D	NS	M	NPM
+Previous	1	0	0	0	0	1	0
+Current	2	0	0	0	1	0	0
+Removed Reason for Edit Stage editedAdded details: [object Object]Added numAlphas: 19Added numCharlies: 5Added numNS: 2Added stringTime: 20.04Edited By Android Device2019-08-18 14:19:48.716 - 2019-08-18 14:20:07.183Edited a few seconds after.Added Reason for Edit Stage editedEdited By Android Device
+baker, kevin (1)
+2019-08-18 15:06:46.474 - 2019-08-18 15:33:47.610Edited 27 minutes after.Removed dnf: trueEdited str,0 was: 0 now: 20.88
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	0	0	1	1	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	1	1	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Edited udid was: 9039fdee-15f6-46b1-ba08-989d249a5895 now: 48ea634e-ab97-4a87-bfa6-6a20d372fd2cAdded rawpts: 95Added aprv: trueAdded details: [object Object]Added numAlphas: 15Added numCharlies: 6Added numDeltas: 2Added numNS: 1Added numM: 1Added stringTime: 20.88Edited By Android Device
+Lets Get Queso
+Casey, Kelton (1)
+2019-08-18 15:19:32.620 - 2019-08-18 15:19:54.372Edited a few seconds after.Edited rawpts was: 84 now: 85
+A	B	C	D	NS	M	NPM
+Previous	1	0	1	0	0	0	0
+Current	2	0	0	0	0	0	0
+Added details: [object Object]Added numAlphas: 9Added numCharlies: 8Added numDeltas: 4Added numNS: 1Added numM: 1Added stringTime: 20.21Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+

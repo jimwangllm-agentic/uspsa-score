@@ -1,0 +1,97 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Brazosland Pistoleros USPSA - Sunday May 9th USPSA 2021-05-09Brazosland Pistoleros
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Cory Klemashevich	100.00%	674.7024	77.09	99.22%	PCC	G		MINOR	A87214	109	24	2	1				
+2-James Leffler	83.37%	562.4706	89.47	82.72%	PCC	A		MINOR	A82157	101	29	5	1				
+3-juliann milks	75.75%	511.0903	96.30	75.16%	PCC	B	Lady	MINOR	a110188	97	28	10	1				
+4-Cory Klemashevich	71.21%	480.4234	98.03	70.65%	Carry Optics	M		MINOR	A87214	96	28	9	3				
+5-William Conlan	71.14%	479.9802	97.02	70.59%	PCC	A		MINOR	A45421	93	30	11	2		1		
+6-gerrit milks	70.99%	478.9501	111.56	70.43%	PCC	A	Super Senior	MINOR	a67608	108	24	4					
+7-Tommy Teas	63.85%	430.7920	119.26	63.35%	PCC	U	Senior	MINOR	FY2227	101	32	2	1				
+8-Matt Hawes	60.16%	405.8947	121.03	59.69%	Carry Optics	D	Lady, Preteen, Junior, Senior, Super Senior, Foreign	MINOR		100	32	2	2		1		
+9-Preston Sidwell	58.85%	397.0565	128.90	58.39%	Carry Optics	U		MINOR	A130485	103	27	5	1				
+10-Danny Dubuisson	56.90%	383.9185	136.25	56.46%	Carry Optics	C	Senior	MINOR		111	18	6	1				
+11-juliann milks	56.84%	383.5192	111.96	56.40%	Carry Optics	U	Lady	MINOR	a110188	91	33	6	6				
+12-Kevin Coats	56.69%	382.5158	109.29	56.25%	Limited	U	Senior	MINOR	FY129638	84	39	7	6		1		
+13-Taylor Latham	54.83%	369.9270	134.29	54.40%	Single Stack	B	Senior	MINOR	TY39841	100	33	1	2				
+14-nick milks 1	53.86%	363.3920	130.88	53.44%	Limited	C		MINOR	a109961	80	46	10					
+15-AJ Jackson	45.27%	305.4553	131.75	44.92%	Open	A		MINOR	A81745	91	23	16	6		1		
+16-Jonathan Backof	40.47%	273.0224	161.13	40.15%	Single Stack	C		MAJOR	A116878	91	29	9	7		1		
+17-Noah Heninger IV	37.67%	254.1901	178.99	37.38%	PCC	X	Senior	MINOR		96	31	4	5		2		
+18-Mickey Gallaway	33.59%	226.6337	199.61	33.33%	Limited	B	Super Senior	MINOR	FY-556	91	34	7	4				
+19-Daniel Claybaugh	31.66%	213.6103	224.12	31.41%	Carry Optics	U		MINOR		96	31	7	2		1		
+20-Saunders Arnold	26.69%	180.0656	205.01	26.48%	Carry Optics	U		MINOR		84	28	14	10				
+21-Cread Dotson	23.44%	158.1443	252.18	23.26%	Production	U		MINOR	A133973	88	29	9	10		2		
+22-Chris Salch	20.17%	136.0708	342.85	20.01%	Limited	U		MAJOR		86	28	12	10				
+23-jim johnson	11.40%	76.8897	505.92	11.31%	Single Stack	U	Super Senior	MAJOR		75	40	12	9			1	
+DQ-Will Toomey	0.00%	0.0000		0.00%	Carry Optics	U	Junior	MINOR	A134068								
+Name
+1-Cory Klemashevich
+2-James Leffler
+3-juliann milks
+4-Cory Klemashevich
+5-William Conlan
+6-gerrit milks
+7-Tommy Teas
+8-Matt Hawes
+9-Preston Sidwell
+10-Danny Dubuisson
+11-juliann milks
+12-Kevin Coats
+13-Taylor Latham
+14-nick milks 1
+15-AJ Jackson
+16-Jonathan Backof
+17-Noah Heninger IV
+18-Mickey Gallaway
+19-Daniel Claybaugh
+20-Saunders Arnold
+21-Cread Dotson
+22-Chris Salch
+23-jim johnson
+DQ-Will Toomey
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 1
+milks, nick (1)
+2021-05-09 15:44:53.298 - 2021-05-09 15:45:10.743Edited a few seconds after.Edited str,0 was: 13.07 now: 15.07Added details: [object Object]Added numAlphas: 22Added numCharlies: 4Added stringTime: 15.07Edited By Android Device
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+
