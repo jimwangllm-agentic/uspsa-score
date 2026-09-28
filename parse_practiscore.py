@@ -1,7 +1,8 @@
-# cd "C:\Users\pcc20\test\uspsa-score"
+# '''
+# cd "C:\Users\pcc20\uspsa-score"
 
-# python parse_practiscore.py "html_sources/1a211aed-8fcd-440b-98aa-a19053327049.txt" -o "parsed/1a211aed-8fcd-440b-98aa-a19053327049.csv"
-
+# python parse_practiscore.py "html_sources/62784cac-8636-4824-ade8-4273f1096b86.txt" -o "parsed/62784cac-8636-4824-ade8-4273f1096b86.csv"
+# '''
 
 from __future__ import annotations
 

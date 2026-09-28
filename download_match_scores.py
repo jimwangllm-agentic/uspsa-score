@@ -1,5 +1,5 @@
 # cd "C:\Users\pcc20\test\uspsa-score"
-# python download_match_scores.py "https://practiscore.com/results/all/b76b98dc-1430-4a56-9a5c-3d73f9f7704f"
+# python download_match_scores.py "https://practiscore.com/results/all/62784cac-8636-4824-ade8-4273f1096b86"
 
 """
 Open a URL in Microsoft Edge and save both:
