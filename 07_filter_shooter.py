@@ -1,5 +1,6 @@
-# cd "C:\Users\pcc20\test\uspsa-score"
-#
+# """
+# # cd "C:\Users\pcc20\uspsa-score"
+
 
 # python 07_filter_shooter.py `
 # --all_match_score_file all_scores.xlsx `
@@ -26,6 +27,18 @@
 # --filtered_stage_score_file john_best_stages.xlsx `
 # --shooter_names "john ren,ren john,ren zheng,zhen ren" `
 # --member_numbers "A168570"
+
+
+# python 07_filter_shooter.py `
+# --all_match_score_file all_scores.xlsx `
+# --all_stage_score_file all_stages.xlsx `
+# --filtered_match_score_file jack_matches.xlsx `
+# --filtered_stage_score_file jack_best_stages.xlsx `
+# --shooter_names "jack liu,liu jack,chengchih liu,chengchih" `
+# --member_numbers "L6156,TY130790,A155638"
+
+# """
+
 
 import argparse
 

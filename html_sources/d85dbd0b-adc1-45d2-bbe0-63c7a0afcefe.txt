@@ -1,0 +1,122 @@
+
+Scores
+Matches
+Events
+Clubs
+Shooters
+Guns
+Support
+Login
+Register
+
+×Practiscore requires a free account for all online match registrations. Click here for more information
+Bayou City USPSA Weekly Aug 18 USPSA 2022-08-18Bayou City - USPSA
+
+Match
+
+Combined
+
+Classes
+
+Categories
+Horizontal Scroll
+A badge like this 32 next a name shows the number of times score was edited. You can find the edits below the results.
+Search:
+Name	%	Pts	Time	% psbl	Div	Class	Cats	PF	Mem #	A	C	D	M	NPM	NS	Proc	Apen
+1-Chad Folger	100.00%	372.6062	61.01	84.68%	Limited	U		MAJOR	L3031	41	37	4	6		1		
+2-Blaine Newlin	96.28%	358.7405	73.33	81.53%	PCC	C	Foreign	MINOR	A103350	46	39	1	2				
+3-AJ Jackson	95.77%	356.8337	73.82	81.10%	Open	B		MINOR	TY81745	45	40	2	1				
+4-Ray Fishel	94.71%	352.9102	75.21	80.21%	PCC	B	Senior	MINOR	A92443	41	42	4	1				
+5-Mark Lutzel	91.97%	342.6759	85.76	77.88%	Carry Optics	C	Senior	MINOR	FY101009	60	27		1				
+6-Hugh Fullerton	90.01%	335.3786	82.41	76.22%	Limited	C		MAJOR	A140572	45	38	3	2		1	1	
+7-Chuck Bradbury	80.52%	300.0273	99.22	68.19%	Open	U		MINOR		61	26		1				
+8-Ronald Gillory jr	77.96%	290.4734	101.90	66.02%	PCC	C		MINOR	TY83291	53	35						
+9-David Hruzek 2	77.27%	287.9003	101.25	65.43%	Carry Optics	U	Senior	MINOR	A-100909	61	24	2	1				
+10-Robert Bui	74.85%	278.8853	69.20	63.38%	Carry Optics	B	Foreign	MINOR	A103016	39	37	6	6			1	
+11-Aaron Gillory	67.90%	252.9834	101.99	57.50%	Carry Optics	U	Law Enforcement	MINOR		45	34	3	6			3	
+12-Desmond Jackson	60.42%	225.1126	83.13	51.16%	Carry Optics	B		MINOR	TY89242	34	40	8	6				
+13-Greg White	60.18%	224.2459	100.01	50.96%	Production	C		MINOR		48	34	1	5				
+14-Audry Folger	47.80%	178.1102	101.66	40.48%	Limited	U		MAJOR	a125117	26	44	8	10				
+15-John Del Toro	44.43%	165.5560	157.57	37.63%	Limited 10	C	Super Senior	MAJOR	A107511	36	41	7	4				
+16-Don Same	43.94%	163.7335	135.46	37.21%	Carry Optics	U	Super Senior	MINOR		40	39	5	4		1		
+17-Nathan Bridges	30.64%	114.1566	103.17	25.94%	Carry Optics	D		MINOR	A139264	19	34	12	23		1	1	
+18-Fulbert DelMundo	23.80%	88.6784	147.62	20.15%	Production	U		MINOR	TY143383	31	32	8	17		1		
+Name
+1-Chad Folger
+2-Blaine Newlin
+3-AJ Jackson
+4-Ray Fishel
+5-Mark Lutzel
+6-Hugh Fullerton
+7-Chuck Bradbury
+8-Ronald Gillory jr
+9-David Hruzek 2
+10-Robert Bui
+11-Aaron Gillory
+12-Desmond Jackson
+13-Greg White
+14-Audry Folger
+15-John Del Toro
+16-Don Same
+17-Nathan Bridges
+18-Fulbert DelMundo
+Old style results
+
+Classifier Report for USPSA 
+
+Score Edit History
+Stage 2
+Hruzek, David (2)
+2022-08-19 01:04:09.018 - 2022-08-19 01:13:13.335Edited 9 minutes after.Edited str,0 was: 0 now: 28.87
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	0	0	2	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	1	0	1	0	0	0	0
+A	B	C	D	NS	M	NPM
+Previous	0	0	0	0	0	0	0
+Current	2	0	0	0	0	0	0
+Removed Reason for Edit ReshootAdded rawpts: 104Added aprv: trueAdded details: [object Object]Added numAlphas: 16Added numCharlies: 8Added stringTime: 28.87Edited By BCPS KINDLE FIRE #32022-08-19 01:04:09.016 - 2022-08-19 01:04:09.018Edited a few seconds after.Edited str,0 was: 21 now: 0Added Reason for Edit ReshootEdited By BCPS KINDLE FIRE #3
+Search links
+Scores
+Matches
+Events
+Clubs
+Shooters
+Misc links
+Sponsors
+Support Us
+Site Updates
+Other projects
+Support
+  
+Practiscore © All right Reserved.
+
